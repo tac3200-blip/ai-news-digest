@@ -1,102 +1,111 @@
 {
-  "updated_at": "2026-09-18 23:23",
+  "updated_at": "2026-09-18 23:24",
   "total_count": 9,
   "articles": [
     {
+      "id": "1ed9c6f30f60",
       "original_title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
       "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
       "summary": [
         "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現..."
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
       "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
       "published": "2026-09-18 16:52"
     },
     {
+      "id": "db7f74e17f0a",
       "original_title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
       "title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
       "summary": [
         "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。..."
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
       "link": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
       "published": "2026-09-18 16:46"
     },
     {
+      "id": "2696a85f7bbc",
       "original_title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
       "title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
       "summary": [
         "社内のさまざまなシステムに散在するデータを、AIで横断的に検索、分析できるようにするにはどうすればいいのか。AWSが航空業界を題材に、約29万ファイルを使ったレファレンス実装を公開した。..."
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news025.html",
       "published": "2026-09-18 11:00"
     },
     {
+      "id": "f89590e77531",
       "original_title": "Researchers used Anthropic’s Claude to hack into OpenAI",
       "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
       "summary": [
         "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking ..."
       ],
-      "category": "ニュース",
+      "category": "3大AI情報",
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
       "published": "2026-09-18 14:00"
     },
     {
+      "id": "8c61680ed71c",
       "original_title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
       "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
       "summary": [
         "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of ..."
       ],
-      "category": "ニュース",
+      "category": "3大AI情報",
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
       "published": "2026-09-18 14:00"
     },
     {
+      "id": "4d000b182655",
       "original_title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "summary": [
         "The round values the data center giant at $30.9 billion...."
       ],
-      "category": "ニュース",
+      "category": "3大AI情報",
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "published": "2026-09-17 23:25"
     },
     {
+      "id": "dce1d432ce10",
       "original_title": "言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」",
       "title": "言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」",
       "summary": [
         "AIネイティブなデザインツールを開発しているFormasが、言葉による指示やスケッチなどの資料を基にAIで3Dモデルを作成できるツール「Cartesian」を発表しました。 続きを読む......"
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "GIGAZINE AI",
       "link": "https://gigazine.net/news/20260918-cartesian-formas-ai-3d-model/",
       "published": "2026-09-18 21:00"
     },
     {
+      "id": "d0a963bf389a",
       "original_title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
       "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
       "summary": [
         "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクC..."
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "GIGAZINE AI",
       "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
       "published": "2026-09-18 20:30"
     },
     {
+      "id": "caf896d9402f",
       "original_title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
       "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
       "summary": [
         "国連システムは2026年9月17日、国連機関が公開している統計データをまとめて検索・利用できる「UN System Data Commons」を公開しました。26の国連機関が参加しており、公開時点で約..."
       ],
-      "category": "ニュース",
+      "category": "国内主要AI情報",
       "source_name": "GIGAZINE AI",
       "link": "https://gigazine.net/news/20260918-un-system-data-commons/",
       "published": "2026-09-18 20:15"
