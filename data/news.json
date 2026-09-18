@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-18 23:39",
+  "updated_at": "2026-09-19 08:20",
   "total_count": 19,
   "articles": [
     {
       "id": "02e5f01efb31",
       "original_title": "How Cooley is accelerating IPO work with ChatGPT",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "title": "Cooley は ChatGPT を使用して IPO 作業をどのように加速しているか",
       "summary": [
-        "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers s..."
+        "Cooley は ChatGPT Work を使用して GO Public を構築し、IPO プロセスにインテリジェンスをもたらし、弁護士が問題を早期に表面化し、最も重要な部分に判断を集中できるように支援しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -18,9 +18,9 @@
     {
       "id": "7781a19e69ef",
       "original_title": "Introducing Astra for Law",
-      "title": "Introducing Astra for Law",
+      "title": "アストラ・フォー・ローの紹介",
       "summary": [
-        "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sou..."
+        "OpenAI for Law は、法律に関する最前線のインテリジェンス、カスタム企業ワークフロー、接続された法的データ ソース、およびクライアントの機密業務に対する法的グレードの管理をもたらします"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -31,9 +31,9 @@
     {
       "id": "b3f2300b55e3",
       "original_title": "Helping older adults use AI in everyday life",
-      "title": "Helping older adults use AI in everyday life",
+      "title": "高齢者の日常生活での AI 活用を支援する",
       "summary": [
-        "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. c..."
+        "OpenAI と AARP は、実践的な AI スキルを安全に構築するために、米国 10 都市の高齢者 1,000 人に無料の実践的な ChatGPT ワークショップを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -44,9 +44,9 @@
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
-      "title": "New experts join Google’s AI & Economy team",
+      "title": "GoogleのAI＆経済チームに新しい専門家が加わる",
       "summary": [
-        "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core interna..."
+        "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "40e1943caaf7",
       "original_title": "Co-creating the future of fashion with Google",
-      "title": "Co-creating the future of fashion with Google",
+      "title": "Google とファッションの未来を共同創造する",
       "summary": [
-        "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow t..."
+        "Google は、デザイナーのジェーン・ウェイド氏とセルジオ・ハドソン氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,9 +70,9 @@
     {
       "id": "95165a1a2353",
       "original_title": "Making global data easier to explore",
-      "title": "Making global data easier to explore",
+      "title": "グローバル データの探索を容易にする",
       "summary": [
-        "Google and the UN system have launched the UN System Data Commons, a new open platform making global..."
+        "Google と国連システムは、世界の統計にアクセスし、簡単に検索できるようにする新しいオープン プラットフォームである UN System Data Commons を立ち上げました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,102 +81,125 @@
       "published": "2026-09-17 20:00"
     },
     {
-      "id": "7c9a2ef36593",
-      "original_title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-      "title": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+      "id": "c187c166058e",
+      "original_title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "title": "Amazon SageMaker Inference: 2026 年累計のリリースをレビュー",
       "summary": [
-        "Eliminate GPU waste. Reduce first-token latency by up to 82%. Install one Kubernetes-native addon wi..."
+        "生成 AI 推論は独特の難しさがあります",
+        "モデルは数十から数百ギガバイト、レイテンシー要件は 1 秒あたりのトークンで測定され、コールド スタートはコンテナーとウェイトの転送に数分かかる場合があり、GPU の容量には制限があり、トラフィックは"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
-      "published": "2026-09-18 13:08"
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+      "published": "2026-09-18 20:52"
     },
     {
-      "id": "1a245a3acf1d",
-      "original_title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+      "id": "890c3f8fcf3b",
+      "original_title": "Introducing Kimi K3 on Amazon Bedrock",
+      "title": "Amazon Bedrock での Kim K3 の紹介",
       "summary": [
-        "Hiring at scale in industries such as retail, logistics, hospitality, and others has its fair share ..."
+        "オープンウェイト モデルは、大規模な AI の構築と導入の経済性を変えています",
+        "インテリジェンスと効率性が急速に向上するということは、企業が各ワークロードを機能、速度、コストの適切なバランスで調整できることを意味します",
+        "AWS は未来に向けて構築しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-      "published": "2026-09-17 17:55"
-    },
-    {
-      "id": "2fbf5559d24d",
-      "original_title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "title": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "summary": [
-        "When building a Retrieval Augmented Generation (RAG) solution with Amazon Bedrock Knowledge Bases , ..."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
-      "published": "2026-09-17 15:53"
-    },
-    {
-      "id": "1ed9c6f30f60",
-      "original_title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-      "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-      "summary": [
-        "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
       "published": "2026-09-18 16:52"
     },
     {
-      "id": "db7f74e17f0a",
-      "original_title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
-      "title": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
+      "id": "28fe6d6789be",
+      "original_title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
+      "title": "マルチモデル AI エージェントを Amazon Bedrock AgentCore ランタイムに移行する",
       "summary": [
-        "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。..."
+        "マルチモデルのエージェント AI アプリケーションを構築している組織は、インフラストラクチャの複雑さの増大に直面しています",
+        "コンテナ オーケストレーション、スケーリング ポリシー、ID、および複数のモデル タイプの可観測性を管理すると、運用オーバーヘッドが追加されます",
+        "チームは多くの場合、数か月を費やします"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+      "published": "2026-09-18 15:38"
+    },
+    {
+      "id": "8bf6f38370b8",
+      "original_title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
+      "title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
+      "summary": [
+        "業務規定や商品知識など、金融機関には日々参照する情報が多い",
+        "必要な情報を探したり、詳しい職員に確認したりする時間も課題となる",
+        "ココペリは、こうした情報検索を生成AIで支援する「SAF」を豊川信用金庫に導入した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
-      "published": "2026-09-18 16:46"
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
+      "published": "2026-09-19 07:00"
     },
     {
-      "id": "052ae009729e",
-      "original_title": "ガチくんに! 第432回切り抜き「桜える子レジェンドに/おじリーグ 石井プロ出禁/SFL大波乱」",
-      "title": "ガチくんに! 第432回切り抜き「桜える子レジェンドに/おじリーグ 石井プロ出禁/SFL大波乱」",
+      "id": "90c90590168d",
+      "original_title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
+      "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
       "summary": [
-        "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村..."
+        "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
+      "published": "2026-09-19 07:00"
+    },
+    {
+      "id": "df659196e3fe",
+      "original_title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
+      "title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
+      "summary": [
+        "9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2142381.html",
-      "published": "2026-09-18 19:57"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142097.html",
+      "published": "2026-09-19 06:30"
     },
     {
-      "id": "5d70cd9dc4f1",
-      "original_title": "「LM Studio Bionic」、AIが忘れた指示を思い出す新機能",
-      "title": "「LM Studio Bionic」、AIが忘れた指示を思い出す新機能",
+      "id": "4ec1d6c774b6",
+      "original_title": "ベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由 ～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る[Sponsored]",
+      "title": "ベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由 ～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る[Sponsored]",
       "summary": [
-        "大規模なタスクでAIが過去のチャット内容を忘れてしまうのを防げる機能「Introspection」が、ローカルAIエージェントアプリ「LM Studio Bionic」に追加された。Element L..."
+        "東京ゲームショウ2026で多数展示されているゲーミングモニターの中でもベンキュージャパンの製品そして展示が異彩を放っている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2142310.html",
-      "published": "2026-09-18 18:45"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142082.html",
+      "published": "2026-09-19 06:30"
+    },
+    {
+      "id": "560b6e6a94b4",
+      "original_title": "職場のトイレで死亡したプログラマーがPCの電源を入れていなかったため労災と認められず",
+      "title": "職場のトイレで死亡したプログラマーがPCの電源を入れていなかったため労災と認められず",
+      "summary": [
+        "中国・深センの会社で死亡した男性が、出勤後PCの電源を付けないままトイレに行っていたことを理由に、労災認定を受けられなかったことが分かりました",
+        "男性の妻が再申請を行っています",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260919-dead-china-programmer-not-work-related/",
+      "published": "2026-09-19 08:00"
     },
     {
       "id": "dce1d432ce10",
       "original_title": "言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」",
       "title": "言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」",
       "summary": [
-        "AIネイティブなデザインツールを開発しているFormasが、言葉による指示やスケッチなどの資料を基にAIで3Dモデルを作成できるツール「Cartesian」を発表しました。 続きを読む......"
+        "AIネイティブなデザインツールを開発しているFormasが、言葉による指示やスケッチなどの資料を基にAIで3Dモデルを作成できるツール「Cartesian」を発表しました",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
@@ -185,69 +208,61 @@
       "published": "2026-09-18 21:00"
     },
     {
-      "id": "d0a963bf389a",
-      "original_title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
-      "title": "AI標準化団体設立をめぐりザッカーバーグ＆マスク＆フアンがトランプ大統領とともに反対の方針で同調",
+      "id": "68a6d49a0b0a",
+      "original_title": "参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOC",
+      "title": "参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOC",
       "summary": [
-        "Google DeepMindのデミス・ハサビスCEOが提唱した最先端AIを規制するための独立した標準化団体の設立について、Metaのマーク・ザッカーバーグCEOやSpaceXAIのイーロン・マスクC..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260918-trump-ai-regulation/",
-      "published": "2026-09-18 20:30"
-    },
-    {
-      "id": "d126aa5e5e48",
-      "original_title": "AI Jev とは？「文章を書くAI」ではなく「すばやく答えを選ぶAI」を小学生にもわかるように説明する",
-      "title": "AI Jev とは？「文章を書くAI」ではなく「すばやく答えを選ぶAI」を小学生にもわかるように説明する",
-      "summary": [
-        "「AI Jev（ジェヴ）」という名前を見て、ChatGPTのように会話する新しいAIだと思いました。ところがJevは、長い文章を書く役よりも、ソフトウェアの中で決まった形の判断を返す役に向いたモデルで..."
+        "参考URLの取得がツール権限で許可されませんでした",
+        "「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOCKING REQUIREMENTS: 固有名詞を勝手に想像しない）",
+        "次のいずれかで進めたいのですが、どちらがよい..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/softbase/items/398f3d14a86b9acb55ae",
-      "published": "2026-09-18 23:31"
+      "link": "https://qiita.com/syun136_616/items/3f7f0ce2b0240367c1d3",
+      "published": "2026-09-19 08:09"
     },
     {
-      "id": "20b5baf24389",
-      "original_title": "Claude Code の公式プラグイン 4 本を入れて、その日に 2 本外した——検査器の採算表（捕まえたもの／払ったもの）",
-      "title": "Claude Code の公式プラグイン 4 本を入れて、その日に 2 本外した——検査器の採算表（捕まえたもの／払ったもの）",
+      "id": "479154f47c59",
+      "original_title": "Claude Codeの並列化で便利さとリスクを同時に掴む話！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-19）",
+      "title": "Claude Codeの並列化で便利さとリスクを同時に掴む話！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-19）",
       "summary": [
-        "Claude Code の公式マーケットプレイスから、この作業場に合いそうなプラグインを 4 本入れました。pyright-lsp・typescript-lsp・security-guidance（v..."
+        "Anthropic の Claude / Claude Code 関連ニュースをまとめた索引だ",
+        "記事本文は日本語で PaPoo に投稿している",
+        "ここでは各記事の要点を紹介するので、詳細は各リンク先を読んでほしい"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sumitsuke/items/67c7ea172584a90f72dc",
-      "published": "2026-09-18 22:20"
+      "link": "https://qiita.com/homhom44/items/0f78b1f4d0bf07227cfa",
+      "published": "2026-09-19 08:04"
     },
     {
-      "id": "f89590e77531",
-      "original_title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "id": "4ec2667ed04f",
+      "original_title": "Anthropic is operating a lab that conducts biology experiments",
+      "title": "Anthropic は生物学の実験を行う研究室を運営しています",
       "summary": [
-        "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking ..."
+        "AI のリーダーたちは、AI が人間の病気を治す鍵であると約束してきました",
+        "人類研究者らも、AIが人類を滅ぼす可能性があると警告している"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "published": "2026-09-18 14:00"
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "published": "2026-09-18 23:13"
     },
     {
-      "id": "8c61680ed71c",
-      "original_title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "id": "cae8322822ad",
+      "original_title": "AI Hallucination Nearly Triggers US Military Operation",
+      "title": "AI幻覚が米軍作戦をほぼ誘発",
       "summary": [
-        "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of ..."
+        "「軍人にとってLLMに固有の不確実性を理解することが重要です」とGovAIの研究者は警告する"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "published": "2026-09-18 14:00"
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "published": "2026-09-18 23:12"
     }
   ]
 }
