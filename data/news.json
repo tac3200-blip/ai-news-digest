@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 22:58",
+  "updated_at": "2026-09-18 23:23",
   "total_count": 9,
   "articles": [
     {
@@ -36,6 +36,28 @@
       "published": "2026-09-18 11:00"
     },
     {
+      "original_title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": [
+        "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking ..."
+      ],
+      "category": "ニュース",
+      "source_name": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "published": "2026-09-18 14:00"
+    },
+    {
+      "original_title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "summary": [
+        "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of ..."
+      ],
+      "category": "ニュース",
+      "source_name": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-18 14:00"
+    },
+    {
       "original_title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "summary": [
@@ -45,28 +67,6 @@
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "published": "2026-09-17 23:25"
-    },
-    {
-      "original_title": "Google DeepMind launches institute to widen the AGI debate",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": [
-        "The new institute aims to surface differing views between Google, Google DeepMind, and the broader g..."
-      ],
-      "category": "ニュース",
-      "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "published": "2026-09-17 23:21"
-    },
-    {
-      "original_title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": [
-        "If AI lab PrismML isn't on your radar yet, it should be...."
-      ],
-      "category": "ニュース",
-      "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "published": "2026-09-17 22:34"
     },
     {
       "original_title": "言葉による指示やスケッチで建物や家具を自由自在に3D化できるAI搭載3Dモデリングツール「Cartesian」",
