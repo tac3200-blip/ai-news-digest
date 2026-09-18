@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 23:31",
+  "updated_at": "2026-09-18 23:35",
   "total_count": 19,
   "articles": [
     {
@@ -198,6 +198,19 @@
       "published": "2026-09-18 20:30"
     },
     {
+      "id": "d126aa5e5e48",
+      "original_title": "AI Jev とは？「文章を書くAI」ではなく「すばやく答えを選ぶAI」を小学生にもわかるように説明する",
+      "title": "AI Jev とは？「文章を書くAI」ではなく「すばやく答えを選ぶAI」を小学生にもわかるように説明する",
+      "summary": [
+        "「AI Jev（ジェヴ）」という名前を見て、ChatGPTのように会話する新しいAIだと思いました。ところがJevは、長い文章を書く役よりも、ソフトウェアの中で決まった形の判断を返す役に向いたモデルで..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "Qiita AIトレンド",
+      "link": "https://qiita.com/softbase/items/398f3d14a86b9acb55ae",
+      "published": "2026-09-18 23:31"
+    },
+    {
       "id": "20b5baf24389",
       "original_title": "Claude Code の公式プラグイン 4 本を入れて、その日に 2 本外した——検査器の採算表（捕まえたもの／払ったもの）",
       "title": "Claude Code の公式プラグイン 4 本を入れて、その日に 2 本外した——検査器の採算表（捕まえたもの／払ったもの）",
@@ -209,19 +222,6 @@
       "source_name": "Qiita AIトレンド",
       "link": "https://qiita.com/sumitsuke/items/67c7ea172584a90f72dc",
       "published": "2026-09-18 22:20"
-    },
-    {
-      "id": "d43897a93894",
-      "original_title": "AI駆動開発はモックから始める――機能一覧を選んで画面から仕様を固める方法",
-      "title": "AI駆動開発はモックから始める――機能一覧を選んで画面から仕様を固める方法",
-      "summary": [
-        "作りたいシステムのイメージはあっても、最初から仕様書を書ける人は多くありません。 特に開発経験がない人へ「必要な機能をすべて挙げてください」「入力項目と権限を決めてください」と依頼しても、完成した画面..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/radarworks/items/504cdee9f967df6f7075",
-      "published": "2026-09-18 21:38"
     },
     {
       "id": "f89590e77531",
