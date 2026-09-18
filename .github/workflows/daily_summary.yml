@@ -1,0 +1,43 @@
+name: Daily AI News Summarizer
+
+on:
+  schedule:
+    # 毎日 日本時間 7:00 (UTC 22:00) に自動実行
+    - cron: '0 22 * * *'
+  # GitHub上の「Run workflow」ボタンで手動実行可能
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリのチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python環境のセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 依存ライブラリのインストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: ニュース取得とGemini要約の実行
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python fetch_and_summarize.py
+
+      - name: 生成されたニュースデータのコミットとプッシュ
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/news.json
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update AI news digest [skip ci]" && git push)

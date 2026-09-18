@@ -1,0 +1,32 @@
+[
+  {
+    "name": "PIVOT (YouTube)",
+    "category": "ビジネス・AI",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC55C_F8iH32h59_548O-8A"
+  },
+  {
+    "name": "PIVOT (note)",
+    "category": "ビジネス・AI",
+    "url": "https://note.com/pivot_inc/rss"
+  },
+  {
+    "name": "ITmedia AI+",
+    "category": "国内AIニュース",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+  },
+  {
+    "name": "TechCrunch AI",
+    "category": "海外AIニュース",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+    "name": "The Verge AI",
+    "category": "海外AIニュース",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+  },
+  {
+    "name": "GIGAZINE AI",
+    "category": "一般・トレンド",
+    "url": "https://gigazine.net/news/rss_2.0/"
+  }
+]

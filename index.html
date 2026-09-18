@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Daily Digest | 毎日更新 AIニュース要約</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0b0f19 0%, #111827 50%, #0f172a 100%);
+      --card-bg: rgba(30, 41, 59, 0.7);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --card-hover-border: rgba(99, 102, 241, 0.4);
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --accent-purple: #818cf8;
+      --accent-cyan: #38bdf8;
+      --accent-pink: #f472b6;
+      --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.36);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg-gradient);
+      background-attachment: fixed;
+      color: var(--text-primary);
+      min-height: 100vh;
+      padding-bottom: 40px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      background: rgba(11, 15, 25, 0.85);
+      border-bottom: 1px solid var(--card-border);
+      padding: 16px 20px;
+    }
+
+    .header-content {
+      max-width: 680px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-icon {
+      width: 34px;
+      height: 34px;
+      background: linear-gradient(135deg, #6366f1, #a855f7);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 18px;
+      color: white;
+      box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);
+    }
+
+    .brand-title {
+      font-weight: 800;
+      font-size: 1.15rem;
+      letter-spacing: -0.02em;
+      background: linear-gradient(90deg, #ffffff, #cbd5e1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .update-badge {
+      font-size: 0.75rem;
+      color: var(--accent-cyan);
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.2);
+      padding: 4px 10px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .update-badge::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      background-color: #38bdf8;
+      border-radius: 50%;
+      display: inline-block;
+      box-shadow: 0 0 8px #38bdf8;
+    }
+
+    .container {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 20px 16px;
+    }
+
+    /* カテゴリフィルタ */
+    .filter-scroll {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 12px;
+      margin-bottom: 16px;
+      scrollbar-width: none;
+    }
+    .filter-scroll::-webkit-scrollbar {
+      display: none;
+    }
+
+    .filter-btn {
+      background: rgba(30, 41, 59, 0.6);
+      border: 1px solid var(--card-border);
+      color: var(--text-secondary);
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn.active, .filter-btn:hover {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.3), rgba(168, 85, 247, 0.3));
+      border-color: var(--accent-purple);
+      color: white;
+    }
+
+    /* ニュースリスト */
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .news-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 18px 20px;
+      box-shadow: var(--glass-shadow);
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      animation: fadeIn 0.4s ease forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .news-card:active {
+      transform: scale(0.99);
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .category-tag {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .cat-llm { background: rgba(99, 102, 241, 0.2); color: #a5b4fc; border: 1px solid rgba(99, 102, 241, 0.3); }
+    .cat-business { background: rgba(244, 114, 182, 0.2); color: #f472b6; border: 1px solid rgba(244, 114, 182, 0.3); }
+    .cat-tech { background: rgba(56, 189, 248, 0.2); color: #7dd3fc; border: 1px solid rgba(56, 189, 248, 0.3); }
+    .cat-default { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.3); }
+
+    .source-name {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .news-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 12px;
+      color: #f1f5f9;
+    }
+
+    .summary-list {
+      list-style: none;
+      margin-bottom: 14px;
+      background: rgba(15, 23, 42, 0.4);
+      padding: 12px 14px;
+      border-radius: 10px;
+      border-left: 3px solid var(--accent-purple);
+    }
+
+    .summary-item {
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: #cbd5e1;
+      position: relative;
+      padding-left: 14px;
+      margin-bottom: 6px;
+    }
+
+    .summary-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .summary-item::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: var(--accent-cyan);
+      font-weight: bold;
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 6px;
+    }
+
+    .pub-date {
+      font-size: 0.75rem;
+      color: #64748b;
+    }
+
+    .read-more {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--accent-cyan);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .read-more:hover {
+      color: #7dd3fc;
+      text-decoration: underline;
+    }
+
+    /* 空状態・読み込み中 */
+    .loading-state, .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-secondary);
+    }
+
+    .spinner {
+      width: 32px;
+      height: 32px;
+      border: 3px solid rgba(255, 255, 255, 0.1);
+      border-top-color: var(--accent-purple);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+      <div class="brand">
+        <div class="brand-icon">AI</div>
+        <div class="brand-title">AI Daily Digest</div>
+      </div>
+      <div class="update-badge" id="update-time">取得中...</div>
+    </div>
+  </header>
+
+  <div class="container">
+    <!-- カテゴリフィルター -->
+    <div class="filter-scroll" id="category-filters">
+      <button class="filter-btn active" onclick="filterCategory('all')">すべて</button>
+      <button class="filter-btn" onclick="filterCategory('ビジネス・AI')">PIVOT / ビジネス</button>
+      <button class="filter-btn" onclick="filterCategory('国内AIニュース')">国内ニュース</button>
+      <button class="filter-btn" onclick="filterCategory('海外AIニュース')">海外ニュース</button>
+    </div>
+
+    <!-- 記事一覧 -->
+    <div class="news-list" id="news-container">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>最新ニュースを読み込み中...</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allArticles = [];
+
+    async function loadNews() {
+      const container = document.getElementById('news-container');
+      const updateTime = document.getElementById('update-time');
+
+      try {
+        const response = await fetch('data/news.json?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('データが見つかりません');
+        
+        const data = await response.json();
+        allArticles = data.articles || [];
+        updateTime.textContent = data.updated_at ? `${data.updated_at} 更新` : '更新完了';
+
+        renderArticles(allArticles);
+      } catch (error) {
+        console.error('Error:', error);
+        container.innerHTML = `
+          <div class="empty-state">
+            <p style="margin-bottom: 8px; font-weight: bold; color: #f87171;">データを読み込めませんでした</p>
+            <p style="font-size: 0.85rem;">自動更新ジョブの完了をお待ちください。</p>
+          </div>
+        `;
+        updateTime.textContent = '未更新';
+      }
+    }
+
+    function renderArticles(articles) {
+      const container = document.getElementById('news-container');
+      if (!articles || articles.length === 0) {
+        container.innerHTML = '<div class="empty-state"><p>表示できる記事がありません。</p></div>';
+        return;
+      }
+
+      container.innerHTML = articles.map(art => {
+        const categoryClass = getCategoryClass(art.category);
+        const summaries = Array.isArray(art.summary) ? art.summary : [art.summary];
+        
+        return `
+          <div class="news-card">
+            <div class="card-meta">
+              <span class="category-tag ${categoryClass}">${escapeHtml(art.category || 'AI')}</span>
+              <span class="source-name">📡 ${escapeHtml(art.source_name || 'WEB')}</span>
+            </div>
+            <h2 class="news-title">${escapeHtml(art.title)}</h2>
+            <ul class="summary-list">
+              ${summaries.map(s => `<li class="summary-item">${escapeHtml(s)}</li>`).join('')}
+            </ul>
+            <div class="card-footer">
+              <span class="pub-date">📅 ${escapeHtml(art.published || '')}</span>
+              <a href="${escapeHtml(art.link)}" target="_blank" rel="noopener noreferrer" class="read-more">元記事を読む ↗</a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function filterCategory(cat) {
+      document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+
+      if (cat === 'all') {
+        renderArticles(allArticles);
+      } else {
+        const filtered = allArticles.filter(a => a.category === cat || (a.source_name && a.source_name.includes(cat.split('/')[0])));
+        renderArticles(filtered);
+      }
+    }
+
+    function getCategoryClass(cat) {
+      if (!cat) return 'cat-default';
+      if (cat.includes('LLM') || cat.includes('生成')) return 'cat-llm';
+      if (cat.includes('ビジネス') || cat.includes('PIVOT')) return 'cat-business';
+      if (cat.includes('研究') || cat.includes('ツール')) return 'cat-tech';
+      return 'cat-default';
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/[&<>"']/g, function(m) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[m];
+      });
+    }
+
+    // 初期読み込み
+    loadNews();
+  </script>
+</body>
+</html>
