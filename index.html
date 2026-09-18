@@ -11,6 +11,7 @@
     :root {
       --bg-gradient: linear-gradient(135deg, #0b0f19 0%, #111827 50%, #0f172a 100%);
       --card-bg: rgba(30, 41, 59, 0.7);
+      --card-read-bg: rgba(15, 23, 42, 0.5);
       --card-border: rgba(255, 255, 255, 0.08);
       --card-hover-border: rgba(99, 102, 241, 0.4);
       --text-primary: #f8fafc;
@@ -33,7 +34,7 @@
       background-attachment: fixed;
       color: var(--text-primary);
       min-height: 100vh;
-      padding-bottom: 40px;
+      padding-bottom: 50px;
       -webkit-font-smoothing: antialiased;
     }
 
@@ -45,7 +46,7 @@
       -webkit-backdrop-filter: blur(16px);
       background: rgba(11, 15, 25, 0.85);
       border-bottom: 1px solid var(--card-border);
-      padding: 16px 20px;
+      padding: 14px 16px;
     }
 
     .header-content {
@@ -71,14 +72,14 @@
       align-items: center;
       justify-content: center;
       font-weight: 800;
-      font-size: 18px;
+      font-size: 16px;
       color: white;
       box-shadow: 0 0 15px rgba(99, 102, 241, 0.5);
     }
 
     .brand-title {
       font-weight: 800;
-      font-size: 1.15rem;
+      font-size: 1.1rem;
       letter-spacing: -0.02em;
       background: linear-gradient(90deg, #ffffff, #cbd5e1);
       -webkit-background-clip: text;
@@ -110,15 +111,15 @@
     .container {
       max-width: 680px;
       margin: 0 auto;
-      padding: 20px 16px;
+      padding: 16px 14px;
     }
 
-    /* カテゴリフィルタ */
+    /* カテゴリタブナビゲーション */
     .filter-scroll {
       display: flex;
       gap: 8px;
       overflow-x: auto;
-      padding-bottom: 12px;
+      padding-bottom: 10px;
       margin-bottom: 16px;
       scrollbar-width: none;
     }
@@ -130,26 +131,37 @@
       background: rgba(30, 41, 59, 0.6);
       border: 1px solid var(--card-border);
       color: var(--text-secondary);
-      padding: 8px 16px;
+      padding: 8px 14px;
       border-radius: 20px;
-      font-size: 0.85rem;
-      font-weight: 500;
+      font-size: 0.83rem;
+      font-weight: 600;
       white-space: nowrap;
       cursor: pointer;
       transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
-    .filter-btn.active, .filter-btn:hover {
-      background: linear-gradient(135deg, rgba(99, 102, 241, 0.3), rgba(168, 85, 247, 0.3));
+    .filter-btn.active {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.4), rgba(168, 85, 247, 0.4));
       border-color: var(--accent-purple);
       color: white;
+      box-shadow: 0 0 12px rgba(99, 102, 241, 0.3);
     }
 
-    /* ニュースリスト */
+    .count-pill {
+      font-size: 0.7rem;
+      background: rgba(255, 255, 255, 0.15);
+      padding: 2px 7px;
+      border-radius: 10px;
+    }
+
+    /* ニュースカード */
     .news-list {
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      gap: 14px;
     }
 
     .news-card {
@@ -158,41 +170,60 @@
       -webkit-backdrop-filter: blur(12px);
       border: 1px solid var(--card-border);
       border-radius: 16px;
-      padding: 18px 20px;
+      padding: 16px 18px;
       box-shadow: var(--glass-shadow);
-      transition: transform 0.2s ease, border-color 0.2s ease;
-      animation: fadeIn 0.4s ease forwards;
+      transition: all 0.25s ease;
+      position: relative;
     }
 
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
+    /* 既読状態のスタイル */
+    .news-card.is-read {
+      background: var(--card-read-bg);
+      opacity: 0.6;
+      border-color: rgba(255, 255, 255, 0.04);
     }
-
-    .news-card:active {
-      transform: scale(0.99);
+    .news-card.is-read:hover {
+      opacity: 0.9;
     }
 
     .card-meta {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
+    }
+
+    .meta-left {
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
     .category-tag {
       font-size: 0.72rem;
       font-weight: 700;
-      padding: 3px 10px;
+      padding: 3px 9px;
       border-radius: 6px;
-      text-transform: uppercase;
-      letter-spacing: 0.03em;
+      letter-spacing: 0.02em;
     }
 
-    .cat-llm { background: rgba(99, 102, 241, 0.2); color: #a5b4fc; border: 1px solid rgba(99, 102, 241, 0.3); }
-    .cat-business { background: rgba(244, 114, 182, 0.2); color: #f472b6; border: 1px solid rgba(244, 114, 182, 0.3); }
-    .cat-tech { background: rgba(56, 189, 248, 0.2); color: #7dd3fc; border: 1px solid rgba(56, 189, 248, 0.3); }
-    .cat-default { background: rgba(148, 163, 184, 0.2); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.3); }
+    .cat-3dai { background: rgba(168, 85, 247, 0.25); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.4); }
+    .cat-kokunai { background: rgba(56, 189, 248, 0.25); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.4); }
+    .cat-default { background: rgba(99, 102, 241, 0.25); color: #a5b4fc; border: 1px solid rgba(99, 102, 241, 0.4); }
+
+    .read-badge {
+      display: none;
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: #10b981;
+      background: rgba(16, 185, 129, 0.15);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      padding: 2px 8px;
+      border-radius: 6px;
+    }
+    .news-card.is-read .read-badge {
+      display: inline-block;
+    }
 
     .source-name {
       font-size: 0.78rem;
@@ -201,29 +232,34 @@
     }
 
     .news-title {
-      font-size: 1.05rem;
+      font-size: 1.02rem;
       font-weight: 700;
       line-height: 1.45;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
       color: #f1f5f9;
+      cursor: pointer;
+    }
+
+    .news-card.is-read .news-title {
+      color: #94a3b8;
     }
 
     .summary-list {
       list-style: none;
-      margin-bottom: 14px;
-      background: rgba(15, 23, 42, 0.4);
-      padding: 12px 14px;
+      margin-bottom: 12px;
+      background: rgba(15, 23, 42, 0.45);
+      padding: 10px 12px;
       border-radius: 10px;
       border-left: 3px solid var(--accent-purple);
     }
 
     .summary-item {
-      font-size: 0.88rem;
-      line-height: 1.6;
+      font-size: 0.86rem;
+      line-height: 1.55;
       color: #cbd5e1;
       position: relative;
       padding-left: 14px;
-      margin-bottom: 6px;
+      margin-bottom: 5px;
     }
 
     .summary-item:last-child {
@@ -242,12 +278,30 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding-top: 6px;
+      padding-top: 4px;
     }
 
     .pub-date {
       font-size: 0.75rem;
       color: #64748b;
+    }
+
+    .action-group {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .toggle-read-btn {
+      background: transparent;
+      border: none;
+      color: #64748b;
+      font-size: 0.75rem;
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    .toggle-read-btn:hover {
+      color: var(--text-secondary);
     }
 
     .read-more {
@@ -258,19 +312,20 @@
       font-weight: 600;
       color: var(--accent-cyan);
       text-decoration: none;
-      transition: color 0.2s;
     }
 
     .read-more:hover {
-      color: #7dd3fc;
       text-decoration: underline;
     }
 
-    /* 空状態・読み込み中 */
-    .loading-state, .empty-state {
+    /* 空状態 */
+    .empty-state {
       text-align: center;
       padding: 60px 20px;
       color: var(--text-secondary);
+      background: rgba(30, 41, 59, 0.4);
+      border-radius: 16px;
+      border: 1px dashed var(--card-border);
     }
 
     .spinner {
@@ -303,15 +358,23 @@
   <div class="container">
     <!-- カテゴリフィルター -->
     <div class="filter-scroll" id="category-filters">
-      <button class="filter-btn active" onclick="filterCategory('all')">すべて</button>
-      <button class="filter-btn" onclick="filterCategory('ビジネス・AI')">PIVOT / ビジネス</button>
-      <button class="filter-btn" onclick="filterCategory('国内AIニュース')">国内ニュース</button>
-      <button class="filter-btn" onclick="filterCategory('海外AIニュース')">海外ニュース</button>
+      <button class="filter-btn active" onclick="filterCategory('all', this)">
+        すべて <span class="count-pill" id="count-all">0</span>
+      </button>
+      <button class="filter-btn" onclick="filterCategory('国内主要AI情報', this)">
+        🇯🇵 国内主要AI情報 <span class="count-pill" id="count-kokunai">0</span>
+      </button>
+      <button class="filter-btn" onclick="filterCategory('3大AI情報', this)">
+        🌍 3大AI情報 <span class="count-pill" id="count-3dai">0</span>
+      </button>
+      <button class="filter-btn" onclick="filterCategory('read', this)">
+        ✔ 既読済み <span class="count-pill" id="count-read">0</span>
+      </button>
     </div>
 
     <!-- 記事一覧 -->
     <div class="news-list" id="news-container">
-      <div class="loading-state">
+      <div class="empty-state">
         <div class="spinner"></div>
         <p>最新ニュースを読み込み中...</p>
       </div>
@@ -320,6 +383,8 @@
 
   <script>
     let allArticles = [];
+    let readArticleIds = new Set(JSON.parse(localStorage.getItem('read_articles') || '[]'));
+    let currentFilter = 'all';
 
     async function loadNews() {
       const container = document.getElementById('news-container');
@@ -333,66 +398,132 @@
         allArticles = data.articles || [];
         updateTime.textContent = data.updated_at ? `${data.updated_at} 更新` : '更新完了';
 
-        renderArticles(allArticles);
+        updateCounts();
+        renderArticles();
       } catch (error) {
         console.error('Error:', error);
         container.innerHTML = `
           <div class="empty-state">
             <p style="margin-bottom: 8px; font-weight: bold; color: #f87171;">データを読み込めませんでした</p>
-            <p style="font-size: 0.85rem;">自動更新ジョブの完了をお待ちください。</p>
+            <p style="font-size: 0.85rem;">自動要約更新ジョブの完了をお待ちください。</p>
           </div>
         `;
         updateTime.textContent = '未更新';
       }
     }
 
-    function renderArticles(articles) {
+    function updateCounts() {
+      document.getElementById('count-all').textContent = allArticles.length;
+      
+      const kokunaiCount = allArticles.filter(a => isKokunai(a)).length;
+      document.getElementById('count-kokunai').textContent = kokunaiCount;
+
+      const sangdaiCount = allArticles.filter(a => is3Dai(a)).length;
+      document.getElementById('count-3dai').textContent = sangdaiCount;
+
+      const readCount = allArticles.filter(a => readArticleIds.has(a.id || a.link)).length;
+      document.getElementById('count-read').textContent = readCount;
+    }
+
+    function isKokunai(art) {
+      const cat = art.category || '';
+      const src = art.source_name || '';
+      return cat.includes('国内') || src.includes('ITmedia') || src.includes('PIVOT') || src.includes('GIGAZINE');
+    }
+
+    function is3Dai(art) {
+      const cat = art.category || '';
+      const src = art.source_name || '';
+      return cat.includes('3大') || src.includes('TechCrunch') || src.includes('Verge');
+    }
+
+    function renderArticles() {
       const container = document.getElementById('news-container');
-      if (!articles || articles.length === 0) {
-        container.innerHTML = '<div class="empty-state"><p>表示できる記事がありません。</p></div>';
+      
+      let filtered = allArticles;
+
+      if (currentFilter === '国内主要AI情報') {
+        filtered = allArticles.filter(a => isKokunai(a));
+      } else if (currentFilter === '3大AI情報') {
+        filtered = allArticles.filter(a => is3Dai(a));
+      } else if (currentFilter === 'read') {
+        filtered = allArticles.filter(a => readArticleIds.has(a.id || a.link));
+      }
+
+      if (!filtered || filtered.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <p>該当する記事はありません。</p>
+          </div>
+        `;
         return;
       }
 
-      container.innerHTML = articles.map(art => {
-        const categoryClass = getCategoryClass(art.category);
+      container.innerHTML = filtered.map(art => {
+        const artId = art.id || art.link;
+        const isRead = readArticleIds.has(artId);
+        const categoryClass = getCategoryClass(art);
         const summaries = Array.isArray(art.summary) ? art.summary : [art.summary];
         
         return `
-          <div class="news-card">
+          <div class="news-card ${isRead ? 'is-read' : ''}" id="card-${artId}">
             <div class="card-meta">
-              <span class="category-tag ${categoryClass}">${escapeHtml(art.category || 'AI')}</span>
+              <div class="meta-left">
+                <span class="category-tag ${categoryClass}">${escapeHtml(art.category || 'AIニュース')}</span>
+                <span class="read-badge">✓ 既読</span>
+              </div>
               <span class="source-name">📡 ${escapeHtml(art.source_name || 'WEB')}</span>
             </div>
-            <h2 class="news-title">${escapeHtml(art.title)}</h2>
+            <h2 class="news-title" onclick="toggleReadStatus('${artId}')">${escapeHtml(art.title)}</h2>
             <ul class="summary-list">
               ${summaries.map(s => `<li class="summary-item">${escapeHtml(s)}</li>`).join('')}
             </ul>
             <div class="card-footer">
               <span class="pub-date">📅 ${escapeHtml(art.published || '')}</span>
-              <a href="${escapeHtml(art.link)}" target="_blank" rel="noopener noreferrer" class="read-more">元記事を読む ↗</a>
+              <div class="action-group">
+                <button class="toggle-read-btn" onclick="toggleReadStatus('${artId}')">
+                  ${isRead ? '未読に戻す' : '既読にする'}
+                </button>
+                <a href="${escapeHtml(art.link)}" target="_blank" rel="noopener noreferrer" class="read-more" onclick="markAsRead('${artId}')">
+                  元記事を読む ↗
+                </a>
+              </div>
             </div>
           </div>
         `;
       }).join('');
     }
 
-    function filterCategory(cat) {
+    function filterCategory(cat, btnElement) {
+      currentFilter = cat;
       document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-      event.target.classList.add('active');
+      if (btnElement) btnElement.classList.add('active');
 
-      if (cat === 'all') {
-        renderArticles(allArticles);
-      } else {
-        const filtered = allArticles.filter(a => a.category === cat || (a.source_name && a.source_name.includes(cat.split('/')[0])));
-        renderArticles(filtered);
-      }
+      renderArticles();
     }
 
-    function getCategoryClass(cat) {
-      if (!cat) return 'cat-default';
-      if (cat.includes('LLM') || cat.includes('生成')) return 'cat-llm';
-      if (cat.includes('ビジネス') || cat.includes('PIVOT')) return 'cat-business';
-      if (cat.includes('研究') || cat.includes('ツール')) return 'cat-tech';
+    function markAsRead(id) {
+      readArticleIds.add(id);
+      localStorage.setItem('read_articles', JSON.stringify(Array.from(readArticleIds)));
+      updateCounts();
+      const card = document.getElementById(`card-${id}`);
+      if (card) card.classList.add('is-read');
+    }
+
+    function toggleReadStatus(id) {
+      if (readArticleIds.has(id)) {
+        readArticleIds.delete(id);
+      } else {
+        readArticleIds.add(id);
+      }
+      localStorage.setItem('read_articles', JSON.stringify(Array.from(readArticleIds)));
+      updateCounts();
+      renderArticles();
+    }
+
+    function getCategoryClass(art) {
+      if (is3Dai(art)) return 'cat-3dai';
+      if (isKokunai(art)) return 'cat-kokunai';
       return 'cat-default';
     }
 
@@ -403,7 +534,6 @@
       });
     }
 
-    // 初期読み込み
     loadNews();
   </script>
 </body>
