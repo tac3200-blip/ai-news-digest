@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 08:20",
+  "updated_at": "2026-09-19 08:54",
   "total_count": 19,
   "articles": [
     {
@@ -20,7 +20,7 @@
       "original_title": "Introducing Astra for Law",
       "title": "アストラ・フォー・ローの紹介",
       "summary": [
-        "OpenAI for Law は、法律に関する最前線のインテリジェンス、カスタム企業ワークフロー、接続された法的データ ソース、およびクライアントの機密業務に対する法的グレードの管理をもたらします"
+        "OpenAI for Law は、法律に関する最前線のインテリジェンス、カスタム企業ワークフロー、接続された法的データ ソース、およびクライアントの機密作業に対する法的グレードの管理をもたらします"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -44,9 +44,9 @@
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
-      "title": "GoogleのAI＆経済チームに新しい専門家が加わる",
+      "title": "新しい専門家が Google の AI & 経済チームに加わる",
       "summary": [
-        "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
+        "私たちは、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -59,7 +59,7 @@
       "original_title": "Co-creating the future of fashion with Google",
       "title": "Google とファッションの未来を共同創造する",
       "summary": [
-        "Google は、デザイナーのジェーン・ウェイド氏とセルジオ・ハドソン氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
+        "Google は、デザイナーの Jane Wade 氏と Sergio Hudson 氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -125,6 +125,21 @@
       "published": "2026-09-18 15:38"
     },
     {
+      "id": "09446b6b9df9",
+      "original_title": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
+      "title": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
+      "summary": [
+        "出展2000社超の過半数が中国勢、そして長年メイン会場の“顔”だったサムスン電子の電撃的な撤退──",
+        "欧州最大の家電見本市「IFA」の会場には、中国勢の巨大ブースと50モデルものヒューマノイドなど地殻変動の熱気が渦巻いていた",
+        "主役の交代と「脱・家電」シフトが加速する中、IFA運営トップのライフ・リントナーCEOを現地ベルリンで単独直撃"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html",
+      "published": "2026-09-19 08:00"
+    },
+    {
       "id": "8bf6f38370b8",
       "original_title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
       "title": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
@@ -137,19 +152,6 @@
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
       "link": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/",
-      "published": "2026-09-19 07:00"
-    },
-    {
-      "id": "90c90590168d",
-      "original_title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
-      "title": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
-      "summary": [
-        "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/",
       "published": "2026-09-19 07:00"
     },
     {
@@ -208,6 +210,21 @@
       "published": "2026-09-18 21:00"
     },
     {
+      "id": "75e436727b9d",
+      "original_title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け",
+      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け",
+      "summary": [
+        "はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました",
+        "JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです",
+        "TypeSafe AIはこの種類のモデルをSystem..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "Qiita AIトレンド",
+      "link": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
+      "published": "2026-09-19 08:38"
+    },
+    {
       "id": "68a6d49a0b0a",
       "original_title": "参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOC",
       "title": "参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOC",
@@ -223,19 +240,17 @@
       "published": "2026-09-19 08:09"
     },
     {
-      "id": "479154f47c59",
-      "original_title": "Claude Codeの並列化で便利さとリスクを同時に掴む話！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-19）",
-      "title": "Claude Codeの並列化で便利さとリスクを同時に掴む話！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-19）",
+      "id": "a91289f60875",
+      "original_title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "他のスタートアップを構築するスタートアップが 1 億ドルを調達し、物理 AI に全力を注ぐ",
       "summary": [
-        "Anthropic の Claude / Claude Code 関連ニュースをまとめた索引だ",
-        "記事本文は日本語で PaPoo に投稿している",
-        "ここでは各記事の要点を紹介するので、詳細は各リンク先を読んでほしい"
+        "UP.Labs は現在 Vantora という名前で事業を行っており、産業企業向けのスタートアップを構築しています"
       ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/homhom44/items/0f78b1f4d0bf07227cfa",
-      "published": "2026-09-19 08:04"
+      "group": "overseas",
+      "category": "海外・3大AI情報",
+      "source_name": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "published": "2026-09-18 23:25"
     },
     {
       "id": "4ec2667ed04f",
@@ -250,19 +265,6 @@
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
       "published": "2026-09-18 23:13"
-    },
-    {
-      "id": "cae8322822ad",
-      "original_title": "AI Hallucination Nearly Triggers US Military Operation",
-      "title": "AI幻覚が米軍作戦をほぼ誘発",
-      "summary": [
-        "「軍人にとってLLMに固有の不確実性を理解することが重要です」とGovAIの研究者は警告する"
-      ],
-      "group": "overseas",
-      "category": "海外・3大AI情報",
-      "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "published": "2026-09-18 23:12"
     }
   ]
 }
