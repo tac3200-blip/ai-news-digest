@@ -176,10 +176,9 @@
       position: relative;
     }
 
-    /* 既読状態のスタイル */
     .news-card.is-read {
       background: var(--card-read-bg);
-      opacity: 0.6;
+      opacity: 0.55;
       border-color: rgba(255, 255, 255, 0.04);
     }
     .news-card.is-read:hover {
@@ -207,9 +206,9 @@
       letter-spacing: 0.02em;
     }
 
-    .cat-3dai { background: rgba(168, 85, 247, 0.25); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.4); }
-    .cat-kokunai { background: rgba(56, 189, 248, 0.25); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.4); }
-    .cat-default { background: rgba(99, 102, 241, 0.25); color: #a5b4fc; border: 1px solid rgba(99, 102, 241, 0.4); }
+    .cat-official { background: rgba(244, 114, 182, 0.25); color: #f472b6; border: 1px solid rgba(244, 114, 182, 0.4); }
+    .cat-japan { background: rgba(56, 189, 248, 0.25); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.4); }
+    .cat-overseas { background: rgba(168, 85, 247, 0.25); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.4); }
 
     .read-badge {
       display: none;
@@ -318,7 +317,6 @@
       text-decoration: underline;
     }
 
-    /* 空状態 */
     .empty-state {
       text-align: center;
       padding: 60px 20px;
@@ -356,16 +354,19 @@
   </header>
 
   <div class="container">
-    <!-- カテゴリフィルター -->
-    <div class="filter-scroll" id="category-filters">
+    <!-- カテゴリタブ -->
+    <div class="filter-scroll">
       <button class="filter-btn active" onclick="filterCategory('all', this)">
         すべて <span class="count-pill" id="count-all">0</span>
       </button>
-      <button class="filter-btn" onclick="filterCategory('国内主要AI情報', this)">
-        🇯🇵 国内主要AI情報 <span class="count-pill" id="count-kokunai">0</span>
+      <button class="filter-btn" onclick="filterCategory('official', this)">
+        🤖 AI各社公式 <span class="count-pill" id="count-official">0</span>
       </button>
-      <button class="filter-btn" onclick="filterCategory('3大AI情報', this)">
-        🌍 3大AI情報 <span class="count-pill" id="count-3dai">0</span>
+      <button class="filter-btn" onclick="filterCategory('japan', this)">
+        🇯🇵 国内主要AI情報 <span class="count-pill" id="count-japan">0</span>
+      </button>
+      <button class="filter-btn" onclick="filterCategory('overseas', this)">
+        🌍 海外・3大AI情報 <span class="count-pill" id="count-overseas">0</span>
       </button>
       <button class="filter-btn" onclick="filterCategory('read', this)">
         ✔ 既読済み <span class="count-pill" id="count-read">0</span>
@@ -384,7 +385,7 @@
   <script>
     let allArticles = [];
     let readArticleIds = new Set(JSON.parse(localStorage.getItem('read_articles') || '[]'));
-    let currentFilter = 'all';
+    let currentGroup = 'all';
 
     async function loadNews() {
       const container = document.getElementById('news-container');
@@ -414,27 +415,10 @@
 
     function updateCounts() {
       document.getElementById('count-all').textContent = allArticles.length;
-      
-      const kokunaiCount = allArticles.filter(a => isKokunai(a)).length;
-      document.getElementById('count-kokunai').textContent = kokunaiCount;
-
-      const sangdaiCount = allArticles.filter(a => is3Dai(a)).length;
-      document.getElementById('count-3dai').textContent = sangdaiCount;
-
-      const readCount = allArticles.filter(a => readArticleIds.has(a.id || a.link)).length;
-      document.getElementById('count-read').textContent = readCount;
-    }
-
-    function isKokunai(art) {
-      const cat = art.category || '';
-      const src = art.source_name || '';
-      return cat.includes('国内') || src.includes('ITmedia') || src.includes('PIVOT') || src.includes('GIGAZINE');
-    }
-
-    function is3Dai(art) {
-      const cat = art.category || '';
-      const src = art.source_name || '';
-      return cat.includes('3大') || src.includes('TechCrunch') || src.includes('Verge');
+      document.getElementById('count-official').textContent = allArticles.filter(a => a.group === 'official').length;
+      document.getElementById('count-japan').textContent = allArticles.filter(a => a.group === 'japan').length;
+      document.getElementById('count-overseas').textContent = allArticles.filter(a => a.group === 'overseas').length;
+      document.getElementById('count-read').textContent = allArticles.filter(a => readArticleIds.has(a.id || a.link)).length;
     }
 
     function renderArticles() {
@@ -442,12 +426,10 @@
       
       let filtered = allArticles;
 
-      if (currentFilter === '国内主要AI情報') {
-        filtered = allArticles.filter(a => isKokunai(a));
-      } else if (currentFilter === '3大AI情報') {
-        filtered = allArticles.filter(a => is3Dai(a));
-      } else if (currentFilter === 'read') {
+      if (currentGroup === 'read') {
         filtered = allArticles.filter(a => readArticleIds.has(a.id || a.link));
+      } else if (currentGroup !== 'all') {
+        filtered = allArticles.filter(a => a.group === currentGroup);
       }
 
       if (!filtered || filtered.length === 0) {
@@ -462,7 +444,7 @@
       container.innerHTML = filtered.map(art => {
         const artId = art.id || art.link;
         const isRead = readArticleIds.has(artId);
-        const categoryClass = getCategoryClass(art);
+        const categoryClass = getCategoryClass(art.group);
         const summaries = Array.isArray(art.summary) ? art.summary : [art.summary];
         
         return `
@@ -494,8 +476,8 @@
       }).join('');
     }
 
-    function filterCategory(cat, btnElement) {
-      currentFilter = cat;
+    function filterCategory(group, btnElement) {
+      currentGroup = group;
       document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
       if (btnElement) btnElement.classList.add('active');
 
@@ -521,10 +503,11 @@
       renderArticles();
     }
 
-    function getCategoryClass(art) {
-      if (is3Dai(art)) return 'cat-3dai';
-      if (isKokunai(art)) return 'cat-kokunai';
-      return 'cat-default';
+    function getCategoryClass(group) {
+      if (group === 'official') return 'cat-official';
+      if (group === 'japan') return 'cat-japan';
+      if (group === 'overseas') return 'cat-overseas';
+      return 'cat-japan';
     }
 
     function escapeHtml(str) {

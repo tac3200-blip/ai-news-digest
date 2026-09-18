@@ -1,32 +1,86 @@
 [
   {
+    "name": "OpenAI (公式)",
+    "group": "official",
+    "category": "AI各社公式",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "name": "Google AI (公式)",
+    "group": "official",
+    "category": "AI各社公式",
+    "url": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "name": "Microsoft AI (公式)",
+    "group": "official",
+    "category": "AI各社公式",
+    "url": "https://blogs.microsoft.com/ai/feed/"
+  },
+  {
+    "name": "AWS AI (公式)",
+    "group": "official",
+    "category": "AI各社公式",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/"
+  },
+  {
     "name": "PIVOT (YouTube)",
-    "category": "ビジネス・AI",
+    "group": "japan",
+    "category": "国内主要AI情報",
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC55C_F8iH32h59_548O-8A"
   },
   {
     "name": "PIVOT (note)",
-    "category": "ビジネス・AI",
+    "group": "japan",
+    "category": "国内主要AI情報",
     "url": "https://note.com/pivot_inc/rss"
   },
   {
     "name": "ITmedia AI+",
-    "category": "国内AIニュース",
+    "group": "japan",
+    "category": "国内主要AI情報",
     "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
   },
   {
+    "name": "PC Watch (AI)",
+    "group": "japan",
+    "category": "国内主要AI情報",
+    "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf"
+  },
+  {
+    "name": "GIGAZINE",
+    "group": "japan",
+    "category": "国内主要AI情報",
+    "url": "https://gigazine.net/news/rss_2.0/"
+  },
+  {
+    "name": "Qiita AIトレンド",
+    "group": "japan",
+    "category": "国内主要AI情報",
+    "url": "https://qiita.com/tags/ai/feed.atom"
+  },
+  {
+    "name": "PR TIMES (AI)",
+    "group": "japan",
+    "category": "国内主要AI情報",
+    "url": "https://prtimes.jp/main/html/searchrlp/rss_pr/keyword/AI"
+  },
+  {
     "name": "TechCrunch AI",
-    "category": "海外AIニュース",
+    "group": "overseas",
+    "category": "海外・3大AI情報",
     "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
   },
   {
     "name": "The Verge AI",
-    "category": "海外AIニュース",
+    "group": "overseas",
+    "category": "海外・3大AI情報",
     "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
   },
   {
-    "name": "GIGAZINE AI",
-    "category": "一般・トレンド",
-    "url": "https://gigazine.net/news/rss_2.0/"
+    "name": "VentureBeat AI",
+    "group": "overseas",
+    "category": "海外・3大AI情報",
+    "url": "https://venturebeat.com/category/ai/feed/"
   }
 ]
