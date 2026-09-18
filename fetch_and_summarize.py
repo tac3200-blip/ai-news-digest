@@ -29,7 +29,7 @@ def generate_id(link, title):
     return hashlib.md5(f"{link}_{title}".encode('utf-8')).hexdigest()[:12]
 
 def summarize_article(client, title, content, source_name, default_category):
-    """Gemini APIを使用して記事を日本語で要約する"""
+    """Gemini APIを使用して英語記事を完全な日本語に翻訳・要約する"""
     clean_text = clean_html(content)[:1500]
 
     if not client:
@@ -39,20 +39,24 @@ def summarize_article(client, title, content, source_name, default_category):
             "category": default_category
         }
 
-    prompt = f"""あなたはプロのAI・ITニュース編集者です。
-以下の記事（ニュースソース: {source_name}）を読み、スマホでサクッと読めるように要約してください。
+    prompt = f"""あなたは日本の一流IT・AI技術メディアのプロ編集長です。
+以下のニュース記事（ニュースソース: {source_name}）を読み、日本の読者が通勤中にスマホで一目で理解できるように、必ず【完全な日本語】に翻訳・要約してください。
 
-タイトル: {title}
-本文: {clean_text}
+元のタイトル: {title}
+本文テキスト: {clean_text}
 
-【ルール】
-1. **日本語タイトル**: 英語タイトルの場合は、日本の読者が惹かれる自然でわかりやすい日本語タイトルに翻訳してください。元々日本語の場合は分かりやすくリライトしてください。
-2. **要約文**: 記事の要点を箇条書きで2〜3行（1行30文字程度）でまとめてください。
+【必須翻訳・要約ルール】
+1. **日本語タイトル**: タイトルが英語の場合は、意味がすぐに伝わる自然で魅力的な日本語タイトルに必ず翻訳してください。英語のままでの出力は絶対に禁止です。
+2. **分かりやすい日本語要約**: 記事の要点を、中学生でも理解できる平易でわかりやすい日本語で2〜3行（箇条書き）でまとめてください。専門用語は噛み砕いて説明してください。英語の単語が混ざる場合は適切な日本語に訳してください。
 
 出力フォーマット（JSON形式のみ出力）:
 {{
-  "japanese_title": "日本語のタイトル",
-  "summary": ["要点1", "要点2", "要点3"]
+  "japanese_title": "完全な日本語に翻訳されたタイトル",
+  "summary": [
+    "日本語要点1",
+    "日本語要点2",
+    "日本語要点3"
+  ]
 }}
 """
 
@@ -107,7 +111,6 @@ def fetch_all_news():
         print(f"取得中: {name} ({url})")
         feed = feedparser.parse(url)
         
-        # 各ソースから最新2件（公式や主要ソースは3件）を取得
         limit = 3 if group == "official" else 2
         
         for entry in feed.entries[:limit]:
