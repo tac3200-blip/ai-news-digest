@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 08:55",
+  "updated_at": "2026-09-21 08:52",
   "total_count": 19,
   "articles": [
     {
@@ -125,141 +125,143 @@
       "published": "2026-09-18 15:38"
     },
     {
-      "id": "1d9934b174cf",
-      "original_title": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
-      "title": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+      "id": "7c63bae1074c",
+      "original_title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
+      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
       "summary": [
-        "生成AIを導入しても、現場で使いこなせなければ業務改善にはつながらない",
-        "中小企業ではAI人材の不足や研修、費用が壁となる中、専門人材を常時抱えるのではなく、「必要な時だけ活用する」という選択肢を提供するベンダーがある"
+        "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ",
+        "そうすると、相手の株価が翌日に2倍になる」と語った",
+        "GPUを巡る巨額マネーの行方は"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
-      "published": "2026-09-20 07:00"
+      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
+      "published": "2026-09-21 08:00"
     },
     {
-      "id": "a2e837921b1a",
-      "original_title": "AIを入れても仕事は変わらない？　アビームとNotionが「企業ナレッジ」に注目する理由",
-      "title": "AIを入れても仕事は変わらない？　アビームとNotionが「企業ナレッジ」に注目する理由",
+      "id": "fa2a6b6f9905",
+      "original_title": "「社長の頭の中」をAIに　経営と現場をつなぐ専用AIとは？",
+      "title": "「社長の頭の中」をAIに　経営と現場をつなぐ専用AIとは？",
       "summary": [
-        "AIエージェントの導入が進む一方、企業固有の業務を任せるには、社内に分散する知識や個人の経験則をAIが使える形に整える必要がある",
-        "アビームとNotionは、ナレッジを起点に業務と組織を変える"
+        "ベテラン社員の退職で、会社に蓄積された経験やノウハウが失われる",
+        "そんな中小企業の「知識の属人化」に向き合い、社長の経験や現場の知恵を蓄積する専用AIが登場した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
-      "published": "2026-09-20 07:00"
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001651/",
+      "published": "2026-09-21 07:00"
     },
     {
-      "id": "317ee9dd1dcd",
-      "original_title": "【福田昭のセミコン業界最前線】DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
-      "title": "【福田昭のセミコン業界最前線】DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
+      "id": "c3affbb94848",
+      "original_title": "【やじうまミニレビュー】旧iPhone 5Wアダプタとほぼ同サイズ。UGREEN 45W充電器が鬼ちっちゃい",
+      "title": "【やじうまミニレビュー】旧iPhone 5Wアダプタとほぼ同サイズ。UGREEN 45W充電器が鬼ちっちゃい",
       "summary": [
         ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
-      "published": "2026-09-19 12:25"
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142475.html",
+      "published": "2026-09-21 06:30"
     },
     {
-      "id": "df659196e3fe",
-      "original_title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
-      "title": "【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]",
+      "id": "a58efc09a32f",
+      "original_title": "【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "title": "【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
       "summary": [
-        "9月17日から21日まで幕張メッセで開催中の東京ゲームショウ2026にて、東プレのゲーミングキーボード「REALFORCE GX1 Plus Keyboard Pikachu Edition(ピカチュウエディション)」が発表された"
+        ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142097.html",
-      "published": "2026-09-19 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
+      "published": "2026-09-21 06:06"
     },
     {
-      "id": "9c12f747800b",
-      "original_title": "警察官が監視カメラを使って元交際相手のナンバープレートを1万回以上検索したとして告発される",
-      "title": "警察官が監視カメラを使って元交際相手のナンバープレートを1万回以上検索したとして告発される",
+      "id": "4886205b573a",
+      "original_title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
+      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
       "summary": [
-        "アメリカの警察官が、警察向けに提供されているナンバープレート追跡機能を悪用して元交際相手を追跡していたことが分かりました",
-        "この警察官は逮捕されました",
+        "外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました",
+        "ワークアウトや睡眠測定を行っています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260920-lufkin-officer-accused-search-license-plate/",
-      "published": "2026-09-20 08:00"
+      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
+      "published": "2026-09-21 08:00"
     },
     {
-      "id": "da4fa2980eb0",
-      "original_title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
-      "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+      "id": "43735635518c",
+      "original_title": "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される",
+      "title": "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される",
       "summary": [
-        "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります",
-        "しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました",
-        "一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入"
+        "通説では「宇宙は膨張を続けており、その勢いは増している」と考えられてきましたが、インドのタタ基礎研究所とイギリスのオックスフォード大学の研究チームが1700件以上の超新星の観測データを収録したカタログを使い、宇宙の「加速膨張」を裏付ける証拠が得られるかを検証した結果、「膨張は加速していない」可能性があることが明らかになりました",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
-      "published": "2026-09-19 20:00"
+      "link": "https://gigazine.net/news/20260920-supernova-cosmic-acceleration-questioned/",
+      "published": "2026-09-20 23:10"
     },
     {
-      "id": "357d4060162b",
-      "original_title": "【2026年9月最新】Claude Code・Copilot・Cursor・Windsurf・Codeium実装比較｜セットアップコードとベンチマークで選ぶAIコーディングツール",
-      "title": "【2026年9月最新】Claude Code・Copilot・Cursor・Windsurf・Codeium実装比較｜セットアップコードとベンチマークで選ぶAIコーディングツール",
+      "id": "6f811ad7987d",
+      "original_title": "Claude Code の --worktree(-w)で複数タスクを並列実行する実装手順 — .env と node_modules が消える・ブランチの二重チェックアウトで落ちる・後片付け、3つのハマりどころ【2026】",
+      "title": "Claude Code の --worktree(-w)で複数タスクを並列実行する実装手順 — .env と node_modules が消える・ブランチの二重チェックアウトで落ちる・後片付け、3つのハマりどころ【2026】",
       "summary": [
-        "はじめに：なぜ今「AIコーディングツール」の実装比較が必要なのか 2026年に入り、AIコーディングツールは「使うか使わないか」を問うフェーズを終え、「どれを、どう組み合わせて使うか」を問うフェーズに移っています",
-        "GitHub Copilotのようなインライン補完型ツール..."
+        "はじめに / 対象と前提 Claude Code で「A の機能を作らせている間に、B のバグ修正も別セッションで走らせたい」となったとき、同じ作業ディレクトリで 2 セッション動かすとファイル編集が衝突する",
+        "これを -w / --worktree フラグひとつで解決する..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sescore/items/f1504153a8a43a20358d",
-      "published": "2026-09-20 08:14"
+      "link": "https://qiita.com/yureki_lab/items/4506ab0d289a784e8e97",
+      "published": "2026-09-21 08:02"
     },
     {
-      "id": "8e03c7ffb88b",
-      "original_title": "OpenClaw×Claude Code連携実践ガイド：思考と実行を分けるAI開発フロー",
-      "title": "OpenClaw×Claude Code連携実践ガイド：思考と実行を分けるAI開発フロー",
+      "id": "6c7d05ffec99",
+      "original_title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
+      "title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
       "summary": [
-        "はじめに:なぜ「思考層」と「実行層」を分けるのか 2026年9月現在、Qiitaでは直近14日間で「AI」タグ付きのストック20超え記事が8本、「ClaudeCode」タグ付きの記事も5本公開されており、AIコーディングエージェントの実務活用がエンジニアの日常的な関心事に..."
+        "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした",
+        "この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、ユーザーのCLAUDE.mdルール（固有名詞や仕様を勝手に想像しない、出典のない数値は書かない）に反してしまいます..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sescore/items/5836d47f648ac9c11fd0",
-      "published": "2026-09-20 08:05"
+      "link": "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
+      "published": "2026-09-21 07:31"
     },
     {
-      "id": "329bea2da7f1",
-      "original_title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "title": "フロック社は従業員の買収により従業員を削減しようとしていると伝えられている",
+      "id": "5c58cb17815d",
+      "original_title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "title": "TechCrunch Disrupt 2026 で最大 200 ドルを節約できる期間は残り 6 日です",
       "summary": [
-        "買収がなければ、フロック社は「ほぼ確実に」スタッフを解雇する必要があるだろう"
+        "現在のチケット価格は6日後の9月25日午後11時59分に終了する",
+        "PT. Disrupt で 10,000 人以上の創設者、投資家、テクノロジー リーダーに参加し、それまでにチケットを最大 200 ドル節約しましょう"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "published": "2026-09-19 20:39"
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "published": "2026-09-20 21:41"
     },
     {
-      "id": "29bc3d024315",
-      "original_title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "title": "トランプ大統領、AIを新しい名前で再ブランド化する時期が来たと発言 - そしてAI部隊も創設する",
+      "id": "0a3b06e51536",
+      "original_title": "World model companies are keeping a lot of secrets",
+      "title": "世界モデル企業は多くの秘密を隠している",
       "summary": [
-        "トランプ大統領は、AIの反発は民主党のデマだと証拠もなしに主張した"
+        "ワールド モデルの分野に携わる誰もが、多額の現金と大量の話題に座っていますが、創設者から自社のデータ サプライヤーに至るまで、誰にでも実際に何を構築しているのかを語ってもらえるのは幸運です"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "published": "2026-09-19 19:57"
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "2026-09-20 20:29"
     }
   ]
 }
