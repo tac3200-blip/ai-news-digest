@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-09-21 08:52",
+  "updated_at": "2026-09-22 09:36",
   "total_count": 19,
   "articles": [
     {
-      "id": "79bb83d8a8f6",
-      "original_title": "Introducing the Australian Youth Safety Blueprint",
-      "title": "オーストラリアの青少年安全青写真の紹介",
+      "id": "e77247830f41",
+      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "title": "数学と人工知能に関する諮問グループ",
       "summary": [
-        "OpenAI は、若者を保護し、力を与える、より安全な AI エクスペリエンスのための 6 本柱のロードマップであるオーストラリアン ユース セーフティ ブループリントを導入します"
+        "OpenAI は、数学と人工知能に関する独立した諮問グループと協力して、新たな AI 結果のレビューとコミュニケーションを指導しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "2026-09-18 12:00"
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "2026-09-21 12:00"
     },
     {
-      "id": "02e5f01efb31",
-      "original_title": "How Cooley is accelerating IPO work with ChatGPT",
-      "title": "Cooley は ChatGPT を使用して IPO 作業をどのように加速しているか",
+      "id": "14866626cc42",
+      "original_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "title": "Higgsfield AI は GPT-6 Astra を使用して新しいビデオ機能を 1 日で提供します",
       "summary": [
-        "Cooley は ChatGPT Work を使用して GO Public を構築し、IPO プロセスにインテリジェンスをもたらし、弁護士が問題を早期に表面化し、最も重要な部分に判断を集中できるように支援しました"
+        "GPT-6 Astra を使用すると、Higgsfield AI は中小企業にとってビデオ広告の作成を容易にし、新しいクリエイティブ ツールをより迅速に市場に投入します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "published": "2026-09-17 12:00"
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published": "2026-09-21 12:00"
     },
     {
-      "id": "7781a19e69ef",
-      "original_title": "Introducing Astra for Law",
-      "title": "アストラ・フォー・ローの紹介",
+      "id": "88876f68a289",
+      "original_title": "Building standards for the next phase of AI",
+      "title": "AI の次の段階に向けた標準の構築",
       "summary": [
-        "OpenAI for Law は、法律に関する最前線のインテリジェンス、カスタム企業ワークフロー、接続された法的データ ソース、およびクライアントの機密業務に対する法的グレードの管理をもたらします"
+        "OpenAI は、世界共通の AI 標準への道筋を概説し、安全性を向上させるための調整された評価、報告、ガバナンスを求めています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/astra-for-law",
-      "published": "2026-09-17 00:00"
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "2026-09-21 10:00"
     },
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
-      "title": "新しい専門家が Google の AI & 経済チームに加わる",
+      "title": "GoogleのAI＆経済チームに新しい専門家が加わる",
       "summary": [
         "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
@@ -81,187 +81,190 @@
       "published": "2026-09-17 20:00"
     },
     {
-      "id": "c187c166058e",
-      "original_title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "title": "Amazon SageMaker Inference: 2026 年累計のリリースをレビュー",
+      "id": "cfdfe7ed38f3",
+      "original_title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+      "title": "xAI の Grok 4.6 が Amazon Bedrock で利用可能になりました",
       "summary": [
-        "生成 AI 推論は独特の難しさがあります",
-        "モデルは数十から数百ギガバイト、レイテンシー要件は 1 秒あたりのトークンで測定され、コールド スタートはコンテナーとウェイトの転送に数分かかる場合があり、GPU の容量には制限があり、トラフィックは"
+        "本日、xAI の Grok 4.6 が Amazon Bedrock で利用可能になり、長期実行エージェント、コーディング、知識作業向けに構築されたフロンティア モデルが Bedrock モデル カタログに追加されたことを発表します",
+        "Grok 4.6 は、2026 年 8 月 18 日に Bedrock でリリースされました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
-      "published": "2026-09-18 20:52"
+      "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+      "published": "2026-09-21 18:30"
     },
     {
-      "id": "890c3f8fcf3b",
-      "original_title": "Introducing Kimi K3 on Amazon Bedrock",
-      "title": "Amazon Bedrock での Kim K3 の紹介",
+      "id": "f567aca9eb3b",
+      "original_title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "title": "BMW グループが 14,000 のクラウド アカウント全体でコストの異常を検出する方法",
       "summary": [
-        "オープンウェイト モデルは、大規模な AI の構築と導入の経済性を変えています",
-        "インテリジェンスと効率性が急速に向上するということは、企業が各ワークロードを機能、速度、コストの適切なバランスで調整できることを意味します",
-        "AWS は未来に向けて構築しています"
+        "この投稿は、BMW グループの Philipp Karg および Data Reply の Christopher Maesrek との共同執筆です",
+        "14,000 個のクラウド アカウントを実行している場合、コストの異常を見つけるのは困難です",
+        "BMW グループは、社内の FinOps システム構築である Cloud Efficiency Analytics (CLEA) を運用しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
-      "published": "2026-09-18 16:52"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+      "published": "2026-09-21 16:36"
     },
     {
-      "id": "28fe6d6789be",
-      "original_title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "title": "マルチモデル AI エージェントを Amazon Bedrock AgentCore ランタイムに移行する",
+      "id": "d7939cbbfb79",
+      "original_title": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "title": "データサイエンスワークフローのために Amazon SageMaker AI で Positron を実行する",
       "summary": [
-        "マルチモデルのエージェント AI アプリケーションを構築している組織は、インフラストラクチャの複雑さの増大に直面しています",
-        "コンテナ オーケストレーション、スケーリング ポリシー、ID、および複数のモデル タイプの可観測性を管理すると、運用オーバーヘッドが追加されます",
-        "チームは多くの場合、数か月を費やします"
+        "データ サイエンス チームは、ガバナンスされたデータ アクセス、R 分析、Python モデル開発、デプロイメント、アプリケーション開発、レポート作成のために個別のツール間を移動することがよくあります",
+        "Positron、Posit のデータ サイエンス用統合開発環境 (IDE) がリリースされました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
-      "published": "2026-09-18 15:38"
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+      "published": "2026-09-21 16:34"
     },
     {
-      "id": "7c63bae1074c",
-      "original_title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
-      "title": "エヌビディアCEO「誰かと夕食をすると、その翌日に相手の株価が2倍になる」　GPUを巡る巨額マネーの行方",
+      "id": "55e995e527ce",
+      "original_title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
+      "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
       "summary": [
-        "NVIDIAのフアンCEOが「私がどこで夕食を食べるのか、そして誰と夕食を食べるのかを調べることだ",
-        "そうすると、相手の株価が翌日に2倍になる」と語った",
-        "GPUを巡る巨額マネーの行方は"
+        "SpaceXAIはAIモデル「Grok 4.7」を発表した",
+        "前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した",
+        "[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデルと比べ大幅な低コストと高速性を打ち出し、主力モデルとしての利用を見込む"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/21/news024.html",
-      "published": "2026-09-21 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+      "published": "2026-09-22 08:46"
     },
     {
-      "id": "fa2a6b6f9905",
-      "original_title": "「社長の頭の中」をAIに　経営と現場をつなぐ専用AIとは？",
-      "title": "「社長の頭の中」をAIに　経営と現場をつなぐ専用AIとは？",
+      "id": "fec93350e97a",
+      "original_title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減　3つの壁をどう乗り越えた？",
+      "title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減　3つの壁をどう乗り越えた？",
       "summary": [
-        "ベテラン社員の退職で、会社に蓄積された経験やノウハウが失われる",
-        "そんな中小企業の「知識の属人化」に向き合い、社長の経験や現場の知恵を蓄積する専用AIが登場した"
+        "製造業では工場シミュレーションが重要な役割を果たす",
+        "しかしシミュレーションモデルの構築には専用ソフトウェアと専門言語の高度な知識が要り、属人化しやすい",
+        "キユーピーでは、生成AIによる高度化、効率化を目指していたが、それには3つの課題があった"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/21/2000001651/",
-      "published": "2026-09-21 07:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
+      "published": "2026-09-22 08:00"
     },
     {
-      "id": "c3affbb94848",
-      "original_title": "【やじうまミニレビュー】旧iPhone 5Wアダプタとほぼ同サイズ。UGREEN 45W充電器が鬼ちっちゃい",
-      "title": "【やじうまミニレビュー】旧iPhone 5Wアダプタとほぼ同サイズ。UGREEN 45W充電器が鬼ちっちゃい",
+      "id": "ae569888b1d6",
+      "original_title": "【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
+      "title": "【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
       "summary": [
         ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142475.html",
-      "published": "2026-09-21 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html",
+      "published": "2026-09-22 06:22"
     },
     {
-      "id": "a58efc09a32f",
-      "original_title": "【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
-      "title": "【西川和久の不定期コラム】Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "id": "b08aad37bf21",
+      "original_title": "【今すぐ読みたい！人気記事】スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！ - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！ - PC Watch",
       "summary": [
-        ""
+        "Windows 11の「モバイルデバイス管理」に、新機能となるエクスプローラーとの統合機能が追加された",
+        "これにより、 エクスプローラーからワイヤレスでAndroidスマホのファイルを簡単に参照できるようになった",
+        "その概要と使い方を解説していこう"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
-      "published": "2026-09-21 06:06"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2142582.html",
+      "published": "2026-09-22 06:14"
     },
     {
-      "id": "4886205b573a",
-      "original_title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
-      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
+      "id": "7efa4c845bee",
+      "original_title": "AIに頼って登山計画を立てた登山者たちが救助される",
+      "title": "AIに頼って登山計画を立てた登山者たちが救助される",
       "summary": [
-        "外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました",
-        "ワークアウトや睡眠測定を行っています",
+        "カリフォルニア州の大学生3人が、カリフォルニア州北部に位置する標高4321.8mのシャスタ山を登山中に救助されました",
+        "この大学生はAIで登頂計画を立てていて、ルートから外れてしまったとのことです",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
-      "published": "2026-09-21 08:00"
+      "link": "https://gigazine.net/news/20260922-ai-climber-rescued/",
+      "published": "2026-09-22 08:00"
     },
     {
-      "id": "43735635518c",
-      "original_title": "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される",
-      "title": "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される",
+      "id": "6ea8dd222d64",
+      "original_title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
+      "title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
       "summary": [
-        "通説では「宇宙は膨張を続けており、その勢いは増している」と考えられてきましたが、インドのタタ基礎研究所とイギリスのオックスフォード大学の研究チームが1700件以上の超新星の観測データを収録したカタログを使い、宇宙の「加速膨張」を裏付ける証拠が得られるかを検証した結果、「膨張は加速していない」可能性があることが明らかになりました",
+        "世界で初めて「16歳未満のSNS禁止法」を施行したオーストラリアのアルバニージー政権が、今度は公共の場でのスマートグラス規制を検討しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260920-supernova-cosmic-acceleration-questioned/",
-      "published": "2026-09-20 23:10"
+      "link": "https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/",
+      "published": "2026-09-21 23:30"
     },
     {
-      "id": "6f811ad7987d",
-      "original_title": "Claude Code の --worktree(-w)で複数タスクを並列実行する実装手順 — .env と node_modules が消える・ブランチの二重チェックアウトで落ちる・後片付け、3つのハマりどころ【2026】",
-      "title": "Claude Code の --worktree(-w)で複数タスクを並列実行する実装手順 — .env と node_modules が消える・ブランチの二重チェックアウトで落ちる・後片付け、3つのハマりどころ【2026】",
+      "id": "a0905aea062d",
+      "original_title": "AI時代に必要なのは「リライト」ではなく、暗黙知を形式知へ変換しながら近代化すること",
+      "title": "AI時代に必要なのは「リライト」ではなく、暗黙知を形式知へ変換しながら近代化すること",
       "summary": [
-        "はじめに / 対象と前提 Claude Code で「A の機能を作らせている間に、B のバグ修正も別セッションで走らせたい」となったとき、同じ作業ディレクトリで 2 セッション動かすとファイル編集が衝突する",
-        "これを -w / --worktree フラグひとつで解決する..."
+        "AIによって、ソフトウェアを書き直すコストが急速に下がっています",
+        "ある言語から別の言語への移植、古いフレームワークから新しいフレームワークへの移行、大規模なリファクタリング",
+        "以前なら数年単位のプロジェクトになっていた作業でも、AIエージェントを使えば現実的な期間で実施でき..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/yureki_lab/items/4506ab0d289a784e8e97",
-      "published": "2026-09-21 08:02"
+      "link": "https://qiita.com/pannakoota/items/ad070f0b1027d536ab66",
+      "published": "2026-09-22 09:35"
     },
     {
-      "id": "6c7d05ffec99",
-      "original_title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
-      "title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
+      "id": "1d422488c11a",
+      "original_title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
+      "title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
       "summary": [
-        "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした",
-        "この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、ユーザーのCLAUDE.mdルール（固有名詞や仕様を勝手に想像しない、出典のない数値は書かない）に反してしまいます..."
+        "初めに CRAG（Corrective RAG）を業務マニュアル向けのRAGに組み込んで運用しています",
+        "検索した根拠が十分かをLLMに判定させ、不足なら検索文を書き換えてもう一度探す、という例のループです",
+        "しばらく動かしていて、判定がどうにも厳しいことに気づきました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
-      "published": "2026-09-21 07:31"
+      "link": "https://qiita.com/engchina/items/fc08ab89909f9d63bc6b",
+      "published": "2026-09-22 09:15"
     },
     {
-      "id": "5c58cb17815d",
-      "original_title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "title": "TechCrunch Disrupt 2026 で最大 200 ドルを節約できる期間は残り 6 日です",
+      "id": "da19d1b248c4",
+      "original_title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "title": "Appleの店舗を建てた男はAIショッピングへのシリコンバレーの賭けに乗らない",
       "summary": [
-        "現在のチケット価格は6日後の9月25日午後11時59分に終了する",
-        "PT. Disrupt で 10,000 人以上の創設者、投資家、テクノロジー リーダーに参加し、それまでにチケットを最大 200 ドル節約しましょう"
+        "Apple Store の設計者である Ron Johnson 氏は、Apple の秘密のソースは常に従業員にあると述べています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "published": "2026-09-20 21:41"
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "published": "2026-09-21 23:44"
     },
     {
-      "id": "0a3b06e51536",
-      "original_title": "World model companies are keeping a lot of secrets",
-      "title": "世界モデル企業は多くの秘密を隠している",
+      "id": "6f5e166844c3",
+      "original_title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "title": "OpenAI が 100 を超える未解決の問題を AI で解決するため、数学諮問グループを設立",
       "summary": [
-        "ワールド モデルの分野に携わる誰もが、多額の現金と大量の話題に座っていますが、創設者から自社のデータ サプライヤーに至るまで、誰にでも実際に何を構築しているのかを語ってもらえるのは幸運です"
+        "このグループには、OpenAI が進行中の数学的研究の速度を落としたり方向転換したりする余地は与えられない"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "published": "2026-09-20 20:29"
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "published": "2026-09-21 20:15"
     }
   ]
 }
