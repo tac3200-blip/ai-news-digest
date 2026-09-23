@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-09-22 09:36",
+  "updated_at": "2026-09-23 09:02",
   "total_count": 19,
   "articles": [
     {
-      "id": "e77247830f41",
-      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "title": "数学と人工知能に関する諮問グループ",
+      "id": "2bd281bfd8fd",
+      "original_title": "Better prompt caching for GPT-6",
+      "title": "GPT-6 のプロンプト キャッシュの改善",
       "summary": [
-        "OpenAI は、数学と人工知能に関する独立した諮問グループと協力して、新たな AI 結果のレビューとコミュニケーションを指導しています"
+        "GPT-6 が、より高いキャッシュ ヒット率、新しい診断、明示的なブレークポイント、遅延とコストを削減する制御によってプロンプト キャッシュをどのように改善するかを学びましょう"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "published": "2026-09-21 12:00"
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "published": "2026-09-22 21:00"
     },
     {
-      "id": "14866626cc42",
-      "original_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "title": "Higgsfield AI は GPT-6 Astra を使用して新しいビデオ機能を 1 日で提供します",
+      "id": "55c0d9c53947",
+      "original_title": "Introducing GPT-6 Sol and Luna",
+      "title": "GPT-6 ソルとルナの紹介",
       "summary": [
-        "GPT-6 Astra を使用すると、Higgsfield AI は中小企業にとってビデオ広告の作成を容易にし、新しいクリエイティブ ツールをより迅速に市場に投入します"
+        "GPT-6 Sol と Luna は、機能とコストの異なるバランスで日常業務に最先端のインテリジェンスをもたらす 2 つのモデルです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "published": "2026-09-21 12:00"
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "published": "2026-09-22 18:00"
     },
     {
-      "id": "88876f68a289",
-      "original_title": "Building standards for the next phase of AI",
-      "title": "AI の次の段階に向けた標準の構築",
+      "id": "f6713e9cf1f3",
+      "original_title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "title": "GPT‑6 Astra で研究時間とコストを並行して半分に削減",
       "summary": [
-        "OpenAI は、世界共通の AI 標準への道筋を概説し、安全性を向上させるための調整された評価、報告、ガバナンスを求めています"
+        "GPT‑6 Astra により、Parallel のエージェントは、以前のモデルと比較して半分の時間と半分のコストで労働市場データを調査および合成できるようになりました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "published": "2026-09-21 10:00"
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "published": "2026-09-22 12:00"
     },
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
-      "title": "GoogleのAI＆経済チームに新しい専門家が加わる",
+      "title": "新しい専門家が Google の AI & 経済チームに加わる",
       "summary": [
         "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
@@ -81,190 +81,191 @@
       "published": "2026-09-17 20:00"
     },
     {
-      "id": "cfdfe7ed38f3",
-      "original_title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "title": "xAI の Grok 4.6 が Amazon Bedrock で利用可能になりました",
+      "id": "1aac2e365d74",
+      "original_title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "title": "Amazon Bedrock の GPT-6 Sol と GPT-6 Luna を使用して、日常業務にさらなるインテリジェンスをもたらします",
       "summary": [
-        "本日、xAI の Grok 4.6 が Amazon Bedrock で利用可能になり、長期実行エージェント、コーディング、知識作業向けに構築されたフロンティア モデルが Bedrock モデル カタログに追加されたことを発表します",
-        "Grok 4.6 は、2026 年 8 月 18 日に Bedrock でリリースされました"
+        "GPT-6 Sol と GPT-6 Luna が Amazon Bedrock で一般提供されるようになり、インテリジェンスと効率を各ワークロードに適合させるためのより多くのオプションが提供されます",
+        "大規模な AI の価値は、モデルが何を実行できるか、およびどのくらいの頻度で AI を実行できるかという 2 つの側面によって決まります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
-      "published": "2026-09-21 18:30"
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+      "published": "2026-09-22 18:10"
     },
     {
-      "id": "f567aca9eb3b",
-      "original_title": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "title": "BMW グループが 14,000 のクラウド アカウント全体でコストの異常を検出する方法",
+      "id": "a998a1f6009d",
+      "original_title": "Claude Opus 5.5 is now available on AWS",
+      "title": "Claude Opus 5.5 が AWS で利用可能になりました",
       "summary": [
-        "この投稿は、BMW グループの Philipp Karg および Data Reply の Christopher Maesrek との共同執筆です",
-        "14,000 個のクラウド アカウントを実行している場合、コストの異常を見つけるのは困難です",
-        "BMW グループは、社内の FinOps システム構築である Cloud Efficiency Analytics (CLEA) を運用しています"
+        "本日、Claude 5.5 モデルファミリーの最初の製品である、Amazon Bedrock での Claude Opus 5.5 と AWS での Claude Platform が利用可能になったことを発表できることを嬉しく思います",
+        "Claude Opus 5.5 は、エージェントティック コーディング、知識に適した Anthropic の最も有能な Opus モデルです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
-      "published": "2026-09-21 16:36"
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
+      "published": "2026-09-22 17:28"
     },
     {
-      "id": "d7939cbbfb79",
-      "original_title": "Run Positron on Amazon SageMaker AI for data science workflows",
-      "title": "データサイエンスワークフローのために Amazon SageMaker AI で Positron を実行する",
+      "id": "02402ce89718",
+      "original_title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "title": "Strands Evals と Amazon Bedrock AgentCore を使用してスキルを備えたエージェントを評価する",
       "summary": [
-        "データ サイエンス チームは、ガバナンスされたデータ アクセス、R 分析、Python モデル開発、デプロイメント、アプリケーション開発、レポート作成のために個別のツール間を移動することがよくあります",
-        "Positron、Posit のデータ サイエンス用統合開発環境 (IDE) がリリースされました"
+        "汎用エージェントは幅広いタスクを処理しますが、コンプライアンス チェック、文書処理ワークフロー、エスカレーション ポリシー、エンジニアリング規約など、ビジネスを運営するための手順に従う必要があります",
+        "すべてを 1 つにエンコードする"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
-      "published": "2026-09-21 16:34"
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
+      "published": "2026-09-22 17:18"
     },
     {
-      "id": "55e995e527ce",
-      "original_title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
-      "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
+      "id": "96cb7c92dec6",
+      "original_title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
+      "title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
       "summary": [
-        "SpaceXAIはAIモデル「Grok 4.7」を発表した",
-        "前モデルと同価格・同速度を維持しつつ大規模なベースモデルを採用し、コーディングや長時間の業務タスク性能、安全性を強化した",
-        "[Cursor](https://www.itmedia.co.jp/news/article/2606/17/1260617066/)やAPI経由で即日提供し、競合の最新モデルと比べ大幅な低コストと高速性を打ち出し、主力モデルとしての利用を見込む"
+        "ニュースでよく聞く「半導体」",
+        "「GPUのことね」「AI時代に重要なんでしょ」という認識はあっても、その本質を理解できていますか",
+        "半導体が重要視される理由を基礎から解説します"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-      "published": "2026-09-22 08:46"
+      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
+      "published": "2026-09-23 08:00"
     },
     {
-      "id": "fec93350e97a",
-      "original_title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減　3つの壁をどう乗り越えた？",
-      "title": "キユーピー、AIで工場シミュレーションモデルの開発工数を8割削減　3つの壁をどう乗り越えた？",
+      "id": "a0e011aacf2a",
+      "original_title": "AWS、SalesforceがAI連携を強化　データ分断をどう解消するか",
+      "title": "AWS、SalesforceがAI連携を強化　データ分断をどう解消するか",
       "summary": [
-        "製造業では工場シミュレーションが重要な役割を果たす",
-        "しかしシミュレーションモデルの構築には専用ソフトウェアと専門言語の高度な知識が要り、属人化しやすい",
-        "キユーピーでは、生成AIによる高度化、効率化を目指していたが、それには3つの課題があった"
+        "AIエージェントの導入が進む一方、企業には「必要なデータが別のシステムにある」というボトルネックがある",
+        "AWSとSalesforceは、データを移動させず、普段使うツールの中でAIを活用できる環境づくりを進める"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html",
-      "published": "2026-09-22 08:00"
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
+      "published": "2026-09-23 07:00"
     },
     {
-      "id": "ae569888b1d6",
-      "original_title": "【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
-      "title": "【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
+      "id": "2145e1bbec31",
+      "original_title": "スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6",
+      "title": "スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6",
       "summary": [
-        ""
+        "モバイル向けCPUとして世界で初めて、動作周波数が5GHzに到達した",
+        "Qualcommは、9月22日から9月24日にかけて年次イベントのSnapdragon Summitを、米ハワイ州マウイ島で開催している",
+        "その初日となる9月22日には、同社のフラグシップ向けモバイルSoCの最新版となる「Snapdragon 8 Elite Extreme Gen 6」と「Snapdragon 8 Elite Gen 6」が発表された"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html",
-      "published": "2026-09-22 06:22"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2142600.html",
+      "published": "2026-09-23 05:00"
     },
     {
-      "id": "b08aad37bf21",
-      "original_title": "【今すぐ読みたい！人気記事】スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！ - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！ - PC Watch",
+      "id": "8d3ffb673b50",
+      "original_title": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
+      "title": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
       "summary": [
-        "Windows 11の「モバイルデバイス管理」に、新機能となるエクスプローラーとの統合機能が追加された",
-        "これにより、 エクスプローラーからワイヤレスでAndroidスマホのファイルを簡単に参照できるようになった",
-        "その概要と使い方を解説していこう"
+        "「火曜日にリセットすると約束した",
+        "もうすぐ火曜日だ」",
+        "OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が9月22日(日本時間)、Xでこう投稿し、使用量リセットが近いことを予告した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2142582.html",
-      "published": "2026-09-22 06:14"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2142612.html",
+      "published": "2026-09-22 18:50"
     },
     {
-      "id": "7efa4c845bee",
-      "original_title": "AIに頼って登山計画を立てた登山者たちが救助される",
-      "title": "AIに頼って登山計画を立てた登山者たちが救助される",
+      "id": "066f568e4b41",
+      "original_title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+      "title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
       "summary": [
-        "カリフォルニア州の大学生3人が、カリフォルニア州北部に位置する標高4321.8mのシャスタ山を登山中に救助されました",
-        "この大学生はAIで登頂計画を立てていて、ルートから外れてしまったとのことです",
+        "パソコンやスマートフォンばかり見ていると頭が悪くなってしまうのでは、という話は一般論としてよく言われることです",
+        "6歳から9歳までの子どもが成長する様子を8年間追跡した研究では、デジタル機器の画面を見ている時間(スクリーンタイム)が長い子どもほど、むしろ10代の頃に認知機能が高くなるという、通説に反する証拠が示されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260922-ai-climber-rescued/",
-      "published": "2026-09-22 08:00"
+      "link": "https://gigazine.net/news/20260923-screentime-cognition/",
+      "published": "2026-09-23 08:00"
     },
     {
-      "id": "6ea8dd222d64",
-      "original_title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
-      "title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
+      "id": "e62630dd09b9",
+      "original_title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
+      "title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
       "summary": [
-        "世界で初めて「16歳未満のSNS禁止法」を施行したオーストラリアのアルバニージー政権が、今度は公共の場でのスマートグラス規制を検討しています",
+        "放射線を検出する「ガイガーカウンター」を、シンプルで電力効率も良く持ち運び可能なアナログ式で自作した電子技術者が、その仕組みを解説しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/",
-      "published": "2026-09-21 23:30"
+      "link": "https://gigazine.net/news/20260922-analog-geiger-counter/",
+      "published": "2026-09-22 22:00"
     },
     {
-      "id": "a0905aea062d",
-      "original_title": "AI時代に必要なのは「リライト」ではなく、暗黙知を形式知へ変換しながら近代化すること",
-      "title": "AI時代に必要なのは「リライト」ではなく、暗黙知を形式知へ変換しながら近代化すること",
+      "id": "7edea801912b",
+      "original_title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
+      "title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
       "summary": [
-        "AIによって、ソフトウェアを書き直すコストが急速に下がっています",
-        "ある言語から別の言語への移植、古いフレームワークから新しいフレームワークへの移行、大規模なリファクタリング",
-        "以前なら数年単位のプロジェクトになっていた作業でも、AIエージェントを使えば現実的な期間で実施でき..."
+        "はじめに 2026年9月22日、Anthropicから Claude Opus 5.5 が一般提供開始されました",
+        "7月のOpus 5から約2ヶ月での投入で、新しい 「5.5ファミリー」の第1弾という位置づけです",
+        "Sonnet 5.5・Haiku 5.5も「数週間以内」に続..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/pannakoota/items/ad070f0b1027d536ab66",
-      "published": "2026-09-22 09:35"
+      "link": "https://qiita.com/htani0817/items/770773094cdfd0d67b19",
+      "published": "2026-09-23 08:54"
     },
     {
-      "id": "1d422488c11a",
-      "original_title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
-      "title": "RAGの検索評価、厳しく作るほど答えられなくなる。OSS実装6本の評価器を読み比べた",
+      "id": "f46def810d5e",
+      "original_title": "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした。ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様",
+      "title": "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした。ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様",
       "summary": [
-        "初めに CRAG（Corrective RAG）を業務マニュアル向けのRAGに組み込んで運用しています",
-        "検索した根拠が十分かをLLMに判定させ、不足なら検索文を書き換えてもう一度探す、という例のループです",
-        "しばらく動かしていて、判定がどうにも厳しいことに気づきました"
+        "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした",
+        "ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様や数値は記事に書けません(執筆ルールで「出典のない数値は書かない」と定められているため)",
+        "どちらの方針で進めます..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/engchina/items/fc08ab89909f9d63bc6b",
-      "published": "2026-09-22 09:15"
+      "link": "https://qiita.com/syun136_616/items/660aafd96da5a4a6e0e5",
+      "published": "2026-09-23 08:36"
     },
     {
-      "id": "da19d1b248c4",
-      "original_title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "title": "Appleの店舗を建てた男はAIショッピングへのシリコンバレーの賭けに乗らない",
+      "id": "519dcc46f374",
+      "original_title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "title": "TechCrunch Founder Summit の議題が明らかに: 11 月 4 日にボストンで資金調達、雇用、AI に関する洞察を解き放つ",
       "summary": [
-        "Apple Store の設計者である Ron Johnson 氏は、Apple の秘密のソースは常に従業員にあると述べています"
+        "創業者は、最も困難な教訓を最も困難な方法で学ぶ必要はありません",
+        "TechCrunch Founder Summit は、会社設立の課題をより簡単にし、その成功をさらに大きくすることを目的としています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "published": "2026-09-21 23:44"
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "2026-09-22 23:21"
     },
     {
-      "id": "6f5e166844c3",
-      "original_title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "title": "OpenAI が 100 を超える未解決の問題を AI で解決するため、数学諮問グループを設立",
+      "id": "aab965c28242",
+      "original_title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "title": "AI トレーニング データの需要が急増し、Snorkel AI の評価額が 3 倍の 35 億ドルに上昇",
       "summary": [
-        "このグループには、OpenAI が進行中の数学的研究の速度を落としたり方向転換したりする余地は与えられない"
+        "創業7年のこのスタートアップは、Data-as-a-Serviceアプローチを推進するためにシリーズEで3億5000万ドルを調達した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "published": "2026-09-21 20:15"
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "published": "2026-09-22 21:56"
     }
   ]
 }
