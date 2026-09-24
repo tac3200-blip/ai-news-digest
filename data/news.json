@@ -1,52 +1,65 @@
 {
-  "updated_at": "2026-09-23 09:02",
+  "updated_at": "2026-09-24 09:15",
   "total_count": 19,
   "articles": [
     {
-      "id": "2bd281bfd8fd",
-      "original_title": "Better prompt caching for GPT-6",
-      "title": "GPT-6 のプロンプト キャッシュの改善",
+      "id": "2440f84874c4",
+      "original_title": "Two years of OpenAI Academy",
+      "title": "2 年間の OpenAI アカデミー",
       "summary": [
-        "GPT-6 が、より高いキャッシュ ヒット率、新しい診断、明示的なブレークポイント、遅延とコストを削減する制御によってプロンプト キャッシュをどのように改善するかを学びましょう"
+        "OpenAI Academy の 2 周年を記念して、AI スキルをさらに多くのコミュニティに提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "published": "2026-09-22 21:00"
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "published": "2026-09-23 16:00"
     },
     {
-      "id": "55c0d9c53947",
-      "original_title": "Introducing GPT-6 Sol and Luna",
-      "title": "GPT-6 ソルとルナの紹介",
+      "id": "3674e8449506",
+      "original_title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "title": "OpenAI、民間防衛のためにサイバーアクセスをウクライナに拡大",
       "summary": [
-        "GPT-6 Sol と Luna は、機能とコストの異なるバランスで日常業務に最先端のインテリジェンスをもたらす 2 つのモデルです"
+        "OpenAI は、民間インフラのサイバー防御をサポートするために、Daybreak プログラムへのアクセスをウクライナ政府に拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "published": "2026-09-22 18:00"
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "published": "2026-09-23 13:00"
     },
     {
-      "id": "f6713e9cf1f3",
-      "original_title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "title": "GPT‑6 Astra で研究時間とコストを並行して半分に削減",
+      "id": "bedd817ef9d7",
+      "original_title": "Sam Altman’s remarks at the United Nations Security Council",
+      "title": "国連安全保障理事会でのサム・アルトマン氏の発言",
       "summary": [
-        "GPT‑6 Astra により、Parallel のエージェントは、以前のモデルと比較して半分の時間と半分のコストで労働市場データを調査および合成できるようになりました"
+        "OpenAI CEO のサム アルトマン氏は、国連安全保障理事会での発言の中で AI の安全性、人間の管理、国際協力について語ります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "published": "2026-09-22 12:00"
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "published": "2026-09-23 12:00"
+    },
+    {
+      "id": "5d91388b3db9",
+      "original_title": "Google Beam expands with new regions, partners, and customers",
+      "title": "Google Beam が新たな地域、パートナー、顧客とともに拡大",
+      "summary": [
+        "私たちは Google Beam を新たに 5 か国に拡大し、ネットワークの拡張のために Industrious と提携しています"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "published": "2026-09-23 18:00"
     },
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
       "title": "新しい専門家が Google の AI & 経済チームに加わる",
       "summary": [
-        "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
+        "私たちは、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -59,7 +72,7 @@
       "original_title": "Co-creating the future of fashion with Google",
       "title": "Google とファッションの未来を共同創造する",
       "summary": [
-        "Google は、デザイナーのジェーン・ウェイド氏とセルジオ・ハドソン氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
+        "Google は、デザイナーの Jane Wade 氏と Sergio Hudson 氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -68,204 +81,192 @@
       "published": "2026-09-18 13:00"
     },
     {
-      "id": "95165a1a2353",
-      "original_title": "Making global data easier to explore",
-      "title": "グローバル データの探索を容易にする",
+      "id": "ea9c03170101",
+      "original_title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
+      "title": "ポータルホッピングから即座の答えまで: MCP と Amazon Bedrock による HEMA の旅",
       "summary": [
-        "Google と国連システムは、世界の統計にアクセスし、簡単に検索できるようにする新しいオープン プラットフォームである UN System Data Commons を立ち上げました"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "published": "2026-09-17 20:00"
-    },
-    {
-      "id": "1aac2e365d74",
-      "original_title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "title": "Amazon Bedrock の GPT-6 Sol と GPT-6 Luna を使用して、日常業務にさらなるインテリジェンスをもたらします",
-      "summary": [
-        "GPT-6 Sol と GPT-6 Luna が Amazon Bedrock で一般提供されるようになり、インテリジェンスと効率を各ワークロードに適合させるためのより多くのオプションが提供されます",
-        "大規模な AI の価値は、モデルが何を実行できるか、およびどのくらいの頻度で AI を実行できるかという 2 つの側面によって決まります"
+        "この投稿は、HEMA の Mauro Rallo および Patrick van der Plas との共同執筆です",
+        "HEMA のエンジニアは答えが必要なとき、ポータル ホッピングを行い、切断された Wiki、サービス カタログ、IT ポータルをナビゲートして答えを見つけました",
+        "その摩擦をインスに変えるために"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
-      "published": "2026-09-22 18:10"
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
+      "published": "2026-09-23 18:41"
     },
     {
-      "id": "a998a1f6009d",
-      "original_title": "Claude Opus 5.5 is now available on AWS",
-      "title": "Claude Opus 5.5 が AWS で利用可能になりました",
+      "id": "c7d6c6e50a1d",
+      "original_title": "Agentic conversational video intelligence built on AWS",
+      "title": "AWS 上に構築されたエージェントの会話型ビデオ インテリジェンス",
       "summary": [
-        "本日、Claude 5.5 モデルファミリーの最初の製品である、Amazon Bedrock での Claude Opus 5.5 と AWS での Claude Platform が利用可能になったことを発表できることを嬉しく思います",
-        "Claude Opus 5.5 は、エージェントティック コーディング、知識に適した Anthropic の最も有能な Opus モデルです"
+        "エージェント AI を活用したビデオ インテリジェンスを利用すると、アップロードされたビデオについて自然言語で質問し、数秒以内に回答を得ることができます",
+        "メディア、セキュリティ、保険、専門サービスに関わる組織は、従来よりも多くのビデオを生成しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
-      "published": "2026-09-22 17:28"
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
+      "published": "2026-09-23 18:21"
     },
     {
-      "id": "02402ce89718",
-      "original_title": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-      "title": "Strands Evals と Amazon Bedrock AgentCore を使用してスキルを備えたエージェントを評価する",
+      "id": "c6879c0ef020",
+      "original_title": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "title": "Amazon Bedrock でオープンウェイトモデルを AI コーディングエージェントとして使用する",
       "summary": [
-        "汎用エージェントは幅広いタスクを処理しますが、コンプライアンス チェック、文書処理ワークフロー、エスカレーション ポリシー、エンジニアリング規約など、ビジネスを運営するための手順に従う必要があります",
-        "すべてを 1 つにエンコードする"
+        "AI コーディング エージェントは、開発者がソフトウェアを作成、デバッグ、リファクタリングする方法の中核部分となっています",
+        "Amazon Bedrock のオープン ウェイト モデルにより、これらのエージェントをプライベートかつコスト効率よく実行できるようになりました",
+        "ただし、ほとんどのオプションではプロップを送信する必要があります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
-      "published": "2026-09-22 17:18"
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
+      "published": "2026-09-23 18:17"
     },
     {
-      "id": "96cb7c92dec6",
-      "original_title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
-      "title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
+      "id": "db48b804f9cd",
+      "original_title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
+      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
       "summary": [
-        "ニュースでよく聞く「半導体」",
-        "「GPUのことね」「AI時代に重要なんでしょ」という認識はあっても、その本質を理解できていますか",
-        "半導体が重要視される理由を基礎から解説します"
+        "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した",
+        "操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する",
+        "実行の前に安全性分類器が各操作を検証する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
-      "published": "2026-09-23 08:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
+      "published": "2026-09-24 08:00"
     },
     {
-      "id": "a0e011aacf2a",
-      "original_title": "AWS、SalesforceがAI連携を強化　データ分断をどう解消するか",
-      "title": "AWS、SalesforceがAI連携を強化　データ分断をどう解消するか",
+      "id": "a19ccf9f10ed",
+      "original_title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
       "summary": [
-        "AIエージェントの導入が進む一方、企業には「必要なデータが別のシステムにある」というボトルネックがある",
-        "AWSとSalesforceは、データを移動させず、普段使うツールの中でAIを活用できる環境づくりを進める"
+        "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した",
+        "推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという",
+        "同社のアプローチに迫る"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/23/2000001663/",
-      "published": "2026-09-23 07:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
+      "published": "2026-09-24 08:00"
     },
     {
-      "id": "2145e1bbec31",
-      "original_title": "スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6",
-      "title": "スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6",
+      "id": "970560e4d07d",
+      "original_title": "Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験",
+      "title": "Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験",
       "summary": [
-        "モバイル向けCPUとして世界で初めて、動作周波数が5GHzに到達した",
-        "Qualcommは、9月22日から9月24日にかけて年次イベントのSnapdragon Summitを、米ハワイ州マウイ島で開催している",
-        "その初日となる9月22日には、同社のフラグシップ向けモバイルSoCの最新版となる「Snapdragon 8 Elite Extreme Gen 6」と「Snapdragon 8 Elite Gen 6」が発表された"
+        "重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した",
+        "Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した",
+        "発売時期は2027年春で、価格は1,299.99ドル"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2142600.html",
-      "published": "2026-09-23 05:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
+      "published": "2026-09-24 09:00"
     },
     {
-      "id": "8d3ffb673b50",
-      "original_title": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
-      "title": "ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告",
+      "id": "137119ba8b1d",
+      "original_title": "マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る ～ローカルLLMの動作性能から文書解析まで、実力を実機で検証した[Sponsored]",
+      "title": "マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る ～ローカルLLMの動作性能から文書解析まで、実力を実機で検証した[Sponsored]",
       "summary": [
-        "「火曜日にリセットすると約束した",
-        "もうすぐ火曜日だ」",
-        "OpenAIでCodexとChatGPTを担当するThibault Sottiaux(ティボー・ソティオ)氏が9月22日(日本時間)、Xでこう投稿し、使用量リセットが近いことを予告した"
+        "ChatGPTやClaudeを始めとする生成AIは、いまや仕事の道具として当たり前の存在になった",
+        "その一方で、使い込むほどに「壁」も見えてくる",
+        "セキュリティ規定で社内文書や顧客情報をクラウドに送ることが禁止されていることや、従量課金やサブスク費用が積み上がることなどだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2142612.html",
-      "published": "2026-09-22 18:50"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2141205.html",
+      "published": "2026-09-24 06:30"
     },
     {
-      "id": "066f568e4b41",
-      "original_title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
-      "title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+      "id": "967cfb48f0ba",
+      "original_title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
+      "title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
       "summary": [
-        "パソコンやスマートフォンばかり見ていると頭が悪くなってしまうのでは、という話は一般論としてよく言われることです",
-        "6歳から9歳までの子どもが成長する様子を8年間追跡した研究では、デジタル機器の画面を見ている時間(スクリーンタイム)が長い子どもほど、むしろ10代の頃に認知機能が高くなるという、通説に反する証拠が示されました",
+        "NetflixやAmazonプライム・ビデオといった映像ストリーミングサービスや、SpotifyやApple Musicといった音楽ストリーミングサービス、Nintendo Switch OnlineやPlayStation Plusといったゲームサービスなど、現代はさまざまな種類のサブスクリプションサービスで溢れています",
+        "さまざまなコンテンツが溢れる世の中で、GIGAZINE読者は一体どんなサブスクリプションサービスを利用しているのか気になったので、プレゼントアンケートで直接質問してみました"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/",
+      "published": "2026-09-24 09:00"
+    },
+    {
+      "id": "a4dd1703ebb8",
+      "original_title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
+      "title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
+      "summary": [
+        "2001年9月11日に発生したアメリカ同時多発テロ(9.11)の追悼アートをかつて公開していた閉鎖済みのウェブサイトが、Netflixのドキュメンタリーをきっかけに復活するという出来事が起きました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260923-screentime-cognition/",
-      "published": "2026-09-23 08:00"
+      "link": "https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/",
+      "published": "2026-09-24 08:00"
     },
     {
-      "id": "e62630dd09b9",
-      "original_title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
-      "title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
+      "id": "9264fe566ede",
+      "original_title": "SAMLの弱点をTrail of Bitsが再検証し、今も危険な理由を解説！海外の Hacker News で今日バズっていた話題（2026-09-24）",
+      "title": "SAMLの弱点をTrail of Bitsが再検証し、今も危険な理由を解説！海外の Hacker News で今日バズっていた話題（2026-09-24）",
       "summary": [
-        "放射線を検出する「ガイガーカウンター」を、シンプルで電力効率も良く持ち運び可能なアナログ式で自作した電子技術者が、その仕組みを解説しています",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260922-analog-geiger-counter/",
-      "published": "2026-09-22 22:00"
-    },
-    {
-      "id": "7edea801912b",
-      "original_title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
-      "title": "【2026年9月】Claude Opus 5.5がリリース！Fable 5.1超えの性能を40%安く・API破壊的変更まとめ",
-      "summary": [
-        "はじめに 2026年9月22日、Anthropicから Claude Opus 5.5 が一般提供開始されました",
-        "7月のOpus 5から約2ヶ月での投入で、新しい 「5.5ファミリー」の第1弾という位置づけです",
-        "Sonnet 5.5・Haiku 5.5も「数週間以内」に続..."
+        "海外エンジニアが集まる Hacker News で、この 24 時間に上位まで伸びていた話題を日本語でまとめました",
+        "各エントリに元スレッドの points とコメント数、議論スレッドへのリンクを付けています",
+        "記事本文は PaPoo 側に置いてあります"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/htani0817/items/770773094cdfd0d67b19",
-      "published": "2026-09-23 08:54"
+      "link": "https://qiita.com/homhom44/items/774fa74c867c57487170",
+      "published": "2026-09-24 09:10"
     },
     {
-      "id": "f46def810d5e",
-      "original_title": "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした。ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様",
-      "title": "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした。ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様",
+      "id": "3b9d42ecfca4",
+      "original_title": "Claude Code で個人開発の「コード→レビュー→push」を自走させた話",
+      "title": "Claude Code で個人開発の「コード→レビュー→push」を自走させた話",
       "summary": [
-        "Web検索・取得の権限が許可されていないため、外部情報を取得できませんでした",
-        "ツール権限を許可いただければ再試行しますが、許可なしで進める場合、未検証の技術仕様や数値は記事に書けません(執筆ルールで「出典のない数値は書かない」と定められているため)",
-        "どちらの方針で進めます..."
+        "Cosoado Lab Blog 同時掲載予定: https://cosoado-lab.com/blog/claude-code-personal-dev-loop/ 個人開発でソロでやっていると、深夜に書いたコードが翌朝見ると恥ずかしい、という体験を繰り返す",
+        "Cla..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/syun136_616/items/660aafd96da5a4a6e0e5",
-      "published": "2026-09-23 08:36"
+      "link": "https://qiita.com/Cosoado/items/6185750062af96e438df",
+      "published": "2026-09-24 09:10"
     },
     {
-      "id": "519dcc46f374",
-      "original_title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "title": "TechCrunch Founder Summit の議題が明らかに: 11 月 4 日にボストンで資金調達、雇用、AI に関する洞察を解き放つ",
+      "id": "6fe2e90d948e",
+      "original_title": "Meta introduces camera-free AI glasses",
+      "title": "Meta、カメラ不要の AI メガネを発表",
       "summary": [
-        "創業者は、最も困難な教訓を最も困難な方法で学ぶ必要はありません",
-        "TechCrunch Founder Summit は、会社設立の課題をより簡単にし、その成功をさらに大きくすることを目的としています"
+        "メタ氏によると、カメラのないメガネはより軽く、バッテリー寿命は最大12時間になるという"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "published": "2026-09-22 23:21"
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "published": "2026-09-23 23:39"
     },
     {
-      "id": "aab965c28242",
-      "original_title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "title": "AI トレーニング データの需要が急増し、Snorkel AI の評価額が 3 倍の 35 億ドルに上昇",
+      "id": "cfa42e43bace",
+      "original_title": "Anthropic says its biology lab has already found something big",
+      "title": "Anthropicは、生物学研究所がすでに何か大きなものを発見したと発表",
       "summary": [
-        "創業7年のこのスタートアップは、Data-as-a-Serviceアプローチを推進するためにシリーズEで3億5000万ドルを調達した"
+        "しかし、おそらく最大の明らかになったのは、Anthropic が生物学研究室でクロードを野放しにしなかったことです",
+        "今のところ、人間はまだそのループの中にいます"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "published": "2026-09-22 21:56"
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "2026-09-23 22:17"
     }
   ]
 }
