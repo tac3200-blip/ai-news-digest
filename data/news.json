@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 09:15",
+  "updated_at": "2026-09-25 09:18",
   "total_count": 19,
   "articles": [
     {
@@ -72,7 +72,7 @@
       "original_title": "Co-creating the future of fashion with Google",
       "title": "Google とファッションの未来を共同創造する",
       "summary": [
-        "Google は、デザイナーの Jane Wade 氏と Sergio Hudson 氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
+        "Google は、デザイナーのジェーン・ウェイド氏とセルジオ・ハドソン氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,192 +81,191 @@
       "published": "2026-09-18 13:00"
     },
     {
-      "id": "ea9c03170101",
-      "original_title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock",
-      "title": "ポータルホッピングから即座の答えまで: MCP と Amazon Bedrock による HEMA の旅",
+      "id": "b90baddc5329",
+      "original_title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+      "title": "SageMaker AI 上の WhisperX を使用した話者ラベルの文字起こし",
       "summary": [
-        "この投稿は、HEMA の Mauro Rallo および Patrick van der Plas との共同執筆です",
-        "HEMA のエンジニアは答えが必要なとき、ポータル ホッピングを行い、切断された Wiki、サービス カタログ、IT ポータルをナビゲートして答えを見つけました",
-        "その摩擦をインスに変えるために"
+        "音声音声を扱うチームは、一般的な音声テキスト変換でも同じ壁にぶつかります",
+        "コンタクト センターでの通話、全員参加の会議、ポッドキャスト、証言録取書、放送メディアを考えてみましょう",
+        "これらのワークロードには、標準の文字起こしでは間違っている 2 つのことが必要です"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
-      "published": "2026-09-23 18:41"
+      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+      "published": "2026-09-24 16:20"
     },
     {
-      "id": "c7d6c6e50a1d",
-      "original_title": "Agentic conversational video intelligence built on AWS",
-      "title": "AWS 上に構築されたエージェントの会話型ビデオ インテリジェンス",
+      "id": "66159cd386e1",
+      "original_title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
+      "title": "AgentCore Gateway と MCP を使用してマルチアカウント AI エージェントを構築する",
       "summary": [
-        "エージェント AI を活用したビデオ インテリジェンスを利用すると、アップロードされたビデオについて自然言語で質問し、数秒以内に回答を得ることができます",
-        "メディア、セキュリティ、保険、専門サービスに関わる組織は、従来よりも多くのビデオを生成しています"
+        "企業は、多くの AWS アカウントに分散したデータをコピーしたり一元化することなく推論できる AI エージェントをますます求めています",
+        "各チームは、明確な所有権、スコープの分離、独立した運用などの正当な理由により、自分のアカウントにデータを保管します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws/",
-      "published": "2026-09-23 18:21"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+      "published": "2026-09-24 16:12"
     },
     {
-      "id": "c6879c0ef020",
-      "original_title": "Use open weight models as your AI coding agent with Amazon Bedrock",
-      "title": "Amazon Bedrock でオープンウェイトモデルを AI コーディングエージェントとして使用する",
+      "id": "d9418731e19c",
+      "original_title": "Aderant builds intelligent ticket triage with Amazon Nova",
+      "title": "Aderant が Amazon Nova を使用してインテリジェントなチケットトリアージを構築",
       "summary": [
-        "AI コーディング エージェントは、開発者がソフトウェアを作成、デバッグ、リファクタリングする方法の中核部分となっています",
-        "Amazon Bedrock のオープン ウェイト モデルにより、これらのエージェントをプライベートかつコスト効率よく実行できるようになりました",
-        "ただし、ほとんどのオプションではプロップを送信する必要があります"
+        "このゲスト投稿は、Aderant の Angela Mapes と Adam Walker の共著です",
+        "この投稿では、法律業界向けのビジネス管理ソフトウェアの世界的プロバイダーである Aderant が、Amazon Nova Lite を使用してインテリジェントなチケットトリアージシステムを構築した方法を紹介します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/",
-      "published": "2026-09-23 18:17"
+      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+      "published": "2026-09-24 16:06"
     },
     {
-      "id": "db48b804f9cd",
-      "original_title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
-      "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
+      "id": "28d68ce03e5f",
+      "original_title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+      "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
       "summary": [
-        "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した",
-        "操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する",
-        "実行の前に安全性分類器が各操作を検証する"
+        "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した",
+        "文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news024.html",
-      "published": "2026-09-24 08:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
+      "published": "2026-09-25 08:00"
     },
     {
-      "id": "a19ccf9f10ed",
-      "original_title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
-      "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？　トムソン・ロイターが独自LLM「Thomson」を構築した理由",
+      "id": "8f1d62b984d9",
+      "original_title": "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
+      "title": "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
       "summary": [
-        "ロイター通信を傘下に持つThomson Reutersは、自社開発した大規模言語モデル「Thomson」を発表した",
-        "推論コストを抑えつつも、高い専門性と完全なデータ制御を実現したという",
-        "同社のアプローチに迫る"
+        "TWOSTONE&Sonsが、企業のAI内製化に関する実態調査の結果を公表",
+        "AI内製化の推進責任者の9割以上が競合との差に危機感を抱き、社内主導プロジェクトの停滞や頓挫を経験している実態が明らかとなった"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
-      "published": "2026-09-24 08:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
+      "published": "2026-09-25 08:00"
     },
     {
-      "id": "970560e4d07d",
-      "original_title": "Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験",
-      "title": "Meta VR Glassesは長時間PC作業も疲れにくい、約100gの実力を体験",
+      "id": "30fc78b77399",
+      "original_title": "ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで [Sponsored]",
+      "title": "ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで [Sponsored]",
       "summary": [
-        "重さ約100gでストラップ不要のグラス型VRデバイスを、実際に装着して試した",
-        "Metaは9月24日に開催された「Meta Connect 2026」にて、コードネーム「Project Phoenix」として噂されていた新型VRヘッドセット「Meta VR Glasses」を発表した",
-        "発売時期は2027年春で、価格は1,299.99ドル"
+        "レノボ・ジャパンは公式ストアにおいて、「決算売り尽くしセールPart2」を開催中だ",
+        "最大51%オフの値引きが実施されるなど、多くの製品が特別価格にて販売されている",
+        "期間は10月1日まで"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
-      "published": "2026-09-24 09:00"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142912.html",
+      "published": "2026-09-25 06:45"
     },
     {
-      "id": "137119ba8b1d",
-      "original_title": "マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る ～ローカルLLMの動作性能から文書解析まで、実力を実機で検証した[Sponsored]",
-      "title": "マウスコンピューター「DAIV」から登場した128GBメモリ搭載ローカルLLM向けPC。大規模モデルの実力に迫る ～ローカルLLMの動作性能から文書解析まで、実力を実機で検証した[Sponsored]",
+      "id": "c6586dc66b53",
+      "original_title": "デスクトップなのにCPUはノート用！NEXTGEAR初のIntel機の狙いが新しい ～【TGS2026】マウスコンピューター取材レポート[Sponsored]",
+      "title": "デスクトップなのにCPUはノート用！NEXTGEAR初のIntel機の狙いが新しい ～【TGS2026】マウスコンピューター取材レポート[Sponsored]",
       "summary": [
-        "ChatGPTやClaudeを始めとする生成AIは、いまや仕事の道具として当たり前の存在になった",
-        "その一方で、使い込むほどに「壁」も見えてくる",
-        "セキュリティ規定で社内文書や顧客情報をクラウドに送ることが禁止されていることや、従量課金やサブスク費用が積み上がることなどだ"
+        "ゲーミングPCを選ぶとき、まず気になるのはゲームがどれだけ快適に動くかだろう",
+        "ただ、購入したPCでゲームだけをするとは限らない",
+        "Webを見たり、動画を楽しんだり、仕事や勉強に使ったりする時間もある"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2141205.html",
-      "published": "2026-09-24 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142446.html",
+      "published": "2026-09-25 06:30"
     },
     {
-      "id": "967cfb48f0ba",
-      "original_title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
-      "title": "どんなサブスクを使ってる？解約できないダークパターンに遭遇したことはある？",
+      "id": "f8754014a979",
+      "original_title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
+      "title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
       "summary": [
-        "NetflixやAmazonプライム・ビデオといった映像ストリーミングサービスや、SpotifyやApple Musicといった音楽ストリーミングサービス、Nintendo Switch OnlineやPlayStation Plusといったゲームサービスなど、現代はさまざまな種類のサブスクリプションサービスで溢れています",
-        "さまざまなコンテンツが溢れる世の中で、GIGAZINE読者は一体どんなサブスクリプションサービスを利用しているのか気になったので、プレゼントアンケートで直接質問してみました"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260924-subscription-gigazine-user-dark-pattern/",
-      "published": "2026-09-24 09:00"
-    },
-    {
-      "id": "a4dd1703ebb8",
-      "original_title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
-      "title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
-      "summary": [
-        "2001年9月11日に発生したアメリカ同時多発テロ(9.11)の追悼アートをかつて公開していた閉鎖済みのウェブサイトが、Netflixのドキュメンタリーをきっかけに復活するという出来事が起きました",
+        "スマートフォンをはじめとする電子機器の分解マニュアルを公開しているiFixitが、2026年9月に発売されたiPhone 18 Proを分解した動画を公開しました",
+        "iPhone 18 Pro／Pro MaxでApple史上初めて搭載されたカメラの可変絞りがどのようになっているのかや、バッテリー交換のやりやすさなどがわかる動画となっています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/",
-      "published": "2026-09-24 08:00"
+      "link": "https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/",
+      "published": "2026-09-25 07:00"
     },
     {
-      "id": "9264fe566ede",
-      "original_title": "SAMLの弱点をTrail of Bitsが再検証し、今も危険な理由を解説！海外の Hacker News で今日バズっていた話題（2026-09-24）",
-      "title": "SAMLの弱点をTrail of Bitsが再検証し、今も危険な理由を解説！海外の Hacker News で今日バズっていた話題（2026-09-24）",
+      "id": "7391b877ee06",
+      "original_title": "アメリカ軍によるイランの小学校へのミサイル攻撃はデータベースの情報更新を怠りAIを過信したことが一因だったとの報道",
+      "title": "アメリカ軍によるイランの小学校へのミサイル攻撃はデータベースの情報更新を怠りAIを過信したことが一因だったとの報道",
       "summary": [
-        "海外エンジニアが集まる Hacker News で、この 24 時間に上位まで伸びていた話題を日本語でまとめました",
-        "各エントリに元スレッドの points とコメント数、議論スレッドへのリンクを付けています",
-        "記事本文は PaPoo 側に置いてあります"
+        "2026年2月にイラン南部の小学校へアメリカ軍のミサイルが着弾し、少なくとも123人の子どもを含む150人以上が死亡しました",
+        "経済紙・Bloombergの取材に応じた匿名の当局関係者によると、学校の敷地がイラン革命防衛隊の施設としてデータベースに登録されたままであったことが、小学校にミサイル攻撃が行われた一因だそうです",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20260925-iran-school-maven-ai-kill-chain/",
+      "published": "2026-09-25 06:00"
+    },
+    {
+      "id": "2ac7c18f4e20",
+      "original_title": "Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相",
+      "title": "Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相",
+      "summary": [
+        "📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です",
+        "▶️ 動画はこちら → Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムス..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/homhom44/items/774fa74c867c57487170",
-      "published": "2026-09-24 09:10"
+      "link": "https://qiita.com/kinamocchi_tech/items/59bd3d960fe388f3531a",
+      "published": "2026-09-25 09:16"
     },
     {
-      "id": "3b9d42ecfca4",
-      "original_title": "Claude Code で個人開発の「コード→レビュー→push」を自走させた話",
-      "title": "Claude Code で個人開発の「コード→レビュー→push」を自走させた話",
+      "id": "f58e734fb4c3",
+      "original_title": "プログラミング雑記 2026年9月25日",
+      "title": "プログラミング雑記 2026年9月25日",
       "summary": [
-        "Cosoado Lab Blog 同時掲載予定: https://cosoado-lab.com/blog/claude-code-personal-dev-loop/ 個人開発でソロでやっていると、深夜に書いたコードが翌朝見ると恥ずかしい、という体験を繰り返す",
-        "Cla..."
+        "今日もネットの海から拾ってきた、個人的に気になった技術ニュースや記事を厳選してお届けします",
+        "ご意見や補足があればコメントで教えていただけると嬉しいです",
+        "プログラミング Go言語 Go 1.27では、プラットフォームやベクトル長に依存しないポータブルなSIMDイン..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Cosoado/items/6185750062af96e438df",
-      "published": "2026-09-24 09:10"
+      "link": "https://qiita.com/ishisaka/items/58dfcba2ef76d64cda2b",
+      "published": "2026-09-25 09:13"
     },
     {
-      "id": "6fe2e90d948e",
-      "original_title": "Meta introduces camera-free AI glasses",
-      "title": "Meta、カメラ不要の AI メガネを発表",
+      "id": "76dd57282a63",
+      "original_title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "title": "共同創設者、パートナー、同僚を連れてくると、2 番目の TechCrunch Disrupt 2026 パスが 50% オフになります",
       "summary": [
-        "メタ氏によると、カメラのないメガネはより軽く、バッテリー寿命は最大12時間になるという"
+        "TechCrunch Disrupt 2026 のパスを 1 枚購入すると、同じタイプのチケットの 2 枚目が 50% オフになります",
+        "イベントが始まる 10 月 13 日午前 8 時（太平洋時間）前に登録してください"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "published": "2026-09-23 23:39"
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "published": "2026-09-24 19:15"
     },
     {
-      "id": "cfa42e43bace",
-      "original_title": "Anthropic says its biology lab has already found something big",
-      "title": "Anthropicは、生物学研究所がすでに何か大きなものを発見したと発表",
+      "id": "8609b153a0a9",
+      "original_title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "title": "PrismML は、その小さな LLM をクアルコム搭載のスマート グラスに導入します",
       "summary": [
-        "しかし、おそらく最大の明らかになったのは、Anthropic が生物学研究室でクロードを野放しにしなかったことです",
-        "今のところ、人間はまだそのループの中にいます"
+        "Prism のより大きな目標は、デバイス上で実行され、デバイスがすでに持っているコンピューティング能力をより有効に活用するオープンウェイト AI です"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "published": "2026-09-23 22:17"
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "published": "2026-09-24 19:00"
     }
   ]
 }
