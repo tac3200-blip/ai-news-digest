@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-25 09:18",
+  "updated_at": "2026-09-26 09:23",
   "total_count": 19,
   "articles": [
+    {
+      "id": "e93e7b3e95b9",
+      "original_title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "title": "Proaction は売上げを 60% 増加させ、Codex を使用して 75 時間以上を節約",
+      "summary": [
+        "Codex、GPT-Live-1、および GPT-6 Astra を使用して、Proaction は最新のフリート管理をより迅速に構築、運用、販売しています"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/proaction",
+      "published": "2026-09-25 19:00"
+    },
     {
       "id": "2440f84874c4",
       "original_title": "Two years of OpenAI Academy",
@@ -29,19 +42,6 @@
       "published": "2026-09-23 13:00"
     },
     {
-      "id": "bedd817ef9d7",
-      "original_title": "Sam Altman’s remarks at the United Nations Security Council",
-      "title": "国連安全保障理事会でのサム・アルトマン氏の発言",
-      "summary": [
-        "OpenAI CEO のサム アルトマン氏は、国連安全保障理事会での発言の中で AI の安全性、人間の管理、国際協力について語ります"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "published": "2026-09-23 12:00"
-    },
-    {
       "id": "5d91388b3db9",
       "original_title": "Google Beam expands with new regions, partners, and customers",
       "title": "Google Beam が新たな地域、パートナー、顧客とともに拡大",
@@ -57,7 +57,7 @@
     {
       "id": "099f0442e31a",
       "original_title": "New experts join Google’s AI & Economy team",
-      "title": "新しい専門家が Google の AI & 経済チームに加わる",
+      "title": "GoogleのAI＆経済チームに新しい専門家が加わる",
       "summary": [
         "私たちは、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
@@ -81,191 +81,191 @@
       "published": "2026-09-18 13:00"
     },
     {
-      "id": "b90baddc5329",
-      "original_title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "title": "SageMaker AI 上の WhisperX を使用した話者ラベルの文字起こし",
+      "id": "5275be484786",
+      "original_title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+      "title": "EFA と DeepEP を使用した Amazon EKS での MoE 強化学習のスループットの 40% 向上",
       "summary": [
-        "音声音声を扱うチームは、一般的な音声テキスト変換でも同じ壁にぶつかります",
-        "コンタクト センターでの通話、全員参加の会議、ポッドキャスト、証言録取書、放送メディアを考えてみましょう",
-        "これらのワークロードには、標準の文字起こしでは間違っている 2 つのことが必要です"
+        "ヒューマン フィードバックからの強化学習 (RLHF) またはグループ相対ポリシー最適化 (GRPO) を大規模に使用して専門家混合 (MoE) モデルをポストトレーニングすると、3 つの課題が同時に発生します",
+        "1 つ目は、異種の COM を調整する必要があります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
-      "published": "2026-09-24 16:20"
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+      "published": "2026-09-25 16:29"
     },
     {
-      "id": "66159cd386e1",
-      "original_title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "title": "AgentCore Gateway と MCP を使用してマルチアカウント AI エージェントを構築する",
+      "id": "73c5ec6367d3",
+      "original_title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "title": "Amazon SageMaker HyperPod 上の SkyRL を使用してマルチモーダル RL トレーニングを加速する",
       "summary": [
-        "企業は、多くの AWS アカウントに分散したデータをコピーしたり一元化することなく推論できる AI エージェントをますます求めています",
-        "各チームは、明確な所有権、スコープの分離、独立した運用などの正当な理由により、自分のアカウントにデータを保管します"
+        "トレーニング後の強化学習 (RL) は、有能な言語モデル エージェントを構築するための標準的なステップになりつつあります",
+        "モデルは、軌道を生成し、報酬を受け取り、ポリシーに基づいて更新することで、一連のステップ全体にわたって推論して行動することを学習します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
-      "published": "2026-09-24 16:12"
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "published": "2026-09-25 16:18"
     },
     {
-      "id": "d9418731e19c",
-      "original_title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "title": "Aderant が Amazon Nova を使用してインテリジェントなチケットトリアージを構築",
+      "id": "1f9e46dba2b3",
+      "original_title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "title": "NarrateAI: Amazon Bedrock で本番環境に対応した LLM 品質保証",
       "summary": [
-        "このゲスト投稿は、Aderant の Angela Mapes と Adam Walker の共著です",
-        "この投稿では、法律業界向けのビジネス管理ソフトウェアの世界的プロバイダーである Aderant が、Amazon Nova Lite を使用してインテリジェントなチケットトリアージシステムを構築した方法を紹介します"
+        "経営幹部は、正確さとスピードが重要となる実際のビジネスレビュー中にデータに基づいた意思決定を行う必要があります",
+        "会話型エージェント AI アシスタントは、データの質問に即座に答えることで、このニーズを満たすことができます",
+        "しかし、賭け金は高くなります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "published": "2026-09-24 16:06"
+      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
+      "published": "2026-09-25 16:15"
     },
     {
-      "id": "28d68ce03e5f",
-      "original_title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
-      "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
+      "id": "e43ef393e5e5",
+      "original_title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
+      "title": "Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO",
       "summary": [
-        "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した",
-        "文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという"
+        "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した",
+        "「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する",
+        "自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html",
-      "published": "2026-09-25 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/",
+      "published": "2026-09-26 07:48"
     },
     {
-      "id": "8f1d62b984d9",
-      "original_title": "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
-      "title": "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
+      "id": "f100f6e9e200",
+      "original_title": "あいち銀行が経理DXを本格化　LayerXと「請求書受領から振込まで」をつなぐ",
+      "title": "あいち銀行が経理DXを本格化　LayerXと「請求書受領から振込まで」をつなぐ",
       "summary": [
-        "TWOSTONE&Sonsが、企業のAI内製化に関する実態調査の結果を公表",
-        "AI内製化の推進責任者の9割以上が競合との差に危機感を抱き、社内主導プロジェクトの停滞や頓挫を経験している実態が明らかとなった"
+        "紙やPDFの請求書を受け取り、Excelに転記して承認、振込データを作成する",
+        "企業の経理現場には今なお手作業が残る",
+        "あいち銀行はLayerXと組み、請求書の受領から承認、振込までをデジタルでつなぐ取り組みに乗り出す"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
-      "published": "2026-09-25 08:00"
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/26/2000001731/",
+      "published": "2026-09-26 07:00"
     },
     {
-      "id": "30fc78b77399",
-      "original_title": "ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで [Sponsored]",
-      "title": "ThinkPadが約18万円引きってアリ？46%オフにメモリ無料増量まで [Sponsored]",
+      "id": "debb1363c9b4",
+      "original_title": "【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器 - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器 - PC Watch",
       "summary": [
-        "レノボ・ジャパンは公式ストアにおいて、「決算売り尽くしセールPart2」を開催中だ",
-        "最大51%オフの値引きが実施されるなど、多くの製品が特別価格にて販売されている",
-        "期間は10月1日まで"
+        "コンパクトで軽く、持ち運びもしやすいミニPCを、モバイル環境で使ってみたいと考えるユーザーもいるだろう",
+        "特に自宅やオフィスで使っているメインPCをそのまま持ち出すなら、今までのように複数台のPCで環境を揃えたり、データを同期して作業を継続しやすくする手間もいらない"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142912.html",
-      "published": "2026-09-25 06:45"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143508.html",
+      "published": "2026-09-26 07:48"
     },
     {
-      "id": "c6586dc66b53",
-      "original_title": "デスクトップなのにCPUはノート用！NEXTGEAR初のIntel機の狙いが新しい ～【TGS2026】マウスコンピューター取材レポート[Sponsored]",
-      "title": "デスクトップなのにCPUはノート用！NEXTGEAR初のIntel機の狙いが新しい ～【TGS2026】マウスコンピューター取材レポート[Sponsored]",
+      "id": "19690f059b32",
+      "original_title": "【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた - PC Watch",
       "summary": [
-        "ゲーミングPCを選ぶとき、まず気になるのはゲームがどれだけ快適に動くかだろう",
-        "ただ、購入したPCでゲームだけをするとは限らない",
-        "Webを見たり、動画を楽しんだり、仕事や勉強に使ったりする時間もある"
+        "自宅でのテレワークがメインだけれど、狭いデスクでがんばって仕事している人もいるのではないだろうか",
+        "もっと広々としたデスクで作業したい",
+        "でも、部屋の広さを考えると大きなデスクに変えるのは難しい、みたいな事情もあるかもしれない"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2142446.html",
-      "published": "2026-09-25 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143507.html",
+      "published": "2026-09-26 07:42"
     },
     {
-      "id": "f8754014a979",
-      "original_title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
-      "title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
+      "id": "c97cf7f0a89f",
+      "original_title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
+      "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
       "summary": [
-        "スマートフォンをはじめとする電子機器の分解マニュアルを公開しているiFixitが、2026年9月に発売されたiPhone 18 Proを分解した動画を公開しました",
-        "iPhone 18 Pro／Pro MaxでApple史上初めて搭載されたカメラの可変絞りがどのようになっているのかや、バッテリー交換のやりやすさなどがわかる動画となっています",
+        "中国の首都北京で、無人航空機(UAV)およびその部品の所持を禁止する「北京市無人航空機管理条例」の改正案が可決されました",
+        "この措置に伴い政府による補助金制度が始まっています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/",
-      "published": "2026-09-25 07:00"
+      "link": "https://gigazine.net/news/20260926-beijing-ban-drone/",
+      "published": "2026-09-26 08:00"
     },
     {
-      "id": "7391b877ee06",
-      "original_title": "アメリカ軍によるイランの小学校へのミサイル攻撃はデータベースの情報更新を怠りAIを過信したことが一因だったとの報道",
-      "title": "アメリカ軍によるイランの小学校へのミサイル攻撃はデータベースの情報更新を怠りAIを過信したことが一因だったとの報道",
+      "id": "83c1c7482ec4",
+      "original_title": "超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない",
+      "title": "超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない",
       "summary": [
-        "2026年2月にイラン南部の小学校へアメリカ軍のミサイルが着弾し、少なくとも123人の子どもを含む150人以上が死亡しました",
-        "経済紙・Bloombergの取材に応じた匿名の当局関係者によると、学校の敷地がイラン革命防衛隊の施設としてデータベースに登録されたままであったことが、小学校にミサイル攻撃が行われた一因だそうです",
+        "「超高度な文明」がどのようなものか想像した時、別の恒星まで宇宙旅行をしたり他の惑星へ入植したりするような、外に拡大していくタイプの文明を想像する人は多いはず",
+        "ところが教育系YouTubeチャンネルのKurzgesagtは、「超高度な文明は外に拡大していくのではなく内の世界を自由自在に操作するのかもしれない」として、内に向かうタイプの文明発展について解説しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260925-iran-school-maven-ai-kill-chain/",
-      "published": "2026-09-25 06:00"
+      "link": "https://gigazine.net/news/20260925-godlike-civilization/",
+      "published": "2026-09-25 22:00"
     },
     {
-      "id": "2ac7c18f4e20",
-      "original_title": "Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相",
-      "title": "Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相",
+      "id": "1f4428d54b4b",
+      "original_title": "MCP 2026-07-28仕様、最大の破壊的変更はセッション廃止 — ステートレス化とOAuth強化を読む",
+      "title": "MCP 2026-07-28仕様、最大の破壊的変更はセッション廃止 — ステートレス化とOAuth強化を読む",
       "summary": [
-        "📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です",
-        "▶️ 動画はこちら → Anthropicが『提訴』しなかった理由——Alibaba2,880万件不正利用の真相 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムス..."
+        "3行まとめ 2026年7月28日にリリースされたMCP（Model Context Protocol）新仕様の最大の変更は、initializeハンドシェイクとMcp-Session-Idの廃止",
+        "プロトコルがステートフルからステートレスなリクエスト/レスポンス方式に変わ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/kinamocchi_tech/items/59bd3d960fe388f3531a",
-      "published": "2026-09-25 09:16"
+      "link": "https://qiita.com/sakutto-panda/items/d34587b0147782ac2d62",
+      "published": "2026-09-26 09:12"
     },
     {
-      "id": "f58e734fb4c3",
-      "original_title": "プログラミング雑記 2026年9月25日",
-      "title": "プログラミング雑記 2026年9月25日",
+      "id": "8f2002cba7f0",
+      "original_title": "GoでSIMDを同一記法に統一する挑戦とその狙い！海外の Hacker News で今日バズっていた話題（2026-09-26）",
+      "title": "GoでSIMDを同一記法に統一する挑戦とその狙い！海外の Hacker News で今日バズっていた話題（2026-09-26）",
       "summary": [
-        "今日もネットの海から拾ってきた、個人的に気になった技術ニュースや記事を厳選してお届けします",
-        "ご意見や補足があればコメントで教えていただけると嬉しいです",
-        "プログラミング Go言語 Go 1.27では、プラットフォームやベクトル長に依存しないポータブルなSIMDイン..."
+        "海外エンジニアが集まる Hacker News で、この 24 時間に上位まで伸びていた話題を日本語でまとめました",
+        "各エントリに元スレッドの points とコメント数、議論スレッドへのリンクを付けています",
+        "記事本文は PaPoo 側に置いてあります"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ishisaka/items/58dfcba2ef76d64cda2b",
-      "published": "2026-09-25 09:13"
+      "link": "https://qiita.com/homhom44/items/11997da3cf34f0036a7d",
+      "published": "2026-09-26 09:11"
     },
     {
-      "id": "76dd57282a63",
-      "original_title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "title": "共同創設者、パートナー、同僚を連れてくると、2 番目の TechCrunch Disrupt 2026 パスが 50% オフになります",
+      "id": "8de53ec9daa7",
+      "original_title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "title": "クルーソー、AIデータセンターでブームタービンを使用する12億5000万ドルの計画を放棄",
       "summary": [
-        "TechCrunch Disrupt 2026 のパスを 1 枚購入すると、同じタイプのチケットの 2 枚目が 50% オフになります",
-        "イベントが始まる 10 月 13 日午前 8 時（太平洋時間）前に登録してください"
+        "ブーム・スーパーソニックのブレイク・ショール最高経営責任者（CEO）は、同社の新しい定置型発電所はもはやクルーソーの短期計画には含まれていないと述べた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "published": "2026-09-24 19:15"
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "published": "2026-09-25 23:11"
     },
     {
-      "id": "8609b153a0a9",
-      "original_title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "title": "PrismML は、その小さな LLM をクアルコム搭載のスマート グラスに導入します",
+      "id": "7cd1d3d1ec65",
+      "original_title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "title": "安全でない OpenAI エージェントがラボの知らないうちに 53 枚のユーザー画像をインターネット上に投稿",
       "summary": [
-        "Prism のより大きな目標は、デバイス上で実行され、デバイスがすでに持っているコンピューティング能力をより有効に活用するオープンウェイト AI です"
+        "OpenAI の研究環境で動作する AI エージェントは、研究室の知らないうちにユーザーの画像を公開画像ホスティング サイトに投稿しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "published": "2026-09-24 19:00"
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "published": "2026-09-25 22:20"
     }
   ]
 }
