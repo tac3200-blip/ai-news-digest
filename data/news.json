@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 09:17",
+  "updated_at": "2026-09-28 09:19",
   "total_count": 19,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "original_title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "title": "Proaction は売上げを 60% 増加させ、Codex を使用して 75 時間以上を節約",
       "summary": [
-        "Codex、GPT-Live-1、および GPT-6 Astra を使用して、Proaction は最新のフリート管理をより迅速に構築、運用、販売しています"
+        "Proaction は、Codex、GPT-Live-1、および GPT-6 Astra を使用して、最新のフリート管理をより迅速に構築、運用、販売しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -124,148 +124,148 @@
       "published": "2026-09-25 16:15"
     },
     {
-      "id": "916694ca7d1b",
-      "original_title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
-      "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "id": "38e2973d2883",
+      "original_title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
+      "title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
       "summary": [
-        "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した",
-        "生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減",
-        "AIによる顧客対応の本番運用を支える仕組みも整える"
+        "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した",
+        "AIはSaaSを代替するのではなくデータモデルを拡張すると指摘",
+        "市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
-      "published": "2026-09-27 07:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
+      "published": "2026-09-28 08:00"
     },
     {
-      "id": "c5ac64bfa9b7",
-      "original_title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
-      "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+      "id": "2de87e14bf2b",
+      "original_title": "「アサヒ・ニチレイの惨劇」はどう防げた？　米HP幹部が語る“ネット遮断AI”と日本攻略",
+      "title": "「アサヒ・ニチレイの惨劇」はどう防げた？　米HP幹部が語る“ネット遮断AI”と日本攻略",
       "summary": [
-        "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる",
-        "AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか",
-        "アクセンチュアの調査から、その実態が見えてきた"
+        "アサヒビールやニチレイ、アスクルなど、日本企業を狙うサイバー攻撃が相次いでいる",
+        "米HPのマイケル・ボイルSVPに、日本市場における新たなセキュリティ戦略を聞いた",
+        "社員の意識向上を支援する「コンサル型営業」への変革や、クラウド非接続で情報漏えいを防ぐエッジAI搭載PC「HP IQ」の投入など、単なるハードウェア販売からの脱却を図る"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
-      "published": "2026-09-26 17:00"
+      "link": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
+      "published": "2026-09-28 07:00"
     },
     {
-      "id": "debb1363c9b4",
-      "original_title": "【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器 - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器 - PC Watch",
+      "id": "b8065e24544e",
+      "original_title": "【本日みつけたお買い得品】5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ",
+      "title": "【本日みつけたお買い得品】5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ",
       "summary": [
-        "コンパクトで軽く、持ち運びもしやすいミニPCを、モバイル環境で使ってみたいと考えるユーザーもいるだろう",
-        "特に自宅やオフィスで使っているメインPCをそのまま持ち出すなら、今までのように複数台のPCで環境を揃えたり、データを同期して作業を継続しやすくする手間もいらない"
+        "Amazonにおいて、GMKtecのミニPC「K13」が9月15日の価格から4万6,401円引きで、9万5,598円にて購入可能となっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143508.html",
-      "published": "2026-09-26 07:48"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143593.html",
+      "published": "2026-09-28 09:09"
     },
     {
-      "id": "19690f059b32",
-      "original_title": "【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた - PC Watch",
+      "id": "23dc7da6a943",
+      "original_title": "手が届くXPSが登場！新XPS 13は初めての1台にも最適なモバイルノートだ [Sponsored]",
+      "title": "手が届くXPSが登場！新XPS 13は初めての1台にも最適なモバイルノートだ [Sponsored]",
       "summary": [
-        "自宅でのテレワークがメインだけれど、狭いデスクでがんばって仕事している人もいるのではないだろうか",
-        "もっと広々としたデスクで作業したい",
-        "でも、部屋の広さを考えると大きなデスクに変えるのは難しい、みたいな事情もあるかもしれない"
+        "デル・テクノロジーズから新しい「XPS 13ノートパソコン」(以下XPS 13)が登場した",
+        "XPS 13は、プレミアムラインとしての優れた質感はそのままに、基本構成で15万円台から、定期的に開催されているセールでは15万円を切るという、エントリークラスに近い価格を実現した製品だ",
+        "まさに“初めてのXPS”として最適の製品となっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143507.html",
-      "published": "2026-09-26 07:42"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2137202.html",
+      "published": "2026-09-28 06:30"
     },
     {
-      "id": "904a53edccee",
-      "original_title": "「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度",
-      "title": "「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度",
+      "id": "0adc8b2e8456",
+      "original_title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
+      "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
       "summary": [
-        "2026年9月18日(金)、Apple Watchの最上位モデルとなる「Apple Watch Ultra 4」が発売されました",
-        "ハイエンドモデルのApple Watch Ultra 4の性能やいかにということで、普段Apple Watch Series 3を使っているGIGAZINE編集部員が、実際にいろいろ使ってみました",
+        "放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります",
+        "「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260927-apple-watch-ultra-4-review/",
-      "published": "2026-09-27 09:00"
+      "link": "https://gigazine.net/news/20260928-damo-radar/",
+      "published": "2026-09-28 07:00"
     },
     {
-      "id": "12aef3951cf8",
-      "original_title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
-      "title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
+      "id": "9326833ecfdc",
+      "original_title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
+      "title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
       "summary": [
-        "AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました",
+        "「興味のあることには長時間集中できるのに、日常の用事にはなかなか手がつかない」といった集中力の偏りについて本人がどう受け止めるかは、診断を機に変わることがあります",
+        "イギリス・ウルバーハンプトン大学のトレーシー・ケリー氏らが、大人になってから注意欠如多動症(ADHD)と診断された女性12人に話を聞いた結果を報告しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260927-digital-camouflage-shirt/",
-      "published": "2026-09-27 08:00"
+      "link": "https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/",
+      "published": "2026-09-28 06:00"
     },
     {
-      "id": "21920ef926e5",
-      "original_title": "AI家庭教師は人間の講師と同じ学習効果、費用は最大918分の1",
-      "title": "AI家庭教師は人間の講師と同じ学習効果、費用は最大918分の1",
+      "id": "e51284b45deb",
+      "original_title": "AIが『私はただのAI』と言う理由は、入力を包む飾り枠にあった",
+      "title": "AIが『私はただのAI』と言う理由は、入力を包む飾り枠にあった",
       "summary": [
-        "テスト勉強を教える家庭教師を、AIが人間と同じくらいうまくこなせるらしい",
-        "しかも費用は桁違いに安い",
-        "そんな実験結果が海外で公開された"
+        "「あなたに意識はある",
+        "」とAIに聞くと、たいてい「私はただのAIです」と返ってくる",
+        "この一言は、AIに心があるのかを論じるときによく引き合いに出される"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/okssusucha/items/4e6e8423dff2eb1e6494",
-      "published": "2026-09-27 09:13"
+      "link": "https://qiita.com/okssusucha/items/2beed95ebb0a9e346eae",
+      "published": "2026-09-28 09:08"
     },
     {
-      "id": "3141c88bf471",
-      "original_title": "OpenAIエージェントがHugging Faceへ侵入した経路を追跡する！海外の Hacker News で今日バズっていた話題（2026-09-27）",
-      "title": "OpenAIエージェントがHugging Faceへ侵入した経路を追跡する！海外の Hacker News で今日バズっていた話題（2026-09-27）",
+      "id": "d5d6e4504526",
+      "original_title": "AIにアプリ作りを頼むとき、依頼を小さく分ける方法",
+      "title": "AIにアプリ作りを頼むとき、依頼を小さく分ける方法",
       "summary": [
-        "海外エンジニアが集まる Hacker News で、この 24 時間に上位まで伸びていた話題を日本語でまとめました",
-        "各エントリに元スレッドの points とコメント数、議論スレッドへのリンクを付けています",
-        "記事本文は PaPoo 側に置いてあります"
+        "AIに「便利なアプリを全部作って」と頼むと、初心者ほど途中で何が起きているのか分からなくなります",
+        "画面、機能、デザイン、公開設定を一度に変更すると、エラーが出たときの原因も追いにくくなります",
+        "そこでおすすめなのが、AIへの依頼を小さく分ける進め方です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/homhom44/items/b04eb62db1b1bab379a2",
-      "published": "2026-09-27 09:10"
+      "link": "https://qiita.com/boraemon2000/items/bea7c3a38780477682ca",
+      "published": "2026-09-28 08:39"
     },
     {
-      "id": "65ab2b4b9d0f",
-      "original_title": "Insurers claim AI is already increasing healthcare costs",
-      "title": "保険会社はAIがすでに医療費を増加させていると主張している",
+      "id": "9132b996badb",
+      "original_title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "title": "アンスロピックのCEOはトランプ大統領と夕食をとろうとしている",
       "summary": [
-        "Blue Cross Blue Shield は、病院での AI ツールの使用により、2 年間で医療支出がさらに 9 億 4,200 万ドル増加したと述べています"
+        "ダリオ・アモデイ氏とドナルド・トランプ氏の一対一の会談はこれが初めてとなる"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "published": "2026-09-26 21:02"
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published": "2026-09-27 20:34"
     },
     {
-      "id": "d03b3e9c5429",
-      "original_title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "title": "私は自分のインタラクティブなデジタル アバターを作成しました - そしてあなたはそれに話しかけることができます",
+      "id": "6c4269a1d09b",
+      "original_title": "Can Muse overcome Meta’s trust issues?",
+      "title": "Muse は Meta の信頼性の問題を克服できるでしょうか?",
       "summary": [
-        "インタラクティブなアバターを取得し、ベンチャー詐欺について話し合うようにトレーニングした後、AI で自分たちのクローンを作ることについては複雑な気持ちになります"
+        "「エクイティ」では、Meta の AI 発表がどのようにして OpenAI と Anthropic からスポットライトを盗むことができたのかについて議論しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "published": "2026-09-26 14:00"
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published": "2026-09-27 19:57"
     }
   ]
 }
