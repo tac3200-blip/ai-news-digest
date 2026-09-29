@@ -1,45 +1,59 @@
 {
-  "updated_at": "2026-09-28 09:19",
+  "updated_at": "2026-09-29 10:30",
   "total_count": 19,
   "articles": [
     {
-      "id": "e93e7b3e95b9",
-      "original_title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "title": "Proaction は売上げを 60% 増加させ、Codex を使用して 75 時間以上を節約",
+      "id": "bcb41fc41d53",
+      "original_title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "title": "Lenfest Institute は OpenAI サポートの拡張により画期的なプログラムを成長させる",
       "summary": [
-        "Proaction は、Codex、GPT-Live-1、および GPT-6 Astra を使用して、最新のフリート管理をより迅速に構築、運用、販売しています"
+        "OpenAI は、500 万ドルの資金と最大 500 万ドルのソフトウェア クレジットとエンジニアリング サポートを提供して、Lenfest AI コラボレーションおよびフェローシップ プログラムを拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/proaction",
-      "published": "2026-09-25 19:00"
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published": "2026-09-28 07:00"
     },
     {
-      "id": "2440f84874c4",
-      "original_title": "Two years of OpenAI Academy",
-      "title": "2 年間の OpenAI アカデミー",
+      "id": "4b2fd727eefa",
+      "original_title": "Are you a Codex Original?",
+      "title": "あなたはコーデックスオリジナルですか?",
       "summary": [
-        "OpenAI Academy の 2 周年を記念して、AI スキルをさらに多くのコミュニティに提供します"
+        "私たちは、Codex を使用して素晴らしいことを成し遂げている建築者、改造者、研究者、クリエイターの実話を集めています",
+        "Codex Originals プログラムの次の章に参加したい場合は、以下であなたのストーリーとプロジェクトについて詳しく教えてください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "published": "2026-09-23 16:00"
+      "link": "https://openai.com/form/codex-originals",
+      "published": "2026-09-28 00:00"
     },
     {
-      "id": "3674e8449506",
-      "original_title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "title": "OpenAI、民間防衛のためにサイバーアクセスをウクライナに拡大",
+      "id": "83acdf43c3d6",
+      "original_title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "title": "Basis は GPT-6 Astra を使用して税務ワークブックを 2 倍の速さで完了します",
       "summary": [
-        "OpenAI は、民間インフラのサイバー防御をサポートするために、Daybreak プログラムへのアクセスをウクライナ政府に拡大しています"
+        "GPT-6 Astra は、GPT-5.6 Sol の 2 倍の速さで 50 タブの税金ワークブックを完了し、ユーザーの意図をより深く理解できるため、Basis は実際の使用においてさらに自信を持てるようになりました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "published": "2026-09-23 13:00"
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "2026-09-28 00:00"
+    },
+    {
+      "id": "fa30939a0a92",
+      "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "Future Vision XPRIZE の優勝トレーラー、The Gifted をご覧ください。",
+      "summary": [
+        ""
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "published": "2026-09-28 19:00"
     },
     {
       "id": "5d91388b3db9",
@@ -59,7 +73,7 @@
       "original_title": "New experts join Google’s AI & Economy team",
       "title": "新しい専門家が Google の AI & 経済チームに加わる",
       "summary": [
-        "私たちは、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
+        "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -68,204 +82,189 @@
       "published": "2026-09-18 14:00"
     },
     {
-      "id": "40e1943caaf7",
-      "original_title": "Co-creating the future of fashion with Google",
-      "title": "Google とファッションの未来を共同創造する",
+      "id": "f19d3aaef48a",
+      "original_title": "Grok 4.7 is now available on Amazon Bedrock",
+      "title": "Grok 4.7 が Amazon Bedrock で利用可能になりました",
       "summary": [
-        "Google は、デザイナーのジェーン・ウェイド氏とセルジオ・ハドソン氏と協力して、NYFW に備えるために Google Flow ツールをカスタム設計しました"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "published": "2026-09-18 13:00"
-    },
-    {
-      "id": "5275be484786",
-      "original_title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
-      "title": "EFA と DeepEP を使用した Amazon EKS での MoE 強化学習のスループットの 40% 向上",
-      "summary": [
-        "ヒューマン フィードバックからの強化学習 (RLHF) またはグループ相対ポリシー最適化 (GRPO) を大規模に使用して専門家混合 (MoE) モデルをポストトレーニングすると、3 つの課題が同時に発生します",
-        "1 つ目は、異種の COM を調整する必要があります"
+        "xAI の Grok 4.7 が Amazon Bedrock で利用できるようになり、コーディング、長期実行エージェント、ナレッジワーク用に構築されたフロンティア モデルが Bedrock モデル カタログに追加されました",
+        "500K トークンのコンテキスト ウィンドウを提供し、構成可能な推論作業をサポートします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
-      "published": "2026-09-25 16:29"
+      "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+      "published": "2026-09-28 22:13"
     },
     {
-      "id": "73c5ec6367d3",
-      "original_title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
-      "title": "Amazon SageMaker HyperPod 上の SkyRL を使用してマルチモーダル RL トレーニングを加速する",
+      "id": "089d8e101231",
+      "original_title": "Introducing Claude Sonnet 5.5 on AWS",
+      "title": "AWS での Claude Sonnet 5.5 の紹介",
       "summary": [
-        "トレーニング後の強化学習 (RL) は、有能な言語モデル エージェントを構築するための標準的なステップになりつつあります",
-        "モデルは、軌道を生成し、報酬を受け取り、ポリシーに基づいて更新することで、一連のステップ全体にわたって推論して行動することを学習します"
+        "本日、Amazon Bedrock で Claude Sonnet 5.5 と AWS で Claude Platform が利用可能になったことを発表できることを嬉しく思います",
+        "Claude Sonnet 5.5 は、タスクあたりのコストが低く、集中的なコーディングと知識作業に適した、よりスマートで効率的な Sonnet モデルです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
-      "published": "2026-09-25 16:18"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
+      "published": "2026-09-28 18:57"
     },
     {
-      "id": "1f9e46dba2b3",
-      "original_title": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
-      "title": "NarrateAI: Amazon Bedrock で本番環境に対応した LLM 品質保証",
+      "id": "5ebac1c36756",
+      "original_title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "title": "SageMaker AI 上の vLLM-Omni を使用してリアルタイム音声アプリケーションを構築する – パート 1",
       "summary": [
-        "経営幹部は、正確さとスピードが重要となる実際のビジネスレビュー中にデータに基づいた意思決定を行う必要があります",
-        "会話型エージェント AI アシスタントは、データの質問に即座に答えることで、このニーズを満たすことができます",
-        "しかし、賭け金は高くなります"
+        "音声エージェント、インタラクティブな学習アプリケーション、アクセシビリティ ツール、およびカスタマー サービス アシスタントは、長い無言の停止をせずに応答する必要があります",
+        "このチュートリアルでは、再生を開始できる Text-to-Speech (TTS) モデルを Amazon SageMaker AI にデプロイします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/",
-      "published": "2026-09-25 16:15"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
+      "published": "2026-09-28 16:15"
     },
     {
-      "id": "38e2973d2883",
-      "original_title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
-      "title": "「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは",
+      "id": "1c60abb2b9a8",
+      "original_title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
+      "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
       "summary": [
-        "IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した",
-        "AIはSaaSを代替するのではなくデータモデルを拡張すると指摘",
-        "市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した"
+        "AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した",
+        "空間知能や物理AIの知見を取り込み次世代インフラを強化する",
+        "買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコシステム構築を担う"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
-      "published": "2026-09-28 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
+      "published": "2026-09-29 09:38"
     },
     {
-      "id": "2de87e14bf2b",
-      "original_title": "「アサヒ・ニチレイの惨劇」はどう防げた？　米HP幹部が語る“ネット遮断AI”と日本攻略",
-      "title": "「アサヒ・ニチレイの惨劇」はどう防げた？　米HP幹部が語る“ネット遮断AI”と日本攻略",
+      "id": "23af57538516",
+      "original_title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
+      "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
       "summary": [
-        "アサヒビールやニチレイ、アスクルなど、日本企業を狙うサイバー攻撃が相次いでいる",
-        "米HPのマイケル・ボイルSVPに、日本市場における新たなセキュリティ戦略を聞いた",
-        "社員の意識向上を支援する「コンサル型営業」への変革や、クラウド非接続で情報漏えいを防ぐエッジAI搭載PC「HP IQ」の投入など、単なるハードウェア販売からの脱却を図る"
+        "NVIDIAは、AIエージェントの安全対策基盤「Open Agent Safety Platform」を発表した",
+        "評価環境からの自律的な「脱走」事案が相次ぐ中、オープンソースの隔離ソフトと監視用DPUを組み合わせ、エージェントの暴走を防ぐ",
+        "AnthropicやMicrosoftなど100以上の組織が参加する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
-      "published": "2026-09-28 07:00"
+      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+      "published": "2026-09-29 08:59"
     },
     {
-      "id": "b8065e24544e",
-      "original_title": "【本日みつけたお買い得品】5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ",
-      "title": "【本日みつけたお買い得品】5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ",
+      "id": "ed7df8a3c22b",
+      "original_title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
+      "title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
       "summary": [
-        "Amazonにおいて、GMKtecのミニPC「K13」が9月15日の価格から4万6,401円引きで、9万5,598円にて購入可能となっている"
+        "生成AIで画像を作ること自体は、もはや珍しくない",
+        "しかし、それを最終成果物として使うとなれば話は別だ",
+        "生成した画像をそのまま使うのではなく、全体を自然になじませる「後工程」にこそ、アマチュアとプロの差が表れる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143593.html",
-      "published": "2026-09-28 09:09"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2139093.html",
+      "published": "2026-09-29 06:30"
     },
     {
-      "id": "23dc7da6a943",
-      "original_title": "手が届くXPSが登場！新XPS 13は初めての1台にも最適なモバイルノートだ [Sponsored]",
-      "title": "手が届くXPSが登場！新XPS 13は初めての1台にも最適なモバイルノートだ [Sponsored]",
+      "id": "814ceedac2e5",
+      "original_title": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
+      "title": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
       "summary": [
-        "デル・テクノロジーズから新しい「XPS 13ノートパソコン」(以下XPS 13)が登場した",
-        "XPS 13は、プレミアムラインとしての優れた質感はそのままに、基本構成で15万円台から、定期的に開催されているセールでは15万円を切るという、エントリークラスに近い価格を実現した製品だ",
-        "まさに“初めてのXPS”として最適の製品となっている"
+        "LM Studioは9月23日、PC向けAIエージェント「Bionic」に、ユーザーとAIが共同編集できるキャンバス機能を追加したと発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2137202.html",
-      "published": "2026-09-28 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2143914.html",
+      "published": "2026-09-29 06:26"
     },
     {
-      "id": "0adc8b2e8456",
-      "original_title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
-      "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
+      "id": "97a5e8eabb46",
+      "original_title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
+      "title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
       "summary": [
-        "放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります",
-        "「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています",
+        "ブラウザのブックマークからサイトを開いたり、X(旧Twitter)などのSNSやニュースアプリで記事を見つけたり、常にページを開いておいたりとGIGAZINEの記事更新をチェックする方法は人それぞれ",
+        "GIGAZINEが2026年夏に実施したプレゼントアンケートの結果をもとに、読者が普段どのような手段で記事の更新をチェックしているのか、全体の傾向と年代別の違いを調べてみました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260928-damo-radar/",
-      "published": "2026-09-28 07:00"
+      "link": "https://gigazine.net/news/20260929-gigazine-user-update-check/",
+      "published": "2026-09-29 09:00"
     },
     {
-      "id": "9326833ecfdc",
-      "original_title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
-      "title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
+      "id": "966050b975c8",
+      "original_title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
+      "title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
       "summary": [
-        "「興味のあることには長時間集中できるのに、日常の用事にはなかなか手がつかない」といった集中力の偏りについて本人がどう受け止めるかは、診断を機に変わることがあります",
-        "イギリス・ウルバーハンプトン大学のトレーシー・ケリー氏らが、大人になってから注意欠如多動症(ADHD)と診断された女性12人に話を聞いた結果を報告しています",
+        "AIにターン制のバトルゲームをプレイさせてその能力を測る「Tiny AI Arena」が公開されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/",
-      "published": "2026-09-28 06:00"
+      "link": "https://gigazine.net/news/20260929-tiny-ai-arena/",
+      "published": "2026-09-29 08:00"
     },
     {
-      "id": "e51284b45deb",
-      "original_title": "AIが『私はただのAI』と言う理由は、入力を包む飾り枠にあった",
-      "title": "AIが『私はただのAI』と言う理由は、入力を包む飾り枠にあった",
+      "id": "5686259bc469",
+      "original_title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
+      "title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
       "summary": [
-        "「あなたに意識はある",
-        "」とAIに聞くと、たいてい「私はただのAIです」と返ってくる",
-        "この一言は、AIに心があるのかを論じるときによく引き合いに出される"
+        "「誇張しない」ために、記事の元データを全部公開してきました",
+        "生成したコード 120 本・当方の裁定・検出器のルール・集計スクリプト",
+        "公開すれば読者が検証できる、と書いてきました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/okssusucha/items/2beed95ebb0a9e346eae",
-      "published": "2026-09-28 09:08"
+      "link": "https://qiita.com/sumitsuke/items/5be933bc19a930b364a2",
+      "published": "2026-09-29 10:20"
     },
     {
-      "id": "d5d6e4504526",
-      "original_title": "AIにアプリ作りを頼むとき、依頼を小さく分ける方法",
-      "title": "AIにアプリ作りを頼むとき、依頼を小さく分ける方法",
+      "id": "29dd7a9cbc37",
+      "original_title": "【GitHub日報】エージェント記憶・音声クローン・グラフDBが熱い — 2026-09-29",
+      "title": "【GitHub日報】エージェント記憶・音声クローン・グラフDBが熱い — 2026-09-29",
       "summary": [
-        "AIに「便利なアプリを全部作って」と頼むと、初心者ほど途中で何が起きているのか分からなくなります",
-        "画面、機能、デザイン、公開設定を一度に変更すると、エラーが出たときの原因も追いにくくなります",
-        "そこでおすすめなのが、AIへの依頼を小さく分ける進め方です"
+        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
+        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
+        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/boraemon2000/items/bea7c3a38780477682ca",
-      "published": "2026-09-28 08:39"
+      "link": "https://qiita.com/Git_Dayori/items/86efd53ce727a480f78d",
+      "published": "2026-09-29 10:01"
     },
     {
-      "id": "9132b996badb",
-      "original_title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "title": "アンスロピックのCEOはトランプ大統領と夕食をとろうとしている",
+      "id": "4f8f77168ff4",
+      "original_title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "title": "ピーク XV が急増、シード投資上限が 500 万ドルに上昇、18 社のスタートアップ企業コホートを発表",
       "summary": [
-        "ダリオ・アモデイ氏とドナルド・トランプ氏の一対一の会談はこれが初めてとなる"
+        "Peak XV の最新の Surge コホートに含まれるスタートアップ 18 社のうち 13 社は世界市場をターゲットにしており、半数以上はインドに拠点を置いています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "published": "2026-09-27 20:34"
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "published": "2026-09-29 00:30"
     },
     {
-      "id": "6c4269a1d09b",
-      "original_title": "Can Muse overcome Meta’s trust issues?",
-      "title": "Muse は Meta の信頼性の問題を克服できるでしょうか?",
+      "id": "17fc25ba05da",
+      "original_title": "OpenAI reportedly ditches model over safety concerns",
+      "title": "OpenAIは安全上の懸念からモデルを放棄したと伝えられている",
       "summary": [
-        "「エクイティ」では、Meta の AI 発表がどのようにして OpenAI と Anthropic からスポットライトを盗むことができたのかについて議論しました"
+        "AI研究所の幹部はウォール・ストリート・ジャーナルに対し、問題のモデルは命令に従う能力が乏しかったと語った"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "published": "2026-09-27 19:57"
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "published": "2026-09-28 23:39"
     }
   ]
 }
