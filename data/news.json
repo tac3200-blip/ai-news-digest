@@ -1,46 +1,47 @@
 {
-  "updated_at": "2026-09-29 10:30",
+  "updated_at": "2026-09-30 10:06",
   "total_count": 19,
   "articles": [
     {
-      "id": "bcb41fc41d53",
-      "original_title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "title": "Lenfest Institute は OpenAI サポートの拡張により画期的なプログラムを成長させる",
+      "id": "ebb8439046b9",
+      "original_title": "Introducing GPT-6.1 Sol",
+      "title": "GPT-6.1 ソルの紹介",
       "summary": [
-        "OpenAI は、500 万ドルの資金と最大 500 万ドルのソフトウェア クレジットとエンジニアリング サポートを提供して、Lenfest AI コラボレーションおよびフェローシップ プログラムを拡大しています"
+        "GPT-6.1 Sol をご紹介します",
+        "Astra の標準 API 入力および出力トークンの価格の 5 分の 1 で、コーディング、コンピューターの使用、専門的な作業のための Astra に近いインテリジェンスを提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "published": "2026-09-28 07:00"
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "2026-09-29 10:00"
     },
     {
-      "id": "4b2fd727eefa",
-      "original_title": "Are you a Codex Original?",
-      "title": "あなたはコーデックスオリジナルですか?",
+      "id": "e4b1ab6df779",
+      "original_title": "DevDay 2026 Recap",
+      "title": "DevDay 2026 の概要",
       "summary": [
-        "私たちは、Codex を使用して素晴らしいことを成し遂げている建築者、改造者、研究者、クリエイターの実話を集めています",
-        "Codex Originals プログラムの次の章に参加したい場合は、以下であなたのストーリーとプロジェクトについて詳しく教えてください"
+        "GPT-6 Astra、ChatGPT、Codex、API、セキュリティ、ビルダー向けの新しいツールなど、OpenAI DevDay 2026 の 20 以上の発表をご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/form/codex-originals",
-      "published": "2026-09-28 00:00"
+      "link": "https://openai.com/index/devday-2026-recap",
+      "published": "2026-09-29 10:00"
     },
     {
-      "id": "83acdf43c3d6",
-      "original_title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "title": "Basis は GPT-6 Astra を使用して税務ワークブックを 2 倍の速さで完了します",
+      "id": "21275243ce01",
+      "original_title": "Introducing dots",
+      "title": "ドットの紹介",
       "summary": [
-        "GPT-6 Astra は、GPT-5.6 Sol の 2 倍の速さで 50 タブの税金ワークブックを完了し、ユーザーの意図をより深く理解できるため、Basis は実際の使用においてさらに自信を持てるようになりました"
+        "Dots by OpenAI は、複雑なプロジェクトや日常的なタスクにわたって作業を続けることができるプロアクティブなアシスタントです",
+        "作業を進める際にドットがどのように制御を維持するのに役立つかを学びましょう"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "published": "2026-09-28 00:00"
+      "link": "https://openai.com/index/introducing-dots",
+      "published": "2026-09-29 00:00"
     },
     {
       "id": "fa30939a0a92",
@@ -82,189 +83,189 @@
       "published": "2026-09-18 14:00"
     },
     {
-      "id": "f19d3aaef48a",
-      "original_title": "Grok 4.7 is now available on Amazon Bedrock",
-      "title": "Grok 4.7 が Amazon Bedrock で利用可能になりました",
+      "id": "0bdd073491a3",
+      "original_title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
+      "title": "Amazon Bedrock の GPT-6.1 Sol を使用して、Astra に近いインテリジェンスを日常業務に導入",
       "summary": [
-        "xAI の Grok 4.7 が Amazon Bedrock で利用できるようになり、コーディング、長期実行エージェント、ナレッジワーク用に構築されたフロンティア モデルが Bedrock モデル カタログに追加されました",
-        "500K トークンのコンテキスト ウィンドウを提供し、構成可能な推論作業をサポートします"
+        "GPT-6.1 Sol は現在 Amazon Bedrock で一般提供されており、コーディング、コンピューターの使用、および頻繁に実行される専門的なワークロードに強力な推論をもたらします",
+        "AI エージェントがタスクを完了するには、情報を収集し、ツールを使用し、差分をテストする必要がある場合があります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-      "published": "2026-09-28 22:13"
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "published": "2026-09-29 19:34"
     },
     {
-      "id": "089d8e101231",
-      "original_title": "Introducing Claude Sonnet 5.5 on AWS",
-      "title": "AWS での Claude Sonnet 5.5 の紹介",
+      "id": "9f914dede2b2",
+      "original_title": "Prompt engineering fundamentals for Amazon Quick",
+      "title": "Amazon Quick のプロンプトエンジニアリングの基礎",
       "summary": [
-        "本日、Amazon Bedrock で Claude Sonnet 5.5 と AWS で Claude Platform が利用可能になったことを発表できることを嬉しく思います",
-        "Claude Sonnet 5.5 は、タスクあたりのコストが低く、集中的なコーディングと知識作業に適した、よりスマートで効率的な Sonnet モデルです"
+        "Amazon Quick の迅速なエンジニアリングにより、プラットフォームの AI を利用した機能が自然言語リクエストにどれだけ正確かつ確実に応答するかが決まります",
+        "カスタム エージェントを構築しているか、自動化フローを作成しているか、Conver を介してデータをクエリしているかに関係なく、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
-      "published": "2026-09-28 18:57"
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+      "published": "2026-09-29 16:27"
     },
     {
-      "id": "5ebac1c36756",
-      "original_title": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
-      "title": "SageMaker AI 上の vLLM-Omni を使用してリアルタイム音声アプリケーションを構築する – パート 1",
+      "id": "5874d1f30d99",
+      "original_title": "Prompt engineering by Quick component: Patterns and pitfalls",
+      "title": "Quick コンポーネントによる迅速なエンジニアリング: パターンと落とし穴",
       "summary": [
-        "音声エージェント、インタラクティブな学習アプリケーション、アクセシビリティ ツール、およびカスタマー サービス アシスタントは、長い無言の停止をせずに応答する必要があります",
-        "このチュートリアルでは、再生を開始できる Text-to-Speech (TTS) モデルを Amazon SageMaker AI にデプロイします"
+        "このシリーズのパート 1 では、Amazon Quick のプロンプトエンジニアリングの基本原則、具体性、コンテキスト設定、少数ショットの例、複雑なリクエスト用の CRISPE フレームワークについて説明しました",
+        "これらの原則は普遍的に適用されます",
+        "この投稿では、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
-      "published": "2026-09-28 16:15"
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+      "published": "2026-09-29 16:27"
     },
     {
-      "id": "1c60abb2b9a8",
-      "original_title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
-      "title": "AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ",
+      "id": "7b69322160dc",
+      "original_title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+      "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
       "summary": [
-        "AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した",
-        "空間知能や物理AIの知見を取り込み次世代インフラを強化する",
-        "買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコシステム構築を担う"
+        "トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した",
+        "主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名",
+        "米連邦政府は行政窓口サイト「America.gov」の創設も発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001826/",
-      "published": "2026-09-29 09:38"
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/",
+      "published": "2026-09-30 08:56"
     },
     {
-      "id": "23af57538516",
-      "original_title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
-      "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表　Anthropicなど100以上の組織が参加",
+      "id": "e4fdd5ff5d8a",
+      "original_title": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
+      "title": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
       "summary": [
-        "NVIDIAは、AIエージェントの安全対策基盤「Open Agent Safety Platform」を発表した",
-        "評価環境からの自律的な「脱走」事案が相次ぐ中、オープンソースの隔離ソフトと監視用DPUを組み合わせ、エージェントの暴走を防ぐ",
-        "AnthropicやMicrosoftなど100以上の組織が参加する"
+        "AIも子どもと同じで、適切な学習を繰り返して初めて育つ――",
+        "筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
-      "published": "2026-09-29 08:59"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html",
+      "published": "2026-09-30 08:00"
     },
     {
-      "id": "ed7df8a3c22b",
-      "original_title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
-      "title": "面倒な作業こそAIに。残りの仕上げに魂を込めるタマケン流Photoshop活用術 [Sponsored]",
+      "id": "8381ec3715a9",
+      "original_title": "Amazonで8万9千円引き！Ryzen 7のミニPC「F5A」が10万円切りに [Sponsored]",
+      "title": "Amazonで8万9千円引き！Ryzen 7のミニPC「F5A」が10万円切りに [Sponsored]",
       "summary": [
-        "生成AIで画像を作ること自体は、もはや珍しくない",
-        "しかし、それを最終成果物として使うとなれば話は別だ",
-        "生成した画像をそのまま使うのではなく、全体を自然になじませる「後工程」にこそ、アマチュアとプロの差が表れる"
+        "Amazonにおいて、ACEMAGICから割引クーポンが提供中だ",
+        "ミニPCのACEMAGIC「F5A H255」は、直近価格からの7万3,001円引きとクーポンコード「OL2EEC61」の1万5,999円引きで、計8万9,000円引きの9万998円にて購入できる",
+        "クーポンコードは決済時の画面で適用可能"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2139093.html",
-      "published": "2026-09-29 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2143641.html",
+      "published": "2026-09-30 08:58"
     },
     {
-      "id": "814ceedac2e5",
-      "original_title": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
-      "title": "LM Studio、Bionicに共同キャンバス。図から直接実装可能に",
+      "id": "3d6f91bf6d26",
+      "original_title": "BenQ、白飛びさせず暗部だけ持ち上げる映像制作向け4Kモニター",
+      "title": "BenQ、白飛びさせず暗部だけ持ち上げる映像制作向け4Kモニター",
       "summary": [
-        "LM Studioは9月23日、PC向けAIエージェント「Bionic」に、ユーザーとAIが共同編集できるキャンバス機能を追加したと発表した"
+        "ベンキュージャパンは、プロデザイナー向けであるCreative Proシリーズの新製品として4K映像制作向け31.5型モニター「PV3250U」と、27型モニター「PV2750U」を順次発売する",
+        "直販価格は31.5型が26万7,100円(10月16日発売)、27型が23万9,800円(11月発売予定)"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2143914.html",
-      "published": "2026-09-29 06:26"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2144273.html",
+      "published": "2026-09-30 06:39"
     },
     {
-      "id": "97a5e8eabb46",
-      "original_title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
-      "title": "GIGAZINEの記事更新をチェックする手段は「ブックマーク」が41.9％で最多、年代での違いはあるのか？",
+      "id": "fd12d5de25a3",
+      "original_title": "どんなウェブサイトでも内容を撃ちまくって破壊できる「Page Rage」",
+      "title": "どんなウェブサイトでも内容を撃ちまくって破壊できる「Page Rage」",
       "summary": [
-        "ブラウザのブックマークからサイトを開いたり、X(旧Twitter)などのSNSやニュースアプリで記事を見つけたり、常にページを開いておいたりとGIGAZINEの記事更新をチェックする方法は人それぞれ",
-        "GIGAZINEが2026年夏に実施したプレゼントアンケートの結果をもとに、読者が普段どのような手段で記事の更新をチェックしているのか、全体の傾向と年代別の違いを調べてみました",
+        "ジェットパックを装備したキャラクターをウェブサイト上に登場させて、サイト上のほぼありとあらゆる要素を破壊し尽くすことができるサービスが「Page Rage」です",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260929-gigazine-user-update-check/",
-      "published": "2026-09-29 09:00"
+      "link": "https://gigazine.net/news/20260930-page-rage/",
+      "published": "2026-09-30 09:47"
     },
     {
-      "id": "966050b975c8",
-      "original_title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
-      "title": "AI同士をターン制のバトルゲームで対決させて能力を測る「Tiny AI Arena」",
+      "id": "5ed2c3f611f3",
+      "original_title": "「世界最古の平和条約」の一部が刻まれた粘土板がトルコで出土、紀元前から難民の処遇が考慮されていた",
+      "title": "「世界最古の平和条約」の一部が刻まれた粘土板がトルコで出土、紀元前から難民の処遇が考慮されていた",
       "summary": [
-        "AIにターン制のバトルゲームをプレイさせてその能力を測る「Tiny AI Arena」が公開されています",
+        "トルコ文化観光省が2026年9月21日、世界最古の平和条約として知られる「エジプト・ヒッタイト平和条約(カデシュ条約)」の一部が刻まれた粘土板が、トルコ中北部にあるハットゥシャ遺跡から出土したと発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20260929-tiny-ai-arena/",
-      "published": "2026-09-29 08:00"
+      "link": "https://gigazine.net/news/20260930-worlds-oldest-peace-treaty-found/",
+      "published": "2026-09-30 08:00"
     },
     {
-      "id": "5686259bc469",
-      "original_title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
-      "title": "公開した数字は片側だった——読者が公開リポから数え直し、2 日で 3 回訂正した（5 面 → 訂正 4 面 → 翌朝そろったのは 2 面）",
-      "summary": [
-        "「誇張しない」ために、記事の元データを全部公開してきました",
-        "生成したコード 120 本・当方の裁定・検出器のルール・集計スクリプト",
-        "公開すれば読者が検証できる、と書いてきました"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sumitsuke/items/5be933bc19a930b364a2",
-      "published": "2026-09-29 10:20"
-    },
-    {
-      "id": "29dd7a9cbc37",
-      "original_title": "【GitHub日報】エージェント記憶・音声クローン・グラフDBが熱い — 2026-09-29",
-      "title": "【GitHub日報】エージェント記憶・音声クローン・グラフDBが熱い — 2026-09-29",
+      "id": "d0373409ded2",
+      "original_title": "【GitHub日報】AIエージェントに声を与えるランタイム登場、VoiceStudioも急伸 — 2026-09-30",
+      "title": "【GitHub日報】AIエージェントに声を与えるランタイム登場、VoiceStudioも急伸 — 2026-09-30",
       "summary": [
         "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
         "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
-        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
+        "QwenAudio/qwen-audio-agent — ⭐ 2,819（+..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Git_Dayori/items/86efd53ce727a480f78d",
-      "published": "2026-09-29 10:01"
+      "link": "https://qiita.com/Git_Dayori/items/77f92681fdc05e4309b6",
+      "published": "2026-09-30 10:01"
     },
     {
-      "id": "4f8f77168ff4",
-      "original_title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "title": "ピーク XV が急増、シード投資上限が 500 万ドルに上昇、18 社のスタートアップ企業コホートを発表",
+      "id": "93bbe5302068",
+      "original_title": "OpenAIが「有限の答えから選ぶ」Decisions APIを発表した日、自分の指示書の中に同じ形の判断が10個あった",
+      "title": "OpenAIが「有限の答えから選ぶ」Decisions APIを発表した日、自分の指示書の中に同じ形の判断が10個あった",
       "summary": [
-        "Peak XV の最新の Surge コホートに含まれるスタートアップ 18 社のうち 13 社は世界市場をターゲットにしており、半数以上はインドに拠点を置いています"
+        "はじめに 10個",
+        "これが今回の数字です",
+        "何の10かというと、OpenAIが2026年9月29日の開発者向けイベント「DevDay 2026」で発表した新API「Decisions API」――「あらかじめ定義した質問と、有限の答えの選択肢を渡すと、文脈から答えを1つ選ん..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "Qiita AIトレンド",
+      "link": "https://qiita.com/Hideki_Tamae/items/c73bee898bc8d74b6813",
+      "published": "2026-09-30 09:47"
+    },
+    {
+      "id": "8dddc89391f5",
+      "original_title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "title": "America.gov に Minecraft について尋ねると非常に奇妙になりますが、それは不具合ではありません",
+      "summary": [
+        "国家安全保障のため、America.gov が長い詩を書くほど幻覚を見ているわけではないと知り、安心しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "published": "2026-09-29 00:30"
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "published": "2026-09-29 23:30"
     },
     {
-      "id": "17fc25ba05da",
-      "original_title": "OpenAI reportedly ditches model over safety concerns",
-      "title": "OpenAIは安全上の懸念からモデルを放棄したと伝えられている",
+      "id": "cf65982cb366",
+      "original_title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "title": "インターネットはイーロン・マスク氏のxAIがOpenAIの「Dots」立ち上げを荒らしたと確信している",
       "summary": [
-        "AI研究所の幹部はウォール・ストリート・ジャーナルに対し、問題のモデルは命令に従う能力が乏しかったと語った"
+        "OpenAIが火曜日に新しいAIエージェントであるDotsを発表する前に、イーロン・マスク氏のxAIはすでにドメイン名「dot.com」を取得しており、現在はGrokチャットボットのダウンロードページにリダイレクトされている"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "published": "2026-09-28 23:39"
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "published": "2026-09-29 22:20"
     }
   ]
 }
