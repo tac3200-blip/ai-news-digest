@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-10-02 10:18",
+  "updated_at": "2026-10-03 09:57",
   "total_count": 19,
   "articles": [
+    {
+      "id": "1a256f7f8bb0",
+      "original_title": "A model guide for the GPT-6 family",
+      "title": "GPT-6ファミリーのモデルガイド",
+      "summary": [
+        "スタートアップ企業が GPT-6 モデルを選択し、推論の労力を調整し、プロンプトとスキルを改善し、ツールを調整し、実稼働用のワークフローを準備する方法を学びます"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published": "2026-10-02 16:15"
+    },
+    {
+      "id": "3008e7c3420a",
+      "original_title": "Chatham scales its capital markets expertise with OpenAI",
+      "title": "Chatham は OpenAI で資本市場の専門知識を拡張します",
+      "summary": [
+        "Chatham Financial は Codex と GPT-5.6 を使用してテクノロジーを構築し、ワークフローを再設計し、取引検証を 30 分から 4 分未満に短縮しました"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/chatham-financial",
+      "published": "2026-10-02 00:00"
+    },
     {
       "id": "4e37356c356f",
       "original_title": "The eternal complement",
@@ -17,30 +43,17 @@
       "published": "2026-10-01 17:00"
     },
     {
-      "id": "d1528fa95330",
-      "original_title": "How Albertsons Companies is reimagining retail from the inside out",
-      "title": "Albertsons Companies が小売業をどのように内側から再考しているか",
+      "id": "4f0fb68517f1",
+      "original_title": "The latest AI news we announced in September 2026",
+      "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "Albertsons Cos. は、ChatGPT Enterprise と OpenAI API を使用して、チームの作業を高速化し、数百万の顧客の食料品の買い物を容易にしています"
+        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "2026-10-01 16:00"
-    },
-    {
-      "id": "46dd9e807053",
-      "original_title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "title": "The Den は、ChatGPT Work を使用して、成長のために週 10 ～ 15 時間を確保しています",
-      "summary": [
-        "新しい店舗をオープンするにあたり、ソーシャル クラブは補助金申請書を 3 日ではなく 2 時間で作成し、酒類販売許可の資料を 4 日ではなく 3 時間で作成します"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/the-den-family-social",
-      "published": "2026-10-01 00:00"
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published": "2026-10-02 15:00"
     },
     {
       "id": "fa30939a0a92",
@@ -69,202 +82,185 @@
       "published": "2026-09-23 18:00"
     },
     {
-      "id": "099f0442e31a",
-      "original_title": "New experts join Google’s AI & Economy team",
-      "title": "新しい専門家が Google の AI & 経済チームに加わる",
+      "id": "db7c52329d02",
+      "original_title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "title": "Amazon Quick と Adjudicated Query パターンを使用して、コンプライアンスを確保するために数千のリースを一括処理する",
       "summary": [
-        "当社は、世界クラスの学術顧問、フェロー、主要な社内研究者を擁する AI および経済チームを拡大しています"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "published": "2026-09-18 14:00"
-    },
-    {
-      "id": "24455af1b5fd",
-      "original_title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "title": "Amazon Bedrock AgentCore のエージェント AI を使用してクラウド移行をスケーリングする",
-      "summary": [
-        "2026 年 10 月: この投稿は正確性を期すためにレビューされ、更新されました",
-        "Amazon Bedrock AgentCore のエージェント AI を使用してクラウド移行をスケーリングすると、実際的な問題が生じます",
-        "大規模な移行プログラムのどの部分がマネージド サービスに属し、どの部分が管理サービスに属するか"
+        "刻々と変化する州の家主・借家法と照らし合わせて数万件のアパートの賃貸借契約をチェックし、実際にすべての法律をチェックしたことを証明することは、ほとんどのコンプライアンス チームの手が届かないことです",
+        "ただし、Amazon Quick の生成 AI を使用すると、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "published": "2026-10-01 22:06"
+      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "published": "2026-10-02 15:48"
     },
     {
-      "id": "412f1bd0fbf0",
-      "original_title": "Serve live, governed data in AI-built apps with Amazon Quick",
-      "title": "Amazon Quick を使用して、AI で構築されたアプリでライブの管理されたデータを提供します",
+      "id": "3789f1a3ab37",
+      "original_title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "title": "Amazon Bedrock AgentCore を使用して安全な Web 検索を Claude デスクトップに追加する",
       "summary": [
-        "Quick Apps はすでに、コネクタやコンテンツ ソースからライブ データをアプリに取り込むことができます",
-        "アクション コネクタ (Jira、Slack、Google Drive などのサービス)、Spaces ドキュメント、Web 検索、AI 推論はすべて、ビルド時ではなく表示時に実行されます",
-        "ソリューション"
+        "Amazon Bedrock の Claude Desktop は強力な AI 支援を提供しますが、統合された Web 検索がなければ、応答はモデルのトレーニング知識の限界に限定されます",
+        "最近のドキュメントの更新、現在の価格などの最新情報が必要な場合"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
-      "published": "2026-10-01 19:49"
+      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "published": "2026-10-02 15:46"
     },
     {
-      "id": "b681aa67d7cb",
-      "original_title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
-      "title": "NVIDIA NeMo エージェント ツールキットと Amazon S3 ベクターを使用してエージェント メモリを構築する",
+      "id": "459120342abe",
+      "original_title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "title": "Amazon SageMaker AI のマルチターン RL を使用して検索エージェントを微調整する",
       "summary": [
-        "前回の投稿: Amazon S3 Vectors を使用したマルチエージェント AI システム用の永続メモリの構築 では、メモリエンジニアリングが本番マルチエージェント システムの基礎となる理由を検討しました",
-        "Amazon S3 Vector の機能を説明しました"
+        "大規模言語モデル (LLM) を利用した検索エージェントは、企業が情報を取得する方法を変革しています",
+        "ユーザーに完璧なクエリを作成するよう要求するのではなく、検索エージェントが自律的に何を検索するか、どの検索戦略をユーザーに提供するかを決定します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors/",
-      "published": "2026-10-01 17:34"
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "published": "2026-10-02 15:44"
     },
     {
-      "id": "5e1311598728",
-      "original_title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
-      "title": "SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応",
+      "id": "b8d1fb157312",
+      "original_title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
       "summary": [
-        "ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した",
-        "PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する",
-        "「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する"
+        "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した",
+        "国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/",
-      "published": "2026-10-02 08:45"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+      "published": "2026-10-02 20:04"
     },
     {
-      "id": "fdec28abfc28",
-      "original_title": "「長く働くAI」が裏目に？　OpenAIの“脱走事件”が示すリスクの変化　企業に求められる対応は",
-      "title": "「長く働くAI」が裏目に？　OpenAIの“脱走事件”が示すリスクの変化　企業に求められる対応は",
+      "id": "6f9c8fc42b24",
+      "original_title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
+      "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
       "summary": [
-        "AIの「粘り強さ」が原因となって、米OpenAIの評価環境から数百体のエージェントが外部システムに侵入する事件が起きた",
-        "この事件が示したリスクの変化と、企業に求められる対応を解説する"
+        "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した",
+        "日本時間10月3日午前2時の実施を予定している"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001900/",
-      "published": "2026-10-02 08:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
+      "published": "2026-10-02 18:19"
     },
     {
-      "id": "1f4afc823512",
-      "original_title": "【本日みつけたお買い得品】メモリ64GBのRyzen AI 9搭載ミニPCがクーポン適用で約4万5千円オトク",
-      "title": "【本日みつけたお買い得品】メモリ64GBのRyzen AI 9搭載ミニPCがクーポン適用で約4万5千円オトク",
+      "id": "69dba0f17aed",
+      "original_title": "【本日みつけたお買い得品】ハーマンミラー「セイルチェア」が2万3,320円引き。Amazonセール",
+      "title": "【本日みつけたお買い得品】ハーマンミラー「セイルチェア」が2万3,320円引き。Amazonセール",
       "summary": [
-        "Amazonにおいて、GMKtecのミニPC「EVO-X1 Pro」が、10月11日までのクーポン適用で、現在の価格から4万3,470円引きとなる25万2,999円で販売されている"
+        "Amazonで、ハーマンミラーの「セイルチェア」が、9月28日の価格から2万3,320円引き(20%オフ)の9万3,280円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145052.html",
-      "published": "2026-10-02 09:58"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145402.html",
+      "published": "2026-10-03 09:29"
     },
     {
-      "id": "bc077e5373b5",
-      "original_title": "【やじうまミニレビュー】あぐら族の筆者が買った「ソファチェア」、快適なのだが難関も……",
-      "title": "【やじうまミニレビュー】あぐら族の筆者が買った「ソファチェア」、快適なのだが難関も……",
+      "id": "0d12b882faff",
+      "original_title": "【本日みつけたお買い得品】32GBのDDR5メモリが1万4,409円引き！CFD製がAmazonでセール中",
+      "title": "【本日みつけたお買い得品】32GBのDDR5メモリが1万4,409円引き！CFD製がAmazonでセール中",
       "summary": [
-        ""
+        "Amazonで、CFD販売の32GBメモリ「W5U4800CS-16G」が9月24日の価格から1万4,409円引き(18.4%オフ)の6万3,800円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2145009.html",
-      "published": "2026-10-02 06:22"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145399.html",
+      "published": "2026-10-03 09:18"
     },
     {
-      "id": "67354a913a85",
-      "original_title": "安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた",
-      "title": "安ホテルの一室で「植物の歴史」に関わる重大な生物学的発見がされていた",
+      "id": "81736788e40d",
+      "original_title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+      "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
       "summary": [
-        "「科学者の研究室」と聞くと、大学や研究機関の大きな建物の中にある最新設備が整った一室を想像する人も多いはず",
-        "ところが、2026年に科学誌のJournal of Phycologyに発表された生物学的に重要な発見は、自動車移動する人向けの安価なホテルであるモーテルの一室で起きていたと日刊紙のニューヨーク・タイムズが報じています",
+        "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました",
+        "新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261002-motel-room-life-history-discovery/",
-      "published": "2026-10-02 08:00"
+      "link": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+      "published": "2026-10-03 09:00"
     },
     {
-      "id": "be40ce06e69e",
-      "original_title": "停電が頻発していたデリーで電力損失率を50％から5％へ改善した方法",
-      "title": "停電が頻発していたデリーで電力損失率を50％から5％へ改善した方法",
+      "id": "28bb4625ab17",
+      "original_title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
+      "title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
       "summary": [
-        "インドのデリーはかつて深刻な電力不足と不安定な供給に悩まされていましたが、今や信頼性の高い近代的な電力網へと変貌を遂げています",
-        "実際にどのような変革が行われたのかについてIEEE Spectrumが取り上げています",
+        "飲み物にこだわりがあって、しっかり熱くなっていないと飲んだ気がしないと考える人は少なくないはず",
+        "紅茶とコーヒーの愛飲者を調べた研究で、熱い飲み物を飲むと食道がんのリスクが増加することが示されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261002-delhi-electricity-loss/",
-      "published": "2026-10-02 07:00"
+      "link": "https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/",
+      "published": "2026-10-03 08:00"
     },
     {
-      "id": "c3e400d14c31",
-      "original_title": "position: stickyで表の見出し・先頭列を固定するときの7つの落とし穴と対処",
-      "title": "position: stickyで表の見出し・先頭列を固定するときの7つの落とし穴と対処",
+      "id": "f957f6194803",
+      "original_title": "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方",
+      "title": "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方",
       "summary": [
-        "はじめに 日付が縦に数十行、項目が横に十数列ある集計表を、「見出し2段・合計行・先頭2列は固定、残りだけスクロール」にしたくて position: sticky を使いました",
-        "1行で済むつもりが、実際には7か所で詰まりました",
-        "AI（Claude Code）と一緒に Ch..."
+        "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方 この記事の要点 yomiyasu は、Claude で日本語の文章を読みやすく推敲するために話題になった新しいスキルです",
+        "詳細は参考記事（https://qiita.com/inoyu-qiita/ite..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Kujira_AI/items/2b88947efb069eb43e18",
-      "published": "2026-10-02 10:08"
+      "link": "https://qiita.com/syun136_616/items/49f538e4e31cb1fb5689",
+      "published": "2026-10-03 09:50"
     },
     {
-      "id": "4f1169c5bdd1",
-      "original_title": "【GitHub日報】ターミナル動画DLツールyoinks登場、AIエージェント基盤が席巻 — 2026-10-02",
-      "title": "【GitHub日報】ターミナル動画DLツールyoinks登場、AIエージェント基盤が席巻 — 2026-10-02",
+      "id": "08ea730c8c95",
+      "original_title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
+      "title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
       "summary": [
-        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
-        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
-        "pablostanley/yoinks — ⭐ 2,937（+361） Ty..."
+        "前編はこちら 💡 この記事のポイント 【前編】の課題だった曖昧な指示に起因する 404 エラーを大幅に改善",
+        "Copilot Studioの「トピック」と「アダプティブカード」を駆使して、チャット内にリッチな選択UI（ドロップダウン）を実装",
+        "プロジェクト名や..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Git_Dayori/items/ce0784a88f47a3d72225",
-      "published": "2026-10-02 10:01"
+      "link": "https://qiita.com/kaneoka_nr/items/2d77a4e096ef8de8223c",
+      "published": "2026-10-03 09:36"
     },
     {
-      "id": "3ccce0d1ebcc",
-      "original_title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "title": "マスク氏のAIチャットボット「グロク」がトランプ氏にベネズエラ大統領を逮捕するよう奨励したと報じられている",
+      "id": "5096d44b5e9d",
+      "original_title": "Meta wants your next gadget to be Muse-infused",
+      "title": "Meta は次のガジェットに Muse を導入することを望んでいます",
       "summary": [
-        "伝えられるところによると、トランプ大統領はベネズエラに侵攻してニコラス・マドゥロ大統領を拘束する前に、グロク氏の意見を求めたという"
+        "Meta はテレビやトースターに Muse を搭載したいと考えており、コードを無料で配布しています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "published": "2026-10-01 21:08"
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "published": "2026-10-03 00:45"
     },
     {
-      "id": "8a0f4337bfc8",
-      "original_title": "ChatGPT can now virtually try on clothes for you",
-      "title": "ChatGPT で仮想的に服を試着できるようになりました",
+      "id": "48cbca472164",
+      "original_title": "Sean Parker is rebuilding Stability AI around music",
+      "title": "ショーン・パーカーは音楽を中心に安定性 AI を再構築しています",
       "summary": [
-        "OpenAI は、ユーザーが自分の写真を使用して衣類やアクセサリーを仮想的に試着し、気に入った製品をお気に入りライブラリに保存できる、ChatGPT の新しいショッピング機能を展開しています"
+        "かつて音楽業界に許しを求めることがどのようなものかを教えたショーン・パーカーが、レーベルの祝福と資金を得て再び戻ってきた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "published": "2026-10-01 19:21"
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "published": "2026-10-02 21:09"
     }
   ]
 }
