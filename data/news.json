@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 09:57",
+  "updated_at": "2026-10-04 09:22",
   "total_count": 19,
   "articles": [
     {
@@ -124,32 +124,34 @@
       "published": "2026-10-02 15:44"
     },
     {
-      "id": "b8d1fb157312",
-      "original_title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
-      "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
+      "id": "5305cf581e97",
+      "original_title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
       "summary": [
-        "KDDIグループのAI開発企業ELYZAは、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を発表した",
-        "国立情報学研究所が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという"
+        "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した",
+        "現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘",
+        "原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
-      "published": "2026-10-02 20:04"
+      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "published": "2026-10-04 08:05"
     },
     {
-      "id": "6f9c8fc42b24",
-      "original_title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
-      "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
+      "id": "a5f2bdb727ce",
+      "original_title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
+      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
       "summary": [
-        "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」の全有料ユーザーを対象に、利用制限枠をリセットすると発表した",
-        "日本時間10月3日午前2時の実施を予定している"
+        "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した",
+        "水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表",
+        "さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
-      "published": "2026-10-02 18:19"
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+      "published": "2026-10-03 17:52"
     },
     {
       "id": "69dba0f17aed",
@@ -178,89 +180,89 @@
       "published": "2026-10-03 09:18"
     },
     {
-      "id": "81736788e40d",
-      "original_title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
-      "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+      "id": "56bca74ba98d",
+      "original_title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
       "summary": [
-        "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました",
-        "新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました",
+        "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
-      "published": "2026-10-03 09:00"
+      "link": "https://gigazine.net/news/20261004-photon-matrix/",
+      "published": "2026-10-04 08:00"
     },
     {
-      "id": "28bb4625ab17",
-      "original_title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
-      "title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
+      "id": "14f71543cd9c",
+      "original_title": "Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装",
+      "title": "Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装",
       "summary": [
-        "飲み物にこだわりがあって、しっかり熱くなっていないと飲んだ気がしないと考える人は少なくないはず",
-        "紅茶とコーヒーの愛飲者を調べた研究で、熱い飲み物を飲むと食道がんのリスクが増加することが示されました",
+        "Windowsにおけるスクロールバーの操作は通常、「上/下の矢印をクリックして1行ずつ移動」「矢印とハンドル部分の間をクリックして1ページずつ移動」「ハンドル部分をドラッグして特定の位置に移動」の3種類があります",
+        "Windows 2000以降はスクロールバーの操作に右クリックメニューが追加されたほか、新しい操作が1つ用意されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/",
-      "published": "2026-10-03 08:00"
+      "link": "https://gigazine.net/news/20261003-windows-scroll-bar/",
+      "published": "2026-10-03 23:30"
     },
     {
-      "id": "f957f6194803",
-      "original_title": "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方",
-      "title": "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方",
+      "id": "a6269d632b55",
+      "original_title": "AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例",
+      "title": "AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例",
       "summary": [
-        "Claudeの日本語推敲スキルyomiyasuを含む3種の選び方 この記事の要点 yomiyasu は、Claude で日本語の文章を読みやすく推敲するために話題になった新しいスキルです",
-        "詳細は参考記事（https://qiita.com/inoyu-qiita/ite..."
+        "読者が抱える課題 GitHub CopilotやChatGPTなどの生成AIツールは、開発効率を向上させる一方で、脆弱性を含むコードを出力することがあります",
+        "AIが提案したコードをそのまま本番環境に投入すると、SQLインジェクション、クロスサイトスクリプティング（XSS）..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/syun136_616/items/49f538e4e31cb1fb5689",
-      "published": "2026-10-03 09:50"
+      "link": "https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2",
+      "published": "2026-10-04 09:22"
     },
     {
-      "id": "08ea730c8c95",
-      "original_title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
-      "title": "【やってみよう】Copilot Studio × Azure DevOps で「自社専用AIコードレビューエージェント」を作る【後編】",
+      "id": "455d7a81be16",
+      "original_title": "GPUもPythonも使わず、CPUだけでAIを動かす小さなRust製エンジンRai",
+      "title": "GPUもPythonも使わず、CPUだけでAIを動かす小さなRust製エンジンRai",
       "summary": [
-        "前編はこちら 💡 この記事のポイント 【前編】の課題だった曖昧な指示に起因する 404 エラーを大幅に改善",
-        "Copilot Studioの「トピック」と「アダプティブカード」を駆使して、チャット内にリッチな選択UI（ドロップダウン）を実装",
-        "プロジェクト名や..."
+        "普通のパソコンでAIを動かすのは、意外とハードルが高い",
+        "たいていはGPU(計算が得意な高価な部品)や、PyTorchなどの大きな準備がいるからだ",
+        "そこへ「GPUもいらない、Pythonもいらない」と言い切る小さな道具が現れた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/kaneoka_nr/items/2d77a4e096ef8de8223c",
-      "published": "2026-10-03 09:36"
+      "link": "https://qiita.com/okssusucha/items/750e44c02f9f31804a44",
+      "published": "2026-10-04 09:08"
     },
     {
-      "id": "5096d44b5e9d",
-      "original_title": "Meta wants your next gadget to be Muse-infused",
-      "title": "Meta は次のガジェットに Muse を導入することを望んでいます",
+      "id": "fc0d921f96b3",
+      "original_title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "title": "Amazon、データセンターの反発に対応、NDAはもう使用しないと発表",
       "summary": [
-        "Meta はテレビやトースターに Muse を搭載したいと考えており、コードを無料で配布しています"
+        "アマゾン ウェブ サービスの CEO は、データセンターに対する広範な疑惑に対して抵抗しようとしました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "published": "2026-10-03 00:45"
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "published": "2026-10-03 18:43"
     },
     {
-      "id": "48cbca472164",
-      "original_title": "Sean Parker is rebuilding Stability AI around music",
-      "title": "ショーン・パーカーは音楽を中心に安定性 AI を再構築しています",
+      "id": "5d0d331aa50f",
+      "original_title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "title": "OpenAIの安全担当社員が辞任、会社の「文化が壊れている」と主張",
       "summary": [
-        "かつて音楽業界に許しを求めることがどのようなものかを教えたショーン・パーカーが、レーベルの祝福と資金を得て再び戻ってきた"
+        "本人も認めているが、デイビッド・ロビンソンは「ありきたりな人物」だ",
+        "大手AI企業の従業員が、退職の際に重大な警告を発したのだ"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "published": "2026-10-02 21:09"
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "published": "2026-10-03 16:30"
     }
   ]
 }
