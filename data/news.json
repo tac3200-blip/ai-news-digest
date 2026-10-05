@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 09:22",
+  "updated_at": "2026-10-05 09:28",
   "total_count": 19,
   "articles": [
     {
@@ -47,7 +47,7 @@
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -124,145 +124,143 @@
       "published": "2026-10-02 15:44"
     },
     {
-      "id": "5305cf581e97",
-      "original_title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
-      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "id": "474f4acd0d1e",
+      "original_title": "「現場任せのAI活用」が失敗するこれだけの理由　経営層がすべき“頭の中”の言語化とは",
+      "title": "「現場任せのAI活用」が失敗するこれだけの理由　経営層がすべき“頭の中”の言語化とは",
       "summary": [
-        "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した",
-        "現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘",
-        "原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた"
+        "実は成功しにくいボトムアップでのAI活用",
+        "現場主導のAI活用が奏功しない──このような事態はなぜ起きるのでしょうか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
-      "published": "2026-10-04 08:05"
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
+      "published": "2026-10-05 07:30"
     },
     {
-      "id": "a5f2bdb727ce",
-      "original_title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
-      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
+      "id": "653a956f6d26",
+      "original_title": "トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導",
+      "title": "トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導",
       "summary": [
-        "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した",
-        "水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表",
-        "さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる"
+        "トランプ米大統領は超知能分野の政策を調整する新組織「Super Intelligence Force」（SIF）の創設を発表した",
+        "国家情報長官、FTC委員長、戦争省CTO、人事管理局長の4人が率い、大統領に直属する",
+        "官民や業界団体との連携窓口を担い、米国の技術的優位性の維持を目指す"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
-      "published": "2026-10-03 17:52"
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
+      "published": "2026-10-05 07:12"
     },
     {
-      "id": "69dba0f17aed",
-      "original_title": "【本日みつけたお買い得品】ハーマンミラー「セイルチェア」が2万3,320円引き。Amazonセール",
-      "title": "【本日みつけたお買い得品】ハーマンミラー「セイルチェア」が2万3,320円引き。Amazonセール",
+      "id": "e0089017d5f9",
+      "original_title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ",
+      "title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ",
       "summary": [
-        "Amazonで、ハーマンミラーの「セイルチェア」が、9月28日の価格から2万3,320円引き(20%オフ)の9万3,280円で販売されている"
+        "Amazonにおいて、MINISFORUMのミニPC「M1-1390」が3万2,000円引きクーポンで、13万7,999円にて購入可能となっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145402.html",
-      "published": "2026-10-03 09:29"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145496.html",
+      "published": "2026-10-05 09:20"
     },
     {
-      "id": "0d12b882faff",
-      "original_title": "【本日みつけたお買い得品】32GBのDDR5メモリが1万4,409円引き！CFD製がAmazonでセール中",
-      "title": "【本日みつけたお買い得品】32GBのDDR5メモリが1万4,409円引き！CFD製がAmazonでセール中",
+      "id": "2c6712d405da",
+      "original_title": "日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」 [Sponsored]",
+      "title": "日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」 [Sponsored]",
       "summary": [
-        "Amazonで、CFD販売の32GBメモリ「W5U4800CS-16G」が9月24日の価格から1万4,409円引き(18.4%オフ)の6万3,800円で販売されている"
+        "「Dell Pro Essential」は、かつての「Vostro」の系譜を継ぐ小規模事業者向けのビジネスノートPCだ",
+        "一般的なエントリーモデルにありがちな「コスト削減のための品質や性能の犠牲」を廃し、NPUによるAI対応やMILスペック準拠の堅牢性、持ち運びに適した薄型軽量化など、現場の生産性を損なわない機能を凝縮しているのが大きな特徴となる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145399.html",
-      "published": "2026-10-03 09:18"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2140650.html",
+      "published": "2026-10-05 06:30"
     },
     {
-      "id": "56bca74ba98d",
-      "original_title": "レーザービーム式蚊撃ち器の予約受付が開始される",
-      "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
+      "id": "5ff2672464c2",
+      "original_title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
+      "title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
       "summary": [
-        "スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました",
+        "iPhoneには、ロック状態のまま一定時間が経過すると自動的に再起動する「非アクティブ時再起動」という機能が搭載されています",
+        "そんな非アクティブ時再起動を無効化して、警察が押収したiPhoneからのデータ抽出を容易するためのツールが開発されたと、海外メディアの404 Mediaが報じました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261004-photon-matrix/",
-      "published": "2026-10-04 08:00"
+      "link": "https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/",
+      "published": "2026-10-05 06:00"
     },
     {
-      "id": "14f71543cd9c",
-      "original_title": "Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装",
-      "title": "Windowsのスクロールバーには「一瞬でクリックした場所まで移動」などの隠し操作がある、Windows 2000で実装",
+      "id": "ff34829c43ea",
+      "original_title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
+      "title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
       "summary": [
-        "Windowsにおけるスクロールバーの操作は通常、「上/下の矢印をクリックして1行ずつ移動」「矢印とハンドル部分の間をクリックして1ページずつ移動」「ハンドル部分をドラッグして特定の位置に移動」の3種類があります",
-        "Windows 2000以降はスクロールバーの操作に右クリックメニューが追加されたほか、新しい操作が1つ用意されています",
+        "総合エンタメイベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に開催されるのに向けて、徳島阿波おどり空港でアニメジャックが実施されていますが、同じく10月3日(土)から飲食店を巡るスタンプラリーイベント「グルメハント」が始まっているので、いくつか巡ってきました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261003-windows-scroll-bar/",
-      "published": "2026-10-03 23:30"
+      "link": "https://gigazine.net/news/20261004-gourmet-hunt-machiasobi31/",
+      "published": "2026-10-04 23:20"
     },
     {
-      "id": "a6269d632b55",
-      "original_title": "AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例",
-      "title": "AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例",
+      "id": "4969e58f3d98",
+      "original_title": "新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く",
+      "title": "新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く",
       "summary": [
-        "読者が抱える課題 GitHub CopilotやChatGPTなどの生成AIツールは、開発効率を向上させる一方で、脆弱性を含むコードを出力することがあります",
-        "AIが提案したコードをそのまま本番環境に投入すると、SQLインジェクション、クロスサイトスクリプティング（XSS）..."
+        "Claude Code 2.1.288（2026-10-02）の changelog に、こう書かれています",
+        "Fixed path-scoped .claude/rules and nested CLAUDE.md files not loading when Writ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2",
-      "published": "2026-10-04 09:22"
+      "link": "https://qiita.com/suwa_nobu/items/5252da854dbebe02cccc",
+      "published": "2026-10-05 09:23"
     },
     {
-      "id": "455d7a81be16",
-      "original_title": "GPUもPythonも使わず、CPUだけでAIを動かす小さなRust製エンジンRai",
-      "title": "GPUもPythonも使わず、CPUだけでAIを動かす小さなRust製エンジンRai",
+      "id": "238b5eb81d54",
+      "original_title": "Claude Code・Cursor・GitHub Copilotの使い分け判断基準と実務適用ガイド",
+      "title": "Claude Code・Cursor・GitHub Copilotの使い分け判断基準と実務適用ガイド",
       "summary": [
-        "普通のパソコンでAIを動かすのは、意外とハードルが高い",
-        "たいていはGPU(計算が得意な高価な部品)や、PyTorchなどの大きな準備がいるからだ",
-        "そこへ「GPUもいらない、Pythonもいらない」と言い切る小さな道具が現れた"
+        "読者が抱える課題 AIによるコーディング支援ツールの選択肢が増える中、「どのツールをどのような場面で使うべきか」という判断基準が曖昧になりがちです",
+        "特に、ターミナル統合型の「Claude Code」、IDEベースの「Cursor」、そしてエディタ拡張機能として実績のある「..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/okssusucha/items/750e44c02f9f31804a44",
-      "published": "2026-10-04 09:08"
+      "link": "https://qiita.com/blinkgroup_jp/items/41c7b4b8c01efbe36ae0",
+      "published": "2026-10-05 09:22"
     },
     {
-      "id": "fc0d921f96b3",
-      "original_title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "title": "Amazon、データセンターの反発に対応、NDAはもう使用しないと発表",
+      "id": "10a619f50004",
+      "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "title": "Google、AI の提出件数の「大幅な増加」を理由に、オープンソースのバグ報奨金プログラムを凍結",
       "summary": [
-        "アマゾン ウェブ サービスの CEO は、データセンターに対する広範な疑惑に対して抵抗しようとしました"
+        "AI のスロップは圧倒的なバグ報奨金プログラムのようです"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "published": "2026-10-03 18:43"
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "published": "2026-10-04 20:31"
     },
     {
-      "id": "5d0d331aa50f",
-      "original_title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "title": "OpenAIの安全担当社員が辞任、会社の「文化が壊れている」と主張",
+      "id": "7d107e429b58",
+      "original_title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "title": "「スーパーインテリジェンス」と拘束力のない安全協定はAIの画像問題を解決できるのか?",
       "summary": [
-        "本人も認めているが、デイビッド・ロビンソンは「ありきたりな人物」だ",
-        "大手AI企業の従業員が、退職の際に重大な警告を発したのだ"
+        "「エクイティ」では、AI のブランドを変更しようとするトランプ政権の試みについて議論しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "published": "2026-10-03 16:30"
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "published": "2026-10-04 20:08"
     }
   ]
 }
