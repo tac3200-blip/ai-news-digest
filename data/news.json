@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-10-05 09:28",
+  "updated_at": "2026-10-06 11:04",
   "total_count": 19,
   "articles": [
+    {
+      "id": "47c61bbac747",
+      "original_title": "Our approach to EU text provenance rules",
+      "title": "EU テキストの出所規則に対する当社のアプローチ",
+      "summary": [
+        "OpenAI が EU の規則の下でテキストの透かしにどのように取り組んでいるか",
+        "ウォーターマークが適用される場所、検出の仕組み、アクセスが研究者から始まる理由について学びましょう"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "published": "2026-10-05 15:00"
+    },
+    {
+      "id": "651d732dec2b",
+      "original_title": "Building advertising for the way people use AI",
+      "title": "人々の AI の使用方法に合わせた広告を構築する",
+      "summary": [
+        "OpenAI は、ChatGPT に新しいビジュアル広告フォーマットを導入し、広告主向けの測定ツール、アトリビューション パートナーシップ、ブランド適合性を拡張します"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "published": "2026-10-05 10:00"
+    },
     {
       "id": "1a256f7f8bb0",
       "original_title": "A model guide for the GPT-6 family",
@@ -14,33 +41,6 @@
       "source_name": "OpenAI (公式)",
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
       "published": "2026-10-02 16:15"
-    },
-    {
-      "id": "3008e7c3420a",
-      "original_title": "Chatham scales its capital markets expertise with OpenAI",
-      "title": "Chatham は OpenAI で資本市場の専門知識を拡張します",
-      "summary": [
-        "Chatham Financial は Codex と GPT-5.6 を使用してテクノロジーを構築し、ワークフローを再設計し、取引検証を 30 分から 4 分未満に短縮しました"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/chatham-financial",
-      "published": "2026-10-02 00:00"
-    },
-    {
-      "id": "4e37356c356f",
-      "original_title": "The eternal complement",
-      "title": "永遠の補完物",
-      "summary": [
-        "先進的な AI は、画期的なアイデアの背後にある日常業務にとって最も重要である可能性があります",
-        "なぜ実行が次の経済と進歩のペースを形作るのかを探ってください"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "published": "2026-10-01 17:00"
     },
     {
       "id": "4f0fb68517f1",
@@ -82,185 +82,192 @@
       "published": "2026-09-23 18:00"
     },
     {
-      "id": "db7c52329d02",
-      "original_title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "title": "Amazon Quick と Adjudicated Query パターンを使用して、コンプライアンスを確保するために数千のリースを一括処理する",
+      "id": "7f91d908c26e",
+      "original_title": "Introducing GLM 5.3 on Amazon Bedrock",
+      "title": "Amazon Bedrock での GLM 5.3 の紹介",
       "summary": [
-        "刻々と変化する州の家主・借家法と照らし合わせて数万件のアパートの賃貸借契約をチェックし、実際にすべての法律をチェックしたことを証明することは、ほとんどのコンプライアンス チームの手が届かないことです",
-        "ただし、Amazon Quick の生成 AI を使用すると、"
+        "コーディングとエージェントのワークロードでは、これまで以上に AI モデルが求められています",
+        "数百のファイルにまたがるリポジトリをリファクタリングし、コンテキストを失わずに数時間にわたるエージェントのワークフローを維持し、あらゆる段階でツールを使用して複雑なシステムの問題を推論します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "published": "2026-10-02 15:48"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+      "published": "2026-10-05 23:25"
     },
     {
-      "id": "3789f1a3ab37",
-      "original_title": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "title": "Amazon Bedrock AgentCore を使用して安全な Web 検索を Claude デスクトップに追加する",
+      "id": "c892122d4134",
+      "original_title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "title": "Claude Code と Amazon Bedrock で規制されたワークロードを強化する",
       "summary": [
-        "Amazon Bedrock の Claude Desktop は強力な AI 支援を提供しますが、統合された Web 検索がなければ、応答はモデルのトレーニング知識の限界に限定されます",
-        "最近のドキュメントの更新、現在の価格などの最新情報が必要な場合"
+        "以下の投稿は情報提供のみを目的としていることに注意してください",
+        "以下で詳しく説明するアプローチは、すべての組織やコンプライアンス プログラムに適しているわけではありません",
+        "この潜在的なソリューションをコンプライアンスに照らして評価することが重要です"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
-      "published": "2026-10-02 15:46"
+      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+      "published": "2026-10-05 17:25"
     },
     {
-      "id": "459120342abe",
-      "original_title": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "title": "Amazon SageMaker AI のマルチターン RL を使用して検索エージェントを微調整する",
+      "id": "3b7cbd01da80",
+      "original_title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "title": "新しいエージェントスキル: コーディングエージェント向けに Amazon SageMaker に最適化された生成 AI 推論",
       "summary": [
-        "大規模言語モデル (LLM) を利用した検索エージェントは、企業が情報を取得する方法を変革しています",
-        "ユーザーに完璧なクエリを作成するよう要求するのではなく、検索エージェントが自律的に何を検索するか、どの検索戦略をユーザーに提供するかを決定します"
+        "エンジニアは、開発ワークフローを加速するためにコーディング支援ツールを使用することが増えています",
+        "本日、Amazon SageMaker AI に最適化された生成 AI 推論には、Agent Toolkit for AWS を通じて利用できる aws-ai-ml スキルが導入されました",
+        "このスキルが与えるのは、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "published": "2026-10-02 15:44"
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+      "published": "2026-10-05 17:23"
     },
     {
-      "id": "474f4acd0d1e",
-      "original_title": "「現場任せのAI活用」が失敗するこれだけの理由　経営層がすべき“頭の中”の言語化とは",
-      "title": "「現場任せのAI活用」が失敗するこれだけの理由　経営層がすべき“頭の中”の言語化とは",
+      "id": "362e1e1a7674",
+      "original_title": "「クレームこそ最大の商機」　合成紙大手ユポが半世紀貫く“コト売り”と、AIによる暗黙知継承",
+      "title": "「クレームこそ最大の商機」　合成紙大手ユポが半世紀貫く“コト売り”と、AIによる暗黙知継承",
       "summary": [
-        "実は成功しにくいボトムアップでのAI活用",
-        "現場主導のAI活用が奏功しない──このような事態はなぜ起きるのでしょうか"
+        "大手ITが競う「コト売り」を設立以来半世紀にわたって現場で体現してきたのが合成紙大手ユポだ",
+        "光学シートから医療用トリアージタグまで用途を広げてきた同社の強みは、「クレームこそ最大の商機」と言い切る課題解決力にある",
+        "営業・開発・技術・共創推進の4部門が連携する組織改革と、ベテランが培った膨大な「トラブル対応の暗黙知」をAIで継承するDXの裏側に迫る"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001937/",
-      "published": "2026-10-05 07:30"
+      "link": "https://www.itmedia.co.jp/business/articles/2610/06/news034.html",
+      "published": "2026-10-06 10:15"
     },
     {
-      "id": "653a956f6d26",
-      "original_title": "トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導",
-      "title": "トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導",
+      "id": "d648f6fcceda",
+      "original_title": "不正アクセスなぜ急増　原因はAIか、それとも……　専門家の見解は",
+      "title": "不正アクセスなぜ急増　原因はAIか、それとも……　専門家の見解は",
       "summary": [
-        "トランプ米大統領は超知能分野の政策を調整する新組織「Super Intelligence Force」（SIF）の創設を発表した",
-        "国家情報長官、FTC委員長、戦争省CTO、人事管理局長の4人が率い、大統領に直属する",
-        "官民や業界団体との連携窓口を担い、米国の技術的優位性の維持を目指す"
+        "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる",
+        "その原因は……専門家に見解を聞いた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000001990/",
-      "published": "2026-10-05 07:12"
+      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
+      "published": "2026-10-06 10:00"
     },
     {
-      "id": "e0089017d5f9",
-      "original_title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ",
-      "title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ",
+      "id": "d8eb0b5b1389",
+      "original_title": "【本日みつけたお買い得品】FakerコラボのRazerゲーミングマウスが約1万円引きでAmazonセール中",
+      "title": "【本日みつけたお買い得品】FakerコラボのRazerゲーミングマウスが約1万円引きでAmazonセール中",
       "summary": [
-        "Amazonにおいて、MINISFORUMのミニPC「M1-1390」が3万2,000円引きクーポンで、13万7,999円にて購入可能となっている"
+        "Amazonにおいて、韓国のプロゲーマー、Faker選手とコラボしたレイザーのゲーミングマウス「Viper V3 Pro Faker Edition」が、直近価格から1万447円引きとなる2万4,377円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145496.html",
-      "published": "2026-10-05 09:20"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145895.html",
+      "published": "2026-10-06 11:01"
     },
     {
-      "id": "2c6712d405da",
-      "original_title": "日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」 [Sponsored]",
-      "title": "日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」 [Sponsored]",
+      "id": "8e011fad6275",
+      "original_title": "「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック",
+      "title": "「なぜつながらないか」を画面で表示。Anker初のディスプレイ搭載ドック",
       "summary": [
-        "「Dell Pro Essential」は、かつての「Vostro」の系譜を継ぐ小規模事業者向けのビジネスノートPCだ",
-        "一般的なエントリーモデルにありがちな「コスト削減のための品質や性能の犠牲」を廃し、NPUによるAI対応やMILスペック準拠の堅牢性、持ち運びに適した薄型軽量化など、現場の生産性を損なわない機能を凝縮しているのが大きな特徴となる"
+        "「このUSB認識されてない気がするんだけどなんで",
+        "」そんなときにきっと役立つ――Ankerは10月6日、本体にディスプレイを搭載し、接続状況が一目で分かるUSB Type-C接続のドッキングステーション「Anker Nano USB-C ハブ(10-in-1, 240Hz, Display)」を発売した",
+        "価格は1万6,990円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2140650.html",
-      "published": "2026-10-05 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2145862.html",
+      "published": "2026-10-06 11:00"
     },
     {
-      "id": "5ff2672464c2",
-      "original_title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
-      "title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
+      "id": "4e435712138e",
+      "original_title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
+      "title": "OpenAIがChatGPTのテキストに透かしを入れる取り組みを開始",
       "summary": [
-        "iPhoneには、ロック状態のまま一定時間が経過すると自動的に再起動する「非アクティブ時再起動」という機能が搭載されています",
-        "そんな非アクティブ時再起動を無効化して、警察が押収したiPhoneからのデータ抽出を容易するためのツールが開発されたと、海外メディアの404 Mediaが報じました",
+        "大手AI企業のOpenAIが、EUのAI法を順守するためにChatGPTやCodexによって生成されたテキストに、目に見えない透かしを追加すると発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/",
-      "published": "2026-10-05 06:00"
+      "link": "https://gigazine.net/news/20261006-openai-start-watermarking-chatgpt-text-eu/",
+      "published": "2026-10-06 10:54"
     },
     {
-      "id": "ff34829c43ea",
-      "original_title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
-      "title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
+      "id": "bb4c924efbae",
+      "original_title": "光を使って特定の神経細胞の活動を操作する「光遺伝学」を切り開いた3人の研究者がノーベル医学・生理学賞を受賞",
+      "title": "光を使って特定の神経細胞の活動を操作する「光遺伝学」を切り開いた3人の研究者がノーベル医学・生理学賞を受賞",
       "summary": [
-        "総合エンタメイベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に開催されるのに向けて、徳島阿波おどり空港でアニメジャックが実施されていますが、同じく10月3日(土)から飲食店を巡るスタンプラリーイベント「グルメハント」が始まっているので、いくつか巡ってきました",
-        "続きを読む..."
+        "スウェーデン・カロリンスカ研究所のノーベル委員会は、アメリカのハワード・ヒューズ医学研究所研究員でスタンフォード大学D.H.チェン教授のカール・ダイセロス氏、ドイツのベルリン・フンボルト大学神経科学ハーティ上級教授のペーター・ヘーゲマン氏、ドイツのヴュルツブルク大学分子植物生理学教授のゲオルク・ナーゲル氏に2026年ノーベル生理学・医学賞を授与すると発表しました",
+        "受賞理由は「光で開閉するイオンチャネルと光遺伝学に関する発見」で、3人には賞金1200万スウェーデンクローナ(約1億8900万円)が均"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261004-gourmet-hunt-machiasobi31/",
-      "published": "2026-10-04 23:20"
+      "link": "https://gigazine.net/news/20261006-nobel-prize-physiology-or-medicine-2026/",
+      "published": "2026-10-06 10:39"
     },
     {
-      "id": "4969e58f3d98",
-      "original_title": "新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く",
-      "title": "新しく作ったファイルに、そのフォルダの CLAUDE.md は効いていなかった。直った今も指示は書いた後に届く",
+      "id": "a9b14f6f003c",
+      "original_title": "Codexは毎日リセットされる？OpenAIの「28日間、改善かフルリセット」施策を整理",
+      "title": "Codexは毎日リセットされる？OpenAIの「28日間、改善かフルリセット」施策を整理",
       "summary": [
-        "Claude Code 2.1.288（2026-10-02）の changelog に、こう書かれています",
-        "Fixed path-scoped .claude/rules and nested CLAUDE.md files not loading when Writ..."
+        "OpenAIのCodexについて、2026年10月に「毎日リセットが来るらしい」という話が広がっています",
+        "結論から言うと、Codexの利用上限が28日間毎日リセットされる、という意味ではありません",
+        "OpenAIのTibo Sottiaux氏は、今後28日間について、 ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/suwa_nobu/items/5252da854dbebe02cccc",
-      "published": "2026-10-05 09:23"
+      "link": "https://qiita.com/sponge841841/items/ec7f09dacc0a091645c6",
+      "published": "2026-10-06 10:45"
     },
     {
-      "id": "238b5eb81d54",
-      "original_title": "Claude Code・Cursor・GitHub Copilotの使い分け判断基準と実務適用ガイド",
-      "title": "Claude Code・Cursor・GitHub Copilotの使い分け判断基準と実務適用ガイド",
+      "id": "7adb37a2cd0e",
+      "original_title": "ChatGPTで添削プロジェクトを作る＋ブックマークする＝添削作業が楽になる",
+      "title": "ChatGPTで添削プロジェクトを作る＋ブックマークする＝添削作業が楽になる",
       "summary": [
-        "読者が抱える課題 AIによるコーディング支援ツールの選択肢が増える中、「どのツールをどのような場面で使うべきか」という判断基準が曖昧になりがちです",
-        "特に、ターミナル統合型の「Claude Code」、IDEベースの「Cursor」、そしてエディタ拡張機能として実績のある「..."
+        "ChatGPTで文章を添削するたびに、同じ指示を入力していませんか",
+        "「添削」専用のプロジェクトを作成し、そのページをブラウザーにブックマークしておくと、クリックしてすぐに添削を始められます",
+        "設定方法 ChatGPTで「添削」プロジェクトを作成する プロジェクトの指示..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/blinkgroup_jp/items/41c7b4b8c01efbe36ae0",
-      "published": "2026-10-05 09:22"
+      "link": "https://qiita.com/uni928/items/fc3ef365d09394782d44",
+      "published": "2026-10-06 10:41"
     },
     {
-      "id": "10a619f50004",
-      "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "title": "Google、AI の提出件数の「大幅な増加」を理由に、オープンソースのバグ報奨金プログラムを凍結",
+      "id": "b9ee742b672c",
+      "original_title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "title": "OpenAIはEUでChatGPTのテキストに透かしを入れ始める",
       "summary": [
-        "AI のスロップは圧倒的なバグ報奨金プログラムのようです"
+        "OpenAI は、AI 法に準拠するために EU 内の ChatGPT および Codex テキストに透かしを入れます",
+        "編集すると、目に見えないマークが検出されにくくなる可能性があるという"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published": "2026-10-04 20:31"
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "published": "2026-10-05 20:36"
     },
     {
-      "id": "7d107e429b58",
-      "original_title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "title": "「スーパーインテリジェンス」と拘束力のない安全協定はAIの画像問題を解決できるのか?",
+      "id": "428381adf2e9",
+      "original_title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "title": "Reflection が、より低い計算コストで中国モデルに匹敵するオープンウェイト AI モデルである Beam をデビュー",
       "summary": [
-        "「エクイティ」では、AI のブランドを変更しようとするトランプ政権の試みについて議論しました"
+        "リフレクションは、企業や主権国家におけるビームと将来のモデルを目指しています",
+        "売り文句は、「AI ファクトリー」を構築することです",
+        "これは、教育機関が Reflection の AI モデルを独自にトレーニングすることで、独自にカスタマイズされたローカル AI システムを構築できる製品です"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "published": "2026-10-04 20:08"
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "published": "2026-10-05 19:33"
     }
   ]
 }
