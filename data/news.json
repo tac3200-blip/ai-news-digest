@@ -1,53 +1,65 @@
 {
-  "updated_at": "2026-10-07 10:13",
+  "updated_at": "2026-10-08 10:35",
   "total_count": 19,
   "articles": [
     {
-      "id": "55010da62383",
-      "original_title": "How Jump Trading is scaling quant research with ChatGPT",
-      "title": "Jump Trading が ChatGPT を使用してクオンツ調査をどのように拡張しているか",
+      "id": "602c0e6591ff",
+      "original_title": "Helping teens learn, plan, and shape the future of AI",
+      "title": "十代の若者たちが AI の未来を学び、計画し、形作るのを支援する",
       "summary": [
-        "Jump Trading は OpenAI を使用して定量調査を拡張しています",
-        "長時間実行される AI ワークフローが複数のデータ ソースと人間によるレビューをどのように組み合わせているかをご覧ください"
+        "College Planner が ChatGPT for Teens に登場し、新しいフラッシュカード、クイズ、ティーン AI 評議会とともに、学生が大学の申請書を管理できるように支援します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/jump-trading",
-      "published": "2026-10-06 12:00"
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "published": "2026-10-07 12:00"
     },
     {
-      "id": "93826220a22f",
-      "original_title": "Sharing AI progress in mathematics",
-      "title": "数学における AI の進歩を共有する",
+      "id": "9e791631ec5d",
+      "original_title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "title": "ラディソン ホテル グループ、ホテル検索を ChatGPT に導入",
       "summary": [
-        "OpenAI は、内部フロンティア モデルから数学の未解決の問題に関する新しい結果を公開し、リーン証明の定式化と研究の詳細を GitHub で共有します"
+        "ラディソンはアクセンチュアと提携して、OpenAI テクノロジーを使用して ChatGPT プラグインを構築し、旅行者が旅行を計画する際にホテルを検索、比較、予約できるようにしました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "published": "2026-10-06 12:00"
+      "link": "https://openai.com/index/radisson",
+      "published": "2026-10-07 07:00"
     },
     {
-      "id": "55080687f594",
-      "original_title": "Advancing computer use with Ironclad",
-      "title": "Ironclad によるコンピュータの利用の促進",
+      "id": "01f177aae195",
+      "original_title": "GPT-6 and Intelligent UI for everyone",
+      "title": "GPT-6 とすべての人のためのインテリジェント UI",
       "summary": [
-        "OpenAI と Ironclad が、専門的な仕事でのコンピューターの使用を促進するために、複雑な契約ワークフローに関して AI エージェントをどのようにトレーニングおよび評価しているかをご覧ください"
+        "GPT‑6 は、インテリジェント UI を備えた ChatGPT でグローバルに展開されており、探索して直接使用できるビジュアルとインタラクティブなエクスペリエンスによる高速応答を提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "published": "2026-10-06 10:00"
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "published": "2026-10-07 00:00"
+    },
+    {
+      "id": "cbec8263c511",
+      "original_title": "Introducing Playground: Create and play custom games",
+      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
+      "summary": [
+        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "published": "2026-10-07 12:00"
     },
     {
       "id": "4f0fb68517f1",
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -69,204 +81,187 @@
       "published": "2026-09-28 19:00"
     },
     {
-      "id": "5d91388b3db9",
-      "original_title": "Google Beam expands with new regions, partners, and customers",
-      "title": "Google Beam が新たな地域、パートナー、顧客とともに拡大",
+      "id": "947bddd21061",
+      "original_title": "Introducing Claude Haiku 5.5 on AWS",
+      "title": "AWS での Claude Haiku 5.5 の紹介",
       "summary": [
-        "私たちは Google Beam を新たに 5 か国に拡大し、ネットワークの拡張のために Industrious と提携しています"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "published": "2026-09-23 18:00"
-    },
-    {
-      "id": "d0e7aa77c6b6",
-      "original_title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "title": "AgentCore と OpenClaw でコンテキスト認識 AI アシスタントを構築する",
-      "summary": [
-        "既製の AI アシスタントは個々の質問にはうまく答えますが、継続性という別の軸では不十分です",
-        "今日、無国籍のアシスタントにあなたの庭について尋ねましたが、そのアシスタントは、あなたが 3 週間前に水はけのよいレイズドベッドについて言及したとは知りませんでした"
+        "本日、Amazon Bedrock で Claude Haiku 5.5 と AWS で Claude Platform が利用可能になったことを発表できることを嬉しく思います",
+        "Anthropic によると、Claude Haiku 5.5 は、Claude 5.5 ファミリーの中で最も高速かつ効率的なモデルであり、サブエージェントやハイクのために構築されています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-      "published": "2026-10-06 19:19"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "published": "2026-10-07 18:52"
     },
     {
-      "id": "5a171a6edec1",
-      "original_title": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-      "title": "責任ある AI ガバナンス: AWS が顧客を ISO/IEC 42005:2025 に準拠させる方法",
+      "id": "330d755ee807",
+      "original_title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "title": "Amazon Quick と Amazon Bedrock を使用して RAG のアクセス制御を再考する",
       "summary": [
-        "生成型 AI の導入はパーソナル コンピューターやインターネットよりも早く進んでおり、2025 年の世界的な AI 関連投資は 5,816 億 9 千万ドルに達するため、組織は従業員を雇用しながら AI を活用して業務を強化できるように配置する必要があります"
+        "企業組織は、Microsoft SharePoint、Google Drive、Atlassian Confluence などの企業知識ソースから洞察を引き出すために、検索拡張生成 (RAG) を採用しています",
+        "ただし、これらの知識源には機密情報が含まれています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
-      "published": "2026-10-06 15:53"
+      "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+      "published": "2026-10-07 18:34"
     },
     {
-      "id": "7aa820f16f5a",
-      "original_title": "Best practices for Amazon SageMaker HyperPod administration and governance",
-      "title": "Amazon SageMaker HyperPod の管理とガバナンスのベストプラクティス",
+      "id": "efb000582450",
+      "original_title": "Beyond hours saved: Building the business case for agentic automation",
+      "title": "時間の節約を超えて: エージェントによる自動化のビジネス ケースの構築",
       "summary": [
-        "Amazon SageMaker HyperPod を使用すると、機械学習 (ML) チームは、モデルのトレーニングと微調整のために高速化されたコンピューティングの大規模なプールにアクセスできます",
-        "複数のチームが 1 つのクラスターを共有する場合、技術的なセットアップは通常は簡単です",
-        "挑戦的な部分 i"
+        "エージェントティック オートメーション、つまりタスクを完了するために推論して適応するソフトウェアが、AI センター オブ エクセレンス (AI CoE) のロードマップに登場しつつあります",
+        "しかし、企業が自動化投資を正当化する標準的な方法は、節約された時間×人件費から構築コストを引いたものであり、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
-      "published": "2026-10-06 15:50"
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
+      "published": "2026-10-07 15:50"
     },
     {
-      "id": "82680b17977f",
-      "original_title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
-      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
+      "id": "566617f45ca0",
+      "original_title": "2D図面から3D CADモデルを自動生成、AIエージェント開発実証が長野県の事業に採択",
+      "title": "2D図面から3D CADモデルを自動生成、AIエージェント開発実証が長野県の事業に採択",
       "summary": [
-        "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した",
-        "多くに証明支援系「Lean」による形式証明が付く",
-        "数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示"
+        "TIMEWELLは、2D CAD図面から3D CADモデルを自動生成するAIエージェントの開発実証に取り組む",
+        "オリオン機械が保有する実図面を用いて精度と実用性を検証し、図面に込められたベテラン技術者の知見の継承も目指す"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
-      "published": "2026-10-07 09:32"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html",
+      "published": "2026-10-08 09:00"
     },
     {
-      "id": "28206be7204e",
-      "original_title": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
-      "title": "なぜ答えが揺れ、堂々と間違えるのか ―― 確率で動く生成AIの正体",
+      "id": "12762867882e",
+      "original_title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
+      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
       "summary": [
-        "「なぜ生成AIは堂々と間違え、毎回答えが変わるのか",
-        "」――本稿では、生成AIの動作原理である「次に続きそうな言葉を確率で予測する仕組み」を解説します",
-        "膨大なデータにより賢くなった反面、事実確認機能がないため生じる「ハルシネーション」のリスクと、企業がAIを安全に活用するための原則に迫ります"
+        "Anthropicは、小型AI「Claude Haiku 5.5」のAPI提供を開始した",
+        "料金は10万トークン以下で前世代の10分の1になり、平均利用コストは約75％下がる",
+        "effort設定への初対応やSDKへのブラウザおよびコンピュータ使用ツールセット追加のほか、Sonnet 5.5のキャッシュ料金半額も行われた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/07/2000001697/",
-      "published": "2026-10-07 08:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
+      "published": "2026-10-08 08:20"
     },
     {
-      "id": "95aafb990d5e",
-      "original_title": "ゲーミングヘッドセット「INZONE H9 II」にFnaticカラー登場。有線イヤフォンにも新色",
-      "title": "ゲーミングヘッドセット「INZONE H9 II」にFnaticカラー登場。有線イヤフォンにも新色",
+      "id": "20869659e3fc",
+      "original_title": "【本日みつけたお買い得品】ロジクールのフラグシップ・ワイヤレスマウスが3千円引き",
+      "title": "【本日みつけたお買い得品】ロジクールのフラグシップ・ワイヤレスマウスが3千円引き",
       "summary": [
-        "ソニーは、ゲーミングギア「INZONE」シリーズの新色として、ワイヤレスゲーミングヘッドセット「INZONE H9 II Fnatic Edition」と、インイヤー型ゲーミングイヤフォン「INZONE E9」のグラスパープルを10月22日に発売する",
-        "価格はオープンプライスで、実売予想価格はそれぞれ3万9,600円前後、1万7,600円前後の見込み"
+        "Amazonにおいて、ロジクールのワイヤレスマウス「MX Master 4」が直近価格から3,000円引きで、1万6,900円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2146206.html",
-      "published": "2026-10-07 10:02"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146613.html",
+      "published": "2026-10-08 10:25"
     },
     {
-      "id": "527aec966c6c",
-      "original_title": "【PC短評】原稿もPhotoshopもスト6も。Zenbook 14で6時間使って電池45%残り",
-      "title": "【PC短評】原稿もPhotoshopもスト6も。Zenbook 14で6時間使って電池45%残り",
+      "id": "bff60c4e8c0a",
+      "original_title": "【本日みつけたお買い得品】200Hz/WQHD表示の27型ゲーミングモニターが2万円台半ばで購入可能",
+      "title": "【本日みつけたお買い得品】200Hz/WQHD表示の27型ゲーミングモニターが2万円台半ばで購入可能",
       "summary": [
-        "Armネイティブではないストリートファイター6も低画質設定ならほぼ60fpsで動作し、ゲームを含む6時間の実使用でバッテリは45%残った",
-        "ASUSからSnapdragon X X1-26-100を搭載する14型ノートPC「Zenbook 14 UX3480QA」が10月7日より順次発売される",
-        "価格は18万9,800円で、Microsoft 365 Personal(24カ月版)/Office Home & Business 2024付きモデルは20万9,800円"
+        "Amazonにおいて、27型ゲーミングモニターのLG「UltraGear 27G610A-B」が直近価格から5,608円引きで、2万6,400円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/short-review/2146180.html",
-      "published": "2026-10-07 10:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
+      "published": "2026-10-08 10:07"
     },
     {
-      "id": "288197ed1988",
-      "original_title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
-      "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
+      "id": "e6dee532c6bd",
+      "original_title": "2026年度ノーベル化学賞を日本の硤合憲三氏とフランスのアンリ・ケーガン氏が受賞、授賞理由となった「不斉自己触媒反応」とは？",
+      "title": "2026年度ノーベル化学賞を日本の硤合憲三氏とフランスのアンリ・ケーガン氏が受賞、授賞理由となった「不斉自己触媒反応」とは？",
       "summary": [
-        "近年のアメリカは中国によるAI開発を安全保障上の脅威と見なしており、NVIDIAなどが製造する高性能GPUの中国への輸出を禁止しています",
-        "そんな中、アメリカのカリフォルニア州にあるテクノロジー企業のCEOが、総額3億ドル(約470億円)を越えるNVIDIAの高性能GPUを密輸したとして逮捕・起訴されました",
+        "スウェーデン王立科学アカデミーが、2026年のノーベル化学賞を東京理科大学の硤合(そあい)憲三氏とフランス人化学者のアンリ・ケーガン氏の2名に授与することを発表しました",
+        "授賞内容は「不斉有機合成における非線形効果と自己触媒の発見に対して」です",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
-      "published": "2026-10-07 08:00"
+      "link": "https://gigazine.net/news/20261008-nobel-prize-in-chemistry-2026/",
+      "published": "2026-10-08 10:17"
     },
     {
-      "id": "71660d77af14",
-      "original_title": "AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に",
-      "title": "AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に",
+      "id": "f7986dd00edf",
+      "original_title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
+      "title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
       "summary": [
-        "「Muse Gadgets」はESP32ボードやRaspberry Piといった既存のデバイスにMetaが開発したパーソナルAIエージェント「Muse」を導入することにより、オープンソースハードウェアガジェットを自作できるプラットフォームです",
-        "SDKを通じてディスプレイ・ボタン・センサー・アクチュエーターなどを接続することで、ユーザー独自の機能を持つデバイスへと進化させることができます",
-        "続きを読む..."
+        "Googleの公式SEO関連情報ポータルであるGoogle Search CentralのYouTubeチャンネルでは、検索・SEO関連の動画が2000本超も公開されており、動画を分かりやすくまとめた再生リストも存在します",
+        "従来の再生リストはシリーズ形式の構成となっているため、詳細な解説やエピソード形式で最新情報を追うのに適しているものの、ゼロから明確で順序立てられた学習パスを見つけるのには不向きなケースがあるそうです",
+        "そこで、Google Search Centralはコンテンツを2つの専門プ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261007-muse-gadgets/",
-      "published": "2026-10-07 07:00"
+      "link": "https://gigazine.net/news/20261008-google-search-fundamentals-technical-seo-youtube-playlists/",
+      "published": "2026-10-08 08:00"
     },
     {
-      "id": "218d2bd87eec",
-      "original_title": "【GitHub日報】リバースエンジニアリング特化reaが+2956で首位奪取 — 2026-10-07",
-      "title": "【GitHub日報】リバースエンジニアリング特化reaが+2956で首位奪取 — 2026-10-07",
+      "id": "530dfda2bc13",
+      "original_title": "Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった",
+      "title": "Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった",
       "summary": [
-        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
-        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
-        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
+        "判断特化AI「Jev」は、文章を書かずに選択肢ごとの確率と確信度だけを返すモデルです",
+        "試そうとして、Cloudflare Workers AI から Jev を呼ぶと、こう返ってきました",
+        "HTTP 402 {\"errors\":[{\"message\":\"Insuffici..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Git_Dayori/items/07004e91c7c786f3ecf5",
-      "published": "2026-10-07 10:01"
+      "link": "https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12",
+      "published": "2026-10-08 10:27"
     },
     {
-      "id": "c0d505a2eb14",
-      "original_title": "米国企業で7年間働いた日本人エンジニアが感じる、日本と世界のAI格差",
-      "title": "米国企業で7年間働いた日本人エンジニアが感じる、日本と世界のAI格差",
+      "id": "8dda6d6be9ee",
+      "original_title": "結論を書く前の 1 問「これを無効にする既決があるか」——全部を探させず、いまの既決だけを置く",
+      "title": "結論を書く前の 1 問「これを無効にする既決があるか」——全部を探させず、いまの既決だけを置く",
       "summary": [
-        "私は日本人のソフトウェアエンジニアです",
-        "日本でエンジニアとして働いた後、約7年間、米国企業の仕事に関わってきました",
-        "そして、ここ数年のAIの急速な進化を日本と海外の両方から見ていて、強く感じていることがあります"
+        "AI（Claude Code）に作業を任せていると、過去に決めたこと（既決）に反する提案が出てきます",
+        "当方では、既決を見落として逆走した実害が 3 件ありました",
+        "「決定を検索させれば防げる」と思って 3 つの経路を試し、3 つとも実用になりませんでした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Shinsuke_Maki/items/951eaabab0dfd094750b",
-      "published": "2026-10-07 09:41"
+      "link": "https://qiita.com/sumitsuke/items/e0e33861fb0a3ed4ed05",
+      "published": "2026-10-08 10:20"
     },
     {
-      "id": "4228a6430451",
-      "original_title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "title": "元 Ramp エンジニアが最初の製品を廃棄した後、プラットフォーム Melius のために 2,000 万ドルを調達",
+      "id": "4019afc15dd8",
+      "original_title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "title": "Nous Research、評価額が15億ドルに達したことを確認、ビジネスユーザー向けAIエージェントを発売",
       "summary": [
-        "同社はマーケティング担当者が広告支出の管理と最適化を支援するのではなく、クリエイティブなアセットやキャンペーンを生成するツールの構築に重点を置いています"
+        "Hermes Agent の開発者はシリーズ B で 9,000 万ドルを調達しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "published": "2026-10-06 22:34"
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "published": "2026-10-07 20:48"
     },
     {
-      "id": "8217e05b7463",
-      "original_title": "How AI decision models could change content moderation",
-      "title": "AI 意思決定モデルはコンテンツ モデレーションをどのように変えることができるか",
+      "id": "3646f6b89d89",
+      "original_title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "title": "Microsoft、改良された Windows 11 を搭載した新しい Nvidia チップ AI PC をリリース",
       "summary": [
-        "火曜日、Musubi は、オープン ウェイトでリリースされた、PolicyLM-1.7B と呼ばれるリアルタイム モデレーション用に作成された軽量意思決定モデルを発表しました"
+        "Microsoft は、AI モデルとエージェントを実行するように設計された Nvidia チップで動作する AI PC、Surface Laptop Ultra の仕様と価格を明らかにしました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "published": "2026-10-06 20:35"
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "published": "2026-10-07 20:22"
     }
   ]
 }
