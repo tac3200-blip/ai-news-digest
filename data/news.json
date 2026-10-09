@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-10-08 10:35",
+  "updated_at": "2026-10-09 10:45",
   "total_count": 19,
   "articles": [
     {
-      "id": "602c0e6591ff",
-      "original_title": "Helping teens learn, plan, and shape the future of AI",
-      "title": "十代の若者たちが AI の未来を学び、計画し、形作るのを支援する",
+      "id": "1606aad1681f",
+      "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "title": "Oracle が ChatGPT と Codex を使用して数日の作業を数分に短縮する方法",
       "summary": [
-        "College Planner が ChatGPT for Teens に登場し、新しいフラッシュカード、クイズ、ティーン AI 評議会とともに、学生が大学の申請書を管理できるように支援します"
+        "オラクルは、採用、エンジニアリング、運用全体にわたって、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "published": "2026-10-07 12:00"
+      "link": "https://openai.com/index/oracle",
+      "published": "2026-10-08 16:00"
     },
     {
-      "id": "9e791631ec5d",
-      "original_title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "title": "ラディソン ホテル グループ、ホテル検索を ChatGPT に導入",
+      "id": "7db0f71ce082",
+      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "title": "Polo AI は、OpenAI を使用してクリエイティブなアイデアをキャンペーンに変換します",
       "summary": [
-        "ラディソンはアクセンチュアと提携して、OpenAI テクノロジーを使用して ChatGPT プラグインを構築し、旅行者が旅行を計画する際にホテルを検索、比較、予約できるようにしました"
+        "GPT-5.6、GPT-6 Astra、GPT‑Image‑2.5 を使用すると、Pollo AI はクリエイターが大胆なアイデアを詳細な画像や映画のような動画広告に変えるのに役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/radisson",
-      "published": "2026-10-07 07:00"
+      "link": "https://openai.com/index/pollo-ai",
+      "published": "2026-10-08 12:00"
     },
     {
-      "id": "01f177aae195",
-      "original_title": "GPT-6 and Intelligent UI for everyone",
-      "title": "GPT-6 とすべての人のためのインテリジェント UI",
+      "id": "5985f8d6d144",
+      "original_title": "LegalOn halves Codex costs while maintaining development speed",
+      "title": "LegalOn は開発スピードを維持しながら Codex コストを半減",
       "summary": [
-        "GPT‑6 は、インテリジェント UI を備えた ChatGPT でグローバルに展開されており、探索して直接使用できるビジュアルとインタラクティブなエクスペリエンスによる高速応答を提供します"
+        "LegalOn は、開発速度を維持しながら、1 日あたりの Codex コストの推定コストを 65% 削減しました",
+        "アストラ、ソル、ルナをタスクに合わせて戦略的に予算を管理しました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "published": "2026-10-07 00:00"
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "published": "2026-10-08 12:00"
     },
     {
       "id": "cbec8263c511",
@@ -81,6 +82,34 @@
       "published": "2026-09-28 19:00"
     },
     {
+      "id": "c40a657c9a22",
+      "original_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "title": "AI エージェントのペイパー推論: BlockRun と Incarna が Amazon Bedrock AgentCore 支払いを使用する方法",
+      "summary": [
+        "AI エージェントを実行する場合、多くの場合、モデル推論、API 応答、Web コンテンツへのアクセス、別のエージェントへの呼び出しなどのタスクを完了するために何かを購入する必要があります",
+        "こうした購入は小規模かつ頻繁に行われ、場合によっては 1 回あたり数分の 1 セントで行われます"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "published": "2026-10-08 18:33"
+    },
+    {
+      "id": "e382427711de",
+      "original_title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "title": "Amazon SageMaker HyperPod を使用して、分離性と公平性を保ちながらチーム間で GPU クラスターを共有します",
+      "summary": [
+        "同じ企業内の複数のチームは、分離境界、リソースの公平性、運用の独立性を維持しながら、生成 AI 運用のために高価な GPU クラスターへの共有アクセスをますます必要としています",
+        "データサイエンスチームを検討してください"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "published": "2026-10-08 16:20"
+    },
+    {
       "id": "947bddd21061",
       "original_title": "Introducing Claude Haiku 5.5 on AWS",
       "title": "AWS での Claude Haiku 5.5 の紹介",
@@ -95,173 +124,147 @@
       "published": "2026-10-07 18:52"
     },
     {
-      "id": "330d755ee807",
-      "original_title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-      "title": "Amazon Quick と Amazon Bedrock を使用して RAG のアクセス制御を再考する",
+      "id": "a26cc88d4b77",
+      "original_title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表　「Amazonキッズタブレット」は日本でも発売へ",
+      "title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表　「Amazonキッズタブレット」は日本でも発売へ",
       "summary": [
-        "企業組織は、Microsoft SharePoint、Google Drive、Atlassian Confluence などの企業知識ソースから洞察を引き出すために、検索拡張生成 (RAG) を採用しています",
-        "ただし、これらの知識源には機密情報が含まれています"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
-      "published": "2026-10-07 18:34"
-    },
-    {
-      "id": "efb000582450",
-      "original_title": "Beyond hours saved: Building the business case for agentic automation",
-      "title": "時間の節約を超えて: エージェントによる自動化のビジネス ケースの構築",
-      "summary": [
-        "エージェントティック オートメーション、つまりタスクを完了するために推論して適応するソフトウェアが、AI センター オブ エクセレンス (AI CoE) のロードマップに登場しつつあります",
-        "しかし、企業が自動化投資を正当化する標準的な方法は、節約された時間×人件費から構築コストを引いたものであり、"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "published": "2026-10-07 15:50"
-    },
-    {
-      "id": "566617f45ca0",
-      "original_title": "2D図面から3D CADモデルを自動生成、AIエージェント開発実証が長野県の事業に採択",
-      "title": "2D図面から3D CADモデルを自動生成、AIエージェント開発実証が長野県の事業に採択",
-      "summary": [
-        "TIMEWELLは、2D CAD図面から3D CADモデルを自動生成するAIエージェントの開発実証に取り組む",
-        "オリオン機械が保有する実図面を用いて精度と実用性を検証し、図面に込められたベテラン技術者の知見の継承も目指す"
+        "Amazonは、新タブレット「Amazon Alexa Tablet」3機種を発表した",
+        "「Fire」ブランドを刷新し、AndroidとGoogle Playに対応したほか、AIアシスタント「Alexa+」を内蔵する",
+        "子ども向け「Amazonキッズタブレット」も発表し、日本限定「ちいかわ」モデルなどを10月14日より出荷する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news012.html",
-      "published": "2026-10-08 09:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002155/",
+      "published": "2026-10-09 10:20"
     },
     {
-      "id": "12762867882e",
-      "original_title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
-      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
+      "id": "e98c21a402e3",
+      "original_title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
       "summary": [
-        "Anthropicは、小型AI「Claude Haiku 5.5」のAPI提供を開始した",
-        "料金は10万トークン以下で前世代の10分の1になり、平均利用コストは約75％下がる",
-        "effort設定への初対応やSDKへのブラウザおよびコンピュータ使用ツールセット追加のほか、Sonnet 5.5のキャッシュ料金半額も行われた"
+        "Google Cloudは新サービス「Gemini Agent」を発表",
+        "クラウドで動作するマルチエージェントツールとされる",
+        "Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
-      "published": "2026-10-08 08:20"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "published": "2026-10-09 09:40"
     },
     {
-      "id": "20869659e3fc",
-      "original_title": "【本日みつけたお買い得品】ロジクールのフラグシップ・ワイヤレスマウスが3千円引き",
-      "title": "【本日みつけたお買い得品】ロジクールのフラグシップ・ワイヤレスマウスが3千円引き",
+      "id": "62d9abebc622",
+      "original_title": "【本日みつけたお買い得品】デルの16型ノートが約3万円引きでAmazonセール中！",
+      "title": "【本日みつけたお買い得品】デルの16型ノートが約3万円引きでAmazonセール中！",
       "summary": [
-        "Amazonにおいて、ロジクールのワイヤレスマウス「MX Master 4」が直近価格から3,000円引きで、1万6,900円にて購入できる"
+        "Amazonにおいて、デルの16型ノートPC「DC16250」(ND66-FWM3BA)が、直近価格から3万円引きとなる12万9,980円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146613.html",
-      "published": "2026-10-08 10:25"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147001.html",
+      "published": "2026-10-09 10:21"
     },
     {
-      "id": "bff60c4e8c0a",
-      "original_title": "【本日みつけたお買い得品】200Hz/WQHD表示の27型ゲーミングモニターが2万円台半ばで購入可能",
-      "title": "【本日みつけたお買い得品】200Hz/WQHD表示の27型ゲーミングモニターが2万円台半ばで購入可能",
+      "id": "f2769059a734",
+      "original_title": "ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売",
+      "title": "ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売",
       "summary": [
-        "Amazonにおいて、27型ゲーミングモニターのLG「UltraGear 27G610A-B」が直近価格から5,608円引きで、2万6,400円にて購入できる"
+        "ローカルでAIエージェントが動く2in1がやってくる",
+        "エムエスアイコンピュータージャパン(MSI)は、16型のRTX Spark搭載2in1「Prestige N16 Flip AI+ C1XM」を10月8日より予約開始した",
+        "発売は10月下旬で、価格はオープンプライス"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
-      "published": "2026-10-08 10:07"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2146983.html",
+      "published": "2026-10-09 10:15"
     },
     {
-      "id": "e6dee532c6bd",
-      "original_title": "2026年度ノーベル化学賞を日本の硤合憲三氏とフランスのアンリ・ケーガン氏が受賞、授賞理由となった「不斉自己触媒反応」とは？",
-      "title": "2026年度ノーベル化学賞を日本の硤合憲三氏とフランスのアンリ・ケーガン氏が受賞、授賞理由となった「不斉自己触媒反応」とは？",
+      "id": "5c2ce0e15829",
+      "original_title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
+      "title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
       "summary": [
-        "スウェーデン王立科学アカデミーが、2026年のノーベル化学賞を東京理科大学の硤合(そあい)憲三氏とフランス人化学者のアンリ・ケーガン氏の2名に授与することを発表しました",
-        "授賞内容は「不斉有機合成における非線形効果と自己触媒の発見に対して」です",
+        "AnyPS5はPlayStation 5(PS5)のゲームをLinuxおよびWindowsでプレイ可能にすることを目的としたツールです",
+        "AnyPS5はエミュレーションや独立したランタイムプロセスを必要とせず、PS5のゲームをターゲットシステムのネイティブフォーマットに変換するリリンカーと、動的リンクに適したシステムPRXライブラリによって構成されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261008-nobel-prize-in-chemistry-2026/",
-      "published": "2026-10-08 10:17"
+      "link": "https://gigazine.net/news/20261009-anyps5/",
+      "published": "2026-10-09 07:00"
     },
     {
-      "id": "f7986dd00edf",
-      "original_title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
-      "title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
+      "id": "052f1d503d90",
+      "original_title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
+      "title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
       "summary": [
-        "Googleの公式SEO関連情報ポータルであるGoogle Search CentralのYouTubeチャンネルでは、検索・SEO関連の動画が2000本超も公開されており、動画を分かりやすくまとめた再生リストも存在します",
-        "従来の再生リストはシリーズ形式の構成となっているため、詳細な解説やエピソード形式で最新情報を追うのに適しているものの、ゼロから明確で順序立てられた学習パスを見つけるのには不向きなケースがあるそうです",
-        "そこで、Google Search Centralはコンテンツを2つの専門プ"
+        "2026年10月6日、イギリスのファッション通販サイト「ASOS」の公式アプリから、同社を脅迫するプッシュ通知が一部の顧客に届きました",
+        "通知はASOSの担当部署に宛てたもので、連絡に応じなければデータを公開すると脅す内容でした",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261008-google-search-fundamentals-technical-seo-youtube-playlists/",
-      "published": "2026-10-08 08:00"
+      "link": "https://gigazine.net/news/20261009-asos-hacked-app-push-notifications/",
+      "published": "2026-10-09 06:00"
     },
     {
-      "id": "530dfda2bc13",
-      "original_title": "Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった",
-      "title": "Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった",
+      "id": "78aa30ff8ee8",
+      "original_title": "新人が初日に迷うことは、AIも毎回迷う。だから暗黙のルールを、すべて言葉にした",
+      "title": "新人が初日に迷うことは、AIも毎回迷う。だから暗黙のルールを、すべて言葉にした",
       "summary": [
-        "判断特化AI「Jev」は、文章を書かずに選択肢ごとの確率と確信度だけを返すモデルです",
-        "試そうとして、Cloudflare Workers AI から Jev を呼ぶと、こう返ってきました",
-        "HTTP 402 {\"errors\":[{\"message\":\"Insuffici..."
+        "はじめに 🤔「AI に毎回同じ説明をしている気がする…」 😥「前に注意したことを、また同じようにやられた…」 🫠「任せる範囲を広げたいけど、取り返しのつかない操作をされないか不安…」 AI と一緒に開発していると、こんな場面によく出会います",
+        "AI は優秀ですが、会話が変..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12",
-      "published": "2026-10-08 10:27"
+      "link": "https://qiita.com/tzp/items/1a264aa185440e79899e",
+      "published": "2026-10-09 10:43"
     },
     {
-      "id": "8dda6d6be9ee",
-      "original_title": "結論を書く前の 1 問「これを無効にする既決があるか」——全部を探させず、いまの既決だけを置く",
-      "title": "結論を書く前の 1 問「これを無効にする既決があるか」——全部を探させず、いまの既決だけを置く",
+      "id": "f2cfe2189b51",
+      "original_title": "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」",
+      "title": "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」",
       "summary": [
-        "AI（Claude Code）に作業を任せていると、過去に決めたこと（既決）に反する提案が出てきます",
-        "当方では、既決を見落として逆走した実害が 3 件ありました",
-        "「決定を検索させれば防げる」と思って 3 つの経路を試し、3 つとも実用になりませんでした"
+        "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」 AIエージェントにソフトウェアを操作させるとき、どこまで専用機能を用意すべきでしょうか",
+        "自然言語による操作画面、AI専用のAPI、MCPサーバー、用途ごとのツール",
+        "いろいろな方法が考えられます"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sumitsuke/items/e0e33861fb0a3ed4ed05",
-      "published": "2026-10-08 10:20"
+      "link": "https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1",
+      "published": "2026-10-09 10:33"
     },
     {
-      "id": "4019afc15dd8",
-      "original_title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-      "title": "Nous Research、評価額が15億ドルに達したことを確認、ビジネスユーザー向けAIエージェントを発売",
+      "id": "a9073bbb3e70",
+      "original_title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "title": "この奇妙に詳細な Web サイトで、エリザベス ホームズの机に座っているふりをしてください。",
       "summary": [
-        "Hermes Agent の開発者はシリーズ B で 9,000 万ドルを調達しました"
+        "Extend エンジニアの Bo Lau は、米国対エリザベス ホームズの裁判からの 1,000 件を超える電子メール、スライド、テキスト、文書を使用して、Theranos 創設者のデスクをライフルで突破するのがどのようなものかをシミュレートする Web サイトを作成しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "published": "2026-10-07 20:48"
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published": "2026-10-08 21:00"
     },
     {
-      "id": "3646f6b89d89",
-      "original_title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "title": "Microsoft、改良された Windows 11 を搭載した新しい Nvidia チップ AI PC をリリース",
+      "id": "b2943ad611c4",
+      "original_title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "title": "解雇されたOpenAIの安全性研究者が不正行為の主張に異議を唱え、萎縮効果を警告",
       "summary": [
-        "Microsoft は、AI モデルとエージェントを実行するように設計された Nvidia チップで動作する AI PC、Surface Laptop Ultra の仕様と価格を明らかにしました"
+        "OpenAIの安全研究者を解雇された3名が、機密情報の不正取扱い疑惑に異議を唱え、彼らの解雇が同社のAI安全文化に萎縮効果をもたらしていると公開書簡で警告した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "published": "2026-10-07 20:22"
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "published": "2026-10-08 20:04"
     }
   ]
 }
