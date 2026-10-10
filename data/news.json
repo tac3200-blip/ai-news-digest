@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-10-09 10:45",
+  "updated_at": "2026-10-10 10:32",
   "total_count": 19,
   "articles": [
+    {
+      "id": "afcf33314f33",
+      "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "title": "ソフォス、OpenAI Daybreak により脅威調査時間を 96% 削減",
+      "summary": [
+        "ソフォスが OpenAI の Daybreak を使用して、人間の監視を維持しながらサイバー脅威の調査時間を 96% 削減し、MDR ケースの 52% を自動化している方法をご覧ください"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/sophos",
+      "published": "2026-10-09 07:00"
+    },
+    {
+      "id": "b09970d346a3",
+      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
+      "summary": [
+        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントを 76 倍安くし、テストで 5 倍高速にし、より高機能なモデルを顧客に提供しました"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "published": "2026-10-09 07:00"
+    },
     {
       "id": "1606aad1681f",
       "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -14,33 +40,6 @@
       "source_name": "OpenAI (公式)",
       "link": "https://openai.com/index/oracle",
       "published": "2026-10-08 16:00"
-    },
-    {
-      "id": "7db0f71ce082",
-      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "title": "Polo AI は、OpenAI を使用してクリエイティブなアイデアをキャンペーンに変換します",
-      "summary": [
-        "GPT-5.6、GPT-6 Astra、GPT‑Image‑2.5 を使用すると、Pollo AI はクリエイターが大胆なアイデアを詳細な画像や映画のような動画広告に変えるのに役立ちます"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/pollo-ai",
-      "published": "2026-10-08 12:00"
-    },
-    {
-      "id": "5985f8d6d144",
-      "original_title": "LegalOn halves Codex costs while maintaining development speed",
-      "title": "LegalOn は開発スピードを維持しながら Codex コストを半減",
-      "summary": [
-        "LegalOn は、開発速度を維持しながら、1 日あたりの Codex コストの推定コストを 65% 削減しました",
-        "アストラ、ソル、ルナをタスクに合わせて戦略的に予算を管理しました"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "2026-10-08 12:00"
     },
     {
       "id": "cbec8263c511",
@@ -82,6 +81,34 @@
       "published": "2026-09-28 19:00"
     },
     {
+      "id": "34cc7c38990e",
+      "original_title": "ICYMI: What landed for AI builders in September 2026",
+      "title": "ICYMI: 2026 年 9 月に AI ビルダーに何が起こったのか",
+      "summary": [
+        "2026 年 9 月の最新の Amazon Bedrock、Amazon Bedrock AgentCore、および Strands アップデートの概要 AWS では、エンタープライズ AI への最速の道は、モデル、ランタイム、ツールなどのあらゆるレイヤーで構築者に実際の選択肢を提供することであると考えています",
+        "その信念の形"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+      "published": "2026-10-09 15:38"
+    },
+    {
+      "id": "0070911f4483",
+      "original_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "title": "Postman が Amazon Bedrock で 4,000 万人の開発者向けにエージェント モードを実行する方法",
+      "summary": [
+        "デモ用の AI エージェントを構築することと、4,000 万人の開発者に対して AI エージェントを運用することは、エンジニアリング上で別の問題です",
+        "Postman は、API テスト、ドキュメント、検出、実装にわたって作業するための AI ネイティブな方法であるエージェント モードの構築に着手しました"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+      "published": "2026-10-09 15:35"
+    },
+    {
       "id": "c40a657c9a22",
       "original_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
       "title": "AI エージェントのペイパー推論: BlockRun と Incarna が Amazon Bedrock AgentCore 支払いを使用する方法",
@@ -96,175 +123,143 @@
       "published": "2026-10-08 18:33"
     },
     {
-      "id": "e382427711de",
-      "original_title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-      "title": "Amazon SageMaker HyperPod を使用して、分離性と公平性を保ちながらチーム間で GPU クラスターを共有します",
+      "id": "fc5840530715",
+      "original_title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
       "summary": [
-        "同じ企業内の複数のチームは、分離境界、リソースの公平性、運用の独立性を維持しながら、生成 AI 運用のために高価な GPU クラスターへの共有アクセスをますます必要としています",
-        "データサイエンスチームを検討してください"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
-      "published": "2026-10-08 16:20"
-    },
-    {
-      "id": "947bddd21061",
-      "original_title": "Introducing Claude Haiku 5.5 on AWS",
-      "title": "AWS での Claude Haiku 5.5 の紹介",
-      "summary": [
-        "本日、Amazon Bedrock で Claude Haiku 5.5 と AWS で Claude Platform が利用可能になったことを発表できることを嬉しく思います",
-        "Anthropic によると、Claude Haiku 5.5 は、Claude 5.5 ファミリーの中で最も高速かつ効率的なモデルであり、サブエージェントやハイクのために構築されています"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
-      "published": "2026-10-07 18:52"
-    },
-    {
-      "id": "a26cc88d4b77",
-      "original_title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表　「Amazonキッズタブレット」は日本でも発売へ",
-      "title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表　「Amazonキッズタブレット」は日本でも発売へ",
-      "summary": [
-        "Amazonは、新タブレット「Amazon Alexa Tablet」3機種を発表した",
-        "「Fire」ブランドを刷新し、AndroidとGoogle Playに対応したほか、AIアシスタント「Alexa+」を内蔵する",
-        "子ども向け「Amazonキッズタブレット」も発表し、日本限定「ちいかわ」モデルなどを10月14日より出荷する"
+        "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した",
+        "これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002155/",
-      "published": "2026-10-09 10:20"
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "published": "2026-10-10 08:28"
     },
     {
-      "id": "e98c21a402e3",
-      "original_title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
-      "title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
+      "id": "e3b147abd078",
+      "original_title": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
+      "title": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
       "summary": [
-        "Google Cloudは新サービス「Gemini Agent」を発表",
-        "クラウドで動作するマルチエージェントツールとされる",
-        "Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている"
+        "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-      "published": "2026-10-09 09:40"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
+      "published": "2026-10-09 19:44"
     },
     {
-      "id": "62d9abebc622",
-      "original_title": "【本日みつけたお買い得品】デルの16型ノートが約3万円引きでAmazonセール中！",
-      "title": "【本日みつけたお買い得品】デルの16型ノートが約3万円引きでAmazonセール中！",
+      "id": "328903a0b80b",
+      "original_title": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません",
+      "title": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません",
       "summary": [
-        "Amazonにおいて、デルの16型ノートPC「DC16250」(ND66-FWM3BA)が、直近価格から3万円引きとなる12万9,980円で販売されている"
+        "ノートPCを選ぶとき、私たちはいつも何かを諦めてきました",
+        "軽さを取ればパワーが足りず、パワーを取れば重くてバッテリが持たない",
+        "どちらを優先するかは買う時に一度決めたら、そのマシンを手放すまで変えられない"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147001.html",
-      "published": "2026-10-09 10:21"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2147299.html",
+      "published": "2026-10-10 08:00"
     },
     {
-      "id": "f2769059a734",
-      "original_title": "ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売",
-      "title": "ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売",
+      "id": "fef0895897bb",
+      "original_title": "1,180円からの静音3ボタンマウス、エレコムが接続方式3種で展開",
+      "title": "1,180円からの静音3ボタンマウス、エレコムが接続方式3種で展開",
       "summary": [
-        "ローカルでAIエージェントが動く2in1がやってくる",
-        "エムエスアイコンピュータージャパン(MSI)は、16型のRTX Spark搭載2in1「Prestige N16 Flip AI+ C1XM」を10月8日より予約開始した",
-        "発売は10月下旬で、価格はオープンプライス"
+        "エレコムは、シンプルなシンメトリーデザインを採用したBluetooth/2.4GHz無線/有線の3種類から選べる静音設計の3ボタンマウスを10月上旬より順次発売する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2146983.html",
-      "published": "2026-10-09 10:15"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2147317.html",
+      "published": "2026-10-10 06:33"
     },
     {
-      "id": "5c2ce0e15829",
-      "original_title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
-      "title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
+      "id": "7cab7b23dce4",
+      "original_title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
+      "title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
       "summary": [
-        "AnyPS5はPlayStation 5(PS5)のゲームをLinuxおよびWindowsでプレイ可能にすることを目的としたツールです",
-        "AnyPS5はエミュレーションや独立したランタイムプロセスを必要とせず、PS5のゲームをターゲットシステムのネイティブフォーマットに変換するリリンカーと、動的リンクに適したシステムPRXライブラリによって構成されています",
+        "市場調査企業のIDCが、2026年第3四半期(7～9月)の全世界PC出荷台数が前年同期比で20.1％減の6270万台となったことを報告しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261009-anyps5/",
-      "published": "2026-10-09 07:00"
+      "link": "https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/",
+      "published": "2026-10-10 10:00"
     },
     {
-      "id": "052f1d503d90",
-      "original_title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
-      "title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
+      "id": "8183d1c12cda",
+      "original_title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+      "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
       "summary": [
-        "2026年10月6日、イギリスのファッション通販サイト「ASOS」の公式アプリから、同社を脅迫するプッシュ通知が一部の顧客に届きました",
-        "通知はASOSの担当部署に宛てたもので、連絡に応じなければデータを公開すると脅す内容でした",
-        "続きを読む..."
+        "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です",
+        "しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません",
+        "ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261009-asos-hacked-app-push-notifications/",
-      "published": "2026-10-09 06:00"
+      "link": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+      "published": "2026-10-10 09:00"
     },
     {
-      "id": "78aa30ff8ee8",
-      "original_title": "新人が初日に迷うことは、AIも毎回迷う。だから暗黙のルールを、すべて言葉にした",
-      "title": "新人が初日に迷うことは、AIも毎回迷う。だから暗黙のルールを、すべて言葉にした",
+      "id": "d3fe098636a9",
+      "original_title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
+      "title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
       "summary": [
-        "はじめに 🤔「AI に毎回同じ説明をしている気がする…」 😥「前に注意したことを、また同じようにやられた…」 🫠「任せる範囲を広げたいけど、取り返しのつかない操作をされないか不安…」 AI と一緒に開発していると、こんな場面によく出会います",
-        "AI は優秀ですが、会話が変..."
+        "小規模店舗向けのLaravel雛形を、Claude Codeにほぼ書いてもらいました",
+        "その中で、指示の出し方で結果が大きく変わったのが、予約モジュールです",
+        "粗すぎても細かすぎても失敗して、うまくいったのは「やらないことと判断基準を渡す」指示でした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/tzp/items/1a264aa185440e79899e",
-      "published": "2026-10-09 10:43"
+      "link": "https://qiita.com/mugenweb/items/295640153db6bc84db2c",
+      "published": "2026-10-10 10:14"
     },
     {
-      "id": "f2cfe2189b51",
-      "original_title": "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」",
-      "title": "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」",
+      "id": "7ed11f9687b8",
+      "original_title": "Claude Code v2.1.289 - v2.1.296 リリースノートまとめ",
+      "title": "Claude Code v2.1.289 - v2.1.296 リリースノートまとめ",
       "summary": [
-        "AIエージェント向けAPIを設計して分かった「自由にさせるための制約」 AIエージェントにソフトウェアを操作させるとき、どこまで専用機能を用意すべきでしょうか",
-        "自然言語による操作画面、AI専用のAPI、MCPサーバー、用途ごとのツール",
-        "いろいろな方法が考えられます"
+        "Claude Code v2.1.289〜v2.1.296 の8バージョンをまとめました",
+        "Claude Haiku 5.5 の追加、フックの onFailure: \"block\"、サブエージェント向けの autoCompactWindow / effort パラメータ、MC..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1",
-      "published": "2026-10-09 10:33"
+      "link": "https://qiita.com/NaokiIshimura/items/a890af864410fdaeb6f6",
+      "published": "2026-10-10 10:08"
     },
     {
-      "id": "a9073bbb3e70",
-      "original_title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "title": "この奇妙に詳細な Web サイトで、エリザベス ホームズの机に座っているふりをしてください。",
+      "id": "908c07c43adf",
+      "original_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "title": "Anthropic は AI エージェントを確実に制御できません。代わりに、内部の評価をライブインターネットから遮断しています",
       "summary": [
-        "Extend エンジニアの Bo Lau は、米国対エリザベス ホームズの裁判からの 1,000 件を超える電子メール、スライド、テキスト、文書を使用して、Theranos 創設者のデスクをライフルで突破するのがどのようなものかをシミュレートする Web サイトを作成しました"
+        "アンスロピックは、追って通知があるまで「すべての内部評価」のために「ライブインターネットアクセスをオフ」にしたと述べた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "published": "2026-10-08 21:00"
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published": "2026-10-10 00:18"
     },
     {
-      "id": "b2943ad611c4",
-      "original_title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "title": "解雇されたOpenAIの安全性研究者が不正行為の主張に異議を唱え、萎縮効果を警告",
+      "id": "d6afb2947fc1",
+      "original_title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "title": "非テキスト AI モデル Jev のメーカーは、発売からわずか数週間で 75 億ドルの価値があった",
       "summary": [
-        "OpenAIの安全研究者を解雇された3名が、機密情報の不正取扱い疑惑に異議を唱え、彼らの解雇が同社のAI安全文化に萎縮効果をもたらしていると公開書簡で警告した"
+        "ユーザーと大企業が Jev に非常に興奮しているのは、LLM よりも大幅に高速に動作し、使用するトークンの量がはるかに少ないという TypeSafe の主張です"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "published": "2026-10-08 20:04"
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "published": "2026-10-09 21:41"
     }
   ]
 }
