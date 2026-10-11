@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-10 10:32",
+  "updated_at": "2026-10-11 09:41",
   "total_count": 19,
   "articles": [
     {
       "id": "afcf33314f33",
       "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "title": "ソフォス、OpenAI Daybreak により脅威調査時間を 96% 削減",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "summary": [
-        "ソフォスが OpenAI の Daybreak を使用して、人間の監視を維持しながらサイバー脅威の調査時間を 96% 削減し、MDR ケースの 52% を自動化している方法をご覧ください"
+        "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -18,9 +18,9 @@
     {
       "id": "b09970d346a3",
       "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "summary": [
-        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントを 76 倍安くし、テストで 5 倍高速にし、より高機能なモデルを顧客に提供しました"
+        "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -31,9 +31,9 @@
     {
       "id": "1606aad1681f",
       "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "title": "Oracle が ChatGPT と Codex を使用して数日の作業を数分に短縮する方法",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "summary": [
-        "オラクルは、採用、エンジニアリング、運用全体にわたって、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
+        "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -44,9 +44,9 @@
     {
       "id": "cbec8263c511",
       "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
+      "title": "Introducing Playground: Create and play custom games",
       "summary": [
-        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
+        "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "4f0fb68517f1",
       "original_title": "The latest AI news we announced in September 2026",
-      "title": "2026年9月に発表したAI最新ニュース",
+      "title": "The latest AI news we announced in September 2026",
       "summary": [
-        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
+        "Here are Google’s latest AI updates from September 2026"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,7 +70,7 @@
     {
       "id": "fa30939a0a92",
       "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "title": "Future Vision XPRIZE の優勝トレーラー、The Gifted をご覧ください。",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "summary": [
         ""
       ],
@@ -83,10 +83,9 @@
     {
       "id": "34cc7c38990e",
       "original_title": "ICYMI: What landed for AI builders in September 2026",
-      "title": "ICYMI: 2026 年 9 月に AI ビルダーに何が起こったのか",
+      "title": "ICYMI: What landed for AI builders in September 2026",
       "summary": [
-        "2026 年 9 月の最新の Amazon Bedrock、Amazon Bedrock AgentCore、および Strands アップデートの概要 AWS では、エンタープライズ AI への最速の道は、モデル、ランタイム、ツールなどのあらゆるレイヤーで構築者に実際の選択肢を提供することであると考えています",
-        "その信念の形"
+        "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving builders real choice at every layer: model, runtime, and tooling. That belief shape"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -97,10 +96,9 @@
     {
       "id": "0070911f4483",
       "original_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "title": "Postman が Amazon Bedrock で 4,000 万人の開発者向けにエージェント モードを実行する方法",
+      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
       "summary": [
-        "デモ用の AI エージェントを構築することと、4,000 万人の開発者に対して AI エージェントを運用することは、エンジニアリング上で別の問題です",
-        "Postman は、API テスト、ドキュメント、検出、実装にわたって作業するための AI ネイティブな方法であるエージェント モードの構築に着手しました"
+        "Building an AI agent for a demo and operating one for 40 million developers are different engineering problems. Postman set out to build Agent Mode , an AI-native way to work across API testing , documentation , discovery, and implementation. The tea"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -111,10 +109,9 @@
     {
       "id": "c40a657c9a22",
       "original_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "title": "AI エージェントのペイパー推論: BlockRun と Incarna が Amazon Bedrock AgentCore 支払いを使用する方法",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
       "summary": [
-        "AI エージェントを実行する場合、多くの場合、モデル推論、API 応答、Web コンテンツへのアクセス、別のエージェントへの呼び出しなどのタスクを完了するために何かを購入する必要があります",
-        "こうした購入は小規模かつ頻繁に行われ、場合によっては 1 回あたり数分の 1 セントで行われます"
+        "When an AI agent runs, it often needs to buy something to finish a task: a model inference, an API response, access web content, or a call to another agent. These purchases are small and frequent, sometimes a fraction of a cent each, and they happen"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -150,116 +147,114 @@
       "published": "2026-10-09 19:44"
     },
     {
-      "id": "328903a0b80b",
-      "original_title": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません",
-      "title": "バッテリを外したら、代わりにファンが付いた。GPD WIN Max 3の“着脱式”はただのギミックじゃありません",
+      "id": "fa2ab13e0695",
+      "original_title": "【本日みつけたお買い得品】3:2で縦に広いプログラマー向け4Kモニターが2万1,509円引き。Amazonセール",
+      "title": "【本日みつけたお買い得品】3:2で縦に広いプログラマー向け4Kモニターが2万1,509円引き。Amazonセール",
       "summary": [
-        "ノートPCを選ぶとき、私たちはいつも何かを諦めてきました",
-        "軽さを取ればパワーが足りず、パワーを取れば重くてバッテリが持たない",
-        "どちらを優先するかは買う時に一度決めたら、そのマシンを手放すまで変えられない"
+        "Amazonで、ベンキューの28.2型プログラミング向けモニター「RD280U」が、直近価格から2万1,509円引きの7万9,400円で販売中だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2147299.html",
-      "published": "2026-10-10 08:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147352.html",
+      "published": "2026-10-10 16:49"
     },
     {
-      "id": "fef0895897bb",
-      "original_title": "1,180円からの静音3ボタンマウス、エレコムが接続方式3種で展開",
-      "title": "1,180円からの静音3ボタンマウス、エレコムが接続方式3種で展開",
+      "id": "d1d3da7fbed8",
+      "original_title": "【本日みつけたお買い得品】Mac向け5Kモニターが2万1,836円引き。Amazonでセール中",
+      "title": "【本日みつけたお買い得品】Mac向け5Kモニターが2万1,836円引き。Amazonでセール中",
       "summary": [
-        "エレコムは、シンプルなシンメトリーデザインを採用したBluetooth/2.4GHz無線/有線の3種類から選べる静音設計の3ボタンマウスを10月上旬より順次発売する"
+        "Amazonで、ベンキューの27型から31.5型までのモニターがセール価格で販売されている",
+        "いずれもMac向けで、27型5Kの「MA270S」は、直近価格から2万1,836円引きの15万9,800円で販売中だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2147317.html",
-      "published": "2026-10-10 06:33"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147349.html",
+      "published": "2026-10-10 16:01"
     },
     {
-      "id": "7cab7b23dce4",
-      "original_title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
-      "title": "2026年第3四半期のPC出荷台数は前年比で20.1％も減少",
+      "id": "ebc545fc3ba4",
+      "original_title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
       "summary": [
-        "市場調査企業のIDCが、2026年第3四半期(7～9月)の全世界PC出荷台数が前年同期比で20.1％減の6270万台となったことを報告しました",
+        "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261010-pc-market-shipments-fall-20-q3-2026/",
-      "published": "2026-10-10 10:00"
+      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+      "published": "2026-10-11 09:00"
     },
     {
-      "id": "8183d1c12cda",
-      "original_title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
-      "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+      "id": "82be6be977f8",
+      "original_title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
+      "title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
       "summary": [
-        "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です",
-        "しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません",
-        "ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています"
+        "銃社会のアメリカでは、自殺者の半数以上が銃器により自殺しています",
+        "自殺を減らす取り組みは世界各国で行われていますが、それでも自殺者を予測するのは大変困難で、アメリカでは銃を禁止する方がよっぽど効果的だと専門家が主張しています",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
-      "published": "2026-10-10 09:00"
+      "link": "https://gigazine.net/news/20261011-hard-to-predict-suicidal/",
+      "published": "2026-10-11 08:00"
     },
     {
-      "id": "d3fe098636a9",
-      "original_title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
-      "title": "「予約機能を作って」は失敗する。Claude Codeへの指示は「やらないこと」と判断基準を渡す(Laravel)",
+      "id": "c7c143fd7764",
+      "original_title": "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順",
+      "title": "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順",
       "summary": [
-        "小規模店舗向けのLaravel雛形を、Claude Codeにほぼ書いてもらいました",
-        "その中で、指示の出し方で結果が大きく変わったのが、予約モジュールです",
-        "粗すぎても細かすぎても失敗して、うまくいったのは「やらないことと判断基準を渡す」指示でした"
+        "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています",
+        "初出: https://dnd-inc.jp/blog/gss-vpn-pa..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/mugenweb/items/295640153db6bc84db2c",
-      "published": "2026-10-10 10:14"
+      "link": "https://qiita.com/DnD-inc/items/37b95dc34ed5b683115c",
+      "published": "2026-10-11 09:23"
     },
     {
-      "id": "7ed11f9687b8",
-      "original_title": "Claude Code v2.1.289 - v2.1.296 リリースノートまとめ",
-      "title": "Claude Code v2.1.289 - v2.1.296 リリースノートまとめ",
+      "id": "2cf878f8a145",
+      "original_title": "本を Claude Code に読ませて自分のリポジトリに再現する: 読む順路・検証済み SHA・改訂の追随",
+      "title": "本を Claude Code に読ませて自分のリポジトリに再現する: 読む順路・検証済み SHA・改訂の追随",
       "summary": [
-        "Claude Code v2.1.289〜v2.1.296 の8バージョンをまとめました",
-        "Claude Haiku 5.5 の追加、フックの onFailure: \"block\"、サブエージェント向けの autoCompactWindow / effort パラメータ、MC..."
+        "この記事はシリーズ「Claude Code で技術ブログを無人運用する — 無料章から読む仕組みの全体像」の第 6 回（全 6 回）です",
+        "Claude Code のスケジュール実行だけで技術ブログ（Qiita 主軸・Zenn 試験投稿・X 告知・画像生成）が人手なしで..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/NaokiIshimura/items/a890af864410fdaeb6f6",
-      "published": "2026-10-10 10:08"
+      "link": "https://qiita.com/kai_kou/items/b0969ef956969c328d08",
+      "published": "2026-10-11 09:07"
     },
     {
-      "id": "908c07c43adf",
-      "original_title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "title": "Anthropic は AI エージェントを確実に制御できません。代わりに、内部の評価をライブインターネットから遮断しています",
+      "id": "4f1e5b3e0e2f",
+      "original_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "summary": [
-        "アンスロピックは、追って通知があるまで「すべての内部評価」のために「ライブインターネットアクセスをオフ」にしたと述べた"
+        "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published": "2026-10-10 00:18"
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "2026-10-10 21:47"
     },
     {
-      "id": "d6afb2947fc1",
-      "original_title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "title": "非テキスト AI モデル Jev のメーカーは、発売からわずか数週間で 75 億ドルの価値があった",
+      "id": "5d671a474069",
+      "original_title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "summary": [
-        "ユーザーと大企業が Jev に非常に興奮しているのは、LLM よりも大幅に高速に動作し、使用するトークンの量がはるかに少ないという TypeSafe の主張です"
+        "Is Apple hoping to get into the AI-generated podcast business"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "published": "2026-10-09 21:41"
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "2026-10-10 19:50"
     }
   ]
 }
