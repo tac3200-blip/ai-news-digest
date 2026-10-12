@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-11 09:41",
+  "updated_at": "2026-10-12 10:02",
   "total_count": 19,
   "articles": [
     {
       "id": "afcf33314f33",
       "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "title": "ソフォス、OpenAI Daybreak により脅威調査時間を 96% 削減",
       "summary": [
-        "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+        "ソフォスが OpenAI の Daybreak を使用して、人間の監視を維持しながらサイバー脅威の調査時間を 96% 削減し、MDR ケースの 52% を自動化している方法をご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -18,9 +18,9 @@
     {
       "id": "b09970d346a3",
       "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
       "summary": [
-        "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントをテストで 76 倍安くし、テストで 5 倍高速化し、より高機能なモデルを顧客に提供しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -31,9 +31,9 @@
     {
       "id": "1606aad1681f",
       "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "title": "Oracle が ChatGPT と Codex を使用して数日の作業を数分に短縮する方法",
       "summary": [
-        "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+        "オラクルは、採用、エンジニアリング、運用全体にわたり、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -44,9 +44,9 @@
     {
       "id": "cbec8263c511",
       "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Introducing Playground: Create and play custom games",
+      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
       "summary": [
-        "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "4f0fb68517f1",
       "original_title": "The latest AI news we announced in September 2026",
-      "title": "The latest AI news we announced in September 2026",
+      "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "Here are Google’s latest AI updates from September 2026"
+        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,7 +70,7 @@
     {
       "id": "fa30939a0a92",
       "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "Future Vision XPRIZE の優勝トレーラー、The Gifted をご覧ください。",
       "summary": [
         ""
       ],
@@ -83,9 +83,10 @@
     {
       "id": "34cc7c38990e",
       "original_title": "ICYMI: What landed for AI builders in September 2026",
-      "title": "ICYMI: What landed for AI builders in September 2026",
+      "title": "ICYMI: 2026 年 9 月に AI ビルダーに何が起こったのか",
       "summary": [
-        "A recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026 At AWS, we believe the fastest path to enterprise AI is giving builders real choice at every layer: model, runtime, and tooling. That belief shape"
+        "2026 年 9 月の最新の Amazon Bedrock、Amazon Bedrock AgentCore、および Strands アップデートの概要 AWS では、エンタープライズ AI への最速の道は、モデル、ランタイム、ツールなどのあらゆるレイヤーで構築者に実際の選択肢を提供することであると考えています",
+        "その信念の形"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -96,9 +97,10 @@
     {
       "id": "0070911f4483",
       "original_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "title": "Postman が Amazon Bedrock で 4,000 万人の開発者向けにエージェント モードを実行する方法",
       "summary": [
-        "Building an AI agent for a demo and operating one for 40 million developers are different engineering problems. Postman set out to build Agent Mode , an AI-native way to work across API testing , documentation , discovery, and implementation. The tea"
+        "デモ用の AI エージェントを構築することと、4,000 万人の開発者に対して AI エージェントを運用することは、エンジニアリング上で別の問題です",
+        "Postman は、API テスト、ドキュメント、検出、実装にわたって作業するための AI ネイティブな方法であるエージェント モードの構築に着手しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -109,15 +111,31 @@
     {
       "id": "c40a657c9a22",
       "original_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "title": "AI エージェントのペイパー推論: BlockRun と Incarna が Amazon Bedrock AgentCore 支払いを使用する方法",
       "summary": [
-        "When an AI agent runs, it often needs to buy something to finish a task: a model inference, an API response, access web content, or a call to another agent. These purchases are small and frequent, sometimes a fraction of a cent each, and they happen"
+        "AI エージェントを実行する場合、多くの場合、モデル推論、API 応答、Web コンテンツへのアクセス、別のエージェントへの呼び出しなどのタスクを完了するために何かを購入する必要があります",
+        "こうした購入は小規模かつ頻繁に行われ、場合によっては 1 回あたり数分の 1 セントで行われます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
       "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
       "published": "2026-10-08 18:33"
+    },
+    {
+      "id": "98e6c659ee6d",
+      "original_title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+      "summary": [
+        "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した",
+        "警察は発見から報告までの遅れを批判",
+        "ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "published": "2026-10-12 08:59"
     },
     {
       "id": "fc5840530715",
@@ -134,127 +152,119 @@
       "published": "2026-10-10 08:28"
     },
     {
-      "id": "e3b147abd078",
-      "original_title": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
-      "title": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
+      "id": "73fce3206a12",
+      "original_title": "【本日みつけたお買い得品】144Hzの23.8型モニターが1万693円！Amazonでセール中",
+      "title": "【本日みつけたお買い得品】144Hzの23.8型モニターが1万693円！Amazonでセール中",
       "summary": [
-        "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
-      "published": "2026-10-09 19:44"
-    },
-    {
-      "id": "fa2ab13e0695",
-      "original_title": "【本日みつけたお買い得品】3:2で縦に広いプログラマー向け4Kモニターが2万1,509円引き。Amazonセール",
-      "title": "【本日みつけたお買い得品】3:2で縦に広いプログラマー向け4Kモニターが2万1,509円引き。Amazonセール",
-      "summary": [
-        "Amazonで、ベンキューの28.2型プログラミング向けモニター「RD280U」が、直近価格から2万1,509円引きの7万9,400円で販売中だ"
+        "Amazonで、Xiaomiのモニター4製品がセール価格で販売されている",
+        "23.8型フルHD(1,920×1,080ドット)の「A24i」は、直近価格から1,899円引きの1万693円で販売中だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147352.html",
-      "published": "2026-10-10 16:49"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147404.html",
+      "published": "2026-10-12 06:32"
     },
     {
-      "id": "d1d3da7fbed8",
-      "original_title": "【本日みつけたお買い得品】Mac向け5Kモニターが2万1,836円引き。Amazonでセール中",
-      "title": "【本日みつけたお買い得品】Mac向け5Kモニターが2万1,836円引き。Amazonでセール中",
+      "id": "8609dfab4a8e",
+      "original_title": "【本日みつけたお買い得品】ミニLEDの27型WQHDゲーミングモニターが1万6千円引き、Amazonでセール",
+      "title": "【本日みつけたお買い得品】ミニLEDの27型WQHDゲーミングモニターが1万6千円引き、Amazonでセール",
       "summary": [
-        "Amazonで、ベンキューの27型から31.5型までのモニターがセール価格で販売されている",
-        "いずれもMac向けで、27型5Kの「MA270S」は、直近価格から2万1,836円引きの15万9,800円で販売中だ"
+        "Amazonで、Xiaomiのゲーミングモニターがセール価格で販売されている",
+        "27型WQHD(2,560×1,440ドット)の「G Pro 27i」は、直近価格から1万6,180円引きの3万3,800円で販売中だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147349.html",
-      "published": "2026-10-10 16:01"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147402.html",
+      "published": "2026-10-12 06:20"
     },
     {
-      "id": "ebc545fc3ba4",
-      "original_title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
-      "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+      "id": "789de95ac6e4",
+      "original_title": "AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か",
+      "title": "AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か",
       "summary": [
-        "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました",
+        "Appleはスマートホーム関連デバイスを開発中で、10月13日開催予定の新製品発表会でこれらを発表すると目されています",
+        "そんなスマートホーム関連デバイスの中心となるスマートホームハブは、「HomeView」という名称になると報じられました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
-      "published": "2026-10-11 09:00"
+      "link": "https://gigazine.net/news/20261012-apple-smart-home-homeview/",
+      "published": "2026-10-12 10:00"
     },
     {
-      "id": "82be6be977f8",
-      "original_title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
-      "title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
+      "id": "9cc09556ba13",
+      "original_title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
+      "title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
       "summary": [
-        "銃社会のアメリカでは、自殺者の半数以上が銃器により自殺しています",
-        "自殺を減らす取り組みは世界各国で行われていますが、それでも自殺者を予測するのは大変困難で、アメリカでは銃を禁止する方がよっぽど効果的だと専門家が主張しています",
+        "「人は自分と似た人に引かれる」というのはよく言われますが、これは精神疾患を抱える人に特に強く当てはまる可能性があることが研究で分かりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261011-hard-to-predict-suicidal/",
-      "published": "2026-10-11 08:00"
+      "link": "https://gigazine.net/news/20261012-people-similar-mental-health/",
+      "published": "2026-10-12 08:00"
     },
     {
-      "id": "c7c143fd7764",
-      "original_title": "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順",
-      "title": "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順",
+      "id": "86bdf2c41909",
+      "original_title": "【GitHub日報】初登場ゼロ、rea+25,599で6日連続首位・常連7件入れ替わり — 2026-10-12",
+      "title": "【GitHub日報】初登場ゼロ、rea+25,599で6日連続首位・常連7件入れ替わり — 2026-10-12",
       "summary": [
-        "デジタル庁GSSへの不正アクセスが示したこと｜VPN機器の既知脆弱性を自社で点検する手順 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています",
-        "初出: https://dnd-inc.jp/blog/gss-vpn-pa..."
+        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
+        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
+        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/DnD-inc/items/37b95dc34ed5b683115c",
-      "published": "2026-10-11 09:23"
+      "link": "https://qiita.com/Git_Dayori/items/d5803a568f477501b1bd",
+      "published": "2026-10-12 10:01"
     },
     {
-      "id": "2cf878f8a145",
-      "original_title": "本を Claude Code に読ませて自分のリポジトリに再現する: 読む順路・検証済み SHA・改訂の追随",
-      "title": "本を Claude Code に読ませて自分のリポジトリに再現する: 読む順路・検証済み SHA・改訂の追随",
+      "id": "6aefc90d6e12",
+      "original_title": "複数のAIで作業するとき、完了報告を鵜呑みにしない確認方法",
+      "title": "複数のAIで作業するとき、完了報告を鵜呑みにしない確認方法",
       "summary": [
-        "この記事はシリーズ「Claude Code で技術ブログを無人運用する — 無料章から読む仕組みの全体像」の第 6 回（全 6 回）です",
-        "Claude Code のスケジュール実行だけで技術ブログ（Qiita 主軸・Zenn 試験投稿・X 告知・画像生成）が人手なしで..."
+        "ChatGPT、Claude、Cursor、Grokbotなど、複数のAIを使い分けると作業を速く進められます",
+        "一方で、「終わりました」という報告だけを次のAIへ渡すと、古い情報や未確認の作業まで完了扱いになることがあります",
+        "この記事では、複数のAIに仕事を分担するとき、..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/kai_kou/items/b0969ef956969c328d08",
-      "published": "2026-10-11 09:07"
+      "link": "https://qiita.com/boraemon2000/items/9e1eae4344c479ea7e4d",
+      "published": "2026-10-12 09:54"
     },
     {
-      "id": "4f1e5b3e0e2f",
-      "original_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "id": "51d6b8365ede",
+      "original_title": "Will the HomeView be Apple’s first smart home success?",
+      "title": "HomeView は Apple の最初のスマート ホームの成功となるでしょうか?",
       "summary": [
-        "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        "ここ数年、Apple が新しいスマートホーム製品を開発中であるという複数の報道を目にしてきましたが、現在ではその製品の名前と発売日が決まっているようです"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "published": "2026-10-10 21:47"
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "published": "2026-10-11 21:14"
     },
     {
-      "id": "5d671a474069",
-      "original_title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "id": "de2d9be7f595",
+      "original_title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "title": "TechCrunch Disrupt 2026 まであと 48 時間 — 次のものを構築している人々から直接話を聞く",
       "summary": [
-        "Is Apple hoping to get into the AI-generated podcast business"
+        "48 時間以内に、TechCrunch Disrupt 2026 がサンフランシスコのモスコーンウェストで始まります",
+        "入場時の価格が値上がりする前にパスを最大 100 ドル節約でき、さらに 2 枚目のパスで 50% が得られます",
+        "または、他の取引を獲得します"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "published": "2026-10-10 19:50"
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "published": "2026-10-11 19:00"
     }
   ]
 }
