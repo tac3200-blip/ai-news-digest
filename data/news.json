@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 10:02",
+  "updated_at": "2026-10-13 11:51",
   "total_count": 19,
   "articles": [
     {
@@ -20,7 +20,7 @@
       "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
       "summary": [
-        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントをテストで 76 倍安くし、テストで 5 倍高速化し、より高機能なモデルを顧客に提供しました"
+        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントをテストで 76 倍安価にし、テストで 5 倍高速化し、より高機能なモデルを顧客に提供しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -33,7 +33,7 @@
       "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "title": "Oracle が ChatGPT と Codex を使用して数日の作業を数分に短縮する方法",
       "summary": [
-        "オラクルは、採用、エンジニアリング、運用全体にわたり、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
+        "オラクルは、採用、エンジニアリング、運用全体にわたって、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -59,7 +59,7 @@
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,190 +81,188 @@
       "published": "2026-09-28 19:00"
     },
     {
-      "id": "34cc7c38990e",
-      "original_title": "ICYMI: What landed for AI builders in September 2026",
-      "title": "ICYMI: 2026 年 9 月に AI ビルダーに何が起こったのか",
+      "id": "81e065a10aeb",
+      "original_title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "title": "タイ、マレーシア、シンガポール、インドネシア、台湾におけるグローバルクロスリージョン推論を使用した Amazon Bedrock 上の OpenAI GPT モデルへのアクセス",
       "summary": [
-        "2026 年 9 月の最新の Amazon Bedrock、Amazon Bedrock AgentCore、および Strands アップデートの概要 AWS では、エンタープライズ AI への最速の道は、モデル、ランタイム、ツールなどのあらゆるレイヤーで構築者に実際の選択肢を提供することであると考えています",
-        "その信念の形"
+        "単一リージョンの推論は、需要がローカル キャパシティを超えるとスロットリングされる可能性があります",
+        "タイ、マレーシア、シンガポール、インドネシア、台湾のチームは、その能力を超えて最新の OpenAI モデルにアクセスする必要があります",
+        "Amazon Bedrock は OpenAI GPT-6 Sol および GPT-6 Luna を提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
-      "published": "2026-10-09 15:38"
+      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+      "published": "2026-10-12 17:52"
     },
     {
-      "id": "0070911f4483",
-      "original_title": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "title": "Postman が Amazon Bedrock で 4,000 万人の開発者向けにエージェント モードを実行する方法",
+      "id": "b2a8497250ae",
+      "original_title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "title": "llama.cpp を使用した意思決定モデルを Amazon SageMaker AI にデプロイする",
       "summary": [
-        "デモ用の AI エージェントを構築することと、4,000 万人の開発者に対して AI エージェントを運用することは、エンジニアリング上で別の問題です",
-        "Postman は、API テスト、ドキュメント、検出、実装にわたって作業するための AI ネイティブな方法であるエージェント モードの構築に着手しました"
+        "リクエストをルーティングしたり、エージェントのアクションを選択したり、ポリシー結果を割り当てたりするアプリケーションでは、多くの場合、自由形式のテキストではなく、固定の選択肢セットに対するスコアが必要になります",
+        "これらの意思決定モデルを llama.cpp を使用して Amazon SageMaker AI にデプロイすると、管理されたパスが得られます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
-      "published": "2026-10-09 15:35"
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+      "published": "2026-10-12 15:51"
     },
     {
-      "id": "c40a657c9a22",
-      "original_title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "title": "AI エージェントのペイパー推論: BlockRun と Incarna が Amazon Bedrock AgentCore 支払いを使用する方法",
+      "id": "af6b848b5643",
+      "original_title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "title": "Ray LLM Deep Learning Containers を使用してマルチノード推論ワークロードを実行する",
       "summary": [
-        "AI エージェントを実行する場合、多くの場合、モデル推論、API 応答、Web コンテンツへのアクセス、別のエージェントへの呼び出しなどのタスクを完了するために何かを購入する必要があります",
-        "こうした購入は小規模かつ頻繁に行われ、場合によっては 1 回あたり数分の 1 セントで行われます"
+        "この投稿では、マルチノード Ray LLM Deep Learning Containers を使用して、Amazon Elastic Kubernetes Service (Amazon EKS) 上の 2 つの GPU ノードに 1 つの大規模言語モデル (LLM) をデプロイする方法を示します",
+        "1 つの OpenAI-com の背後で個別のプリフィル ノードとデコード ノードを使用します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
-      "published": "2026-10-08 18:33"
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+      "published": "2026-10-12 15:50"
     },
     {
-      "id": "98e6c659ee6d",
-      "original_title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
-      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+      "id": "115c1b1bb826",
+      "original_title": "AIエージェントで「約7人に1人が法令違反リスク」　古いルールを参照させた代償とは",
+      "title": "AIエージェントで「約7人に1人が法令違反リスク」　古いルールを参照させた代償とは",
       "summary": [
-        "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した",
-        "警察は発見から報告までの遅れを批判",
-        "ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した"
+        "KiteRaは、AIエージェントを利用または検証している企業のデータガバナンスに関する実態調査の結果を公表した",
+        "古い社内ルールや最新版かどうか分からないデータをAIエージェントが参照し、規定や法令に違反しそうになった、あるいは実際に違反した回答者が13.4％に上った"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
-      "published": "2026-10-12 08:59"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news029.html",
+      "published": "2026-10-13 11:00"
     },
     {
-      "id": "fc5840530715",
-      "original_title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
-      "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "id": "b3163c1ef5e0",
+      "original_title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
       "summary": [
-        "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した",
-        "これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している"
+        "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した",
+        "TSMCの2nmプロセスを採用し、HBM4を288GB搭載",
+        "推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
-      "published": "2026-10-10 08:28"
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+      "published": "2026-10-13 09:24"
     },
     {
-      "id": "73fce3206a12",
-      "original_title": "【本日みつけたお買い得品】144Hzの23.8型モニターが1万693円！Amazonでセール中",
-      "title": "【本日みつけたお買い得品】144Hzの23.8型モニターが1万693円！Amazonでセール中",
+      "id": "36e48f57d226",
+      "original_title": "【本日みつけたお買い得品】MacBook Airが約1万4千円オフ。Proは約3万7千円引き！",
+      "title": "【本日みつけたお買い得品】MacBook Airが約1万4千円オフ。Proは約3万7千円引き！",
       "summary": [
-        "Amazonで、Xiaomiのモニター4製品がセール価格で販売されている",
-        "23.8型フルHD(1,920×1,080ドット)の「A24i」は、直近価格から1,899円引きの1万693円で販売中だ"
+        "Amazonにおいて、13.6型ノートPCのApple「MacBook Air(13インチ,M5)」が直近価格から1万4,081円引きで、26万4,719円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147404.html",
-      "published": "2026-10-12 06:32"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147522.html",
+      "published": "2026-10-13 11:37"
     },
     {
-      "id": "8609dfab4a8e",
-      "original_title": "【本日みつけたお買い得品】ミニLEDの27型WQHDゲーミングモニターが1万6千円引き、Amazonでセール",
-      "title": "【本日みつけたお買い得品】ミニLEDの27型WQHDゲーミングモニターが1万6千円引き、Amazonでセール",
+      "id": "03eea03e236e",
+      "original_title": "【本日みつけたお買い得品】ペン付きGalaxy Tab S10+が1万8千円オフ！Amazonプライム感謝祭先行セール",
+      "title": "【本日みつけたお買い得品】ペン付きGalaxy Tab S10+が1万8千円オフ！Amazonプライム感謝祭先行セール",
       "summary": [
-        "Amazonで、Xiaomiのゲーミングモニターがセール価格で販売されている",
-        "27型WQHD(2,560×1,440ドット)の「G Pro 27i」は、直近価格から1万6,180円引きの3万3,800円で販売中だ"
+        "Amazonでは、10月16日から19日にかけてプライム感謝祭を開催するが、現在は先行セールを開催している",
+        "このセールにおいて、SamsungのSペン付きAndroidタブレット「Galaxy Tab S10+ 256GB(SM-X820NZAAXJP)」が、直近価格の1万8,755円引きとなる16万8,700円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147402.html",
-      "published": "2026-10-12 06:20"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147519.html",
+      "published": "2026-10-13 11:34"
     },
     {
-      "id": "789de95ac6e4",
-      "original_title": "AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か",
-      "title": "AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か",
+      "id": "bc7deae38f1e",
+      "original_title": "任天堂は物理的なゲームカートリッジを廃止する予定はないと幹部が発言",
+      "title": "任天堂は物理的なゲームカートリッジを廃止する予定はないと幹部が発言",
       "summary": [
-        "Appleはスマートホーム関連デバイスを開発中で、10月13日開催予定の新製品発表会でこれらを発表すると目されています",
-        "そんなスマートホーム関連デバイスの中心となるスマートホームハブは、「HomeView」という名称になると報じられました",
+        "任天堂のラテンアメリカ担当副社長が、インタビューで「当面『完全デジタル』へ移行する計画はない」と明言し、物理メディアに関する任天堂の立場を表明しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261012-apple-smart-home-homeview/",
-      "published": "2026-10-12 10:00"
+      "link": "https://gigazine.net/news/20261013-nintendo-physical-games/",
+      "published": "2026-10-13 11:33"
     },
     {
-      "id": "9cc09556ba13",
-      "original_title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
-      "title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
+      "id": "c339126f7cf1",
+      "original_title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
+      "title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
       "summary": [
-        "「人は自分と似た人に引かれる」というのはよく言われますが、これは精神疾患を抱える人に特に強く当てはまる可能性があることが研究で分かりました",
+        "MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました",
+        "どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261012-people-similar-mental-health/",
-      "published": "2026-10-12 08:00"
+      "link": "https://gigazine.net/news/20261013-meta-ai-muse-wonder/",
+      "published": "2026-10-13 11:25"
     },
     {
-      "id": "86bdf2c41909",
-      "original_title": "【GitHub日報】初登場ゼロ、rea+25,599で6日連続首位・常連7件入れ替わり — 2026-10-12",
-      "title": "【GitHub日報】初登場ゼロ、rea+25,599で6日連続首位・常連7件入れ替わり — 2026-10-12",
+      "id": "e3b788b457ec",
+      "original_title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
+      "title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
       "summary": [
-        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします",
-        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
-        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
+        "同じ文字列なら同じハッシュ値、と思っていた",
+        "自分はLLMのキャッシュキーを確かめていて、別プロセスに同じJSONを渡したらhash()の一致判定がFalseになった",
+        "永続キャッシュの空振り"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Git_Dayori/items/d5803a568f477501b1bd",
-      "published": "2026-10-12 10:01"
+      "link": "https://qiita.com/hironakamura_ai/items/bf1a562da1b91529c3cd",
+      "published": "2026-10-13 11:29"
     },
     {
-      "id": "6aefc90d6e12",
-      "original_title": "複数のAIで作業するとき、完了報告を鵜呑みにしない確認方法",
-      "title": "複数のAIで作業するとき、完了報告を鵜呑みにしない確認方法",
+      "id": "d1063b65f5cf",
+      "original_title": "AIを講師に使う方法",
+      "title": "AIを講師に使う方法",
       "summary": [
-        "ChatGPT、Claude、Cursor、Grokbotなど、複数のAIを使い分けると作業を速く進められます",
-        "一方で、「終わりました」という報告だけを次のAIへ渡すと、古い情報や未確認の作業まで完了扱いになることがあります",
-        "この記事では、複数のAIに仕事を分担するとき、..."
+        "AIを自分専属の「講師（チューター）」として活用することは、学習効率や理解度を劇的に高める非常に有効な方法です",
+        "単に「答えを聞く」のではなく、インタラクティブな対話型学習の環境を構築することがポイントになります",
+        "​具体的な活用プロンプト（指示文）の工夫や学習の流れをまとめ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/boraemon2000/items/9e1eae4344c479ea7e4d",
-      "published": "2026-10-12 09:54"
+      "link": "https://qiita.com/good59548/items/550de661996767761c33",
+      "published": "2026-10-13 11:15"
     },
     {
-      "id": "51d6b8365ede",
-      "original_title": "Will the HomeView be Apple’s first smart home success?",
-      "title": "HomeView は Apple の最初のスマート ホームの成功となるでしょうか?",
+      "id": "25122dba92c3",
+      "original_title": "Meta releases its first frontier model, Muse Wonder",
+      "title": "メタ初のフロンティアモデル「ミューズワンダー」発売",
       "summary": [
-        "ここ数年、Apple が新しいスマートホーム製品を開発中であるという複数の報道を目にしてきましたが、現在ではその製品の名前と発売日が決まっているようです"
+        "Muse Spark が低遅延で実行できる軽量モデルを目指していたのに対し、Wonder モデルはより大型でより高性能で、ベンチマーク スコアが高く、コーディングなどの複雑なタスクでより良い結果が得られると言われています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "published": "2026-10-11 21:14"
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "published": "2026-10-12 17:56"
     },
     {
-      "id": "de2d9be7f595",
-      "original_title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "title": "TechCrunch Disrupt 2026 まであと 48 時間 — 次のものを構築している人々から直接話を聞く",
+      "id": "7c124811e852",
+      "original_title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "title": "WindBorne が気球データに関して米国空軍との巨額の契約を獲得",
       "summary": [
-        "48 時間以内に、TechCrunch Disrupt 2026 がサンフランシスコのモスコーンウェストで始まります",
-        "入場時の価格が値上がりする前にパスを最大 100 ドル節約でき、さらに 2 枚目のパスで 50% が得られます",
-        "または、他の取引を獲得します"
+        "気象観測気球とAIを使って天気を予測するシリコンバレーの新興企業が、約5000万ドル相当の米軍契約を獲得した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "published": "2026-10-11 19:00"
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "published": "2026-10-12 17:19"
     }
   ]
 }
