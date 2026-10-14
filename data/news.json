@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-10-13 11:51",
+  "updated_at": "2026-10-14 09:54",
   "total_count": 19,
   "articles": [
+    {
+      "id": "a7a61ea0d190",
+      "original_title": "Higgsfield takes AI video from 1 minute to over 10",
+      "title": "ヒッグスフィールド氏は AI ビデオを 1 分から 10 分以上まで撮影",
+      "summary": [
+        "Higgsfield は、クリエイターに GPT-6 Astra による長いビデオ、GPT-Image-2.5 による正確なビジュアル、そして GPT-Live による音声映画制作への道をもたらします"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "published": "2026-10-13 12:00"
+    },
     {
       "id": "afcf33314f33",
       "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -20,7 +33,7 @@
       "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
       "summary": [
-        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントをテストで 76 倍安価にし、テストで 5 倍高速化し、より高機能なモデルを顧客に提供しました"
+        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントを 76 倍安くし、テストで 5 倍高速にし、より高機能なモデルを顧客に提供しました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -29,17 +42,17 @@
       "published": "2026-10-09 07:00"
     },
     {
-      "id": "1606aad1681f",
-      "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "title": "Oracle が ChatGPT と Codex を使用して数日の作業を数分に短縮する方法",
+      "id": "0b17df34b67a",
+      "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "オラクルは、採用、エンジニアリング、運用全体にわたって、ChatGPT Work と Codex を使用して専門知識を高速で反復可能なワークフローに変換します"
+        "私たちは、開発者、企業、科学者、消費者に、最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/oracle",
-      "published": "2026-10-08 16:00"
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published": "2026-10-13 16:00"
     },
     {
       "id": "cbec8263c511",
@@ -59,7 +72,7 @@
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -68,201 +81,190 @@
       "published": "2026-10-02 15:00"
     },
     {
-      "id": "fa30939a0a92",
-      "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "title": "Future Vision XPRIZE の優勝トレーラー、The Gifted をご覧ください。",
+      "id": "39bbcfd776cc",
+      "original_title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "title": "アンカーブラウザとAgentCore支払いで取引するエージェントを構築する",
       "summary": [
-        ""
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "published": "2026-09-28 19:00"
-    },
-    {
-      "id": "81e065a10aeb",
-      "original_title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "title": "タイ、マレーシア、シンガポール、インドネシア、台湾におけるグローバルクロスリージョン推論を使用した Amazon Bedrock 上の OpenAI GPT モデルへのアクセス",
-      "summary": [
-        "単一リージョンの推論は、需要がローカル キャパシティを超えるとスロットリングされる可能性があります",
-        "タイ、マレーシア、シンガポール、インドネシア、台湾のチームは、その能力を超えて最新の OpenAI モデルにアクセスする必要があります",
-        "Amazon Bedrock は OpenAI GPT-6 Sol および GPT-6 Luna を提供します"
+        "AI エージェントは、リクエストごとに料金が設定される Web リソースにアクセスする必要がますます高まっています",
+        "たとえば、プレミアム データセットはクエリごとに課金され、リサーチ API は通話ごとに測定され、ペイウォールで保護されたパブリッシャーは支払いの背後にコンテンツをゲートします",
+        "AI エージェントが AI エージェントに遭遇したとき"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "published": "2026-10-12 17:52"
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+      "published": "2026-10-13 20:10"
     },
     {
-      "id": "b2a8497250ae",
-      "original_title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "title": "llama.cpp を使用した意思決定モデルを Amazon SageMaker AI にデプロイする",
+      "id": "e67f384aa86b",
+      "original_title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "title": "管理された資格を使用して Amazon Bedrock のプライベート価格オファーを管理する",
       "summary": [
-        "リクエストをルーティングしたり、エージェントのアクションを選択したり、ポリシー結果を割り当てたりするアプリケーションでは、多くの場合、自由形式のテキストではなく、固定の選択肢セットに対するスコアが必要になります",
-        "これらの意思決定モデルを llama.cpp を使用して Amazon SageMaker AI にデプロイすると、管理されたパスが得られます"
+        "数十または数百の AWS アカウントにわたる AI モデルへのアクセスを管理すると、各ワークロード アカウントが AWS Marketplace プライベート価格オファー (MPPO) を個別にサブスクライブして受け入れる必要があるため、運用上の摩擦が生じます",
+        "管理された資格を持つ Amazon Bedrock"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "published": "2026-10-12 15:51"
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+      "published": "2026-10-13 17:17"
     },
     {
-      "id": "af6b848b5643",
-      "original_title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "title": "Ray LLM Deep Learning Containers を使用してマルチノード推論ワークロードを実行する",
+      "id": "ac48ecf15ac4",
+      "original_title": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "title": "Amazon Bedrock を使用した Orca Security での自然言語セキュリティ クエリ",
       "summary": [
-        "この投稿では、マルチノード Ray LLM Deep Learning Containers を使用して、Amazon Elastic Kubernetes Service (Amazon EKS) 上の 2 つの GPU ノードに 1 つの大規模言語モデル (LLM) をデプロイする方法を示します",
-        "1 つの OpenAI-com の背後で個別のプリフィル ノードとデコード ノードを使用します"
+        "セキュリティ アナリストは、ドメイン固有のクエリ言語に詳しくなくても、クラウド インフラストラクチャに関する迅速な回答を必要としています",
+        "Orca Security のツールは、900 を超えるクラウド モデル (Amazon Elastic Compute など、Sonar が追跡するリソース タイプ) をカバーしています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "published": "2026-10-12 15:50"
+      "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+      "published": "2026-10-13 16:03"
     },
     {
-      "id": "115c1b1bb826",
-      "original_title": "AIエージェントで「約7人に1人が法令違反リスク」　古いルールを参照させた代償とは",
-      "title": "AIエージェントで「約7人に1人が法令違反リスク」　古いルールを参照させた代償とは",
+      "id": "23c9d607430a",
+      "original_title": "Character.ai、米連邦破産法11条を申請　Disney系が一部IPのライセンス取得で先行入札",
+      "title": "Character.ai、米連邦破産法11条を申請　Disney系が一部IPのライセンス取得で先行入札",
       "summary": [
-        "KiteRaは、AIエージェントを利用または検証している企業のデータガバナンスに関する実態調査の結果を公表した",
-        "古い社内ルールや最新版かどうか分からないデータをAIエージェントが参照し、規定や法令に違反しそうになった、あるいは実際に違反した回答者が13.4％に上った"
+        "Character.aiを運営するCharacter Technologiesが、連邦破産法第11条の適用を申請した",
+        "手続き中もサービス運営は継続する",
+        "Disneyが知財ライセンス取得と移行支援を行う入札者となり、買い手が見つからない場合は段階的に閉鎖される"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news029.html",
-      "published": "2026-10-13 11:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+      "published": "2026-10-14 08:14"
     },
     {
-      "id": "b3163c1ef5e0",
-      "original_title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
-      "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+      "id": "42c54d174fb9",
+      "original_title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+      "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
       "summary": [
-        "Microsoftは、自社設計AIアクセラレータ「Maia 300」を発表した",
-        "TSMCの2nmプロセスを採用し、HBM4を288GB搭載",
-        "推論処理に特化し、GPU基盤比で電力効率を向上させて前世代比最大7倍の処理能力を実現した"
+        "OpenAIは、役員会議室のテレビ裏に隠されていた盗聴用録音装置を発見し、設置したエンジニアの男を特定してFBIに通報した",
+        "司法省は会話を傍受した疑いなどで男を逮捕・訴追した",
+        "FBIや情報機関は、SI（旧AI）技術を守る防諜任務の重要性を強調した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
-      "published": "2026-10-13 09:24"
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+      "published": "2026-10-14 07:17"
     },
     {
-      "id": "36e48f57d226",
-      "original_title": "【本日みつけたお買い得品】MacBook Airが約1万4千円オフ。Proは約3万7千円引き！",
-      "title": "【本日みつけたお買い得品】MacBook Airが約1万4千円オフ。Proは約3万7千円引き！",
+      "id": "ed7130ab56a4",
+      "original_title": "【本日みつけたお買い得品】ASUSの4K有機ELモニターが約2万円引きで11万9千円に。Amazonセール",
+      "title": "【本日みつけたお買い得品】ASUSの4K有機ELモニターが約2万円引きで11万9千円に。Amazonセール",
       "summary": [
-        "Amazonにおいて、13.6型ノートPCのApple「MacBook Air(13インチ,M5)」が直近価格から1万4,081円引きで、26万4,719円にて購入できる"
+        "Amazonにてプライム感謝祭先行セールが開催中",
+        "ASUSが展開するProArtブランドのモニターで26.5型の「PA279CDV-J」は直近価格から2万1,202円引きとなる11万9,000円で購入可能になっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147522.html",
-      "published": "2026-10-13 11:37"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147867.html",
+      "published": "2026-10-14 09:49"
     },
     {
-      "id": "03eea03e236e",
-      "original_title": "【本日みつけたお買い得品】ペン付きGalaxy Tab S10+が1万8千円オフ！Amazonプライム感謝祭先行セール",
-      "title": "【本日みつけたお買い得品】ペン付きGalaxy Tab S10+が1万8千円オフ！Amazonプライム感謝祭先行セール",
+      "id": "5ec56354e152",
+      "original_title": "【本日みつけたお買い得品】約5万4千円引きでASUSゲーミングデスクトップがAmazonプライム感謝祭先行セール中",
+      "title": "【本日みつけたお買い得品】約5万4千円引きでASUSゲーミングデスクトップがAmazonプライム感謝祭先行セール中",
       "summary": [
-        "Amazonでは、10月16日から19日にかけてプライム感謝祭を開催するが、現在は先行セールを開催している",
-        "このセールにおいて、SamsungのSペン付きAndroidタブレット「Galaxy Tab S10+ 256GB(SM-X820NZAAXJP)」が、直近価格の1万8,755円引きとなる16万8,700円で販売されている"
+        "Amazonでは10月16日から19日まで、Amazonプライム感謝祭が開催されるが、現在は先行セール中",
+        "セールではASUSのゲーミングデスクトップPC「ASUS TUF Gaming T500 TM500MH」(TM500MH-R516G5123050)が直近価格の5万4,065円引きとなる14万9,800円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147519.html",
-      "published": "2026-10-13 11:34"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147859.html",
+      "published": "2026-10-14 09:26"
     },
     {
-      "id": "bc7deae38f1e",
-      "original_title": "任天堂は物理的なゲームカートリッジを廃止する予定はないと幹部が発言",
-      "title": "任天堂は物理的なゲームカートリッジを廃止する予定はないと幹部が発言",
+      "id": "6a8a4d3cf9bb",
+      "original_title": "AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判",
+      "title": "AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判",
       "summary": [
-        "任天堂のラテンアメリカ担当副社長が、インタビューで「当面『完全デジタル』へ移行する計画はない」と明言し、物理メディアに関する任天堂の立場を表明しました",
+        "近年はAIの発達と普及により、AIがウェブサイトにアクセスして情報を抽出するAIスクレイピングが増加しています",
+        "そんなAIスクレイピングを執拗(しつよう)に行うAIスクレイパーのせいでウェブホスティング費用が激増していると、アメリカのサンフランシスコにある1983年創業のナイトクラブ・DNA Loungeが非難しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261013-nintendo-physical-games/",
-      "published": "2026-10-13 11:33"
+      "link": "https://gigazine.net/news/20261014-dnalounge-ai-pushed-web-hosting-bill/",
+      "published": "2026-10-14 09:00"
     },
     {
-      "id": "c339126f7cf1",
-      "original_title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
-      "title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
+      "id": "62b08ff33c4b",
+      "original_title": "質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能",
+      "title": "質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能",
       "summary": [
-        "MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました",
-        "どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています",
+        "「REA(Reverse Engineer Anything)」はバイナリ・アプリケーション・ランタイム動作全体にわたるリバースエンジニアリングを行うための包括的なプラットフォームです",
+        "ソースコードがない場合でも、対象を調査して機能の仕組みや根拠を明らかにし、同様の機能を実装することが可能であるため、プログラムの解析・変更・再構築が容易になります",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261013-meta-ai-muse-wonder/",
-      "published": "2026-10-13 11:25"
+      "link": "https://gigazine.net/news/20261014-rea-tools/",
+      "published": "2026-10-14 07:00"
     },
     {
-      "id": "e3b788b457ec",
-      "original_title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
-      "title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
+      "id": "1f1e35edff05",
+      "original_title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
+      "title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
       "summary": [
-        "同じ文字列なら同じハッシュ値、と思っていた",
-        "自分はLLMのキャッシュキーを確かめていて、別プロセスに同じJSONを渡したらhash()の一致判定がFalseになった",
-        "永続キャッシュの空振り"
+        "Claude Code 2.1.295（2026-10-08）の changelog に、こう書かれています",
+        "Added onFailure: \"block\" for command and HTTP hooks: a hook that can't start, ti..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/hironakamura_ai/items/bf1a562da1b91529c3cd",
-      "published": "2026-10-13 11:29"
+      "link": "https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71",
+      "published": "2026-10-14 09:48"
     },
     {
-      "id": "d1063b65f5cf",
-      "original_title": "AIを講師に使う方法",
-      "title": "AIを講師に使う方法",
+      "id": "5cad077f3a9c",
+      "original_title": "フリーランスエンジニアの方に質問です。現場が合わず短期離脱した経験はありますか？",
+      "title": "フリーランスエンジニアの方に質問です。現場が合わず短期離脱した経験はありますか？",
       "summary": [
-        "AIを自分専属の「講師（チューター）」として活用することは、学習効率や理解度を劇的に高める非常に有効な方法です",
-        "単に「答えを聞く」のではなく、インタラクティブな対話型学習の環境を構築することがポイントになります",
-        "​具体的な活用プロンプト（指示文）の工夫や学習の流れをまとめ..."
+        "フリーランスエンジニアの方に質問です",
+        "参画した案件が想定していた環境と違ったり、現場の雰囲気や働き方が合わなかったりして、早期に契約終了を相談した経験がある方はいらっしゃいますか",
+        "現在、自分も参画して間もない案件について、働き方や職場環境との相性から、継続するか悩んでい..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/good59548/items/550de661996767761c33",
-      "published": "2026-10-13 11:15"
+      "link": "https://qiita.com/yanda1795/items/2458363da272ba98afaa",
+      "published": "2026-10-14 09:45"
     },
     {
-      "id": "25122dba92c3",
-      "original_title": "Meta releases its first frontier model, Muse Wonder",
-      "title": "メタ初のフロンティアモデル「ミューズワンダー」発売",
+      "id": "ab45c8c39de4",
+      "original_title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "title": "サイエンス コーポレーション、初のシュタルガルト病患者に視力回復チップを埋め込む",
       "summary": [
-        "Muse Spark が低遅延で実行できる軽量モデルを目指していたのに対し、Wonder モデルはより大型でより高性能で、ベンチマーク スコアが高く、コーディングなどの複雑なタスクでより良い結果が得られると言われています"
+        "Neuralink の元社長兼共同創設者である Max Hodak 氏は、TechCrunch Disrupt のステージで、彼の会社と PRIMA との連携が新しいブレイン コンピューター インターフェイス (BCI) への道の一部であることを詳しく説明しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "published": "2026-10-12 17:56"
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "published": "2026-10-13 23:13"
     },
     {
-      "id": "7c124811e852",
-      "original_title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "title": "WindBorne が気球データに関して米国空軍との巨額の契約を獲得",
+      "id": "d4ea87d1497d",
+      "original_title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "title": "Cerebras CEO、誰もが自宅にパーソナル AI アシスタントを持つ未来が近づいていると語る",
       "summary": [
-        "気象観測気球とAIを使って天気を予測するシリコンバレーの新興企業が、約5000万ドル相当の米軍契約を獲得した"
+        "Cerebras の CEO である Andrew Feldman 氏は、パーソナル AI アシスタントが家庭用電化製品と同じくらい普及し、部分的にローカル デバイス上で、部分的にクラウド上で実行される未来を予測しています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "published": "2026-10-12 17:19"
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "published": "2026-10-13 23:05"
     }
   ]
 }
