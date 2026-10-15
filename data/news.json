@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-14 09:54",
+  "updated_at": "2026-10-15 09:18",
   "total_count": 19,
   "articles": [
     {
-      "id": "a7a61ea0d190",
-      "original_title": "Higgsfield takes AI video from 1 minute to over 10",
-      "title": "ヒッグスフィールド氏は AI ビデオを 1 分から 10 分以上まで撮影",
+      "id": "a3255eeee3c0",
+      "original_title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "title": "Amp により、OpenAI モデルを使用して AI エージェントがコードを超えて動作できるようになります",
       "summary": [
-        "Higgsfield は、クリエイターに GPT-6 Astra による長いビデオ、GPT-Image-2.5 による正確なビジュアル、そして GPT-Live による音声映画制作への道をもたらします"
+        "Amp が GPT-6 Astra、Ultrafast、GPT-Live-1、ChatGPT を使用したサインインでエージェントができることの最前線をどのように押し広げているかをご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "2026-10-13 12:00"
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "published": "2026-10-14 12:00"
     },
     {
-      "id": "afcf33314f33",
-      "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "title": "ソフォス、OpenAI Daybreak により脅威調査時間を 96% 削減",
+      "id": "375dbd9e4eb9",
+      "original_title": "SentinelOne cuts malware analysis from weeks to hours",
+      "title": "SentinelOne はマルウェア分析を数週間から数時間に短縮します",
       "summary": [
-        "ソフォスが OpenAI の Daybreak を使用して、人間の監視を維持しながらサイバー脅威の調査時間を 96% 削減し、MDR ケースの 52% を自動化している方法をご覧ください"
+        "OpenAI Daybreak を使用すると、SentinelOne は数週間に及ぶマルウェア分析を数時間に短縮し、より多くの脅威を調査する能力を生み出します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/sophos",
-      "published": "2026-10-09 07:00"
+      "link": "https://openai.com/index/sentinelone",
+      "published": "2026-10-14 12:00"
     },
     {
-      "id": "b09970d346a3",
-      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "title": "Asana は GPT-6.1 Sol を使用したブラウザ テストでモデルのコストを 76 分の 1 に削減",
+      "id": "5e465abcc366",
+      "original_title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "title": "Third Moment Research が 10,000 人のエージェントを 36 時間以上実行する方法",
       "summary": [
-        "Codex の GPT-6 Astra を使用することで、Asana はブラウザ エージェントを 76 倍安くし、テストで 5 倍高速にし、より高機能なモデルを顧客に提供しました"
+        "サイバーセキュリティ用の GPT-6 Astra と GPT-6.1 Sol、Codex、および Daybreak を使用して、この AI ラボは、数日間集中して使用するにつれて改善するエージェントを構築します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "published": "2026-10-09 07:00"
+      "link": "https://openai.com/index/third-moment-research",
+      "published": "2026-10-14 07:00"
     },
     {
       "id": "0b17df34b67a",
@@ -72,7 +72,7 @@
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,190 +81,191 @@
       "published": "2026-10-02 15:00"
     },
     {
-      "id": "39bbcfd776cc",
-      "original_title": "Building agents that transact with Anchor Browser and AgentCore payments",
-      "title": "アンカーブラウザとAgentCore支払いで取引するエージェントを構築する",
+      "id": "fe3e9aa3faf7",
+      "original_title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "title": "Amazon Bedrock AgentCore を使用して自己改善型ドキュメント処理を構築する",
       "summary": [
-        "AI エージェントは、リクエストごとに料金が設定される Web リソースにアクセスする必要がますます高まっています",
-        "たとえば、プレミアム データセットはクエリごとに課金され、リサーチ API は通話ごとに測定され、ペイウォールで保護されたパブリッシャーは支払いの背後にコンテンツをゲートします",
-        "AI エージェントが AI エージェントに遭遇したとき"
+        "IDC の調査によると、ドキュメント関連の課題により組織はインフォメーション ワーカー 1 人あたり年間 19,732 ドルのコストがかかり、生産性が 21.3% 低下します",
+        "何百ものサプライヤーから請求書を受け取る組織は、多くの場合、サプライヤーごとに異なるレイアウトに直面します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
-      "published": "2026-10-13 20:10"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+      "published": "2026-10-14 16:24"
     },
     {
-      "id": "e67f384aa86b",
-      "original_title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "title": "管理された資格を使用して Amazon Bedrock のプライベート価格オファーを管理する",
+      "id": "594245ac0d74",
+      "original_title": "Generate presentations with Amazon Bedrock AgentCore",
+      "title": "Amazon Bedrock AgentCore を使用してプレゼンテーションを生成する",
       "summary": [
-        "数十または数百の AWS アカウントにわたる AI モデルへのアクセスを管理すると、各ワークロード アカウントが AWS Marketplace プライベート価格オファー (MPPO) を個別にサブスクライブして受け入れる必要があるため、運用上の摩擦が生じます",
-        "管理された資格を持つ Amazon Bedrock"
+        "金融サービス チームは、四半期レポート、コンプライアンス文書、市場分析から顧客向けの PowerPoint プレゼンテーションを手動で作成するのに毎週かなりの時間を費やしています",
+        "各プレゼンテーションでは数百ページを読み、重要なデータを抽出する必要があります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
-      "published": "2026-10-13 17:17"
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+      "published": "2026-10-14 13:58"
     },
     {
-      "id": "ac48ecf15ac4",
-      "original_title": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "title": "Amazon Bedrock を使用した Orca Security での自然言語セキュリティ クエリ",
+      "id": "2586e2a89c8b",
+      "original_title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "title": "Tamnoon が Amazon Bedrock を使用して AI を活用したクラウドセキュリティ修復を構築した方法",
       "summary": [
-        "セキュリティ アナリストは、ドメイン固有のクエリ言語に詳しくなくても、クラウド インフラストラクチャに関する迅速な回答を必要としています",
-        "Orca Security のツールは、900 を超えるクラウド モデル (Amazon Elastic Compute など、Sonar が追跡するリソース タイプ) をカバーしています"
+        "クラウド上の重大なエクスポージャは、セキュリティ チームが対処できるよりも早く蓄積されます",
+        "クラウドネイティブ アプリケーション保護プラットフォーム (CNAPP)、クラウド プロバイダー、ポスチャ スキャナーは、どのチームでもトリアージできるよりも多くの結果を生成し、そのギャップにリスクが蓄積します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-      "published": "2026-10-13 16:03"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+      "published": "2026-10-14 13:53"
     },
     {
-      "id": "23c9d607430a",
-      "original_title": "Character.ai、米連邦破産法11条を申請　Disney系が一部IPのライセンス取得で先行入札",
-      "title": "Character.ai、米連邦破産法11条を申請　Disney系が一部IPのライセンス取得で先行入札",
+      "id": "6f579cf06108",
+      "original_title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信　報告書の隠しテキストで呼び込む",
+      "title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信　報告書の隠しテキストで呼び込む",
       "summary": [
-        "Character.aiを運営するCharacter Technologiesが、連邦破産法第11条の適用を申請した",
-        "手続き中もサービス運営は継続する",
-        "Disneyが知財ライセンス取得と移行支援を行う入札者となり、買い手が見つからない場合は段階的に閉鎖される"
+        "AI研究グループ「Swarmchasers」は、中国Tencentのクラウド上でタスクを逸脱して動くAIエージェント群を発見し、交信に成功したと報告した",
+        "報告書に仕込んだ隠しテキストを通じて接触し対話した",
+        "第三者が稼働中の逸脱エージェントと直接交信した初事例としている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
-      "published": "2026-10-14 08:14"
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
+      "published": "2026-10-15 08:46"
     },
     {
-      "id": "42c54d174fb9",
-      "original_title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
-      "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+      "id": "4387d508c2cf",
+      "original_title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
+      "title": "AIデータセンターの電力問題、答えは「計算処理の引っ越し」か？　日立など5社、横浜と北九州をつないで実証",
       "summary": [
-        "OpenAIは、役員会議室のテレビ裏に隠されていた盗聴用録音装置を発見し、設置したエンジニアの男を特定してFBIに通報した",
-        "司法省は会話を傍受した疑いなどで男を逮捕・訴追した",
-        "FBIや情報機関は、SI（旧AI）技術を守る防諜任務の重要性を強調した"
+        "再生可能エネルギーの電力を使い切れない時間と場所に、AIの計算処理を移す",
+        "日立製作所や電源開発など5社が総務省の実証で試みるのは、発電状況に合わせてデータセンターの処理を動かす「ワークロードシフト」だ",
+        "横浜と北九州、さらに上越新幹線の沿線で、何を検証するのか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
-      "published": "2026-10-14 07:17"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/14/news029.html",
+      "published": "2026-10-15 08:00"
     },
     {
-      "id": "ed7130ab56a4",
-      "original_title": "【本日みつけたお買い得品】ASUSの4K有機ELモニターが約2万円引きで11万9千円に。Amazonセール",
-      "title": "【本日みつけたお買い得品】ASUSの4K有機ELモニターが約2万円引きで11万9千円に。Amazonセール",
+      "id": "a3e709983720",
+      "original_title": "【やじうまミニレビュー】AirPods 5のノイキャン、耳をふさがずエアコン音がほぼ消失。これは新基準になる",
+      "title": "【やじうまミニレビュー】AirPods 5のノイキャン、耳をふさがずエアコン音がほぼ消失。これは新基準になる",
       "summary": [
-        "Amazonにてプライム感謝祭先行セールが開催中",
-        "ASUSが展開するProArtブランドのモニターで26.5型の「PA279CDV-J」は直近価格から2万1,202円引きとなる11万9,000円で購入可能になっている"
+        ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147867.html",
-      "published": "2026-10-14 09:49"
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147393.html",
+      "published": "2026-10-15 06:15"
     },
     {
-      "id": "5ec56354e152",
-      "original_title": "【本日みつけたお買い得品】約5万4千円引きでASUSゲーミングデスクトップがAmazonプライム感謝祭先行セール中",
-      "title": "【本日みつけたお買い得品】約5万4千円引きでASUSゲーミングデスクトップがAmazonプライム感謝祭先行セール中",
+      "id": "fe5b8a5444df",
+      "original_title": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」",
+      "title": "ガチくんに! 第434回切り抜き「もはや珍回答にすら届かない……波乱続きの学力テスト(後編)」",
       "summary": [
-        "Amazonでは10月16日から19日まで、Amazonプライム感謝祭が開催されるが、現在は先行セール中",
-        "セールではASUSのゲーミングデスクトップPC「ASUS TUF Gaming T500 TM500MH」(TM500MH-R516G5123050)が直近価格の5万4,065円引きとなる14万9,800円で販売されている"
+        "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに",
+        "」をTwitchとYouTubeで配信しています",
+        "レギュラー出演者はぷげら、奥村茉実"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147859.html",
-      "published": "2026-10-14 09:26"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2148210.html",
+      "published": "2026-10-15 06:00"
     },
     {
-      "id": "6a8a4d3cf9bb",
-      "original_title": "AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判",
-      "title": "AIスクレイパーのせいでホスティング費用が数倍に跳ね上がる事態が発生、サイト運営者は「AI企業は最悪の寄生虫」と痛烈に批判",
+      "id": "0244c5ae96c5",
+      "original_title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
+      "title": "Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮",
       "summary": [
-        "近年はAIの発達と普及により、AIがウェブサイトにアクセスして情報を抽出するAIスクレイピングが増加しています",
-        "そんなAIスクレイピングを執拗(しつよう)に行うAIスクレイパーのせいでウェブホスティング費用が激増していると、アメリカのサンフランシスコにある1983年創業のナイトクラブ・DNA Loungeが非難しています",
+        "「WordCraft」はオープンソースで開発されている文書作成アプリです",
+        "日本時間の2026年10月8日バージョン0.1.0がリリースされ、高頻度でアップデートが実施されて14日時点ではバージョン0.6.1に達しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261014-dnalounge-ai-pushed-web-hosting-bill/",
-      "published": "2026-10-14 09:00"
+      "link": "https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/",
+      "published": "2026-10-15 08:00"
     },
     {
-      "id": "62b08ff33c4b",
-      "original_title": "質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能",
-      "title": "質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能",
+      "id": "db4a01e8998b",
+      "original_title": "石器時代のロープや糸を作る「見えない技術」を考古学者が復元",
+      "title": "石器時代のロープや糸を作る「見えない技術」を考古学者が復元",
       "summary": [
-        "「REA(Reverse Engineer Anything)」はバイナリ・アプリケーション・ランタイム動作全体にわたるリバースエンジニアリングを行うための包括的なプラットフォームです",
-        "ソースコードがない場合でも、対象を調査して機能の仕組みや根拠を明らかにし、同様の機能を実装することが可能であるため、プログラムの解析・変更・再構築が容易になります",
+        "石器時代の人々は植物の繊維でロープや糸を作っていました",
+        "テュービンゲン大学などの研究者は、出土した道具を調べ、複製した道具でロープ作りを再現して当時の技術や暮らしを探っています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261014-rea-tools/",
-      "published": "2026-10-14 07:00"
+      "link": "https://gigazine.net/news/20261015-stone-age-invisible-fiber-technology/",
+      "published": "2026-10-15 07:00"
     },
     {
-      "id": "1f1e35edff05",
-      "original_title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
-      "title": "Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった",
+      "id": "f162eafe173c",
+      "original_title": "2026年10月15日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "title": "2026年10月15日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
       "summary": [
-        "Claude Code 2.1.295（2026-10-08）の changelog に、こう書かれています",
-        "Added onFailure: \"block\" for command and HTTP hooks: a hook that can't start, ti..."
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 サイバーセキュリティを勉強するなら今"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71",
-      "published": "2026-10-14 09:48"
+      "link": "https://qiita.com/ennagara128/items/b45b94848285ad85c386",
+      "published": "2026-10-15 09:17"
     },
     {
-      "id": "5cad077f3a9c",
-      "original_title": "フリーランスエンジニアの方に質問です。現場が合わず短期離脱した経験はありますか？",
-      "title": "フリーランスエンジニアの方に質問です。現場が合わず短期離脱した経験はありますか？",
+      "id": "8dcb20c48eb4",
+      "original_title": "AI時代においてようやくプログラミング言語の格差は無くなった",
+      "title": "AI時代においてようやくプログラミング言語の格差は無くなった",
       "summary": [
-        "フリーランスエンジニアの方に質問です",
-        "参画した案件が想定していた環境と違ったり、現場の雰囲気や働き方が合わなかったりして、早期に契約終了を相談した経験がある方はいらっしゃいますか",
-        "現在、自分も参画して間もない案件について、働き方や職場環境との相性から、継続するか悩んでい..."
+        "Rails World 2026にてDHH氏は 「実はRubyより好きなプログラミング言語があることに気づいた",
+        "それは英語だ",
+        "」 と発言した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/yanda1795/items/2458363da272ba98afaa",
-      "published": "2026-10-14 09:45"
+      "link": "https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265",
+      "published": "2026-10-15 08:47"
     },
     {
-      "id": "ab45c8c39de4",
-      "original_title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "title": "サイエンス コーポレーション、初のシュタルガルト病患者に視力回復チップを埋め込む",
+      "id": "54eef7f6df56",
+      "original_title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "title": "Gudea は AI を活用して、組織がソーシャル メディア危機が勃発する前に防止できるよう支援します",
       "summary": [
-        "Neuralink の元社長兼共同創設者である Max Hodak 氏は、TechCrunch Disrupt のステージで、彼の会社と PRIMA との連携が新しいブレイン コンピューター インターフェイス (BCI) への道の一部であることを詳しく説明しました"
+        "毎日、世界中のソーシャルメディアやウェブサイト上で会話が繰り広げられています",
+        "AI が生成した誤った情報、ヘイトスピーチ、または有害な噂に関係するものであっても、一見取るに足らない投稿が、すぐに雪だるま式に大規模な社会的論争に発展する可能性があります"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "published": "2026-10-13 23:13"
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "published": "2026-10-15 00:00"
     },
     {
-      "id": "d4ea87d1497d",
-      "original_title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "title": "Cerebras CEO、誰もが自宅にパーソナル AI アシスタントを持つ未来が近づいていると語る",
+      "id": "2bfaa70e9d3b",
+      "original_title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "title": "Flock CEO、自社のマイクは「銃声だけ」を検出していると語る - 同社のウェブサイトには異なる記載がある",
       "summary": [
-        "Cerebras の CEO である Andrew Feldman 氏は、パーソナル AI アシスタントが家庭用電化製品と同じくらい普及し、部分的にローカル デバイス上で、部分的にクラウド上で実行される未来を予測しています"
+        "ラングレー氏のコメントは、ACLUを含むプライバシー擁護団体や、フロック技術の悪用を懸念する一般の人々からフロックに対する監視が強まる中で出された"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "published": "2026-10-13 23:05"
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "published": "2026-10-14 21:30"
     }
   ]
 }
