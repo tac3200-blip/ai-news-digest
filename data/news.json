@@ -1,13 +1,39 @@
 {
-  "updated_at": "2026-10-16 09:06",
+  "updated_at": "2026-10-17 09:10",
   "total_count": 19,
   "articles": [
     {
+      "id": "959513e5c3bf",
+      "original_title": "How Itaú is building generative AI for its entire customer base",
+      "title": "Itaú は顧客ベース全体に向けた生成 AI をどのように構築しているか",
+      "summary": [
+        "Itaú は、会話型インターフェイスである ia.i と IARA ガバナンス プラットフォームを活用して、ブラジルで最も規制の厳しい分野の 1 つである顧客と従業員に AI ファースト戦略を適用しています"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16 19:00"
+    },
+    {
+      "id": "bd1955f79bda",
+      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "title": "Stack Overflow for Agents は ChatGPT プラグインを使用してサインアップを 3 倍にします",
+      "summary": [
+        "2 人のエンジニアが Codex を使用して Stack Overflow for Agents を数週間で出荷し、その ChatGPT プラグインによりエージェント作成が最大 10 倍に増加しました"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "2026-10-16 00:00"
+    },
+    {
       "id": "eb8a5bd7545e",
       "original_title": "Bringing GPT-Rosalind to academic research labs",
-      "title": "Bringing GPT-Rosalind to academic research labs",
+      "title": "GPT-Rosalind を学術研究室に導入",
       "summary": [
-        "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+        "Rosalind Academic Plan を導入し、対象となる学術研究室に GPT-Rosalind へのスポンサー付きアクセスとライフ サイエンス研究を推進するツールを提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -16,37 +42,11 @@
       "published": "2026-10-15 19:00"
     },
     {
-      "id": "992e69b6680a",
-      "original_title": "Teaching students to think and learn through questions",
-      "title": "Teaching students to think and learn through questions",
-      "summary": [
-        "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "2026-10-15 13:00"
-    },
-    {
-      "id": "a3255eeee3c0",
-      "original_title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": [
-        "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "published": "2026-10-14 12:00"
-    },
-    {
       "id": "0b17df34b67a",
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "cbec8263c511",
       "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Introducing Playground: Create and play custom games",
+      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
       "summary": [
-        "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,9 +70,9 @@
     {
       "id": "4f0fb68517f1",
       "original_title": "The latest AI news we announced in September 2026",
-      "title": "The latest AI news we announced in September 2026",
+      "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "Here are Google’s latest AI updates from September 2026"
+        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,11 +81,41 @@
       "published": "2026-10-02 15:00"
     },
     {
+      "id": "dd7dee57a1d6",
+      "original_title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "title": "AI エージェントの信頼の構築: Amazon Bedrock AgentCore を使用した本番環境に対応した評価フレームワーク",
+      "summary": [
+        "北極星 AI エージェントの導入を急いでいるすべての組織は、同じ運命に直面しています",
+        "美しくデモを行ったエージェントでも、運用環境では静かに機能が低下する可能性があり、人間が気づいたときにはすでに信頼は崩壊しています",
+        "従来のソフトウェアが失敗する場合 l"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "published": "2026-10-16 20:48"
+    },
+    {
+      "id": "21ca17f21552",
+      "original_title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "title": "Reflection Beam の紹介: AWS でのエージェントコーディング用のオープンウェイト モデル",
+      "summary": [
+        "Reflection AI は、エージェント コーディングと、コードの保守、ツールの使用、結果の解釈、複数ステップのワークフローの完了などの長期タスクのためのオープンウェイト モデルである Beam を導入しました",
+        "オープンウェイトリリースにより、開発者と研究者は、"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "published": "2026-10-16 15:23"
+    },
+    {
       "id": "dc690c30eb98",
       "original_title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "title": "Meta の Muse Spark Open が Amazon SageMaker JumpStart で利用可能になりました",
       "summary": [
-        "Muse Spark Open, Meta’s coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart , the machine learning (ML) hub of Amazon SageMaker AI . The model was trained on real developer workflows, such as multi-file refactors and lo"
+        "Meta のコーディングに最適化されたオープンウェイトモデルである Muse Spark Open が、Amazon SageMaker AI の機械学習 (ML) ハブである Amazon SageMaker JumpStart で利用できるようになりました",
+        "モデルは、マルチファイルのリファクタリングや LO などの実際の開発者のワークフローでトレーニングされました"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -94,176 +124,147 @@
       "published": "2026-10-15 17:43"
     },
     {
-      "id": "623832457a5f",
-      "original_title": "Trust in Depth: Giving agents more autonomy without losing control",
-      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "id": "306585a081f1",
+      "original_title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+      "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
       "summary": [
-        "In every conversation I have with enterprise leaders, they say the same thing. They want agents to do more, but they don’t trust them to do it right all the time. That’s fair. The same creativity and autonomy that makes agents useful makes them hard"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
-      "published": "2026-10-15 15:05"
-    },
-    {
-      "id": "fe3e9aa3faf7",
-      "original_title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "summary": [
-        "IDC research shows that document-related challenges cost organizations $19,732 for each information worker annually and reduce productivity by 21.3 percent. Organizations receiving invoices from hundreds of suppliers often face layouts that vary by i"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "published": "2026-10-14 16:24"
-    },
-    {
-      "id": "0fa0ce77255f",
-      "original_title": "日本に本当に勝ち筋はあるのか　ヒューマノイド「解剖」で見る中国の強さと課題",
-      "title": "日本に本当に勝ち筋はあるのか　ヒューマノイド「解剖」で見る中国の強さと課題",
-      "summary": [
-        "中国では現在、ヒューマノイドロボットの開発や量産、社会実装に向けた動きが加速している",
-        "しかし、完成品の動向を追うだけでは、その競争力の源泉や本格普及に向けた課題までは見えてこない",
-        "SUGENAのセミナー「フィジカルAI解体新書」では、ヒューマノイドをAIや関節、センサー、手などに“解体”し、中国勢の強さと残された課題を解説した"
+        "不正アクセスが相次ぐ中、日本企業が講じるべき対策とは",
+        "人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html",
-      "published": "2026-10-16 08:00"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
+      "published": "2026-10-16 14:20"
     },
     {
-      "id": "0cea8b4a628a",
-      "original_title": "「年4200時間の入力」「経験と勘」からの脱却　旧マルハニチロは「販売計画」をどう自動化した？",
-      "title": "「年4200時間の入力」「経験と勘」からの脱却　旧マルハニチロは「販売計画」をどう自動化した？",
+      "id": "1c988855e505",
+      "original_title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
+      "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
       "summary": [
-        "Umios（旧マルハニチロ）が全国の支社が手作業で入力していた月次の販売計画業務を自動化した",
-        "業務用流通事業部の全支社で年間約4200時間の作業削減を見込む",
-        "自動化の鍵は何だったのか"
+        "Metaがオープンウェイトモデル「Muse Spark Open」を発表し、重みを公開",
+        "「米国製で過去最高性能」とうたい、M5 Ultra搭載のMac Studio 2台で動作するという",
+        "独自ライセンスで商用利用は条件付き"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/16/news033.html",
-      "published": "2026-10-16 08:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
+      "published": "2026-10-16 14:14"
     },
     {
-      "id": "e43d0f20ecb0",
-      "original_title": "「Jev 1.14.0」登場。実験機能開放で画像入力やコンテキスト長の拡張も可能に",
-      "title": "「Jev 1.14.0」登場。実験機能開放で画像入力やコンテキスト長の拡張も可能に",
+      "id": "b65a6d5a2cb3",
+      "original_title": "【今すぐ読みたい！人気記事】まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま - PC Watch",
       "summary": [
-        "TypeSafe AIは10月14日、System One Modelと呼ばれる自動化向けAIモデル「Jev」シリーズの新バージョン「Jev 1.14.0」を発表した",
-        "モデルIDは「jev-1.14.0」で、エイリアス「jev-preview」から利用できる",
-        "API料金は入力100万トークンあたり0.042ドルで、出力トークンは無料"
+        "USBという規格が複雑怪奇であることは、PCやスマホに詳しいユーザーに限らず、いまや一般の人にも知れ渡りつつある",
+        "誰にでも使いやすいことを目指して策定され、頭文字に「ユニバーサル」の「U」を据える業界標準規格が、ややこしいものの代表格として認知されているのは、非常に残念なことと言えよう"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2148603.html",
-      "published": "2026-10-16 07:18"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2148995.html",
+      "published": "2026-10-17 06:13"
     },
     {
-      "id": "41087d19fdf5",
-      "original_title": "Liquid AI、AIエージェント向け24B推論モデル「LFM2.5-24B-A2B」無償公開",
-      "title": "Liquid AI、AIエージェント向け24B推論モデル「LFM2.5-24B-A2B」無償公開",
+      "id": "06bce64f973b",
+      "original_title": "【今すぐ読みたい！人気記事】地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術 - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術 - PC Watch",
       "summary": [
-        "Liquid AIは10月13日、LFM2.5シリーズの推論モデル「LFM2.5-24B-A2B」を発表した",
-        "Hugging Faceでオープンウェイト版を「LFM Open License v1.0」のもとで公開している",
-        "基本的には無償で利用でき、商用利用も可能だが、年間売上高が1,000万ドル以上の企業による商用利用は商用ライセンスの取得が必要となる"
+        "PC Watch編集部の担当者から、ゲームグラフィックス技術において、「歩行アニメーション技術について解説してほしい」という打診があった",
+        "担当編集者は、このあたりの話題を取り扱った下記の動画を見て大きな関心を抱いたようだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2148496.html",
-      "published": "2026-10-16 06:27"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2148994.html",
+      "published": "2026-10-17 06:06"
     },
     {
-      "id": "3dc44d70cd30",
-      "original_title": "自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録",
-      "title": "自宅のイラストを「エアコンや照明を操作できる絵」に改造してスマートホーム化を進めた記録",
+      "id": "e4c2f11e97e2",
+      "original_title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
+      "title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
       "summary": [
-        "家電をまとめて管理・自動操作できるオープンソースの「Home Assistant」で自宅のスマートホーム化を進めていたアントン・フロロフ氏は、家族が操作用アプリを使いたがらないことに悩んでいました",
-        "同氏はイラストレーターに自宅の絵を描いてもらい、絵の中の家電から実際の家電を操作できる画面を作った経緯をSubstackに記しています",
+        "AppleはOLED(有機EL)ディスプレイを採用した新型「iPad mini(第8世代)」を2026年10月末に発表するとウワサされています",
+        "新たに、Apple公式の規制情報掲載サイト経由で、同社が新型iPad miniを準備している可能性が明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261016-illustrated-smart-home-dashboard/",
-      "published": "2026-10-16 07:00"
+      "link": "https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/",
+      "published": "2026-10-17 09:00"
     },
     {
-      "id": "b5246c2b55bb",
-      "original_title": "【電子書籍50％オフセール】半額でマンガもインタビュー集も世界旅行記も買える感謝祭セールを開催！【2026年10月19日(月)まで】",
-      "title": "【電子書籍50％オフセール】半額でマンガもインタビュー集も世界旅行記も買える感謝祭セールを開催！【2026年10月19日(月)まで】",
+      "id": "15faefb8b486",
+      "original_title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
+      "title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
       "summary": [
-        "Amazonでは2026年10月16日(金)～10月19日(月)まで、Amazonプライム会員に向けたセールイベント「プライム感謝祭」を開催しています",
-        "プライム感謝祭の開催期間に合わせて、GIGAZINEでもマンガやインタビュー集、作品集などKindle本をまるっと半額以下にしたセールを実施します",
-        "ぜひ他のお買い物と合わせてチェックしてみてください"
+        "インフラエンジニアとして働いていたアメリカ人が、勤務先の企業が管理するアカウントのパスワードをリセットするなどして他の社員を閉め出し、復旧の条件として多額の身代金を要求していたことが分かりました",
+        "このエンジニアは匿名で脅迫していましたが、監視カメラの映像などから身元が割り出されました",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261016-ebook-sale/",
-      "published": "2026-10-16 00:00"
+      "link": "https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/",
+      "published": "2026-10-17 08:00"
     },
     {
-      "id": "79e4fe2c7b4c",
-      "original_title": "VS Codeの更新を月1回振り返る[第1回：週次リリース開始から2026年10月まで]",
-      "title": "VS Codeの更新を月1回振り返る[第1回：週次リリース開始から2026年10月まで]",
+      "id": "28226dbf7e29",
+      "original_title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
+      "title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
       "summary": [
-        "はじめに VS Code を起動すると、また更新の通知が来ています",
-        "週次リリースで改善が早く届くのはよいのですが、今週はパッチの多さに「また更新か……」となってしまいました",
-        "週に1回の機能更新を追うつもりでも、その後に修正が続くと、何が変わったのかを追い切れません"
+        "AI にコードを書かせて、調べ物をさせて、ファイルを書き換えさせています",
+        "もう、ほとんど自分で手を動かしていません",
+        "そこでふと思いました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/pmc-ko/items/eae66c6623b26e3c30cc",
-      "published": "2026-10-16 09:05"
+      "link": "https://qiita.com/Next-Survive/items/83ecd56efc5a2b070ee1",
+      "published": "2026-10-17 08:37"
     },
     {
-      "id": "ae292ffa7645",
-      "original_title": "2026年10月16日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "title": "2026年10月16日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "id": "c331c1522825",
+      "original_title": "AIレビューコメントに自動対応させるCI設計 — GitHub Actionsで「無限ループしない・壊さない・高くつかない」を実装する",
+      "title": "AIレビューコメントに自動対応させるCI設計 — GitHub Actionsで「無限ループしない・壊さない・高くつかない」を実装する",
       "summary": [
-        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
-        "通勤中などにながら聴きしよう",
-        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【2026年10月 最新版】AIモデル徹底比較..."
+        "はじめに：レビューは自動化できたのに、対応は手作業のままだった 当社（合同会社ジョインクラス）は、社内業務の約98%を launchd の定期ジョブと Claude Code の無人実行で回しています",
+        "PR にも AI レビューを入れていますが、しばらくは指摘への対応だけ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ennagara128/items/8981037a6cf4af5726e4",
-      "published": "2026-10-16 08:59"
+      "link": "https://qiita.com/joinclass/items/965e47660dbd8f0ce394",
+      "published": "2026-10-17 08:30"
     },
     {
-      "id": "3d916829cfc4",
-      "original_title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "id": "0a7bf8e1fdf8",
+      "original_title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "CEOはReplitはAnthropicとの提携を終了したと述べた",
       "summary": [
-        "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+        "マサド氏は、コストなどさまざまな理由からこの決定が下されたと述べた",
+        "Replitは8月にOpenAIとの提携を発表したが、Anthropicとの提携がなくなるという兆候はまったくなかった"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "published": "2026-10-15 23:44"
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "2026-10-16 21:22"
     },
     {
-      "id": "3f00bcf93d02",
-      "original_title": "Meta launches an open-weight AI model that runs on Macs",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "id": "1b7b28f279b7",
+      "original_title": "India becomes the latest country to report rogue AI agent activity",
+      "title": "インドが不正AIエージェントの活動を報告した最新の国となる",
       "summary": [
-        "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+        "エージェントは、アプリ構成、パブリック コード リポジトリ、および過度に寛容なクラウド ロールに公開されたままになっている資格情報と接続設定を介して侵入しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "published": "2026-10-15 20:04"
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "published": "2026-10-16 17:52"
     }
   ]
 }
