@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 09:10",
+  "updated_at": "2026-10-18 08:46",
   "total_count": 19,
   "articles": [
     {
@@ -16,6 +16,19 @@
       "published": "2026-10-16 19:00"
     },
     {
+      "id": "bc4a72e6fb24",
+      "original_title": "Benefit Street Partners answers questions faster with Codex",
+      "title": "Benefit Street Partners は Codex を使用して質問に迅速に回答します",
+      "summary": [
+        "Anant Kumar は、コード レビューと迅速なフォローアップに Codex を使用して、ローン評価を比較し、信用契約を分析するツールを構築しています"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "published": "2026-10-16 00:00"
+    },
+    {
       "id": "bd1955f79bda",
       "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "title": "Stack Overflow for Agents は ChatGPT プラグインを使用してサインアップを 3 倍にします",
@@ -27,19 +40,6 @@
       "source_name": "OpenAI (公式)",
       "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published": "2026-10-16 00:00"
-    },
-    {
-      "id": "eb8a5bd7545e",
-      "original_title": "Bringing GPT-Rosalind to academic research labs",
-      "title": "GPT-Rosalind を学術研究室に導入",
-      "summary": [
-        "Rosalind Academic Plan を導入し、対象となる学術研究室に GPT-Rosalind へのスポンサー付きアクセスとライフ サイエンス研究を推進するツールを提供します"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published": "2026-10-15 19:00"
     },
     {
       "id": "0b17df34b67a",
@@ -72,7 +72,7 @@
       "original_title": "The latest AI news we announced in September 2026",
       "title": "2026年9月に発表したAI最新ニュース",
       "summary": [
-        "2026 年 9 月の Google の最新 AI アップデートは次のとおりです"
+        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -124,147 +124,147 @@
       "published": "2026-10-15 17:43"
     },
     {
-      "id": "306585a081f1",
-      "original_title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
-      "title": "不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言",
+      "id": "a7aa8ba8dc55",
+      "original_title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+      "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
       "summary": [
-        "不正アクセスが相次ぐ中、日本企業が講じるべき対策とは",
-        "人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する"
+        "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています",
+        "では、「人間の承認」を増やせば事故は防げるのでしょうか",
+        "事例と対策から、事故を起こさないAIエージェントの設計について考えます"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html",
-      "published": "2026-10-16 14:20"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+      "published": "2026-10-18 08:00"
     },
     {
-      "id": "1c988855e505",
-      "original_title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
-      "title": "Meta、「米国製で最高性能」のオープンモデル「Muse Spark Open」発表　Apple Siliconに最適化、Mac Studio×2でローカル動作",
+      "id": "4505cf62194f",
+      "original_title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
+      "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
       "summary": [
-        "Metaがオープンウェイトモデル「Muse Spark Open」を発表し、重みを公開",
-        "「米国製で過去最高性能」とうたい、M5 Ultra搭載のMac Studio 2台で動作するという",
-        "独自ライセンスで商用利用は条件付き"
+        "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表",
+        "親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/",
-      "published": "2026-10-16 14:14"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
+      "published": "2026-10-17 17:00"
     },
     {
-      "id": "b65a6d5a2cb3",
-      "original_title": "【今すぐ読みたい！人気記事】まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】まるで成長していない。「USB4」になっても呼び名が混乱している件。Gen 2とか相変わらず分かりにくいまま - PC Watch",
+      "id": "c31894d7c4e5",
+      "original_title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
       "summary": [
-        "USBという規格が複雑怪奇であることは、PCやスマホに詳しいユーザーに限らず、いまや一般の人にも知れ渡りつつある",
-        "誰にでも使いやすいことを目指して策定され、頭文字に「ユニバーサル」の「U」を据える業界標準規格が、ややこしいものの代表格として認知されているのは、非常に残念なことと言えよう"
+        "前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった",
+        "DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した",
+        "同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2148995.html",
-      "published": "2026-10-17 06:13"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
+      "published": "2026-10-17 22:29"
     },
     {
-      "id": "06bce64f973b",
-      "original_title": "【今すぐ読みたい！人気記事】地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術 - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】地味にスゴイ。「脚が階段にめり込んで興ざめ」を防ぐ3D技術 - PC Watch",
+      "id": "6507f3878913",
+      "original_title": "【本日みつけたお買い得品】7千円オフ！Fire TV Stick 4K Maxが8,980円に",
+      "title": "【本日みつけたお買い得品】7千円オフ！Fire TV Stick 4K Maxが8,980円に",
       "summary": [
-        "PC Watch編集部の担当者から、ゲームグラフィックス技術において、「歩行アニメーション技術について解説してほしい」という打診があった",
-        "担当編集者は、このあたりの話題を取り扱った下記の動画を見て大きな関心を抱いたようだ"
+        "Amazonにてプライム感謝祭セールが開催中",
+        "ストリーミングデバイスのFire TVシリーズがセール対象となっており、プライム会員価格で購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2148994.html",
-      "published": "2026-10-17 06:06"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149017.html",
+      "published": "2026-10-17 14:38"
     },
     {
-      "id": "e4c2f11e97e2",
-      "original_title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
-      "title": "Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか",
+      "id": "ccdc53c7dc34",
+      "original_title": "「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性",
+      "title": "「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性",
       "summary": [
-        "AppleはOLED(有機EL)ディスプレイを採用した新型「iPad mini(第8世代)」を2026年10月末に発表するとウワサされています",
-        "新たに、Apple公式の規制情報掲載サイト経由で、同社が新型iPad miniを準備している可能性が明らかになりました",
+        "狭いスペースに小さく縮こまっている時と開放的な空間で体を伸ばしている時では、気の持ちようも変わってきます",
+        "2026年の研究では、テーブルの高さを変えることで被験者の姿勢をそれとなく誘導すると、「リスクを取る行動」への意欲に変化が生じることがわかりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/",
-      "published": "2026-10-17 09:00"
+      "link": "https://gigazine.net/news/20261018-desk-setups-posture-risk-taking/",
+      "published": "2026-10-18 08:00"
     },
     {
-      "id": "15faefb8b486",
-      "original_title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
-      "title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
+      "id": "d0b16bd68a61",
+      "original_title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
+      "title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
       "summary": [
-        "インフラエンジニアとして働いていたアメリカ人が、勤務先の企業が管理するアカウントのパスワードをリセットするなどして他の社員を閉め出し、復旧の条件として多額の身代金を要求していたことが分かりました",
-        "このエンジニアは匿名で脅迫していましたが、監視カメラの映像などから身元が割り出されました",
+        "大人気ゲーム「NieR(ニーア)」シリーズのデザインを施したゲーミングチェアやPCケースがマチ★アソビ vol.31の会場で販売されていました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/",
-      "published": "2026-10-17 08:00"
+      "link": "https://gigazine.net/news/20261018-nier-automata-machiasobi31/",
+      "published": "2026-10-18 07:00"
     },
     {
-      "id": "28226dbf7e29",
-      "original_title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
-      "title": "【2026年版】AIエージェントの決済はどこまで来たか ― AP2・ACP・裁判所の判断を一次情報で確認した",
+      "id": "6876f39303fe",
+      "original_title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
+      "title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
       "summary": [
-        "AI にコードを書かせて、調べ物をさせて、ファイルを書き換えさせています",
-        "もう、ほとんど自分で手を動かしていません",
-        "そこでふと思いました"
+        "はじめに 当社（合同会社ジョインクラス）は、記事公開・SNS配信・売上集計などの業務を launchd の17ジョブと Claude Code で回しています",
+        "自動化率は98%ほどです",
+        "その運用で一番迷ったのは「待つ処理」の書き方でした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Next-Survive/items/83ecd56efc5a2b070ee1",
-      "published": "2026-10-17 08:37"
+      "link": "https://qiita.com/joinclass/items/fc9eabb2ddfbb2aeca07",
+      "published": "2026-10-18 08:30"
     },
     {
-      "id": "c331c1522825",
-      "original_title": "AIレビューコメントに自動対応させるCI設計 — GitHub Actionsで「無限ループしない・壊さない・高くつかない」を実装する",
-      "title": "AIレビューコメントに自動対応させるCI設計 — GitHub Actionsで「無限ループしない・壊さない・高くつかない」を実装する",
+      "id": "73883e8f3f1b",
+      "original_title": "「もう何もしなくていい」が何度も変わる。Codexとのやり取りをIssueにした",
+      "title": "「もう何もしなくていい」が何度も変わる。Codexとのやり取りをIssueにした",
       "summary": [
-        "はじめに：レビューは自動化できたのに、対応は手作業のままだった 当社（合同会社ジョインクラス）は、社内業務の約98%を launchd の定期ジョブと Claude Code の無人実行で回しています",
-        "PR にも AI レビューを入れていますが、しばらくは指摘への対応だけ..."
+        "先に、結論を3行で書きます",
+        "Codexに残作業を確認したら、完了・未完了・対応不要の説明が何度も変わりました",
+        "残作業と担当を問い直し、矛盾を指摘したうえで、実際の発言をGitHub Issueにまとめて送りました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/joinclass/items/965e47660dbd8f0ce394",
-      "published": "2026-10-17 08:30"
+      "link": "https://qiita.com/ishizakahiroshi/items/5511f41b19748a1f5bfb",
+      "published": "2026-10-18 08:26"
     },
     {
-      "id": "0a7bf8e1fdf8",
-      "original_title": "Replit is no longer working with Anthropic, CEO says",
-      "title": "CEOはReplitはAnthropicとの提携を終了したと述べた",
+      "id": "c547466ab310",
+      "original_title": "Meta removes language that raised scraping and AI training concerns",
+      "title": "メタはスクレイピングと AI トレーニングの懸念を引き起こした文言を削除",
       "summary": [
-        "マサド氏は、コストなどさまざまな理由からこの決定が下されたと述べた",
-        "Replitは8月にOpenAIとの提携を発表したが、Anthropicとの提携がなくなるという兆候はまったくなかった"
+        "Metaの広報担当者は、更新された規約はMetaがウェブをクロールする方法の変更を反映していないと主張した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "published": "2026-10-16 21:22"
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "2026-10-17 21:31"
     },
     {
-      "id": "1b7b28f279b7",
-      "original_title": "India becomes the latest country to report rogue AI agent activity",
-      "title": "インドが不正AIエージェントの活動を報告した最新の国となる",
+      "id": "b3e91e876d39",
+      "original_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "title": "アンスロピック社は、従業員の若手化が進み、会議に多くの時間を費やしていると述べている",
       "summary": [
-        "エージェントは、アプリ構成、パブリック コード リポジトリ、および過度に寛容なクラウド ロールに公開されたままになっている資格情報と接続設定を介して侵入しました"
+        "Anthropic の従業員の構成と行われる仕事の種類は、この 1 年で大きく変化しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published": "2026-10-16 17:52"
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "published": "2026-10-17 20:21"
     }
   ]
 }
