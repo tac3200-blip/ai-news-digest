@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-18 08:46",
+  "updated_at": "2026-10-19 08:56",
   "total_count": 19,
   "articles": [
     {
       "id": "959513e5c3bf",
       "original_title": "How Itaú is building generative AI for its entire customer base",
-      "title": "Itaú は顧客ベース全体に向けた生成 AI をどのように構築しているか",
+      "title": "How Itaú is building generative AI for its entire customer base",
       "summary": [
-        "Itaú は、会話型インターフェイスである ia.i と IARA ガバナンス プラットフォームを活用して、ブラジルで最も規制の厳しい分野の 1 つである顧客と従業員に AI ファースト戦略を適用しています"
+        "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -18,9 +18,9 @@
     {
       "id": "bc4a72e6fb24",
       "original_title": "Benefit Street Partners answers questions faster with Codex",
-      "title": "Benefit Street Partners は Codex を使用して質問に迅速に回答します",
+      "title": "Benefit Street Partners answers questions faster with Codex",
       "summary": [
-        "Anant Kumar は、コード レビューと迅速なフォローアップに Codex を使用して、ローン評価を比較し、信用契約を分析するツールを構築しています"
+        "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -31,9 +31,9 @@
     {
       "id": "bd1955f79bda",
       "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "title": "Stack Overflow for Agents は ChatGPT プラグインを使用してサインアップを 3 倍にします",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": [
-        "2 人のエンジニアが Codex を使用して Stack Overflow for Agents を数週間で出荷し、その ChatGPT プラグインによりエージェント作成が最大 10 倍に増加しました"
+        "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -44,9 +44,9 @@
     {
       "id": "0b17df34b67a",
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": [
-        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
+        "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "cbec8263c511",
       "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
+      "title": "Introducing Playground: Create and play custom games",
       "summary": [
-        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
+        "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,9 +70,9 @@
     {
       "id": "4f0fb68517f1",
       "original_title": "The latest AI news we announced in September 2026",
-      "title": "2026年9月に発表したAI最新ニュース",
+      "title": "The latest AI news we announced in September 2026",
       "summary": [
-        "2026 年 9 月からの Google の最新 AI アップデートは次のとおりです"
+        "Here are Google’s latest AI updates from September 2026"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -83,11 +83,9 @@
     {
       "id": "dd7dee57a1d6",
       "original_title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "title": "AI エージェントの信頼の構築: Amazon Bedrock AgentCore を使用した本番環境に対応した評価フレームワーク",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
       "summary": [
-        "北極星 AI エージェントの導入を急いでいるすべての組織は、同じ運命に直面しています",
-        "美しくデモを行ったエージェントでも、運用環境では静かに機能が低下する可能性があり、人間が気づいたときにはすでに信頼は崩壊しています",
-        "従来のソフトウェアが失敗する場合 l"
+        "The North Star Every organization racing to deploy AI agents faces the same reckoning: an agent that demos beautifully can quietly degrade in production, and by the time a human notices, the trust is already broken. Where traditional software fails l"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -98,10 +96,9 @@
     {
       "id": "21ca17f21552",
       "original_title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "title": "Reflection Beam の紹介: AWS でのエージェントコーディング用のオープンウェイト モデル",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
       "summary": [
-        "Reflection AI は、エージェント コーディングと、コードの保守、ツールの使用、結果の解釈、複数ステップのワークフローの完了などの長期タスクのためのオープンウェイト モデルである Beam を導入しました",
-        "オープンウェイトリリースにより、開発者と研究者は、"
+        "Reflection AI introduced Beam, an open-weight model for agentic coding and long-horizon tasks such as maintaining code, using tools, interpreting results, and completing multi-step workflows. The open-weight release gives developers and researchers c"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -112,10 +109,9 @@
     {
       "id": "dc690c30eb98",
       "original_title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "title": "Meta の Muse Spark Open が Amazon SageMaker JumpStart で利用可能になりました",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
       "summary": [
-        "Meta のコーディングに最適化されたオープンウェイトモデルである Muse Spark Open が、Amazon SageMaker AI の機械学習 (ML) ハブである Amazon SageMaker JumpStart で利用できるようになりました",
-        "モデルは、マルチファイルのリファクタリングや LO などの実際の開発者のワークフローでトレーニングされました"
+        "Muse Spark Open, Meta’s coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart , the machine learning (ML) hub of Amazon SageMaker AI . The model was trained on real developer workflows, such as multi-file refactors and lo"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -124,147 +120,145 @@
       "published": "2026-10-15 17:43"
     },
     {
-      "id": "a7aa8ba8dc55",
-      "original_title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
-      "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+      "id": "c56cd8ee094f",
+      "original_title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
       "summary": [
-        "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています",
-        "では、「人間の承認」を増やせば事故は防げるのでしょうか",
-        "事例と対策から、事故を起こさないAIエージェントの設計について考えます"
+        "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した",
+        "AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した",
+        "自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
-      "published": "2026-10-18 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "published": "2026-10-19 08:02"
     },
     {
-      "id": "4505cf62194f",
-      "original_title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
-      "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
+      "id": "1bca4236f854",
+      "original_title": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
+      "title": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
       "summary": [
-        "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表",
-        "親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した"
+        "ガートナーが、2026年の日本におけるクラウドとAIのハイプサイクルを発表",
+        "Newオンプレミス、RAG、SREが“幻滅期”に入る一方で、“過度な期待”のピークに立つ5項目が示された"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
-      "published": "2026-10-17 17:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "published": "2026-10-19 08:00"
     },
     {
-      "id": "c31894d7c4e5",
-      "original_title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
-      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+      "id": "4a8a97845f68",
+      "original_title": "【レビュー】【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に",
+      "title": "【レビュー】【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に",
       "summary": [
-        "前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった",
-        "DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した",
-        "同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる"
+        "NVIDIAの新SoCである「RTX Spark」が正式発表され、実機レビューも解禁となった",
+        "RTX Spark搭載機の用途は、ゲーム、クリエイティブ、AIと多岐に渡るのと、時間の都合で詳細な性能レビューは後日の掲載となる",
+        "ただ、ゲーム周りについて興味深いデータを取れたので、速報値としてお伝えする"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
-      "published": "2026-10-17 22:29"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/review/2149084.html",
+      "published": "2026-10-19 06:24"
     },
     {
-      "id": "6507f3878913",
-      "original_title": "【本日みつけたお買い得品】7千円オフ！Fire TV Stick 4K Maxが8,980円に",
-      "title": "【本日みつけたお買い得品】7千円オフ！Fire TV Stick 4K Maxが8,980円に",
+      "id": "b5c9ec5f5413",
+      "original_title": "【やじうまミニレビュー】MacBook Proより音デカ！スピーカー9基のレノボ製Androidタブレット",
+      "title": "【やじうまミニレビュー】MacBook Proより音デカ！スピーカー9基のレノボ製Androidタブレット",
       "summary": [
-        "Amazonにてプライム感謝祭セールが開催中",
-        "ストリーミングデバイスのFire TVシリーズがセール対象となっており、プライム会員価格で購入できる"
+        ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2149017.html",
-      "published": "2026-10-17 14:38"
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147740.html",
+      "published": "2026-10-19 06:12"
     },
     {
-      "id": "ccdc53c7dc34",
-      "original_title": "「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性",
-      "title": "「椅子に座る時の姿勢」によってリスクを取るかどうかが変化する可能性",
+      "id": "52dad048fcbe",
+      "original_title": "天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由",
+      "title": "天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由",
       "summary": [
-        "狭いスペースに小さく縮こまっている時と開放的な空間で体を伸ばしている時では、気の持ちようも変わってきます",
-        "2026年の研究では、テーブルの高さを変えることで被験者の姿勢をそれとなく誘導すると、「リスクを取る行動」への意欲に変化が生じることがわかりました",
+        "天井に取り付けて室内の空気を循環させる「シーリングファン」は、扇風機や換気扇のような羽がくるくる回るシンプルなものから、一見するとファンには見えないようなものまで、さまざまなデザインが存在しています",
+        "建築やデザインについて扱うブログ「McMansionHell」のケイト・ワグナー氏が、シーリングファンの現状について取り上げています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261018-desk-setups-posture-risk-taking/",
-      "published": "2026-10-18 08:00"
+      "link": "https://gigazine.net/news/20261019-ceiling-fans/",
+      "published": "2026-10-19 07:00"
     },
     {
-      "id": "d0b16bd68a61",
-      "original_title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
-      "title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
+      "id": "b9ad3cc92f18",
+      "original_title": "人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話",
+      "title": "人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話",
       "summary": [
-        "大人気ゲーム「NieR(ニーア)」シリーズのデザインを施したゲーミングチェアやPCケースがマチ★アソビ vol.31の会場で販売されていました",
+        "Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261018-nier-automata-machiasobi31/",
-      "published": "2026-10-18 07:00"
+      "link": "https://gigazine.net/news/20261019-torrent-sites-malware/",
+      "published": "2026-10-19 06:00"
     },
     {
-      "id": "6876f39303fe",
-      "original_title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
-      "title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
+      "id": "e501e49b3120",
+      "original_title": "企画から投稿まで自動化：Zenn(GitHub連携)とQiita(API v2)を1リポジトリで回す記事ループ",
+      "title": "企画から投稿まで自動化：Zenn(GitHub連携)とQiita(API v2)を1リポジトリで回す記事ループ",
       "summary": [
-        "はじめに 当社（合同会社ジョインクラス）は、記事公開・SNS配信・売上集計などの業務を launchd の17ジョブと Claude Code で回しています",
-        "自動化率は98%ほどです",
-        "その運用で一番迷ったのは「待つ処理」の書き方でした"
+        "はじめに 技術記事を続けて出すのは、書くことそのものより、書いた後の作業（2つの媒体への転記、タグ付け、記録、振り返り）で挫けがちです",
+        "この記事では、AIコーディングエージェントと組んで、企画 → 執筆 → 検証 → 投稿 → 改善 を1つのGitHubリポジトリで回す..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/joinclass/items/fc9eabb2ddfbb2aeca07",
-      "published": "2026-10-18 08:30"
+      "link": "https://qiita.com/warrobotsxyz/items/2f1db7d54a1ccbda3ae5",
+      "published": "2026-10-19 08:40"
     },
     {
-      "id": "73883e8f3f1b",
-      "original_title": "「もう何もしなくていい」が何度も変わる。Codexとのやり取りをIssueにした",
-      "title": "「もう何もしなくていい」が何度も変わる。Codexとのやり取りをIssueにした",
+      "id": "3c288cca3c56",
+      "original_title": "AIで取材記事からSNS告知文を作るとき、記事にない情報を足させない方法",
+      "title": "AIで取材記事からSNS告知文を作るとき、記事にない情報を足させない方法",
       "summary": [
-        "先に、結論を3行で書きます",
-        "Codexに残作業を確認したら、完了・未完了・対応不要の説明が何度も変わりました",
-        "残作業と担当を問い直し、矛盾を指摘したうえで、実際の発言をGitHub Issueにまとめて送りました"
+        "取材記事を公開したあと、次に必要になるのがSNSでの告知です",
+        "長い記事から要点を抜き出し、短い投稿文へ変える作業はAIと相性がよく、タイトル、導入文、ハッシュタグの候補もすぐ作れます",
+        "一方で、短い文章ほど強い言葉が使われやすくなります"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ishizakahiroshi/items/5511f41b19748a1f5bfb",
-      "published": "2026-10-18 08:26"
+      "link": "https://qiita.com/boraemon2000/items/235e4a9d9d56afc86724",
+      "published": "2026-10-19 08:30"
     },
     {
-      "id": "c547466ab310",
-      "original_title": "Meta removes language that raised scraping and AI training concerns",
-      "title": "メタはスクレイピングと AI トレーニングの懸念を引き起こした文言を削除",
+      "id": "d20a5c74d041",
+      "original_title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "summary": [
-        "Metaの広報担当者は、更新された規約はMetaがウェブをクロールする方法の変更を反映していないと主張した"
+        "Anthropic said that it will commit 5% of its shares to the fund."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "published": "2026-10-17 21:31"
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "published": "2026-10-18 20:37"
     },
     {
-      "id": "b3e91e876d39",
-      "original_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "title": "アンスロピック社は、従業員の若手化が進み、会議に多くの時間を費やしていると述べている",
+      "id": "224cbbfe04c8",
+      "original_title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "summary": [
-        "Anthropic の従業員の構成と行われる仕事の種類は、この 1 年で大きく変化しました"
+        "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "published": "2026-10-17 20:21"
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "published": "2026-10-18 16:30"
     }
   ]
 }
