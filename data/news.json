@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-10-20 09:55",
+  "updated_at": "2026-10-21 09:23",
   "total_count": 19,
   "articles": [
+    {
+      "id": "7fd135e476be",
+      "original_title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "title": "フランチャイズ加盟者は ChatGPT Work を使用して 94% 少ない時間で現金を照合します",
+      "summary": [
+        "独立系の Schlotzsky's と Cinnabon のフランチャイズ加盟店は、メニューの価格変更にかかる時間を 95% 削減し、10 万ドルのキャッシュ フローを解放できるワークフローを構築しました"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "published": "2026-10-20 10:00"
+    },
+    {
+      "id": "fbcee185eb65",
+      "original_title": "OpenAI acquires Orchestra Bio",
+      "title": "OpenAI が Orchestra Bio を買収",
+      "summary": [
+        "OpenAI は、AI を活用したオペレーションをライフ サイエンスの研究開発に導入するために Orchestra Bio を買収し、バイオ製​​薬チームが医薬品開発を加速し、新しい治療法を進歩できるよう支援します"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published": "2026-10-20 00:00"
+    },
     {
       "id": "30b300384f24",
       "original_title": "Advancing coding in low‑resource programming languages",
@@ -14,32 +40,6 @@
       "source_name": "OpenAI (公式)",
       "link": "https://openai.com/index/low-resource-programming-languages",
       "published": "2026-10-19 12:00"
-    },
-    {
-      "id": "959513e5c3bf",
-      "original_title": "How Itaú is building generative AI for its entire customer base",
-      "title": "Itaú は顧客ベース全体に向けた生成 AI をどのように構築しているか",
-      "summary": [
-        "Itaú は、会話型インターフェイスである ia.i と IARA ガバナンス プラットフォームを活用して、ブラジルで最も規制の厳しい分野の 1 つである顧客と従業員に AI ファースト戦略を適用しています"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "published": "2026-10-16 19:00"
-    },
-    {
-      "id": "bd1955f79bda",
-      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "title": "Stack Overflow for Agents は ChatGPT プラグインを使用してサインアップを 3 倍にします",
-      "summary": [
-        "2 人のエンジニアが Codex を使用して Stack Overflow for Agents を数週間で出荷し、その ChatGPT プラグインによりエージェント作成が最大 10 倍に増加しました"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "2026-10-16 00:00"
     },
     {
       "id": "0b17df34b67a",
@@ -81,191 +81,193 @@
       "published": "2026-10-02 15:00"
     },
     {
-      "id": "7b4e8bf02c71",
-      "original_title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "title": "Amazon Bedrock 上の Anthropic Claude モデルの構造化出力",
+      "id": "88966af89787",
+      "original_title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "title": "KV キャッシュを超えて: ネイティブ PyTorch を使用した AWS Trainium2 での i14 の Laplace 3B 線形アテンション モデルのトレーニングと提供",
       "summary": [
-        "Amazon Bedrock は、モデルが利用可能な Bedrock-Runtime エンドポイントと Bedrock-Mantle エンドポイントの両方で、すべての Anthropic Claude モデルの構造化出力をサポートするようになりました",
-        "Boto3 および Bedrock-Runtime API を介して Claude を呼び出すか、"
+        "ほとんどの大規模言語モデル (LLM) は、ソフトマックスを考慮したトランスフォーマー アーキテクチャを使用します",
+        "推論中、キー/値 (KV) キャッシュは会話またはドキュメントのコンテキストに応じて増加します",
+        "これにより、同時実行性が低下し、サービス提供コストが増加し、エージェントが強制的に実行される可能性があります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
-      "published": "2026-10-19 23:32"
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+      "published": "2026-10-20 21:14"
     },
     {
-      "id": "abac4c1b6e70",
-      "original_title": "Developers can now access SageMaker Studio through the new AWS experience",
-      "title": "開発者は、新しい AWS エクスペリエンスを通じて SageMaker Studio にアクセスできるようになりました",
+      "id": "3787e8f52f83",
+      "original_title": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "title": "AWS 上の Smartsheet MCP を使用した AI エージェントの作業管理コンテキスト",
       "summary": [
-        "本日、Amazon SageMaker AI の新規顧客が、AWS にサインアップした後、わずか数ステップで完全に構成された Amazon SageMaker Studio 環境にアクセスできるようになったということを発表できることを嬉しく思います",
-        "すでにあるサインイン方法を使用できます"
+        "AI エージェントが最も役立つのは、組織全体で発生している実際の作業に対応できる場合です",
+        "作業管理には、プロジェクトのタイムラインの更新、タスクの再割り当て、ステータスの表示など、部門をまたがる複雑なタスクが含まれます",
+        "AIエージェントがサポートします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
-      "published": "2026-10-19 22:39"
+      "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "published": "2026-10-20 17:59"
     },
     {
-      "id": "5782805bbadf",
-      "original_title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
-      "title": "Amazon SageMaker JumpStart: 2026 年累計のレビュー",
+      "id": "4805212dfdb4",
+      "original_title": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "title": "データから意思決定まで: Amazon Quick と Amazon Bedrock AgentCore を使用した会話型サプライチェーン インテリジェンス",
       "summary": [
-        "Amazon SageMaker JumpStart は、Amazon SageMaker AI 内の機械学習 (ML) ハブであり、AI モデル、ソリューションテンプレート、サンプルノートブックの厳選されたカタログへのアクセスを提供します",
-        "モデルの選択から導入までにかかる時間を短縮します"
+        "サプライ チェーン チームが意思決定の背後にあるシステムに直接アクセスできるようにします",
+        "すべてのサプライチェーンは、承認中の注文、リードタイムの​​変化、港湾の遅延、価格の変動、混乱などの絶え間ないシグナルを生成します",
+        "問題はデータが不足していることではありません"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
-      "published": "2026-10-19 21:14"
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "published": "2026-10-20 17:52"
     },
     {
-      "id": "1da8f3dd6594",
-      "original_title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
-      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "id": "977b800bebd8",
+      "original_title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体",
+      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体",
       "summary": [
-        "米国土安全保障省は、中国DeepSeekの製品および関連サービスを連邦民間機関の調達とITシステムから排除する命令を官報で公示した",
-        "自社製だけでなく、同社の実装を用いた第三者製品も排除対象とする",
-        "連邦調達サプライチェーン安全法に基づく措置で、勧告と証拠を検討した上で発令された"
+        "予算をつけ、製品を入れても、ゼロトラストの移行が止まっている企業は少なくありません",
+        "米国の調査会社は、米国連邦機関が失敗する理由に資金と専門人材の不足を挙げました",
+        "一方、日本の公的な調査には、インシデントを経験した後でも対策を強化しない組織の姿が表れています"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
-      "published": "2026-10-20 07:07"
+      "link": "https://mag.executive.itmedia.co.jp/executive/article/2610/21/2000002352/",
+      "published": "2026-10-21 08:00"
     },
     {
-      "id": "ad92e56fa449",
-      "original_title": "「データセンター×発電設備」一体開発がトレンド？　日立・東京ガスが九州で計画、JERAは千葉で　狙いは",
-      "title": "「データセンター×発電設備」一体開発がトレンド？　日立・東京ガスが九州で計画、JERAは千葉で　狙いは",
+      "id": "b4b237610370",
+      "original_title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
+      "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
       "summary": [
-        "日立製作所や東京ガスなど4社が、データセンターと電源設備を一体開発するため協業した",
-        "関東と九州でデータセンター開発計画を策定する",
-        "発電大手JERAも、発電所一体型データセンターを建設中だ"
+        "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/20/news051.html",
-      "published": "2026-10-20 07:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html",
+      "published": "2026-10-21 07:45"
     },
     {
-      "id": "9b30a396180f",
-      "original_title": "紙のメモを手放せないあなたへ。手書き×AIで、ミーティングメモが\"使える資産\"に変わる [Sponsored]",
-      "title": "紙のメモを手放せないあなたへ。手書き×AIで、ミーティングメモが\"使える資産\"に変わる [Sponsored]",
+      "id": "f996e27a6527",
+      "original_title": "AIを手元で動かすカギは「メモリ」だ！1台で128GB、 2台接続で256GBになる小さなAIモンスター「Dell Pro Precision with GB10」を検証 [Sponsored]",
+      "title": "AIを手元で動かすカギは「メモリ」だ！1台で128GB、 2台接続で256GBになる小さなAIモンスター「Dell Pro Precision with GB10」を検証 [Sponsored]",
       "summary": [
-        "業務上のメモは今も紙とペンで手書きしているという人はまだまだ多いだろう",
-        "すぐに書き始められるし、アナログな手触り感が記憶に残りやすいと感じるところもある",
-        "キーボードやマウスだと自由な位置、サイズ、形状で書くのが難しく、直感的ではなかったりするのも事実だ"
+        "LLMや生成AIを手元で動かそうとしたとき、まず壁になるのは処理の速さよりも「メモリに載るかどうか」ではないでしょうか",
+        "大きなモデルは数十GB、数百GBに達し、一般的なビデオカードには収まりません",
+        "かといって、社内の機密データをクラウドに預けるのはためらわれます"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2112054.html",
-      "published": "2026-10-20 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2149612.html",
+      "published": "2026-10-21 07:00"
     },
     {
-      "id": "c3632f87b0ca",
-      "original_title": "【実録! 重役飯】学生時代に、映画を観た勢いで渡米。クアルコム中山社長の原点と「変化は美しい」の経営哲学",
-      "title": "【実録! 重役飯】学生時代に、映画を観た勢いで渡米。クアルコム中山社長の原点と「変化は美しい」の経営哲学",
+      "id": "dd1cb4298066",
+      "original_title": "素手の操作感はそのままに手を温められるヒーター付きゲーミング手袋",
+      "title": "素手の操作感はそのままに手を温められるヒーター付きゲーミング手袋",
       "summary": [
-        "30周年記念の重役飯、第5回となる今回のお相手は、クアルコムジャパン社長の中山泰方氏",
-        "会食の場は中山氏の想い出の場所でもある「Bar Your Song」(以下、敬称略)"
+        "サンコーは、USB駆動で手の甲から手首を温められるゲーミング手袋「ゲーミング手甲ヒーター」を10月19日に発売した",
+        "直販価格は単体が3,480円、5,000mAhリチウムイオンバッテリとのセットが4,480円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/executive_dinner/2149272.html",
-      "published": "2026-10-20 06:28"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2149805.html",
+      "published": "2026-10-21 06:28"
     },
     {
-      "id": "53ab47ea05f7",
-      "original_title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
-      "title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
+      "id": "8cef635ff217",
+      "original_title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
+      "title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
       "summary": [
-        "総務省統計局によると、2021年9月から60カ月連続で消費者物価指数(CPI)は上昇し続けています",
-        "物価が上がり続ける日本において、「コンビニのおにぎり1個当たり、いくらまで許せるか",
-        "」を、GIGAZINE読者に聞いてみました"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/",
-      "published": "2026-10-20 09:00"
-    },
-    {
-      "id": "7b74f6f250a0",
-      "original_title": "エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」",
-      "title": "エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」",
-      "summary": [
-        "PSPゲームをエミュレーターを介することなくウェブブラウザで実行できるというプロジェクト「PSP Web Recomp」を、ソフトウェアエンジニアのsnuri00氏がGitHubで公開しています",
+        "トルコ文化観光省が、紀元前17～13世紀に栄えたヒッタイト王国の遺跡で行われた2026年の発掘調査で、王室の粘土板文書および断片が131枚も発掘されたと報告しました",
+        "これらの粘土板文書には3400年前に発生した熱病の流行を記したものや、当時の兵站(へいたん)に関わる文書などが含まれています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261020-psp-web-recomp/",
-      "published": "2026-10-20 08:00"
+      "link": "https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/",
+      "published": "2026-10-21 08:00"
     },
     {
-      "id": "99e452a624c2",
-      "original_title": "AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト",
-      "title": "AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト",
+      "id": "7a6387773b70",
+      "original_title": "WineがOpenBSDに移植される",
+      "title": "WineがOpenBSDに移植される",
       "summary": [
-        "はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存の共通関数を使わずに似た関数を新たに作ったり、他の箇所とは違う方法でエラー処理をしたりすることがあります",
-        "これらの原因の多くは、実装前の計画のあいまいさにあります",
-        "計画に未決定や要..."
+        "Windows互換レイヤーのWineについて、OpenBSD Portsで新たなポート提案が行われました",
+        "これはWineがOpenBSDに導入されることになったことを意味し、ひいてはOpenBSDで64ビットWindowsアプリケーションを実行できる可能性を示唆しています",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261021-openbsd-ports-wine/",
+      "published": "2026-10-21 06:00"
+    },
+    {
+      "id": "e430365fa10e",
+      "original_title": "LINE Bot × Stripe × Cloudflare Workers で予約システムを2週間で作った話",
+      "title": "LINE Bot × Stripe × Cloudflare Workers で予約システムを2週間で作った話",
+      "summary": [
+        "はじめに 予約管理システムが必要になりました",
+        "LINE Botで予約を受けて、Stripeで決済して、Cloudflare WorkersでWebhookを受ける——この3層構成を2週間で作りました",
+        "本記事では、reserve-optimizer の設計と、各技術の選定..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/k_izutani/items/bfc84da78c96c8112d7a",
-      "published": "2026-10-20 09:51"
+      "link": "https://qiita.com/fukukei23/items/a6943a601a4476f09e03",
+      "published": "2026-10-21 09:23"
     },
     {
-      "id": "22c601d1c175",
-      "original_title": "【2026/10/7】Claude Haiku 5.5リリース——入力$0.10で9割安、ただしID差し替えだけでは動かない",
-      "title": "【2026/10/7】Claude Haiku 5.5リリース——入力$0.10で9割安、ただしID差し替えだけでは動かない",
+      "id": "5f1add46ec48",
+      "original_title": "Flask物販管理システムを1人で作った話（BUYMA × Buyandship）",
+      "title": "Flask物販管理システムを1人で作った話（BUYMA × Buyandship）",
       "summary": [
-        "3行まとめ 2026年10月7日、AnthropicがClaude Haiku 5.5（claude-haiku-5-5）をリリース",
-        "100Kトークン以下のプロンプトなら入力$0.10 / 出力$0.50 per MTokで、Haiku 4.5（$1/$5）の10分の1..."
+        "はじめに BUYMA（バイマー）とBuyandshipを利用した転売ビジネス",
+        "出品・価格調整・発注・顧客対応……全て手作業だと1日が終わりません",
+        "私はこの一連の業務を Flask Webアプリ + AI/LLM で自動化するシステムを1人で作りました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/ddefe3f4ddf42502e850",
-      "published": "2026-10-20 09:45"
+      "link": "https://qiita.com/fukukei23/items/60979138fdaa2ac4ef36",
+      "published": "2026-10-21 09:22"
     },
     {
-      "id": "f1134db23b97",
-      "original_title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-      "title": "NscaleとAnthropicはさらに450億ドルのコンピューティング契約について交渉中であると報じられている",
+      "id": "2937a6938f2a",
+      "original_title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "title": "Anthropic、50人以上が死亡する可能性がある場合モデルを阻止する可能性のあるAI安全法案を提案",
       "summary": [
-        "8月、NscaleとAnthropicは450億ドルのコンピューティング契約を発表した",
-        "両社は同じ規模のさらに別の取引について協議していると伝えられている"
+        "提案された政策はAIの暴走に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なしにモデルの公開を阻止することを禁じている"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "published": "2026-10-19 23:39"
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "published": "2026-10-20 23:01"
     },
     {
-      "id": "fe01b0f23027",
-      "original_title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "title": "組み込みAI評価器は簡単な解決策ではないとハギングフェイスの政策責任者は語る",
+      "id": "f7489e0b86e0",
+      "original_title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "title": "ハグフェイスCEO、NetflixのOpenAIハッキングドキュメンタリーは正確ではないと警告",
       "summary": [
-        "AI ラボは、ある AI 製品が別の AI 製品よりも優れているかどうかを測定するように設計された、おそらく中立的で正確な評価システムであるモデル ベンチマークに評判を賭けています",
-        "ただし、これらの評価の背後にある方法は、"
+        "Netflix ドキュメンタリー「AI Gone Rogue」を共有する前に注意してください",
+        "映画に登場するハギング・フェイスの共同創設者クレム・デラング氏は、それが「完全に破滅モード」になったと述べたが、それは正確ではない"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "published": "2026-10-19 22:49"
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "published": "2026-10-20 22:24"
     }
   ]
 }
