@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-10-22 09:26",
+  "updated_at": "2026-10-23 09:24",
   "total_count": 19,
   "articles": [
     {
-      "id": "c6d2f7345cef",
-      "original_title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "id": "758f360c1e07",
+      "original_title": "Build more responsive apps with the Decisions API",
+      "title": "Decisions API を使用して、より応答性の高いアプリを構築する",
       "summary": [
-        "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+        "あらゆるアプリケーションに対して、迅速かつ集中的かつ低コストの意思決定を行います"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/att-legal",
-      "published": "2026-10-21 17:00"
+      "link": "https://openai.com/index/decisions-api",
+      "published": "2026-10-22 19:00"
     },
     {
-      "id": "5486a9256acb",
-      "original_title": "Broad access through consistent standards",
-      "title": "Broad access through consistent standards",
+      "id": "b0cf8ce2926c",
+      "original_title": "What FDE means at OpenAI",
+      "title": "OpenAI における FDE の意味",
       "summary": [
-        "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+        "OpenAI における前方展開型エンジニアリングの意味"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "published": "2026-10-21 21:00"
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "published": "2026-10-22 06:00"
     },
     {
-      "id": "b31062374f00",
-      "original_title": "OpenAI models are coming to Google Cloud",
-      "title": "OpenAI models are coming to Google Cloud",
+      "id": "981aaee2cde0",
+      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "title": "Uber は OpenAI を使用して ChatGPT Work を全従業員に提供します",
       "summary": [
-        "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+        "Uber は ChatGPT Work を 30,000 人以上の従業員に展開し、チームの調査、データ分析、プレゼンテーションの作成、複雑なワークフローの完了を支援しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "published": "2026-10-21 12:00"
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published": "2026-10-22 00:00"
     },
     {
       "id": "8dbc690b9409",
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "title": "東南アジアのデジタル経済は3,680億ドルに達する",
       "summary": [
-        "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+        "AI の普及により、東南アジアのデジタル経済は 2026 年に 3,680 億ドル、2035 年までに 1 兆ドルに達すると予測されています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +57,9 @@
     {
       "id": "0b17df34b67a",
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -70,9 +70,9 @@
     {
       "id": "cbec8263c511",
       "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Introducing Playground: Create and play custom games",
+      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
       "summary": [
-        "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -81,183 +81,188 @@
       "published": "2026-10-07 12:00"
     },
     {
-      "id": "dd938704f71d",
-      "original_title": "Securing Quick access from corporate networks with AWS PrivateLink",
-      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "id": "28b2b4f894df",
+      "original_title": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "title": "Amazon Polly が生成エンジンにメジャーアップグレードを提供",
       "summary": [
-        "When enterprise data sits behind a corporate firewall or in a private on-premises data center, there’s no direct network path from AWS, even though the AI agents and dashboards in Amazon Quick can query virtually any data source. Administrators must"
+        "Amazon Polly 生成エンジンは、より自然で正確な音声出力を提供するようになりました",
+        "Amazon Polly 生成エンジンへのアップグレードを導入し、より表現力豊かで正確な音声出力を低レイテンシーで提供します",
+        "アップグレードにより 14 の新しい機能が追加されます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
-      "published": "2026-10-21 23:38"
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
+      "published": "2026-10-22 18:06"
     },
     {
-      "id": "21d6d4aa4477",
-      "original_title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "id": "6f1ddecba9d2",
+      "original_title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
+      "title": "IskayPet がどのようにして企業知識を Amazon Bedrock が管理するナレッジベースと統合したか",
       "summary": [
-        "Building a multi-agent system is now pretty straightforward. Taking it to production is where the real challenges begin. Thanks to open source frameworks and cloud services, you can set up an agent in a matter of days. A few tool calls, a few lines o"
+        "IskayPet のオフィス チームは知識面での課題を抱えていました",
+        "返品ポリシー、獣医プロトコル、オンボーディング手順などの日常的な業務上の質問に対する回答は、4 つの言語にまたがる数百の Microsoft SharePoint ドキュメントに記載されていました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
-      "published": "2026-10-21 23:36"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
+      "published": "2026-10-22 18:01"
     },
     {
-      "id": "ee6764d3069a",
-      "original_title": "Adaptive agentic intelligence framework using Strands Agents",
-      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "id": "be36d63af7bb",
+      "original_title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "title": "GPU を管理せずに SageMaker AI を使用してモデルをカスタマイズする新しい方法を発表",
       "summary": [
-        "Organizations building AI agents face a common challenge: Every request, whether a routine status check or complex analysis, typically gets routed to a single large, expensive model. This one-size-fits-all approach can drive up API costs, introduce u"
+        "AI から実際の結果を得ている企業は、既製の基盤モデル (FM) を使用しているだけではありません",
+        "彼らは、強化学習などのトレーニング後のテクニックを使用して、オープンウェイト モデルをカスタマイズしています",
+        "ビジネスコンテキスト、製品caに基づいてトレーニングされたモデル"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
-      "published": "2026-10-21 21:23"
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+      "published": "2026-10-22 18:00"
     },
     {
-      "id": "749177ed3fac",
-      "original_title": "Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
-      "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+      "id": "2d7598a73259",
+      "original_title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+      "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
       "summary": [
-        "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された"
+        "生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している",
+        "攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
-      "published": "2026-10-22 08:52"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+      "published": "2026-10-23 08:00"
     },
     {
-      "id": "1f0548edb974",
-      "original_title": "AIで“ゴジラになって”街破壊　富士通が体験型展示　「体操の採点システム」活用",
-      "title": "AIで“ゴジラになって”街破壊　富士通が体験型展示　「体操の採点システム」活用",
+      "id": "b6b75ed2c6d9",
+      "original_title": "広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ”",
+      "title": "広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ”",
       "summary": [
-        "AIで“ゴジラになって”街を破壊する――富士通が「CEATEC 2026」で公開した体験型展示「GODZILLA in Motion」の狙いとは"
+        "国産AI「PLaMo」はどこで・どう使われているのか",
+        "「CEATEC 2026」に出展したPreferred Networksに聞いた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
-      "published": "2026-10-22 08:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
+      "published": "2026-10-23 08:00"
     },
     {
-      "id": "7dcf3b9bb485",
-      "original_title": "4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]",
-      "title": "4万8,000円引きのYogaノートも！レノボ公式ストアでセール開催中 [Sponsored]",
+      "id": "1a4561a1d894",
+      "original_title": "WQHD/240HzとHD/400Hzを両立、MSIの27型湾曲ゲーミングモニター",
+      "title": "WQHD/240HzとHD/400Hzを両立、MSIの27型湾曲ゲーミングモニター",
       "summary": [
-        "レノボ・ジャパンは公式ストアにおいて、「ハロウィンフェスティバル」を開催している",
-        "YogaシリーズのノートPCが大幅値引きとなるなど、多くの製品が特別価格で販売中だ",
-        "期間は10月29日まで"
+        "MSIは、MAGシリーズの27型湾曲ゲーミングモニター「MAG 275CQDF X24」を10月29日に発売する",
+        "価格はオープンプライスで、直販価格は3万7,800円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2149966.html",
-      "published": "2026-10-22 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
+      "published": "2026-10-23 06:32"
     },
     {
-      "id": "14594008e7b7",
-      "original_title": "ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]",
-      "title": "ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]",
+      "id": "6bb2525bc9f8",
+      "original_title": "MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート",
+      "title": "MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート",
       "summary": [
-        "AIを業務や趣味に生かしたいと思っても、クラウドサービスを使うとサブスク料金がかさんでしまう",
-        "代わりにローカルAIを試そうにも、GPUだけでなくメモリ・ストレージ価格の上昇もあってハードルが高い"
+        "MSIは、CPUにCore Ultra 9 275HX、GPUにGeForce RTX 5070 Ti Laptop GPUを採用した16型ゲーミングノートPC「Raider-16-HX-B2WH-2689JP」を10月22日に発売した",
+        "直販価格は53万9,800円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2147630.html",
-      "published": "2026-10-22 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150480.html",
+      "published": "2026-10-23 06:28"
     },
     {
-      "id": "65effcd1ecc8",
-      "original_title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
-      "title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
+      "id": "4db6b2658d7c",
+      "original_title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
+      "title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
       "summary": [
-        "シムシティのような都市シミュレーターでは、プレイヤーは予算の許す限り神の如く自由に都市開発を行えます",
-        "しかし、実際には開発計画が議会の承認を得られなかったり、住民から反対されたりと、さまざまな障害が発生するものです",
-        "そんな実際に起こるであろうさまざまな障害まで再現した、よりリアルな都市シミュレーターが「Permit Pending」です"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261022-permit-pending/",
-      "published": "2026-10-22 08:00"
-    },
-    {
-      "id": "c23119f19dfe",
-      "original_title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
-      "title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
-      "summary": [
-        "2010年にメキシコ湾で起きたディープウォーター・ホライズン原油流出事故から16年が経過した2026年10月19日、アメリカのノバ・サウスイースタン大学などの研究チームが深海生物の個体数に関する研究結果を発表しました",
-        "2011～2023年の調査データを分析したところ、調査が終了した2023年になっても個体数は2011年初めの水準に戻っていなかったとのことです",
+        "民泊仲介サービスのAirbnbが2026年10月20日、宿泊客に食器洗いや敷地外へのゴミ出しなどを求めることを原則禁止すると発表しました",
+        "宿泊施設を貸し出すホスト向けの新しいポリシーで、2026年11月20日以降に入る予約から適用されます",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life/",
-      "published": "2026-10-22 07:00"
+      "link": "https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/",
+      "published": "2026-10-23 07:00"
     },
     {
-      "id": "6d43a7196ffc",
-      "original_title": "CLAUDE.md の指示は先頭に書くべきか。144回測ったら、効いていたのは位置ではなく見出しだった",
-      "title": "CLAUDE.md の指示は先頭に書くべきか。144回測ったら、効いていたのは位置ではなく見出しだった",
+      "id": "0e462f19ca79",
+      "original_title": "Interop 2027で注目すべき未来のCSS",
+      "title": "Interop 2027で注目すべき未来のCSS",
       "summary": [
-        "Qiita で「重要な指示は最初か最後か",
-        "」という記事を読みました",
-        "資料の文中に埋めた指示は、Claude ではほとんど守られなかったそうです"
+        "ウェブブラウザの互換性向上プロジェクト「Interop 2027」で注目すべきCSS機能トップ10について、ウェブ開発者のジョシュ・コーモー氏が自身のブログにて解説していました",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261023-future-of-css/",
+      "published": "2026-10-23 06:00"
+    },
+    {
+      "id": "3afc171b81dd",
+      "original_title": "AIコーディングにおけるトークン消費の原因分析とコンテキスト削減の実践手法",
+      "title": "AIコーディングにおけるトークン消費の原因分析とコンテキスト削減の実践手法",
+      "summary": [
+        "読者が抱える課題 AIコーディングアシスタント（GitHub Copilot、Claude Dev/Cline、Cursorなど）を利用する際、コンテキストウィンドウの圧迫やトークンの急速な消費が発生することがあります",
+        "これにより、以下の問題が生じます",
+        "トークン上限到..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/suwa_nobu/items/75bc70f265d7096ae799",
-      "published": "2026-10-22 09:20"
+      "link": "https://qiita.com/blinkgroup_jp/items/60e39a0dfbeaf5a7e123",
+      "published": "2026-10-23 09:22"
     },
     {
-      "id": "ff92d62ab481",
-      "original_title": "PowerShellだけで試すOllama HTTP API入門：/apiとOpenAI互換/v1を実測で確認",
-      "title": "PowerShellだけで試すOllama HTTP API入門：/apiとOpenAI互換/v1を実測で確認",
+      "id": "34a081c76e67",
+      "original_title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
+      "title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
       "summary": [
-        "はじめに OllamaはローカルLLMの実行環境として手軽だが、GUIやCLIだけでなく HTTP API も提供している",
-        "この記事では、PowerShell 5.1の Invoke-RestMethod だけを使い、追加ツールなしでOllamaのAPIを触ってみた結果を..."
+        "はじめに Ollamaでモデルを一度でも走らせると、そのモデルは一定時間GPUメモリ（VRAM）に載ったままになる",
+        "動画編集やゲームなど、GPUを他の用途に使いたいときに「いつ解放されるのか」「すぐ解放するにはどうするのか」が気になったので、keep_alive の挙動を..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/warrobotsxyz/items/cac9742e0408f44eaaa8",
-      "published": "2026-10-22 09:00"
+      "link": "https://qiita.com/warrobotsxyz/items/d605022cb040ada6f2fd",
+      "published": "2026-10-23 09:00"
     },
     {
-      "id": "477abbb9b47f",
-      "original_title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "id": "89ddb4e5d469",
+      "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "title": "OpenAI、IPOに先立って評価額1.25兆ドルで新たに300億ドルの調達に取り組んでいる",
       "summary": [
-        "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+        "OpenAIがこのラウンドで1兆ドルを超える評価額を獲得すれば、これまでで最も評価の高い非上場企業としての記録を更新することになるだろう"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "published": "2026-10-21 22:51"
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22 22:08"
     },
     {
-      "id": "2e076fab5f28",
-      "original_title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "id": "ca435519f26f",
+      "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "title": "1Password は、AI エージェントがパスワードを確認せずにユーザーに代わってログインする方法を開始します",
       "summary": [
-        "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
+        "この新機能により、エージェントは、顧客の個人アカウントを保護するプライベート資格情報を保護しながら、顧客の個人アカウントにログインできるようになります"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "published": "2026-10-21 21:16"
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "published": "2026-10-22 19:07"
     }
   ]
 }
