@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-23 09:24",
+  "updated_at": "2026-10-24 09:17",
   "total_count": 19,
   "articles": [
     {
-      "id": "758f360c1e07",
-      "original_title": "Build more responsive apps with the Decisions API",
-      "title": "Decisions API を使用して、より応答性の高いアプリを構築する",
+      "id": "b78f10d1d310",
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "title": "10 億人以上の ChatGPT ユーザーにサービスを提供するためにオンライン ストレージを迅速に拡張する (パート II)",
       "summary": [
-        "あらゆるアプリケーションに対して、迅速かつ集中的かつ低コストの意思決定を行います"
+        "OpenAI が信頼性の高いマルチテナンシー、グローバル キャッシュ、Azure Cosmos DB を使用して Habitat を拡張し、ChatGPT の 12 倍高速な読み取りを実現した方法を学びましょう"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/decisions-api",
-      "published": "2026-10-22 19:00"
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "published": "2026-10-23 17:00"
     },
     {
-      "id": "b0cf8ce2926c",
-      "original_title": "What FDE means at OpenAI",
-      "title": "OpenAI における FDE の意味",
+      "id": "30f1663cd33c",
+      "original_title": "Securing our frontier model training environment",
+      "title": "フロンティアモデルのトレーニング環境の確保",
       "summary": [
-        "OpenAI における前方展開型エンジニアリングの意味"
+        "OpenAI は、オフライン環境やハイコンピューティングのレッドチームなど、フロンティア モデルのトレーニングと評価の封じ込めをどのように強化したかについて説明します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
-      "published": "2026-10-22 06:00"
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "published": "2026-10-23 10:00"
     },
     {
-      "id": "981aaee2cde0",
-      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "title": "Uber は OpenAI を使用して ChatGPT Work を全従業員に提供します",
+      "id": "7c4fdf997b8b",
+      "original_title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "title": "OpenAI とポーランドの NASK パートナーが AI の安全性とセキュリティを推進",
       "summary": [
-        "Uber は ChatGPT Work を 30,000 人以上の従業員に展開し、チームの調査、データ分析、プレゼンテーションの作成、複雑なワークフローの完了を支援しています"
+        "OpenAI とポーランドの NASK は、セーフガードを強化し、より回復力のあるデジタル エコシステムをサポートするために、AI の安全性、セキュリティ、技術研究で提携しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "published": "2026-10-22 00:00"
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "published": "2026-10-23 00:00"
     },
     {
       "id": "8dbc690b9409",
@@ -81,188 +81,189 @@
       "published": "2026-10-07 12:00"
     },
     {
-      "id": "28b2b4f894df",
-      "original_title": "Amazon Polly delivers a major upgrade to its Generative engine",
-      "title": "Amazon Polly が生成エンジンにメジャーアップグレードを提供",
+      "id": "fe1aceba7751",
+      "original_title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "title": "Amazon SageMaker AI でのマルチターン強化学習: 実践ガイド",
       "summary": [
-        "Amazon Polly 生成エンジンは、より自然で正確な音声出力を提供するようになりました",
-        "Amazon Polly 生成エンジンへのアップグレードを導入し、より表現力豊かで正確な音声出力を低レイテンシーで提供します",
-        "アップグレードにより 14 の新しい機能が追加されます"
+        "ほとんどの微調整では、単一のプロンプトに対してより適切な答えを生成するようにモデルを学習します",
+        "エージェントのタスクは異なります",
+        "経費報告書の提出やサポート チケットの優先順位付けを行うエージェントは一連のアクションを実行しますが、各ステップは前に行われた内容によって異なります"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
-      "published": "2026-10-22 18:06"
+      "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "published": "2026-10-23 17:48"
     },
     {
-      "id": "6f1ddecba9d2",
-      "original_title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "title": "IskayPet がどのようにして企業知識を Amazon Bedrock が管理するナレッジベースと統合したか",
+      "id": "002d53e737b9",
+      "original_title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "title": "AWS CDK を使用した SageMaker AI エンドポイントの自動スケーリングのオーケストレーション",
       "summary": [
-        "IskayPet のオフィス チームは知識面での課題を抱えていました",
-        "返品ポリシー、獣医プロトコル、オンボーディング手順などの日常的な業務上の質問に対する回答は、4 つの言語にまたがる数百の Microsoft SharePoint ドキュメントに記載されていました"
+        "Amazon Sagemaker AI リアルタイムエンドポイント設定を更新すると (インスタンスタイプ、インスタンス数、または環境変数を変更すると)、AWS CloudFormation または AWS Cloud Development Kit (AWS CDK) を介したデプロイメントが失敗します",
+        "SageMaker AI リ"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
-      "published": "2026-10-22 18:01"
+      "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+      "published": "2026-10-23 16:30"
     },
     {
-      "id": "be36d63af7bb",
-      "original_title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "title": "GPU を管理せずに SageMaker AI を使用してモデルをカスタマイズする新しい方法を発表",
+      "id": "57fac3938274",
+      "original_title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "title": "Amazon Quick Sight レイヤーマップで GeoJSON を使用してポイントとルートを視覚化する",
       "summary": [
-        "AI から実際の結果を得ている企業は、既製の基盤モデル (FM) を使用しているだけではありません",
-        "彼らは、強化学習などのトレーニング後のテクニックを使用して、オープンウェイト モデルをカスタマイズしています",
-        "ビジネスコンテキスト、製品caに基づいてトレーニングされたモデル"
+        "Amazon Quick Sight レイヤーマップを使用すると、都市全体の店舗の場所や空港から出発するフライトなどのポイントとルートをプロットできるようになりました",
+        "地理空間マップは、企業が地域のパフォーマンスや場所など、位置に関連するパターンを特定するのに役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
-      "published": "2026-10-22 18:00"
+      "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+      "published": "2026-10-23 16:24"
     },
     {
-      "id": "2d7598a73259",
-      "original_title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
-      "title": "なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+      "id": "2a040c47639f",
+      "original_title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
       "summary": [
-        "生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している",
-        "攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか"
+        "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した",
+        "どういうことか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
-      "published": "2026-10-23 08:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+      "published": "2026-10-24 08:15"
     },
     {
-      "id": "b6b75ed2c6d9",
-      "original_title": "広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ”",
-      "title": "広がる「国産AI」活用事例　PFNの「PLaMo」にみる“ハマりどころ”",
+      "id": "85f2c35ad7be",
+      "original_title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
       "summary": [
-        "国産AI「PLaMo」はどこで・どう使われているのか",
-        "「CEATEC 2026」に出展したPreferred Networksに聞いた"
+        "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した",
+        "GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告",
+        "実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
-      "published": "2026-10-23 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "published": "2026-10-24 07:28"
     },
     {
-      "id": "1a4561a1d894",
-      "original_title": "WQHD/240HzとHD/400Hzを両立、MSIの27型湾曲ゲーミングモニター",
-      "title": "WQHD/240HzとHD/400Hzを両立、MSIの27型湾曲ゲーミングモニター",
+      "id": "be0e89e535d7",
+      "original_title": "【今すぐ読みたい！人気記事】「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法 - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法 - PC Watch",
       "summary": [
-        "MSIは、MAGシリーズの27型湾曲ゲーミングモニター「MAG 275CQDF X24」を10月29日に発売する",
-        "価格はオープンプライスで、直販価格は3万7,800円"
+        "Macユーザーはほとんど意識することはないが、Macからファイルを受け取ったWindowsユーザーの側では、実はウザく感じていることがある",
+        "それは、macOS特有の隠しファイルが一緒にくっついてくることだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
-      "published": "2026-10-23 06:32"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2150895.html",
+      "published": "2026-10-24 06:08"
     },
     {
-      "id": "6bb2525bc9f8",
-      "original_title": "MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート",
-      "title": "MSI、Core Ultra 9 275HX/GeForce RTX 5070 Ti搭載の16型ゲーミングノート",
+      "id": "00f9c077da2a",
+      "original_title": "【今すぐ読みたい！人気記事】古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順 - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順 - PC Watch",
       "summary": [
-        "MSIは、CPUにCore Ultra 9 275HX、GPUにGeForce RTX 5070 Ti Laptop GPUを採用した16型ゲーミングノートPC「Raider-16-HX-B2WH-2689JP」を10月22日に発売した",
-        "直販価格は53万9,800円"
+        "複数のPCやスマートフォン、タブレットなどのデジタル機器からネットワーク経由でアクセスでき、各種ファイルを共有できる「ファイルサーバーPC」",
+        "このファイル共有機能に特化した「NAS」(Network Attached Storage)という機器もあるが、こうしたファイルサーバーPCやNASを作るために最適化された「TrueNAS」というOSがある"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2150480.html",
-      "published": "2026-10-23 06:28"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2150894.html",
+      "published": "2026-10-24 06:06"
     },
     {
-      "id": "4db6b2658d7c",
-      "original_title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
-      "title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
+      "id": "535ea4354de1",
+      "original_title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
+      "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
       "summary": [
-        "民泊仲介サービスのAirbnbが2026年10月20日、宿泊客に食器洗いや敷地外へのゴミ出しなどを求めることを原則禁止すると発表しました",
-        "宿泊施設を貸し出すホスト向けの新しいポリシーで、2026年11月20日以降に入る予約から適用されます",
+        "お知らせその1",
+        "有料メンバー(https://gigazine.net/club)向けにコメント機能のテストを開始しました",
+        "最新の記事が対象になっているのでトップページ掲載記事末尾をログイン状態で見るとフォームが追加されています"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261024-access/",
+      "published": "2026-10-24 09:00"
+    },
+    {
+      "id": "0d357915f3ee",
+      "original_title": "フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕",
+      "title": "フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕",
+      "summary": [
+        "Epic Gamesが展開する人気オンラインゲーム「フォートナイト」でゲーム内ボイスチャットを使って問題のある発言を行ったとして、アメリカに住む29歳のプレイヤー、エドワード・フリスが逮捕されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/",
-      "published": "2026-10-23 07:00"
+      "link": "https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/",
+      "published": "2026-10-24 08:00"
     },
     {
-      "id": "0e462f19ca79",
-      "original_title": "Interop 2027で注目すべき未来のCSS",
-      "title": "Interop 2027で注目すべき未来のCSS",
+      "id": "7e97ab89eb9d",
+      "original_title": "RakutenAI-2.0-mini-instructをローカル実行してみたら、何だか様子がおかしい",
+      "title": "RakutenAI-2.0-mini-instructをローカル実行してみたら、何だか様子がおかしい",
       "summary": [
-        "ウェブブラウザの互換性向上プロジェクト「Interop 2027」で注目すべきCSS機能トップ10について、ウェブ開発者のジョシュ・コーモー氏が自身のブログにて解説していました",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261023-future-of-css/",
-      "published": "2026-10-23 06:00"
-    },
-    {
-      "id": "3afc171b81dd",
-      "original_title": "AIコーディングにおけるトークン消費の原因分析とコンテキスト削減の実践手法",
-      "title": "AIコーディングにおけるトークン消費の原因分析とコンテキスト削減の実践手法",
-      "summary": [
-        "読者が抱える課題 AIコーディングアシスタント（GitHub Copilot、Claude Dev/Cline、Cursorなど）を利用する際、コンテキストウィンドウの圧迫やトークンの急速な消費が発生することがあります",
-        "これにより、以下の問題が生じます",
-        "トークン上限到..."
+        "とり天/かぼすです",
+        "少し前、いろいろなAIについて調べていたころ、初めて「Rakuten AI」というAIを知りました",
+        "それからRakuten AI本人にいろいろと質問をしてみたところ、オープンウェイトのモデルが公開されていることを知り、気になったので自分の..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/blinkgroup_jp/items/60e39a0dfbeaf5a7e123",
-      "published": "2026-10-23 09:22"
+      "link": "https://qiita.com/ToritenKabosu/items/a37a83d788281f97281d",
+      "published": "2026-10-24 09:17"
     },
     {
-      "id": "34a081c76e67",
-      "original_title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
-      "title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
+      "id": "8380d5ae37cf",
+      "original_title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
+      "title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
       "summary": [
-        "はじめに Ollamaでモデルを一度でも走らせると、そのモデルは一定時間GPUメモリ（VRAM）に載ったままになる",
-        "動画編集やゲームなど、GPUを他の用途に使いたいときに「いつ解放されるのか」「すぐ解放するにはどうするのか」が気になったので、keep_alive の挙動を..."
+        "3行まとめ 2026年10月1日のClaude Code v2.1.287でModsが入った",
+        "プラグインに同梱するJavaScript/TypeScriptの関数で、ツール呼び出し・プロンプト送信・UI描画などのイベントを観察・書き換え・横取りできる",
+        "/diffパネルも..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/warrobotsxyz/items/d605022cb040ada6f2fd",
-      "published": "2026-10-23 09:00"
+      "link": "https://qiita.com/sakutto-panda/items/53b06029b87987642591",
+      "published": "2026-10-24 09:05"
     },
     {
-      "id": "89ddb4e5d469",
-      "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "title": "OpenAI、IPOに先立って評価額1.25兆ドルで新たに300億ドルの調達に取り組んでいる",
+      "id": "86be6bbceb06",
+      "original_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAIは「重大なリスク」を理由に、今後はライブインターネット上でAIモデルをトレーニングしないと発表",
       "summary": [
-        "OpenAIがこのラウンドで1兆ドルを超える評価額を獲得すれば、これまでで最も評価の高い非上場企業としての記録を更新することになるだろう"
+        "OpenAIは、エンジニアの1人がソリューションが機能しないと発言してから数週間後、フロンティアモデルをインターネットから遮断する予定だ"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "published": "2026-10-22 22:08"
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "published": "2026-10-23 23:05"
     },
     {
-      "id": "ca435519f26f",
-      "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "title": "1Password は、AI エージェントがパスワードを確認せずにユーザーに代わってログインする方法を開始します",
+      "id": "9964ef462707",
+      "original_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "title": "クリスマスに一番人気のおもちゃは？ Nvidia CEO、愛らしい Microduck ロボットで遊ぶ、20,000 個売れ",
       "summary": [
-        "この新機能により、エージェントは、顧客の個人アカウントを保護するプライベート資格情報を保護しながら、顧客の個人アカウントにログインできるようになります"
+        "ロボットたちは小さな足を踏み鳴らし、小さなR2-D2音を立てて座ったり、「昼寝」のために倒れたり、音声コマンドに応じてサマーソルトをしたりした"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "published": "2026-10-22 19:07"
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "published": "2026-10-23 21:59"
     }
   ]
 }
