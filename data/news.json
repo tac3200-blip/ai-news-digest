@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 09:01",
+  "updated_at": "2026-10-26 08:51",
   "total_count": 19,
   "articles": [
     {
@@ -20,7 +20,7 @@
       "original_title": "Securing our frontier model training environment",
       "title": "フロンティアモデルのトレーニング環境の確保",
       "summary": [
-        "OpenAI は、オフライン環境やハイコンピューティングのレッドチームなど、フロンティア モデルのトレーニングと評価の封じ込めをどのように強化したかについて説明します"
+        "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -114,7 +114,8 @@
       "original_title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
       "title": "Amazon Quick Sight レイヤーマップで GeoJSON を使用してポイントとルートを視覚化する",
       "summary": [
-        "With Amazon Quick Sight layer maps, you can now plot points and routes, like store locations across a city or flights leaving an airport. Geospatial maps help businesses spot patterns that are tied to location, like how a region is performing or wher"
+        "Amazon Quick Sight レイヤーマップを使用すると、都市全体の店舗の場所や空港から出発するフライトなどのポイントとルートをプロットできるようになりました",
+        "地理空間マップは、企業が地域のパフォーマンスや場所など、位置に関連するパターンを特定するのに役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -152,114 +153,118 @@
       "published": "2026-10-24 07:28"
     },
     {
-      "id": "fc182f420b51",
-      "original_title": "【本日みつけたお買い得品】Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円",
-      "title": "【本日みつけたお買い得品】Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円",
+      "id": "95bda01b189a",
+      "original_title": "【ギア推し】足音の方向まで分かるスゴさ。FPSゲーマーにこそ使ってほしい「INZONE Buds」",
+      "title": "【ギア推し】足音の方向まで分かるスゴさ。FPSゲーマーにこそ使ってほしい「INZONE Buds」",
       "summary": [
-        "Amazonで、AnkerのUSB PD対応小型充電器「Anker Prime Wall Charger」が10月21日頃から価格が下がり、現在は値下がり前の7,480円から3,090円安い4,390円で販売されている"
+        "マルチ対戦ゲーム――特にFPS/TPSなどのシューターでは、“音の聞き取り”が大切だ",
+        "足音や銃声などの環境音を確実に捉え、得られた情報を正確に分析し、いかにプレイングに生かすかが、ゲームの成績に大きく作用するのである",
+        "FPS/TPSゲーマーならば、その重要性を痛感していることだろう"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html",
-      "published": "2026-10-24 09:58"
+      "link": "https://pc.watch.impress.co.jp/docs/column/gamingdevice/2149356.html",
+      "published": "2026-10-26 06:16"
     },
     {
-      "id": "164a22182463",
-      "original_title": "【本日みつけたお買い得品】バッファローの500GBスティックSSDが1,280円引き。Amazonセール",
-      "title": "【本日みつけたお買い得品】バッファローの500GBスティックSSDが1,280円引き。Amazonセール",
+      "id": "53dc45bf4443",
+      "original_title": "PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
+      "title": "PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
       "summary": [
-        "Amazonで、バッファロー製スティック型SSDの500GBモデル「SSD-PUT500U3-B/N」が、10月23日から1,280円引きとなり、1万1,520円で販売されている"
+        "誇張ではなく、2年くらい前と比べるとメモリやSSDがウソのように値上がりした",
+        "完成品のPCも、部材コストの高騰に巻き込まれて値段が上がり続けている",
+        "自作PCの組み替えもままならないこうした状況でPCが故障し、買い替えを迫られた場合にはどうするべきなのか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2150899.html",
-      "published": "2026-10-24 09:27"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
+      "published": "2026-10-26 06:12"
     },
     {
-      "id": "e08eb1c2da4b",
-      "original_title": "ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」",
-      "title": "ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」",
+      "id": "d7fba9dd81d9",
+      "original_title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
+      "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
       "summary": [
-        "ZFSは2000年代にSun Microsystemsが開発し、オープンソースの「OpenZFS」として開発が続けられているファイルシステムの一種で、データの破損を検出する仕組みや障害発生時にもデータの整合性を維持する仕組みなどを備え、NASやストレージサーバーなどで利用されています",
-        "「Uberblok」はZFSの複雑な仕組みを実際のソースコードに基づいて視覚的に解説するウェブサイトです",
+        "シアトルを拠点とするスタートアップ企業のEndurance Energyが、世界初となる活火山のエネルギーを海面下で利用する「海底地熱発電」の実証実験を行いました",
+        "発電時間は10秒未満と短かったものの、水中における新たな再生可能エネルギーの利用可能性が実証されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261025-uberblok/",
-      "published": "2026-10-25 09:00"
+      "link": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
+      "published": "2026-10-26 08:00"
     },
     {
-      "id": "587bb42af651",
-      "original_title": "マドンナの声が科学的に年齢不詳であることが判明",
-      "title": "マドンナの声が科学的に年齢不詳であることが判明",
+      "id": "f0cd9ab52415",
+      "original_title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
+      "title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
       "summary": [
-        "歌姫として世界に名をとどろかせたマドンナの声を科学的に分析したところ、通常は加齢に伴って見られる声の変化があまりないことが分かりました",
+        "イギリスのノリッジ在住の植物生物学者であるニック・デノワイエ氏は、植物を遺伝子操作して「地球上のどこにも存在しない花」を作り出している人物です",
+        "そんなデノワイエ氏へのインタビューを、バイオテクノロジー分野のメディアであるAsimov Pressが公開しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
-      "published": "2026-10-25 08:00"
+      "link": "https://gigazine.net/news/20261026-how-to-design-flowers/",
+      "published": "2026-10-26 07:00"
     },
     {
-      "id": "df1dfc8b8e38",
-      "original_title": "AIエージェントにRaspberry Pi CM4用Mini-ITXボードを設計させた2日間 — ERC 0件・486条件の電源解析と、まだ勝てていない電源設計",
-      "title": "AIエージェントにRaspberry Pi CM4用Mini-ITXボードを設計させた2日間 — ERC 0件・486条件の電源解析と、まだ勝てていない電源設計",
+      "id": "ba3f64b0ba89",
+      "original_title": "個人開発でGemini APIとClaude Codeを使い分けるとき、判断基準にしている3つの観点",
+      "title": "個人開発でGemini APIとClaude Codeを使い分けるとき、判断基準にしている3つの観点",
       "summary": [
-        "TL;DR: AIコーディングエージェント（Codex）に、Raspberry Pi CM4用のMini-ITX I/OボードをKiCad CLI経由で2日間設計させてみた",
-        "回路図ERCはエラー0、5V電源レールは486条件のDC解析を通過、配線も始まった",
-        "一方で電源設計は..."
+        "この記事で分かること： Gemini API と Claude Code/API を個人開発で使い分ける 3 つの判断軸 速度・コスト・生成品質のトレードオフの実際 どちらに向いているユースケースの整理 個人開発で AI を使うとき、「Gemini を使うか、Cla..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/tomoya-creater/items/b5b88a2d2e23ead4d5a7",
-      "published": "2026-10-25 09:00"
+      "link": "https://qiita.com/Sidejob/items/1a7a22c5d8ac78698050",
+      "published": "2026-10-26 08:45"
     },
     {
-      "id": "4cc867197109",
-      "original_title": "Claude Codeのクロスセッションメッセージングで「別セッションに仕事を頼む」を実装する",
-      "title": "Claude Codeのクロスセッションメッセージングで「別セッションに仕事を頼む」を実装する",
+      "id": "dc12dc04bc93",
+      "original_title": "AIで攻撃される前提の開発と運用 ~昨今のサイバー攻撃を踏まえた対応〜",
+      "title": "AIで攻撃される前提の開発と運用 ~昨今のサイバー攻撃を踏まえた対応〜",
       "summary": [
-        "はじめに：セッションが増えると「伝言」がボトルネックになる 当社（合同会社ジョインクラス）は、launchdの定期ジョブ17個とClaude Codeで会社の運用をほぼ自動で回しています",
-        "出版・マーケ・開発の仕事をそれぞれ別のClaude Codeセッションに任せているの..."
+        "2026年10月24日時点の公開情報をもとに書いています",
+        "推測が含まれる部分もあります",
+        "はじめに 2026年10月、AIを使ったペネトレーションテストツールが実際の攻撃に使われているという報告が、CrowdStrike、Microsoft、国内のセキュリティ企業..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/joinclass/items/e957bd69e0221a40b170",
-      "published": "2026-10-25 08:30"
+      "link": "https://qiita.com/Regryp/items/62f6b0f2ac9e02411a1e",
+      "published": "2026-10-26 08:43"
     },
     {
-      "id": "85db95a253d4",
-      "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "title": "AI の墓場: 成功しなかったプロジェクトとスタートアップの実行リスト",
+      "id": "b627ab6d45a1",
+      "original_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "title": "Grok、AI が生成した「Odyssey」の最初の 7 分間を公開",
       "summary": [
-        "Apple の度重なる遅延 Siri AI から、OpenAI の厄介な「スーパーアプリ」の立ち上げまで、中止されたり期待を裏切られた AI プロジェクトを紹介します"
+        "芸術性、インスピレーション、人間的な興味を求めていない限り、この映像は問題ないようです"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "2026-10-24 19:00"
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "published": "2026-10-25 21:31"
     },
     {
-      "id": "4bcf85e3798a",
-      "original_title": "Block’s new voice model sounds eerily human",
-      "title": "ブロックの新しい音声モデルは不気味に人間的に聞こえる",
+      "id": "6616d9a1923a",
+      "original_title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "title": "AIはほとんどの企業に「金銭的利益はゼロ」だとアポロの経済学者は語る",
       "summary": [
-        "ブロック氏は、音声モデルはMacBook M4 Max上でローカルに実行できると述べた"
+        "「人工知能に関する巨額の投資と広範な誇大宣伝にもかかわらず、このテクノロジーはテクノロジー以外のアメリカ企業に経済的利益をもたらしていない"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "published": "2026-10-24 16:00"
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published": "2026-10-25 16:57"
     }
   ]
 }
