@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 09:17",
+  "updated_at": "2026-10-25 09:01",
   "total_count": 19,
   "articles": [
     {
       "id": "b78f10d1d310",
       "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "title": "10 億人以上の ChatGPT ユーザーにサービスを提供するためにオンライン ストレージを迅速に拡張する (パート II)",
+      "title": "10 億人を超える ChatGPT ユーザーにサービスを提供するためにオンライン ストレージを迅速に拡張する (パート II)",
       "summary": [
         "OpenAI が信頼性の高いマルチテナンシー、グローバル キャッシュ、Azure Cosmos DB を使用して Habitat を拡張し、ChatGPT の 12 倍高速な読み取りを実現した方法を学びましょう"
       ],
@@ -33,7 +33,7 @@
       "original_title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "title": "OpenAI とポーランドの NASK パートナーが AI の安全性とセキュリティを推進",
       "summary": [
-        "OpenAI とポーランドの NASK は、セーフガードを強化し、より回復力のあるデジタル エコシステムをサポートするために、AI の安全性、セキュリティ、技術研究で提携しています"
+        "OpenAI とポーランドの NASK は、AI の安全性、セキュリティ、技術研究で提携し、安全対策を強化し、より回復力のあるデジタル エコシステムをサポートしています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -114,8 +114,7 @@
       "original_title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
       "title": "Amazon Quick Sight レイヤーマップで GeoJSON を使用してポイントとルートを視覚化する",
       "summary": [
-        "Amazon Quick Sight レイヤーマップを使用すると、都市全体の店舗の場所や空港から出発するフライトなどのポイントとルートをプロットできるようになりました",
-        "地理空間マップは、企業が地域のパフォーマンスや場所など、位置に関連するパターンを特定するのに役立ちます"
+        "With Amazon Quick Sight layer maps, you can now plot points and routes, like store locations across a city or flights leaving an airport. Geospatial maps help businesses spot patterns that are tied to location, like how a region is performing or wher"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -153,117 +152,114 @@
       "published": "2026-10-24 07:28"
     },
     {
-      "id": "be0e89e535d7",
-      "original_title": "【今すぐ読みたい！人気記事】「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法 - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】「なんだよこの.DS_Storeってゴミは」。WindowsユーザーにウザがられるMacの隠しファイル、まとめて楽に消す方法 - PC Watch",
+      "id": "fc182f420b51",
+      "original_title": "【本日みつけたお買い得品】Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円",
+      "title": "【本日みつけたお買い得品】Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円",
       "summary": [
-        "Macユーザーはほとんど意識することはないが、Macからファイルを受け取ったWindowsユーザーの側では、実はウザく感じていることがある",
-        "それは、macOS特有の隠しファイルが一緒にくっついてくることだ"
+        "Amazonで、AnkerのUSB PD対応小型充電器「Anker Prime Wall Charger」が10月21日頃から価格が下がり、現在は値下がり前の7,480円から3,090円安い4,390円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2150895.html",
-      "published": "2026-10-24 06:08"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html",
+      "published": "2026-10-24 09:58"
     },
     {
-      "id": "00f9c077da2a",
-      "original_title": "【今すぐ読みたい！人気記事】古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順 - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順 - PC Watch",
+      "id": "164a22182463",
+      "original_title": "【本日みつけたお買い得品】バッファローの500GBスティックSSDが1,280円引き。Amazonセール",
+      "title": "【本日みつけたお買い得品】バッファローの500GBスティックSSDが1,280円引き。Amazonセール",
       "summary": [
-        "複数のPCやスマートフォン、タブレットなどのデジタル機器からネットワーク経由でアクセスでき、各種ファイルを共有できる「ファイルサーバーPC」",
-        "このファイル共有機能に特化した「NAS」(Network Attached Storage)という機器もあるが、こうしたファイルサーバーPCやNASを作るために最適化された「TrueNAS」というOSがある"
+        "Amazonで、バッファロー製スティック型SSDの500GBモデル「SSD-PUT500U3-B/N」が、10月23日から1,280円引きとなり、1万1,520円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2150894.html",
-      "published": "2026-10-24 06:06"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2150899.html",
+      "published": "2026-10-24 09:27"
     },
     {
-      "id": "535ea4354de1",
-      "original_title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
-      "title": "GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ",
+      "id": "e08eb1c2da4b",
+      "original_title": "ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」",
+      "title": "ファイルシステム「ZFS」の内部構造や動作原理をアニメーションや図解を通じて無料で学べる「Uberblok」",
       "summary": [
-        "お知らせその1",
-        "有料メンバー(https://gigazine.net/club)向けにコメント機能のテストを開始しました",
-        "最新の記事が対象になっているのでトップページ掲載記事末尾をログイン状態で見るとフォームが追加されています"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261024-access/",
-      "published": "2026-10-24 09:00"
-    },
-    {
-      "id": "0d357915f3ee",
-      "original_title": "フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕",
-      "title": "フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕",
-      "summary": [
-        "Epic Gamesが展開する人気オンラインゲーム「フォートナイト」でゲーム内ボイスチャットを使って問題のある発言を行ったとして、アメリカに住む29歳のプレイヤー、エドワード・フリスが逮捕されました",
+        "ZFSは2000年代にSun Microsystemsが開発し、オープンソースの「OpenZFS」として開発が続けられているファイルシステムの一種で、データの破損を検出する仕組みや障害発生時にもデータの整合性を維持する仕組みなどを備え、NASやストレージサーバーなどで利用されています",
+        "「Uberblok」はZFSの複雑な仕組みを実際のソースコードに基づいて視覚的に解説するウェブサイトです",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/",
-      "published": "2026-10-24 08:00"
+      "link": "https://gigazine.net/news/20261025-uberblok/",
+      "published": "2026-10-25 09:00"
     },
     {
-      "id": "7e97ab89eb9d",
-      "original_title": "RakutenAI-2.0-mini-instructをローカル実行してみたら、何だか様子がおかしい",
-      "title": "RakutenAI-2.0-mini-instructをローカル実行してみたら、何だか様子がおかしい",
+      "id": "587bb42af651",
+      "original_title": "マドンナの声が科学的に年齢不詳であることが判明",
+      "title": "マドンナの声が科学的に年齢不詳であることが判明",
       "summary": [
-        "とり天/かぼすです",
-        "少し前、いろいろなAIについて調べていたころ、初めて「Rakuten AI」というAIを知りました",
-        "それからRakuten AI本人にいろいろと質問をしてみたところ、オープンウェイトのモデルが公開されていることを知り、気になったので自分の..."
+        "歌姫として世界に名をとどろかせたマドンナの声を科学的に分析したところ、通常は加齢に伴って見られる声の変化があまりないことが分かりました",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261025-madonna-voice-age/",
+      "published": "2026-10-25 08:00"
+    },
+    {
+      "id": "df1dfc8b8e38",
+      "original_title": "AIエージェントにRaspberry Pi CM4用Mini-ITXボードを設計させた2日間 — ERC 0件・486条件の電源解析と、まだ勝てていない電源設計",
+      "title": "AIエージェントにRaspberry Pi CM4用Mini-ITXボードを設計させた2日間 — ERC 0件・486条件の電源解析と、まだ勝てていない電源設計",
+      "summary": [
+        "TL;DR: AIコーディングエージェント（Codex）に、Raspberry Pi CM4用のMini-ITX I/OボードをKiCad CLI経由で2日間設計させてみた",
+        "回路図ERCはエラー0、5V電源レールは486条件のDC解析を通過、配線も始まった",
+        "一方で電源設計は..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ToritenKabosu/items/a37a83d788281f97281d",
-      "published": "2026-10-24 09:17"
+      "link": "https://qiita.com/tomoya-creater/items/b5b88a2d2e23ead4d5a7",
+      "published": "2026-10-25 09:00"
     },
     {
-      "id": "8380d5ae37cf",
-      "original_title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
-      "title": "Claude Code 2026年10月アップデート——Modsでツール呼び出しをTypeScriptで横取りできるようになった",
+      "id": "4cc867197109",
+      "original_title": "Claude Codeのクロスセッションメッセージングで「別セッションに仕事を頼む」を実装する",
+      "title": "Claude Codeのクロスセッションメッセージングで「別セッションに仕事を頼む」を実装する",
       "summary": [
-        "3行まとめ 2026年10月1日のClaude Code v2.1.287でModsが入った",
-        "プラグインに同梱するJavaScript/TypeScriptの関数で、ツール呼び出し・プロンプト送信・UI描画などのイベントを観察・書き換え・横取りできる",
-        "/diffパネルも..."
+        "はじめに：セッションが増えると「伝言」がボトルネックになる 当社（合同会社ジョインクラス）は、launchdの定期ジョブ17個とClaude Codeで会社の運用をほぼ自動で回しています",
+        "出版・マーケ・開発の仕事をそれぞれ別のClaude Codeセッションに任せているの..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/53b06029b87987642591",
-      "published": "2026-10-24 09:05"
+      "link": "https://qiita.com/joinclass/items/e957bd69e0221a40b170",
+      "published": "2026-10-25 08:30"
     },
     {
-      "id": "86be6bbceb06",
-      "original_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "title": "OpenAIは「重大なリスク」を理由に、今後はライブインターネット上でAIモデルをトレーニングしないと発表",
+      "id": "85db95a253d4",
+      "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "title": "AI の墓場: 成功しなかったプロジェクトとスタートアップの実行リスト",
       "summary": [
-        "OpenAIは、エンジニアの1人がソリューションが機能しないと発言してから数週間後、フロンティアモデルをインターネットから遮断する予定だ"
+        "Apple の度重なる遅延 Siri AI から、OpenAI の厄介な「スーパーアプリ」の立ち上げまで、中止されたり期待を裏切られた AI プロジェクトを紹介します"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "published": "2026-10-23 23:05"
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published": "2026-10-24 19:00"
     },
     {
-      "id": "9964ef462707",
-      "original_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "title": "クリスマスに一番人気のおもちゃは？ Nvidia CEO、愛らしい Microduck ロボットで遊ぶ、20,000 個売れ",
+      "id": "4bcf85e3798a",
+      "original_title": "Block’s new voice model sounds eerily human",
+      "title": "ブロックの新しい音声モデルは不気味に人間的に聞こえる",
       "summary": [
-        "ロボットたちは小さな足を踏み鳴らし、小さなR2-D2音を立てて座ったり、「昼寝」のために倒れたり、音声コマンドに応じてサマーソルトをしたりした"
+        "ブロック氏は、音声モデルはMacBook M4 Max上でローカルに実行できると述べた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "published": "2026-10-23 21:59"
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "published": "2026-10-24 16:00"
     }
   ]
 }
