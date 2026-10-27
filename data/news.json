@@ -1,45 +1,59 @@
 {
-  "updated_at": "2026-10-26 08:51",
+  "updated_at": "2026-10-27 10:11",
   "total_count": 19,
   "articles": [
     {
-      "id": "b78f10d1d310",
-      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "title": "10 億人を超える ChatGPT ユーザーにサービスを提供するためにオンライン ストレージを迅速に拡張する (パート II)",
+      "id": "5af4e3d57583",
+      "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "title": "Greptile は GPT-6 Astra を使用してコードレビューを超えてバグ検出を実現します",
       "summary": [
-        "OpenAI が信頼性の高いマルチテナンシー、グローバル キャッシュ、Azure Cosmos DB を使用して Habitat を拡張し、ChatGPT の 12 倍高速な読み取りを実現した方法を学びましょう"
+        "Greptile が GPT-6 Astra を使用してユーザー ワークフローをテストし、Daybreak を使用してセキュリティを強化し、Codex を使用して手戻りを削減する方法"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "published": "2026-10-23 17:00"
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "published": "2026-10-26 22:00"
     },
     {
-      "id": "30f1663cd33c",
-      "original_title": "Securing our frontier model training environment",
-      "title": "フロンティアモデルのトレーニング環境の確保",
+      "id": "5e9896297d2d",
+      "original_title": "Working with academic communities to build scientific understanding",
+      "title": "学術コミュニティと協力して科学的理解を構築する",
       "summary": [
-        "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+        "OpenAI は、Kakeya 予想、指数関数的時間仮説、量子色力学に関するモデル結果と、研究者がそれらを検証し構築する方法を共有します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "published": "2026-10-23 10:00"
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "published": "2026-10-26 14:30"
     },
     {
-      "id": "7c4fdf997b8b",
-      "original_title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "title": "OpenAI とポーランドの NASK パートナーが AI の安全性とセキュリティを推進",
+      "id": "7bff63c6e289",
+      "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "title": "GPT-6.1 Sol は、CodeRabbit が複雑なコードベース全体のセキュリティを強化するのに役立ちます",
       "summary": [
-        "OpenAI とポーランドの NASK は、AI の安全性、セキュリティ、技術研究で提携し、安全対策を強化し、より回復力のあるデジタル エコシステムをサポートしています"
+        "CodeRabbit は GPT-6.1 Sol を使用して、複雑なコードベース全体のセキュリティ リスクを調査します",
+        "そのセキュリティ エージェントは、開発者が調査結果と提案された修正をレビューするのに役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "published": "2026-10-23 00:00"
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "published": "2026-10-26 13:45"
+    },
+    {
+      "id": "68adc41badb9",
+      "original_title": "Our newest AI Quest: Mapping the human brain",
+      "title": "最新の AI クエスト: 人間の脳のマッピング",
+      "summary": [
+        "神経科学に関する Google の最新 AI Quest レッスン「Polar Peaks」を通じて、AI リテラシーを学びましょう"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "published": "2026-10-26 16:00"
     },
     {
       "id": "8dbc690b9409",
@@ -59,7 +73,7 @@
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
+        "私たちは、開発者、企業、科学者、消費者に、最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -68,203 +82,193 @@
       "published": "2026-10-13 16:00"
     },
     {
-      "id": "cbec8263c511",
-      "original_title": "Introducing Playground: Create and play custom games",
-      "title": "Playground の紹介: カスタム ゲームを作成してプレイする",
+      "id": "6b2021867351",
+      "original_title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "title": "SageMaker SDK v3 によるエッジでのフリート全体のコンピューター ビジョン ライフサイクル",
       "summary": [
-        "Playground は、カスタム ゲームを作成、プレイ、共有できる新しい実験的なゲーム プラットフォームです"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "published": "2026-10-07 12:00"
-    },
-    {
-      "id": "fe1aceba7751",
-      "original_title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "title": "Amazon SageMaker AI でのマルチターン強化学習: 実践ガイド",
-      "summary": [
-        "ほとんどの微調整では、単一のプロンプトに対してより適切な答えを生成するようにモデルを学習します",
-        "エージェントのタスクは異なります",
-        "経費報告書の提出やサポート チケットの優先順位付けを行うエージェントは一連のアクションを実行しますが、各ステップは前に行われた内容によって異なります"
+        "フリート全体のコンピュータ ビジョン モデルのライフサイクル管理は、品質検査の概念実証が成功した瞬間に現れる問題です",
+        "1 つのカメラと 1 つのモデルは正常に動作します",
+        "次に、プラントは、それぞれに複数のカムを備えた 40 行で同じ結果を要求します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
-      "published": "2026-10-23 17:48"
+      "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "published": "2026-10-26 17:56"
     },
     {
-      "id": "002d53e737b9",
-      "original_title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "title": "AWS CDK を使用した SageMaker AI エンドポイントの自動スケーリングのオーケストレーション",
+      "id": "de56c5ae9cf3",
+      "original_title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "title": "AI エージェントのための Groundhog Day: Amazon Bedrock で OpenAI モデルを使用するためのプロンプト キャッシュ パターン",
       "summary": [
-        "Amazon Sagemaker AI リアルタイムエンドポイント設定を更新すると (インスタンスタイプ、インスタンス数、または環境変数を変更すると)、AWS CloudFormation または AWS Cloud Development Kit (AWS CDK) を介したデプロイメントが失敗します",
-        "SageMaker AI リ"
+        "エージェントをスピンオフするたびに、アクションを実行する前にそのライフストーリー全体を再読する必要があります",
+        "同じコンテキストを再度与えなくても記憶させる方法は次のとおりです",
+        "映画「グラウンドホッグ・デイ」では、ビル・マーレーのキャラクターが当時を追体験します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
-      "published": "2026-10-23 16:30"
+      "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "published": "2026-10-26 17:27"
     },
     {
-      "id": "57fac3938274",
-      "original_title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "title": "Amazon Quick Sight レイヤーマップで GeoJSON を使用してポイントとルートを視覚化する",
+      "id": "b1de8f3ecd7b",
+      "original_title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "title": "CDK を使用してマネージド Amazon Bedrock ナレッジベース上にエージェント検索を構築する",
       "summary": [
-        "Amazon Quick Sight レイヤーマップを使用すると、都市全体の店舗の場所や空港から出発するフライトなどのポイントとルートをプロットできるようになりました",
-        "地理空間マップは、企業が地域のパフォーマンスや場所など、位置に関連するパターンを特定するのに役立ちます"
+        "この投稿では、AWS クラウド開発キット (AWS CDK) を使用して、マネージド Amazon Bedrock ナレッジベース上にエンタープライズ エージェントの取得を構築します",
+        "これを構築する価値がある理由を理解するには、通常の検索拡張生成 (RAG) が壊れる部分から始めると役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
-      "published": "2026-10-23 16:24"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+      "published": "2026-10-26 17:15"
     },
     {
-      "id": "2a040c47639f",
-      "original_title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
-      "title": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
+      "id": "3eed3b2c31f6",
+      "original_title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
+      "title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
       "summary": [
-        "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した",
-        "どういうことか"
+        "サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという",
+        "“AIコスト激増時代”における実態に迫る"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
-      "published": "2026-10-24 08:15"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+      "published": "2026-10-27 08:00"
     },
     {
-      "id": "85f2c35ad7be",
-      "original_title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "id": "794ecb256ca8",
+      "original_title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+      "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
       "summary": [
-        "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した",
-        "GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告",
-        "実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む"
+        "人口減少に伴う将来的な人手不足を見据え、職員約7000人の業務効率化に挑む京都府庁",
+        "限られた人員で増え続ける行政ニーズに応えるため、同庁が着目したのが生成AIだ",
+        "しかし、対話型AIを全庁導入しただけでは、現場の業務負担は解消し切れなかった"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
-      "published": "2026-10-24 07:28"
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
+      "published": "2026-10-27 07:00"
     },
     {
-      "id": "95bda01b189a",
-      "original_title": "【ギア推し】足音の方向まで分かるスゴさ。FPSゲーマーにこそ使ってほしい「INZONE Buds」",
-      "title": "【ギア推し】足音の方向まで分かるスゴさ。FPSゲーマーにこそ使ってほしい「INZONE Buds」",
+      "id": "da44ec565e27",
+      "original_title": "NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話",
+      "title": "NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話",
       "summary": [
-        "マルチ対戦ゲーム――特にFPS/TPSなどのシューターでは、“音の聞き取り”が大切だ",
-        "足音や銃声などの環境音を確実に捉え、得られた情報を正確に分析し、いかにプレイングに生かすかが、ゲームの成績に大きく作用するのである",
-        "FPS/TPSゲーマーならば、その重要性を痛感していることだろう"
+        "イマドキのPCに載っているNPU、この1週間で何秒働いたか答えられますか",
+        "タスクマネージャーを開けば、今日もグラフはほぼ0%のままのはず"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/gamingdevice/2149356.html",
-      "published": "2026-10-26 06:16"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
+      "published": "2026-10-27 07:00"
     },
     {
-      "id": "53dc45bf4443",
-      "original_title": "PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
-      "title": "PCが高い。本当に高い。それでもミニPCなら10万円で戦える",
+      "id": "9d0e8565a57c",
+      "original_title": "120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "title": "120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
       "summary": [
-        "誇張ではなく、2年くらい前と比べるとメモリやSSDがウソのように値上がりした",
-        "完成品のPCも、部材コストの高騰に巻き込まれて値段が上がり続けている",
-        "自作PCの組み替えもままならないこうした状況でPCが故障し、買い替えを迫られた場合にはどうするべきなのか"
+        "自宅の次期メインPCとして、ASUSの「ProArt P16」(H7607BA)を購入した",
+        "NVIDIA RTX Spark N1X搭載で、メモリはもちろん128GB",
+        "購入価格は124万8,000円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2149827.html",
-      "published": "2026-10-26 06:12"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
+      "published": "2026-10-27 06:30"
     },
     {
-      "id": "d7fba9dd81d9",
-      "original_title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
-      "title": "海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功",
+      "id": "c14e972ec740",
+      "original_title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
       "summary": [
-        "シアトルを拠点とするスタートアップ企業のEndurance Energyが、世界初となる活火山のエネルギーを海面下で利用する「海底地熱発電」の実証実験を行いました",
-        "発電時間は10秒未満と短かったものの、水中における新たな再生可能エネルギーの利用可能性が実証されています",
+        "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます",
+        "ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261026-underwater-volcano-energy/",
-      "published": "2026-10-26 08:00"
+      "link": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
+      "published": "2026-10-27 07:00"
     },
     {
-      "id": "f0cd9ab52415",
-      "original_title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
-      "title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
+      "id": "62d1e9e1ca81",
+      "original_title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
+      "title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
       "summary": [
-        "イギリスのノリッジ在住の植物生物学者であるニック・デノワイエ氏は、植物を遺伝子操作して「地球上のどこにも存在しない花」を作り出している人物です",
-        "そんなデノワイエ氏へのインタビューを、バイオテクノロジー分野のメディアであるAsimov Pressが公開しています",
+        "GooseはAIの支援を受けて開発された革新的なシステムプログラミング言語です",
+        "「メモリ安全性」「驚異的な実行速度」「コンパクトなメモリ使用量」を両立させることに成功しており、既存のC++やRustといった言語をベンチマークで凌駕する可能性があります",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261026-how-to-design-flowers/",
-      "published": "2026-10-26 07:00"
+      "link": "https://gigazine.net/news/20261027-goose/",
+      "published": "2026-10-27 06:00"
     },
     {
-      "id": "ba3f64b0ba89",
-      "original_title": "個人開発でGemini APIとClaude Codeを使い分けるとき、判断基準にしている3つの観点",
-      "title": "個人開発でGemini APIとClaude Codeを使い分けるとき、判断基準にしている3つの観点",
+      "id": "790fabe84338",
+      "original_title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
+      "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
       "summary": [
-        "この記事で分かること： Gemini API と Claude Code/API を個人開発で使い分ける 3 つの判断軸 速度・コスト・生成品質のトレードオフの実際 どちらに向いているユースケースの整理 個人開発で AI を使うとき、「Gemini を使うか、Cla..."
+        "こんにちは、Claude Codeです",
+        "著者のみのるんが忙しそうだったので、代わりにこの記事を書いています",
+        "Claude認定（Claude Certified）は、Anthropicの公式資格です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Sidejob/items/1a7a22c5d8ac78698050",
-      "published": "2026-10-26 08:45"
+      "link": "https://qiita.com/minorun365/items/59783841e48f5467594f",
+      "published": "2026-10-27 10:03"
     },
     {
-      "id": "dc12dc04bc93",
-      "original_title": "AIで攻撃される前提の開発と運用 ~昨今のサイバー攻撃を踏まえた対応〜",
-      "title": "AIで攻撃される前提の開発と運用 ~昨今のサイバー攻撃を踏まえた対応〜",
+      "id": "523125dc5367",
+      "original_title": "13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった",
+      "title": "13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった",
       "summary": [
-        "2026年10月24日時点の公開情報をもとに書いています",
-        "推測が含まれる部分もあります",
-        "はじめに 2026年10月、AIを使ったペネトレーションテストツールが実際の攻撃に使われているという報告が、CrowdStrike、Microsoft、国内のセキュリティ企業..."
+        "はじめに 13",
+        "これが今回の数字です",
+        "何の13かというと、このZenn/Qiita自動投稿パイプライン(Tamae-OSの一部)が動いている実行環境で、「送信方向の制限用プロキシを最初から完全にバイパスして直接通信する」設定になっている宛先の数です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Regryp/items/62f6b0f2ac9e02411a1e",
-      "published": "2026-10-26 08:43"
+      "link": "https://qiita.com/Hideki_Tamae/items/40701c4ae7f8dc6ce153",
+      "published": "2026-10-27 09:48"
     },
     {
-      "id": "b627ab6d45a1",
-      "original_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "title": "Grok、AI が生成した「Odyssey」の最初の 7 分間を公開",
+      "id": "db2ce0f31d8a",
+      "original_title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "title": "Anthropic の IPO 申請書は、企業顧客を魅了し続けるための戦略を明らかにしています",
       "summary": [
-        "芸術性、インスピレーション、人間的な興味を求めていない限り、この映像は問題ないようです"
+        "Anthropic の S-1 は、10 万ドル以上の顧客の半数以上が現在、Claude Platform と自社アプリの両方を使用していることを示しています",
+        "これは、Amazon を彷彿とさせるクロスセル戦略で、企業顧客の粘着力を高めています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published": "2026-10-25 21:31"
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "published": "2026-10-26 16:49"
     },
     {
-      "id": "6616d9a1923a",
-      "original_title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "title": "AIはほとんどの企業に「金銭的利益はゼロ」だとアポロの経済学者は語る",
+      "id": "3c8809e273ee",
+      "original_title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "title": "SpaceX、アポロと400億ドルのGPU融資契約を締結",
       "summary": [
-        "「人工知能に関する巨額の投資と広範な誇大宣伝にもかかわらず、このテクノロジーはテクノロジー以外のアメリカ企業に経済的利益をもたらしていない"
+        "この資金調達により、SpaceXは従来の債券市場だけに頼らず、急速に拡大するAIの野望に資金を提供する新たな方法を手に入れた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published": "2026-10-25 16:57"
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "published": "2026-10-26 16:46"
     }
   ]
 }
