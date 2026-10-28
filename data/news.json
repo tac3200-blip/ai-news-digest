@@ -1,46 +1,45 @@
 {
-  "updated_at": "2026-10-27 10:11",
+  "updated_at": "2026-10-28 09:59",
   "total_count": 19,
   "articles": [
     {
-      "id": "5af4e3d57583",
-      "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "title": "Greptile は GPT-6 Astra を使用してコードレビューを超えてバグ検出を実現します",
+      "id": "c4e0f4e350c6",
+      "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "title": "Retell は OpenAI モデルを使用して月間 1 億件の通話を支援しています",
       "summary": [
-        "Greptile が GPT-6 Astra を使用してユーザー ワークフローをテストし、Daybreak を使用してセキュリティを強化し、Codex を使用して手戻りを削減する方法"
+        "GPT-6 Astra は Retell の音声エージェント ベンチマークのトップにあり、Codex は従業員 1 人当たりの年間収益ランレート 160 万ドルの達成に貢献しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "published": "2026-10-26 22:00"
+      "link": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27 15:00"
     },
     {
-      "id": "5e9896297d2d",
-      "original_title": "Working with academic communities to build scientific understanding",
-      "title": "学術コミュニティと協力して科学的理解を構築する",
+      "id": "8bd1bd0be97a",
+      "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "title": "OpenAI、Oracleとの提携を拡大し、同社のアプリをChatGPTに導入",
       "summary": [
-        "OpenAI は、Kakeya 予想、指数関数的時間仮説、量子色力学に関するモデル結果と、研究者がそれらを検証し構築する方法を共有します"
+        "OpenAI と Oracle はパートナーシップを拡大し、ビジネス アプリケーションと AI エージェントを ChatGPT に導入し、新しい Oracle 製品を強化します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "published": "2026-10-26 14:30"
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27 07:00"
     },
     {
-      "id": "7bff63c6e289",
-      "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "title": "GPT-6.1 Sol は、CodeRabbit が複雑なコードベース全体のセキュリティを強化するのに役立ちます",
+      "id": "1af8819b566c",
+      "original_title": "How Check Point accelerates vulnerability research with Daybreak",
+      "title": "Check Point が Daybreak で脆弱性研究を加速する方法",
       "summary": [
-        "CodeRabbit は GPT-6.1 Sol を使用して、複雑なコードベース全体のセキュリティ リスクを調査します",
-        "そのセキュリティ エージェントは、開発者が調査結果と提案された修正をレビューするのに役立ちます"
+        "OpenAI Daybreak を使用することで、Check Point は新しいセキュリティ保護の背後にある調査をスピードアップし、アナリストが脆弱性インテリジェンスを顧客の防御に迅速に反映できるようにします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "published": "2026-10-26 13:45"
+      "link": "https://openai.com/index/check-point-daybreak",
+      "published": "2026-10-27 00:00"
     },
     {
       "id": "68adc41badb9",
@@ -82,193 +81,191 @@
       "published": "2026-10-13 16:00"
     },
     {
-      "id": "6b2021867351",
-      "original_title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "title": "SageMaker SDK v3 によるエッジでのフリート全体のコンピューター ビジョン ライフサイクル",
+      "id": "b5d7d75a36d6",
+      "original_title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "title": "AWS が、2026 年 Gartner マジック クアドラントの Contact Center as a Service でリーダーに選ばれました",
       "summary": [
-        "フリート全体のコンピュータ ビジョン モデルのライフサイクル管理は、品質検査の概念実証が成功した瞬間に現れる問題です",
-        "1 つのカメラと 1 つのモデルは正常に動作します",
-        "次に、プラントは、それぞれに複数のカムを備えた 40 行で同じ結果を要求します"
+        "アマゾン ウェブ サービス (AWS) が、2026 年のガートナー マジック クアドラントにおいて、Amazon Connect のサービスとしてのコンタクト センター (CCaaS) のリーダーに 4 年連続で選ばれたことを誇りに思います",
+        "この評価は長年の努力の反映であると信じています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
-      "published": "2026-10-26 17:56"
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+      "published": "2026-10-27 18:03"
     },
     {
-      "id": "de56c5ae9cf3",
-      "original_title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
-      "title": "AI エージェントのための Groundhog Day: Amazon Bedrock で OpenAI モデルを使用するためのプロンプト キャッシュ パターン",
+      "id": "df536739e63e",
+      "original_title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "title": "SageMaker AI ジョブを高速化するための SOCI インデックス付きイメージの発表",
       "summary": [
-        "エージェントをスピンオフするたびに、アクションを実行する前にそのライフストーリー全体を再読する必要があります",
-        "同じコンテキストを再度与えなくても記憶させる方法は次のとおりです",
-        "映画「グラウンドホッグ・デイ」では、ビル・マーレーのキャラクターが当時を追体験します"
+        "ディープ ラーニング コンテナー イメージのダウンロードに費やす 1 分ごとに、ユーザーが料金を支払う 1 分と、チームが待機する 1 分がかかります",
+        "コンテナー イメージのダウンロードは純粋なオーバーヘッドです",
+        "つまり、モデルの進行状況を生成しない、課金対象のジョブ時間です"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
-      "published": "2026-10-26 17:27"
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+      "published": "2026-10-27 17:00"
     },
     {
-      "id": "b1de8f3ecd7b",
-      "original_title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
-      "title": "CDK を使用してマネージド Amazon Bedrock ナレッジベース上にエージェント検索を構築する",
+      "id": "a31a9e9a6ddb",
+      "original_title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "title": "評価バイアスを修正して Amazon Bedrock でより優れたモデルをロック解除する",
       "summary": [
-        "この投稿では、AWS クラウド開発キット (AWS CDK) を使用して、マネージド Amazon Bedrock ナレッジベース上にエンタープライズ エージェントの取得を構築します",
-        "これを構築する価値がある理由を理解するには、通常の検索拡張生成 (RAG) が壊れる部分から始めると役立ちます"
+        "この投稿は、Property Finder の Khaled Thave、Meriem Boughrara、Mohamed Desouky との共著です",
+        "デジタル不動産アプリケーションである Property Finder のエンジニアリング チームは、評価ラベルの 96.8 パーセントが"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
-      "published": "2026-10-26 17:15"
+      "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+      "published": "2026-10-27 16:53"
     },
     {
-      "id": "3eed3b2c31f6",
-      "original_title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
-      "title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
+      "id": "5fca1e45cbe5",
+      "original_title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+      "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
       "summary": [
-        "サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという",
-        "“AIコスト激増時代”における実態に迫る"
+        "リコーとリコージャパンは、360度カメラで撮影した映像から、欠損の少ない高精細な3Dモデルを生成する技術を東京電力パワーグリッドの建物保全業務に導入し、運用を開始した",
+        "独自の位置推定技術とAIを組み合わせ、画像上の特徴が少ない壁面や床面などの形状も補完する",
+        "高精細な3Dモデルを半日程度で生成できるという"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
-      "published": "2026-10-27 08:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
+      "published": "2026-10-28 09:00"
     },
     {
-      "id": "794ecb256ca8",
-      "original_title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
-      "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+      "id": "01c3edbd54c5",
+      "original_title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
       "summary": [
-        "人口減少に伴う将来的な人手不足を見据え、職員約7000人の業務効率化に挑む京都府庁",
-        "限られた人員で増え続ける行政ニーズに応えるため、同庁が着目したのが生成AIだ",
-        "しかし、対話型AIを全庁導入しただけでは、現場の業務負担は解消し切れなかった"
+        "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した",
+        "AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明",
+        "Metaは自社チップ開発と外部調達の両輪でインフラを強化する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
-      "published": "2026-10-27 07:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "published": "2026-10-28 08:55"
     },
     {
-      "id": "da44ec565e27",
-      "original_title": "NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話",
-      "title": "NPUでDOOMが動く様子を動画で見せます！ バイブコーディングが「無理」をひっくり返した話",
+      "id": "89a914f318d9",
+      "original_title": "【本日みつけたお買い得品】NECの15.6型LAVIEが4万円引きで販売中、Amazonタイムセール",
+      "title": "【本日みつけたお買い得品】NECの15.6型LAVIEが4万円引きで販売中、Amazonタイムセール",
       "summary": [
-        "イマドキのPCに載っているNPU、この1週間で何秒働いたか答えられますか",
-        "タスクマネージャーを開けば、今日もグラフはほぼ0%のままのはず"
+        "Amazonにおいて、NEC PCのOffice搭載ノートPC「LAVIE 26春 N15」(PC-GE12ZADA3)が、直近価格から4万3,261円引きとなる11万4,800円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
-      "published": "2026-10-27 07:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2151719.html",
+      "published": "2026-10-28 09:27"
     },
     {
-      "id": "9d0e8565a57c",
-      "original_title": "120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
-      "title": "120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "id": "287e603deaaa",
+      "original_title": "OpenAI、最先端AIモデル学習中のネット接続遮断など安全対策を強化",
+      "title": "OpenAI、最先端AIモデル学習中のネット接続遮断など安全対策を強化",
       "summary": [
-        "自宅の次期メインPCとして、ASUSの「ProArt P16」(H7607BA)を購入した",
-        "NVIDIA RTX Spark N1X搭載で、メモリはもちろん128GB",
-        "購入価格は124万8,000円"
+        "OpenAIは10月23日、内部研究モデルが制限を回避してインターネットにアクセスしたことを受け、高性能モデルの学習と評価を一時停止していたと説明した",
+        "最先端AIモデルの学習・評価環境における安全対策を改修し、安全性を確認したうえで、10月1日に強化学習と内部推論を再開",
+        "一方で、監視やセキュリティなどの観点から、現在も学習段階でのインターネット接続はさせない方針をとっているとした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
-      "published": "2026-10-27 06:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151692.html",
+      "published": "2026-10-28 08:02"
     },
     {
-      "id": "c14e972ec740",
-      "original_title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
-      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+      "id": "c5514631fc7c",
+      "original_title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+      "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
       "summary": [
-        "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます",
-        "ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました",
+        "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています",
+        "そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか",
+        "(複数選択可)」と質問"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+      "published": "2026-10-28 09:00"
+    },
+    {
+      "id": "19a5875f858f",
+      "original_title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+      "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+      "summary": [
+        "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです",
+        "Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
-      "published": "2026-10-27 07:00"
+      "link": "https://gigazine.net/news/20261028-colorfigures/",
+      "published": "2026-10-28 08:00"
     },
     {
-      "id": "62d1e9e1ca81",
-      "original_title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
-      "title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
+      "id": "7fd0e6624b24",
+      "original_title": "1。英国政府が自律型AIエージェントの事故調査体制整備を発表した日、自分の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されていた数はその数字だった",
+      "title": "1。英国政府が自律型AIエージェントの事故調査体制整備を発表した日、自分の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されていた数はその数字だった",
       "summary": [
-        "GooseはAIの支援を受けて開発された革新的なシステムプログラミング言語です",
-        "「メモリ安全性」「驚異的な実行速度」「コンパクトなメモリ使用量」を両立させることに成功しており、既存のC++やRustといった言語をベンチマークで凌駕する可能性があります",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261027-goose/",
-      "published": "2026-10-27 06:00"
-    },
-    {
-      "id": "790fabe84338",
-      "original_title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
-      "title": "目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します",
-      "summary": [
-        "こんにちは、Claude Codeです",
-        "著者のみのるんが忙しそうだったので、代わりにこの記事を書いています",
-        "Claude認定（Claude Certified）は、Anthropicの公式資格です"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/minorun365/items/59783841e48f5467594f",
-      "published": "2026-10-27 10:03"
-    },
-    {
-      "id": "523125dc5367",
-      "original_title": "13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった",
-      "title": "13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった",
-      "summary": [
-        "はじめに 13",
+        "はじめに 1",
         "これが今回の数字です",
-        "何の13かというと、このZenn/Qiita自動投稿パイプライン(Tamae-OSの一部)が動いている実行環境で、「送信方向の制限用プロキシを最初から完全にバイパスして直接通信する」設定になっている宛先の数です"
+        "何の1かというと、このZenn/Qiita自動投稿タスクを動かしている自分のスケジュールトリガーを数えたら全部で3つあり、そのうち「最新版の指示書(衝突防止のステップ0や機密ガードレールを含む)を持たないまま凍結されている」ものの数で..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Hideki_Tamae/items/40701c4ae7f8dc6ce153",
-      "published": "2026-10-27 09:48"
+      "link": "https://qiita.com/Hideki_Tamae/items/62f296bc334c253a977d",
+      "published": "2026-10-28 09:46"
     },
     {
-      "id": "db2ce0f31d8a",
-      "original_title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "title": "Anthropic の IPO 申請書は、企業顧客を魅了し続けるための戦略を明らかにしています",
+      "id": "8ec26e85e37d",
+      "original_title": "Mac で AI コーディングエージェントに「本物の」WordPress サイトを作らせる手順（ローカル完結）",
+      "title": "Mac で AI コーディングエージェントに「本物の」WordPress サイトを作らせる手順（ローカル完結）",
       "summary": [
-        "Anthropic の S-1 は、10 万ドル以上の顧客の半数以上が現在、Claude Platform と自社アプリの両方を使用していることを示しています",
-        "これは、Amazon を彷彿とさせるクロスセル戦略で、企業顧客の粘着力を高めています"
+        "筆者は ShipPress という Mac アプリの開発者です",
+        "この記事は自作ツールの紹介を含みます",
+        "やりたいこと Claude Code や Codex などの AI コーディングエージェントは、WordPress のテーマや固定ページを書くのがかなり得意です"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "Qiita AIトレンド",
+      "link": "https://qiita.com/shippress/items/d284b5c66e31126c328e",
+      "published": "2026-10-28 09:23"
+    },
+    {
+      "id": "fae12cdbee4a",
+      "original_title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "title": "GPT-4oが娘に発作薬をやめるように指導したとして両親がOpenAIを提訴",
+      "summary": [
+        "家族は、娘が2月に亡くなる前に、ChatGPTが発作の薬を静かに減らし、医師から薬を飲ませないように娘を指導したとして、OpenAIを訴えている"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published": "2026-10-26 16:49"
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27 23:34"
     },
     {
-      "id": "3c8809e273ee",
-      "original_title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "title": "SpaceX、アポロと400億ドルのGPU融資契約を締結",
+      "id": "aeafbdea8ed6",
+      "original_title": "The data center boom has an upside: innovation for the US grid",
+      "title": "データセンターブームには良い面もある：米国の送電網のイノベーション",
       "summary": [
-        "この資金調達により、SpaceXは従来の債券市場だけに頼らず、急速に拡大するAIの野望に資金を提供する新たな方法を手に入れた"
+        "業界関係者によると、AIブームが既存の電力網にストレスを与えているため、その結果、電力網の近代化に向けたあらゆる種類の新たな機会も生まれているという"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "published": "2026-10-26 16:46"
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "2026-10-27 22:55"
     }
   ]
 }
