@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-28 09:59",
+  "updated_at": "2026-10-29 10:34",
   "total_count": 19,
   "articles": [
     {
-      "id": "c4e0f4e350c6",
-      "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "title": "Retell は OpenAI モデルを使用して月間 1 億件の通話を支援しています",
+      "id": "125cd6811003",
+      "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "title": "OpenAI と ServiceNow がエンタープライズ ワークフロー全体でパートナーシップを拡大",
       "summary": [
-        "GPT-6 Astra は Retell の音声エージェント ベンチマークのトップにあり、Codex は従業員 1 人当たりの年間収益ランレート 160 万ドルの達成に貢献しています"
+        "OpenAI と ServiceNow はパートナーシップを拡大し、OpenAI モデルとエージェントを ServiceNow に導入し、ServiceNow ワークフローを ChatGPT と Codex に導入します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/retell-ai",
-      "published": "2026-10-27 15:00"
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28 13:15"
     },
     {
-      "id": "8bd1bd0be97a",
-      "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "title": "OpenAI、Oracleとの提携を拡大し、同社のアプリをChatGPTに導入",
+      "id": "5a562e9a04c2",
+      "original_title": "The future of the firm",
+      "title": "会社の将来",
       "summary": [
-        "OpenAI と Oracle はパートナーシップを拡大し、ビジネス アプリケーションと AI エージェントを ChatGPT に導入し、新しい Oracle 製品を強化します"
+        "AI が私たちの下、横、そして私たちの間でどのように組織図に参入するのか"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "published": "2026-10-27 07:00"
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28 10:00"
     },
     {
-      "id": "1af8819b566c",
-      "original_title": "How Check Point accelerates vulnerability research with Daybreak",
-      "title": "Check Point が Daybreak で脆弱性研究を加速する方法",
+      "id": "eee16a5e6dd1",
+      "original_title": "Legora is building the agentic operating system for legal work",
+      "title": "Legora は法務業務用のエージェント オペレーティング システムを構築しています",
       "summary": [
-        "OpenAI Daybreak を使用することで、Check Point は新しいセキュリティ保護の背後にある調査をスピードアップし、アナリストが脆弱性インテリジェンスを顧客の防御に迅速に反映できるようにします"
+        "Legora が OpenAI モデル、ChatGPT、Codex を使用して法的ワークフローを加速し、契約分析を拡張し、弁護士を解放してより価値の高い仕事に集中させている様子をご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/check-point-daybreak",
-      "published": "2026-10-27 00:00"
+      "link": "https://openai.com/index/legora",
+      "published": "2026-10-28 09:30"
     },
     {
       "id": "68adc41badb9",
@@ -81,191 +81,186 @@
       "published": "2026-10-13 16:00"
     },
     {
-      "id": "b5d7d75a36d6",
-      "original_title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "title": "AWS が、2026 年 Gartner マジック クアドラントの Contact Center as a Service でリーダーに選ばれました",
+      "id": "e37312123cfb",
+      "original_title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "title": "Amazon Bedrock AgentCore での Agentic AI プラットフォームの構築",
       "summary": [
-        "アマゾン ウェブ サービス (AWS) が、2026 年のガートナー マジック クアドラントにおいて、Amazon Connect のサービスとしてのコンタクト センター (CCaaS) のリーダーに 4 年連続で選ばれたことを誇りに思います",
-        "この評価は長年の努力の反映であると信じています"
+        "エージェントを運用環境に導入しようとした場合、モデルやツールの使用が妨げになるわけではありません",
+        "主なボトルネックは、安全な環境内で構築できるチームの数、各モデルとツールをどのチームが所有するか、AgentOps などをどのように管理するかなど、周囲のすべてのことです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
-      "published": "2026-10-27 18:03"
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+      "published": "2026-10-28 18:28"
     },
     {
-      "id": "df536739e63e",
-      "original_title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
-      "title": "SageMaker AI ジョブを高速化するための SOCI インデックス付きイメージの発表",
+      "id": "d724d516b4d0",
+      "original_title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "title": "EKS 上の Ray Train DLC と EFA を使用した分散トレーニング",
       "summary": [
-        "ディープ ラーニング コンテナー イメージのダウンロードに費やす 1 分ごとに、ユーザーが料金を支払う 1 分と、チームが待機する 1 分がかかります",
-        "コンテナー イメージのダウンロードは純粋なオーバーヘッドです",
-        "つまり、モデルの進行状況を生成しない、課金対象のジョブ時間です"
+        "通常、PyTorch トレーニングのクラスターへのスケールアウトを妨げるのは、モデル コードではなくコンテナです",
+        "すべてのコンテナには、同じ CUDA ランタイム、それに対してコンパイルされた PyTorch ビルド、NCCL (NVIDIA Collective Communications Library)、Elastic Fa"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
-      "published": "2026-10-27 17:00"
+      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+      "published": "2026-10-28 18:19"
     },
     {
-      "id": "a31a9e9a6ddb",
-      "original_title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
-      "title": "評価バイアスを修正して Amazon Bedrock でより優れたモデルをロック解除する",
+      "id": "51b97e463931",
+      "original_title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "title": "Amazon Nova Act を使用したエージェント的な QA 自動化によるソフトウェア配信の高速化 – パート 3",
       "summary": [
-        "この投稿は、Property Finder の Khaled Thave、Meriem Boughrara、Mohamed Desouky との共著です",
-        "デジタル不動産アプリケーションである Property Finder のエンジニアリング チームは、評価ラベルの 96.8 パーセントが"
+        "組織内で品質保証 (QA) 自動化の導入が進むにつれて、テストの作成とは関係のない新たな問題が発生します",
+        "プラットフォーム チームがテスト自動化を立ち上げ、次に 2 番目のチームが参加を希望し、さらに十数のチームが加わります",
+        "もうすぐ何百もの"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
-      "published": "2026-10-27 16:53"
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+      "published": "2026-10-28 18:12"
     },
     {
-      "id": "5fca1e45cbe5",
-      "original_title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
-      "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+      "id": "09dcf7c70795",
+      "original_title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
+      "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
       "summary": [
-        "リコーとリコージャパンは、360度カメラで撮影した映像から、欠損の少ない高精細な3Dモデルを生成する技術を東京電力パワーグリッドの建物保全業務に導入し、運用を開始した",
-        "独自の位置推定技術とAIを組み合わせ、画像上の特徴が少ない壁面や床面などの形状も補完する",
-        "高精細な3Dモデルを半日程度で生成できるという"
+        "AIエージェントは増やせば増やすほど賢くなるのか",
+        "米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
-      "published": "2026-10-28 09:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+      "published": "2026-10-29 08:00"
     },
     {
-      "id": "01c3edbd54c5",
-      "original_title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "id": "a1161fd3b939",
+      "original_title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
+      "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
       "summary": [
-        "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した",
-        "AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明",
-        "Metaは自社チップ開発と外部調達の両輪でインフラを強化する"
+        "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-      "published": "2026-10-28 08:55"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
+      "published": "2026-10-29 08:00"
     },
     {
-      "id": "89a914f318d9",
-      "original_title": "【本日みつけたお買い得品】NECの15.6型LAVIEが4万円引きで販売中、Amazonタイムセール",
-      "title": "【本日みつけたお買い得品】NECの15.6型LAVIEが4万円引きで販売中、Amazonタイムセール",
+      "id": "bd7f58f95596",
+      "original_title": "【本日みつけたお買い得品】10.1型Androidタブレットが53%オフで1万1,399円に！Amazonで特価",
+      "title": "【本日みつけたお買い得品】10.1型Androidタブレットが53%オフで1万1,399円に！Amazonで特価",
       "summary": [
-        "Amazonにおいて、NEC PCのOffice搭載ノートPC「LAVIE 26春 N15」(PC-GE12ZADA3)が、直近価格から4万3,261円引きとなる11万4,800円で販売されている"
+        "Amazonにおいて、10.1型AndroidタブレットのRebotAi「D101Pro」が1万2,600円引き(53%オフ)で、1万1,399円にて購入可能だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2151719.html",
-      "published": "2026-10-28 09:27"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152091.html",
+      "published": "2026-10-29 10:30"
     },
     {
-      "id": "287e603deaaa",
-      "original_title": "OpenAI、最先端AIモデル学習中のネット接続遮断など安全対策を強化",
-      "title": "OpenAI、最先端AIモデル学習中のネット接続遮断など安全対策を強化",
+      "id": "0c54d8f7e6b7",
+      "original_title": "【本日みつけたお買い得品】約6万2千円オフ！120Hz液晶のCore Ultra 7 355搭載ノートが大幅値引き",
+      "title": "【本日みつけたお買い得品】約6万2千円オフ！120Hz液晶のCore Ultra 7 355搭載ノートが大幅値引き",
       "summary": [
-        "OpenAIは10月23日、内部研究モデルが制限を回避してインターネットにアクセスしたことを受け、高性能モデルの学習と評価を一時停止していたと説明した",
-        "最先端AIモデルの学習・評価環境における安全対策を改修し、安全性を確認したうえで、10月1日に強化学習と内部推論を再開",
-        "一方で、監視やセキュリティなどの観点から、現在も学習段階でのインターネット接続はさせない方針をとっているとした"
+        "Amazonにおいて、14型ノートPCのAcer「Aspire 14 AI」が10月20日の価格から6万2,028円引きで、27万2,772円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2151692.html",
-      "published": "2026-10-28 08:02"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152088.html",
+      "published": "2026-10-29 10:27"
     },
     {
-      "id": "c5514631fc7c",
-      "original_title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
-      "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+      "id": "4429e63140ea",
+      "original_title": "タッチ操作対応のPROLED XDRディスプレイ搭載MacBook Proが2026年11月6日に登場、M5 Pro/Max搭載で価格は49万9800円から",
+      "title": "タッチ操作対応のPROLED XDRディスプレイ搭載MacBook Proが2026年11月6日に登場、M5 Pro/Max搭載で価格は49万9800円から",
       "summary": [
-        "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています",
-        "そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか",
-        "(複数選択可)」と質問"
+        "Appleが2026年10月28日にロサンゼルスで開催したメディア向けイベント「Pro and tell.」で、タッチ操作に対応したMacBook Proを新たに発表しました",
+        "新開発の「PROLED XDRディスプレイ」を採用し、最大2000ニトの輝度や最大120Hzのリフレッシュレートを実現したほか、M5 ProおよびM5 Maxチップを搭載しています",
+        "14インチモデルと16インチモデルが用意され、11月6日に発売されます"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
-      "published": "2026-10-28 09:00"
+      "link": "https://gigazine.net/news/20261029-prooled-xdr-display-macbook-pro/",
+      "published": "2026-10-29 10:02"
     },
     {
-      "id": "19a5875f858f",
-      "original_title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
-      "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+      "id": "9227df2e54a2",
+      "original_title": "末期がんすら寛解できる抗がん剤の「シスプラチン」とは？",
+      "title": "末期がんすら寛解できる抗がん剤の「シスプラチン」とは？",
       "summary": [
-        "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです",
-        "Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます",
+        "チャンネル登録者数2580万人の科学系アニメーション動画を投稿するYouTubeチャンネルのKurzgesagtが、「末期がんを生き延びた方法」という動画を投稿しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261028-colorfigures/",
-      "published": "2026-10-28 08:00"
+      "link": "https://gigazine.net/news/20261029-how-survived-late-stage-cancer/",
+      "published": "2026-10-29 08:00"
     },
     {
-      "id": "7fd0e6624b24",
-      "original_title": "1。英国政府が自律型AIエージェントの事故調査体制整備を発表した日、自分の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されていた数はその数字だった",
-      "title": "1。英国政府が自律型AIエージェントの事故調査体制整備を発表した日、自分の3つの自動投稿トリガーのうち、最新の指示書を持たないまま凍結されていた数はその数字だった",
+      "id": "3e9be59af6de",
+      "original_title": "AIへの指示テストが増えたとき、残す・まとめる・削除する基準",
+      "title": "AIへの指示テストが増えたとき、残す・まとめる・削除する基準",
       "summary": [
-        "はじめに 1",
-        "これが今回の数字です",
-        "何の1かというと、このZenn/Qiita自動投稿タスクを動かしている自分のスケジュールトリガーを数えたら全部で3つあり、そのうち「最新版の指示書(衝突防止のステップ0や機密ガードレールを含む)を持たないまま凍結されている」ものの数で..."
+        "AIへの指示テストが増えたとき、残す・まとめる・削除する基準 AIへの指示を変更するたびにテストケースを追加すると、最初は安心できます",
+        "資料が不足した場合、内容が矛盾した場合、公開承認がない場合、個人情報が混ざった場合",
+        "過去に失敗した入力を残しておけば、同じ問題が戻っ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Hideki_Tamae/items/62f296bc334c253a977d",
-      "published": "2026-10-28 09:46"
+      "link": "https://qiita.com/boraemon2000/items/ba7fa018f20eedac5221",
+      "published": "2026-10-29 10:27"
     },
     {
-      "id": "8ec26e85e37d",
-      "original_title": "Mac で AI コーディングエージェントに「本物の」WordPress サイトを作らせる手順（ローカル完結）",
-      "title": "Mac で AI コーディングエージェントに「本物の」WordPress サイトを作らせる手順（ローカル完結）",
+      "id": "82c6549f1eb8",
+      "original_title": "Devinの料金が“溶ける”瞬間と、溶かさない原則 ― ACUは「時間」でなく「仕事量」で増える",
+      "title": "Devinの料金が“溶ける”瞬間と、溶かさない原則 ― ACUは「時間」でなく「仕事量」で増える",
       "summary": [
-        "筆者は ShipPress という Mac アプリの開発者です",
-        "この記事は自作ツールの紹介を含みます",
-        "やりたいこと Claude Code や Codex などの AI コーディングエージェントは、WordPress のテーマや固定ページを書くのがかなり得意です"
+        "🚀 Devin専門の解説メディア「StartDevin」を運営中",
+        "Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています",
+        "👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/shippress/items/d284b5c66e31126c328e",
-      "published": "2026-10-28 09:23"
+      "link": "https://qiita.com/startdevin/items/eab4f0b47258f51c7d14",
+      "published": "2026-10-29 10:09"
     },
     {
-      "id": "fae12cdbee4a",
-      "original_title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "title": "GPT-4oが娘に発作薬をやめるように指導したとして両親がOpenAIを提訴",
+      "id": "901684338087",
+      "original_title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "title": "Microsoft は Azure の実際の収益をドルで公表しました: 332 億ドル",
       "summary": [
-        "家族は、娘が2月に亡くなる前に、ChatGPTが発作の薬を静かに減らし、医師から薬を飲ませないように娘を指導したとして、OpenAIを訴えている"
+        "MicrosoftはAzureの四半期収益をドル単位で明らかにしたことはない",
+        "しかし、市場最大の競争相手である AWS にどれだけ近づいているかが初めてわかります"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "published": "2026-10-27 23:34"
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "2026-10-28 21:58"
     },
     {
-      "id": "aeafbdea8ed6",
-      "original_title": "The data center boom has an upside: innovation for the US grid",
-      "title": "データセンターブームには良い面もある：米国の送電網のイノベーション",
+      "id": "852cb13c13b6",
+      "original_title": "Google expands AI Search ads globally as core ad growth slows",
+      "title": "中核となる広告の成長が鈍化する中、Google は AI 検索広告を世界的に拡大",
       "summary": [
-        "業界関係者によると、AIブームが既存の電力網にストレスを与えているため、その結果、電力網の近代化に向けたあらゆる種類の新たな機会も生まれているという"
+        "この発表は、売上高が前年同期比25%増の1,276億ドルとなった親会社アルファベットの第3四半期決算報告書と併せて行われた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "published": "2026-10-27 22:55"
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "published": "2026-10-28 21:48"
     }
   ]
 }
