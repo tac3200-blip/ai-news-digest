@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-10-29 10:34",
+  "updated_at": "2026-10-30 10:35",
   "total_count": 19,
   "articles": [
     {
-      "id": "125cd6811003",
-      "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "title": "OpenAI と ServiceNow がエンタープライズ ワークフロー全体でパートナーシップを拡大",
+      "id": "b802c8f010f5",
+      "original_title": "An updated Model Spec for more capable and beneficial AI",
+      "title": "より有能で有益な AI のための更新されたモデル仕様",
       "summary": [
-        "OpenAI と ServiceNow はパートナーシップを拡大し、OpenAI モデルとエージェントを ServiceNow に導入し、ServiceNow ワークフローを ChatGPT と Codex に導入します"
+        "OpenAI の更新されたモデル仕様では、より有能な AI を健全な判断、人間の主体性、人間の意図への忠実さに導くための 5 つの核となる価値観を概説しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "2026-10-28 13:15"
+      "link": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29 17:00"
     },
     {
-      "id": "5a562e9a04c2",
-      "original_title": "The future of the firm",
-      "title": "会社の将来",
+      "id": "fbc4f00ba58a",
+      "original_title": "How we detect frontier model misalignment",
+      "title": "フロンティアモデルの不整合を検出する方法",
       "summary": [
-        "AI が私たちの下、横、そして私たちの間でどのように組織図に参入するのか"
+        "OpenAI は多層監視を使用してフロンティア モデルの調整不良や不正なエージェントの動作を検出し、対応者がインシデントが拡大する前に介入できるようにします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "published": "2026-10-28 10:00"
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29 09:00"
     },
     {
-      "id": "eee16a5e6dd1",
-      "original_title": "Legora is building the agentic operating system for legal work",
-      "title": "Legora は法務業務用のエージェント オペレーティング システムを構築しています",
+      "id": "29945950304d",
+      "original_title": "How Ropes & Gray is developing AI for transactional diligence",
+      "title": "Ropes & Gray はトランザクション デリジェンスのための AI をどのように開発しているか",
       "summary": [
-        "Legora が OpenAI モデル、ChatGPT、Codex を使用して法的ワークフローを加速し、契約分析を拡張し、弁護士を解放してより価値の高い仕事に集中させている様子をご覧ください"
+        "Ropes & Gray は、OpenAI を使用してトランザクション デリジェンスのための AI を開発しています",
+        "弁護士は、クライアントにアドバイスする前に、グループ化された文書、概要、報告書を確認します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/legora",
-      "published": "2026-10-28 09:30"
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29 07:00"
     },
     {
       "id": "68adc41badb9",
@@ -81,186 +82,187 @@
       "published": "2026-10-13 16:00"
     },
     {
-      "id": "e37312123cfb",
-      "original_title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-      "title": "Amazon Bedrock AgentCore での Agentic AI プラットフォームの構築",
+      "id": "6f7792774ee9",
+      "original_title": "How the UK Amazon Quick User Group grew in 2026",
+      "title": "英国の Amazon Quick User Group は 2026 年にどのように成長したか",
       "summary": [
-        "エージェントを運用環境に導入しようとした場合、モデルやツールの使用が妨げになるわけではありません",
-        "主なボトルネックは、安全な環境内で構築できるチームの数、各モデルとツールをどのチームが所有するか、AgentOps などをどのように管理するかなど、周囲のすべてのことです"
+        "Amazon Quick User Group – United Kingdom は、英国の Amazon Quick ユーザーのコミュニティであり、四半期ごとに集まり、知識を交換し、ベストプラクティスを共有し、実践セッションを通じて学び、サービスの使用体験について話し合います"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
-      "published": "2026-10-28 18:28"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "published": "2026-10-29 20:16"
     },
     {
-      "id": "d724d516b4d0",
-      "original_title": "Distributed training with Ray Train DLCs and EFA on EKS",
-      "title": "EKS 上の Ray Train DLC と EFA を使用した分散トレーニング",
+      "id": "63db40484843",
+      "original_title": "Building intent-driven UI testing with Amazon Nova Act",
+      "title": "Amazon Nova Act を使用してインテント駆動の UI テストを構築する",
       "summary": [
-        "通常、PyTorch トレーニングのクラスターへのスケールアウトを妨げるのは、モデル コードではなくコンテナです",
-        "すべてのコンテナには、同じ CUDA ランタイム、それに対してコンパイルされた PyTorch ビルド、NCCL (NVIDIA Collective Communications Library)、Elastic Fa"
+        "データ、テクノロジー、およびマーケティング サービス会社であり、Publicis Groupe の一部である Epsilon は、製品チーム全体でインテント主導の UI テストを拡張するために、Amazon Nova Act に注目しました",
+        "何億もの消費者プロフィールと何千ものブランド"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
-      "published": "2026-10-28 18:19"
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+      "published": "2026-10-29 18:20"
     },
     {
-      "id": "51b97e463931",
-      "original_title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
-      "title": "Amazon Nova Act を使用したエージェント的な QA 自動化によるソフトウェア配信の高速化 – パート 3",
+      "id": "62c7115284ea",
+      "original_title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+      "title": "Kiro を使用して反復可能な PHP から Java への移行エンジンを構築する",
       "summary": [
-        "組織内で品質保証 (QA) 自動化の導入が進むにつれて、テストの作成とは関係のない新たな問題が発生します",
-        "プラットフォーム チームがテスト自動化を立ち上げ、次に 2 番目のチームが参加を希望し、さらに十数のチームが加わります",
-        "もうすぐ何百もの"
+        "チームが成熟した PHP アプリケーションを Java に移行すると、より強力なタイプ セーフ、より広範なライブラリ サポート、より予測可能なスケーリングが得られます",
+        "Laravel、Symfony、または Doctrine を使用して長年にわたって構築された PHP コードベースには、ビジネス ルールが組み込まれています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
-      "published": "2026-10-28 18:12"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
+      "published": "2026-10-29 18:14"
     },
     {
-      "id": "09dcf7c70795",
-      "original_title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
-      "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
+      "id": "6dad413fc329",
+      "original_title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
       "summary": [
-        "AIエージェントは増やせば増やすほど賢くなるのか",
-        "米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する"
+        "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した",
+        "全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定",
+        "一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
-      "published": "2026-10-29 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "published": "2026-10-30 08:24"
     },
     {
-      "id": "a1161fd3b939",
-      "original_title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
-      "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
+      "id": "4c0302b0fc48",
+      "original_title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
+      "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
       "summary": [
-        "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している"
+        "パナソニック ホールディングスでは、2026年4月にグループCAIO（Chief AI Officer）に就任した、執行役員 榊原彰氏が合同取材に応じ、グループ内のAI活用の展望について説明した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
-      "published": "2026-10-29 08:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
+      "published": "2026-10-30 08:00"
     },
     {
-      "id": "bd7f58f95596",
-      "original_title": "【本日みつけたお買い得品】10.1型Androidタブレットが53%オフで1万1,399円に！Amazonで特価",
-      "title": "【本日みつけたお買い得品】10.1型Androidタブレットが53%オフで1万1,399円に！Amazonで特価",
+      "id": "ad31b41df63f",
+      "original_title": "Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開",
+      "title": "Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開",
       "summary": [
-        "Amazonにおいて、10.1型AndroidタブレットのRebotAi「D101Pro」が1万2,600円引き(53%オフ)で、1万1,399円にて購入可能だ"
+        "Baidu(百度)は10月27日、長文ドキュメント解析向けAIモデル「Unlimited OCR 2」をオープンウェイトで公開した",
+        "コードやモデルのウェイト(重み)はGitHubやHugging Face、ModelScopeで無償公開しており、ライセンスはMITライセンス"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152091.html",
-      "published": "2026-10-29 10:30"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
+      "published": "2026-10-30 10:15"
     },
     {
-      "id": "0c54d8f7e6b7",
-      "original_title": "【本日みつけたお買い得品】約6万2千円オフ！120Hz液晶のCore Ultra 7 355搭載ノートが大幅値引き",
-      "title": "【本日みつけたお買い得品】約6万2千円オフ！120Hz液晶のCore Ultra 7 355搭載ノートが大幅値引き",
+      "id": "799e3a45f70b",
+      "original_title": "【本日みつけたお買い得品】Pentium Gold搭載でメモリ16GBミニPCが4万3,199円",
+      "title": "【本日みつけたお買い得品】Pentium Gold搭載でメモリ16GBミニPCが4万3,199円",
       "summary": [
-        "Amazonにおいて、14型ノートPCのAcer「Aspire 14 AI」が10月20日の価格から6万2,028円引きで、27万2,772円にて購入できる"
+        "Amazonにおいて、GMKtecのミニPC「NucBox G3 Ultra」が、直近価格から7,800円引きとなる4万3,199円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152088.html",
-      "published": "2026-10-29 10:27"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152472.html",
+      "published": "2026-10-30 10:01"
     },
     {
-      "id": "4429e63140ea",
-      "original_title": "タッチ操作対応のPROLED XDRディスプレイ搭載MacBook Proが2026年11月6日に登場、M5 Pro/Max搭載で価格は49万9800円から",
-      "title": "タッチ操作対応のPROLED XDRディスプレイ搭載MacBook Proが2026年11月6日に登場、M5 Pro/Max搭載で価格は49万9800円から",
+      "id": "5d34dd9c59fd",
+      "original_title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+      "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
       "summary": [
-        "Appleが2026年10月28日にロサンゼルスで開催したメディア向けイベント「Pro and tell.」で、タッチ操作に対応したMacBook Proを新たに発表しました",
-        "新開発の「PROLED XDRディスプレイ」を採用し、最大2000ニトの輝度や最大120Hzのリフレッシュレートを実現したほか、M5 ProおよびM5 Maxチップを搭載しています",
-        "14インチモデルと16インチモデルが用意され、11月6日に発売されます"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261029-prooled-xdr-display-macbook-pro/",
-      "published": "2026-10-29 10:02"
-    },
-    {
-      "id": "9227df2e54a2",
-      "original_title": "末期がんすら寛解できる抗がん剤の「シスプラチン」とは？",
-      "title": "末期がんすら寛解できる抗がん剤の「シスプラチン」とは？",
-      "summary": [
-        "チャンネル登録者数2580万人の科学系アニメーション動画を投稿するYouTubeチャンネルのKurzgesagtが、「末期がんを生き延びた方法」という動画を投稿しました",
+        "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました",
+        "開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261029-how-survived-late-stage-cancer/",
-      "published": "2026-10-29 08:00"
+      "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
+      "published": "2026-10-30 10:30"
     },
     {
-      "id": "3e9be59af6de",
-      "original_title": "AIへの指示テストが増えたとき、残す・まとめる・削除する基準",
-      "title": "AIへの指示テストが増えたとき、残す・まとめる・削除する基準",
+      "id": "2ebe1938db7f",
+      "original_title": "AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響",
+      "title": "AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響",
       "summary": [
-        "AIへの指示テストが増えたとき、残す・まとめる・削除する基準 AIへの指示を変更するたびにテストケースを追加すると、最初は安心できます",
-        "資料が不足した場合、内容が矛盾した場合、公開承認がない場合、個人情報が混ざった場合",
-        "過去に失敗した入力を残しておけば、同じ問題が戻っ..."
+        "Androidスマートフォンで特殊なSMSを受信するだけで通話機能が停止する脆弱(ぜいじゃく)性「SMS of Death」が報告されました",
+        "攻撃にはユーザーの操作が一切必要なく、通話中の電話が切断されるほか、繰り返し攻撃を受けるとスマートフォンが正常に使えなくなる恐れもあるとのことです",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261030-sms-of-death/",
+      "published": "2026-10-30 10:22"
+    },
+    {
+      "id": "e3085fb5c14d",
+      "original_title": "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法",
+      "title": "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法",
+      "summary": [
+        "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法 AIへの指示を少しずつ改善し、変更のたびにテストも残すようになると、次の問題が出てきます",
+        "あるテストが昨日は合格していたのに、今日の指示では失敗した",
+        "しかし、どの変更で戻ったのか分からな..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/boraemon2000/items/ba7fa018f20eedac5221",
-      "published": "2026-10-29 10:27"
+      "link": "https://qiita.com/boraemon2000/items/55ba2b61ef20e6f644d4",
+      "published": "2026-10-30 09:57"
     },
     {
-      "id": "82c6549f1eb8",
-      "original_title": "Devinの料金が“溶ける”瞬間と、溶かさない原則 ― ACUは「時間」でなく「仕事量」で増える",
-      "title": "Devinの料金が“溶ける”瞬間と、溶かさない原則 ― ACUは「時間」でなく「仕事量」で増える",
+      "id": "4db31a646dd6",
+      "original_title": "0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった",
+      "title": "0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった",
       "summary": [
-        "🚀 Devin専門の解説メディア「StartDevin」を運営中",
-        "Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています",
-        "👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み..."
+        "はじめに 0",
+        "これが今回の数字です",
+        "何の0かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデル(プライマリ1つ・フォールバック2つ、計3スロット)のうち、Anthropic以外の会社名が入っているスロットの数です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/startdevin/items/eab4f0b47258f51c7d14",
-      "published": "2026-10-29 10:09"
+      "link": "https://qiita.com/Hideki_Tamae/items/4c666684c0b3ba0c22d0",
+      "published": "2026-10-30 09:48"
     },
     {
-      "id": "901684338087",
-      "original_title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "title": "Microsoft は Azure の実際の収益をドルで公表しました: 332 億ドル",
+      "id": "9cf28a6693a1",
+      "original_title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "title": "仕事での AI の使用について宗教上の免除を受けるために神を信じる必要はない",
       "summary": [
-        "MicrosoftはAzureの四半期収益をドル単位で明らかにしたことはない",
-        "しかし、市場最大の競争相手である AWS にどれだけ近づいているかが初めてわかります"
+        "ケンタッキー大学の管理者であるデイビッド・ダーマン氏は最近、職場での AI の使用に対する宗教上の免除を獲得しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "published": "2026-10-28 21:58"
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "published": "2026-10-30 01:20"
     },
     {
-      "id": "852cb13c13b6",
-      "original_title": "Google expands AI Search ads globally as core ad growth slows",
-      "title": "中核となる広告の成長が鈍化する中、Google は AI 検索広告を世界的に拡大",
+      "id": "914e8636774b",
+      "original_title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS は 1 兆ドル規模のビジネスになるだろうと Jassy 氏は言います。しかし、まず、多額の費用がかかります。",
       "summary": [
-        "この発表は、売上高が前年同期比25%増の1,276億ドルとなった親会社アルファベットの第3四半期決算報告書と併せて行われた"
+        "アマゾンはAIクラウドコンピューティングの王となり、初の収益1兆ドル企業になることを目指している",
+        "しかし、そのためには設備投資を続けなければならないと同社CEOは木曜日に語った"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "published": "2026-10-28 21:48"
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published": "2026-10-29 23:42"
     }
   ]
 }
