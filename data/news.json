@@ -1,46 +1,45 @@
 {
-  "updated_at": "2026-10-30 10:35",
+  "updated_at": "2026-10-31 10:26",
   "total_count": 19,
   "articles": [
     {
-      "id": "b802c8f010f5",
-      "original_title": "An updated Model Spec for more capable and beneficial AI",
-      "title": "より有能で有益な AI のための更新されたモデル仕様",
+      "id": "abcc87982e78",
+      "original_title": "Making it easier for websites to express AI training preferences",
+      "title": "Web サイトで AI トレーニングの設定を簡単に表現できるようにする",
       "summary": [
-        "OpenAI の更新されたモデル仕様では、より有能な AI を健全な判断、人間の主体性、人間の意図への忠実さに導くための 5 つの核となる価値観を概説しています"
+        "OpenAI は、共有された robots.txt シグナルを尊重して、Web サイト運営者が AI トレーニングの好みを参加プロバイダーに伝えるのを支援します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/updated-model-spec",
-      "published": "2026-10-29 17:00"
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "2026-10-30 09:30"
     },
     {
-      "id": "fbc4f00ba58a",
-      "original_title": "How we detect frontier model misalignment",
-      "title": "フロンティアモデルの不整合を検出する方法",
+      "id": "8f4b745e84a4",
+      "original_title": "Community safety report and new protections for teens",
+      "title": "地域安全報告書と青少年に対する新たな保護",
       "summary": [
-        "OpenAI は多層監視を使用してフロンティア モデルの調整不良や不正なエージェントの動作を検出し、対応者がインシデントが拡大する前に介入できるようにします"
+        "OpenAI は、セーフガードの拡大、早期介入、公共安全報告への新たな取り組みにより、ChatGPT における暴力防止を強化しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "published": "2026-10-29 09:00"
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30 09:00"
     },
     {
-      "id": "29945950304d",
-      "original_title": "How Ropes & Gray is developing AI for transactional diligence",
-      "title": "Ropes & Gray はトランザクション デリジェンスのための AI をどのように開発しているか",
+      "id": "febac9e70739",
+      "original_title": "Fair use benefits everyone",
+      "title": "フェアユースはすべての人に利益をもたらします",
       "summary": [
-        "Ropes & Gray は、OpenAI を使用してトランザクション デリジェンスのための AI を開発しています",
-        "弁護士は、クライアントにアドバイスする前に、グループ化された文書、概要、報告書を確認します"
+        "OpenAI は、フェアユースが AI のトレーニングとイノベーションをどのようにサポートしているかについて、クリエイター、学者、アクセシビリティ擁護者、法律専門家などによる法廷準備書面の抜粋を共有しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published": "2026-10-29 07:00"
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "2026-10-30 00:00"
     },
     {
       "id": "68adc41badb9",
@@ -73,7 +72,7 @@
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "私たちは、開発者、企業、科学者、消費者に、最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
+        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -82,187 +81,189 @@
       "published": "2026-10-13 16:00"
     },
     {
-      "id": "6f7792774ee9",
-      "original_title": "How the UK Amazon Quick User Group grew in 2026",
-      "title": "英国の Amazon Quick User Group は 2026 年にどのように成長したか",
+      "id": "1d312739267f",
+      "original_title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "title": "Amazon Bedrock のコストをエンドツーエンドで管理する: FinOps チームとプラットフォーム チームのためのハンドブック",
       "summary": [
-        "Amazon Quick User Group – United Kingdom は、英国の Amazon Quick ユーザーのコミュニティであり、四半期ごとに集まり、知識を交換し、ベストプラクティスを共有し、実践セッションを通じて学び、サービスの使用体験について話し合います"
+        "生成 AI のコスト管理は、アプリケーションを構築するチームとクラウド支出の責任を負うチームの間で共有される責任です",
+        "多くのチームは、モデルごとのトークン レートを比較し、アプリケーション チームにプロンプ​​トを短縮するよう依頼することから始めます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
-      "published": "2026-10-29 20:16"
+      "link": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+      "published": "2026-10-30 22:42"
     },
     {
-      "id": "63db40484843",
-      "original_title": "Building intent-driven UI testing with Amazon Nova Act",
-      "title": "Amazon Nova Act を使用してインテント駆動の UI テストを構築する",
+      "id": "8919d98f76d7",
+      "original_title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+      "title": "コーディングエージェントが Amazon Bedrock AgentCore ランタイムを使用して Web アプリを構築するときに、Web アプリをライブでプレビューします。",
       "summary": [
-        "データ、テクノロジー、およびマーケティング サービス会社であり、Publicis Groupe の一部である Epsilon は、製品チーム全体でインテント主導の UI テストを拡張するために、Amazon Nova Act に注目しました",
-        "何億もの消費者プロフィールと何千ものブランド"
+        "コーディング エージェントは、ダッシュボード、製品ページ、製品チームが試したいプロトタイプなど、機能する Web アプリを構築できるようになりました",
+        "作業内容を確認する最も早い方法は、アプリを開いて使用し、変更を要求し、結果を確認することです",
+        "このループは次の場合にうまく機能します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
-      "published": "2026-10-29 18:20"
+      "link": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
+      "published": "2026-10-30 21:40"
     },
     {
-      "id": "62c7115284ea",
-      "original_title": "Build a repeatable PHP-to-Java migration engine with Kiro",
-      "title": "Kiro を使用して反復可能な PHP から Java への移行エンジンを構築する",
+      "id": "861c998a0a6b",
+      "original_title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "title": "Worldwide Express が Amazon Bedrock を使用して貨物例外を自動化する方法",
       "summary": [
-        "チームが成熟した PHP アプリケーションを Java に移行すると、より強力なタイプ セーフ、より広範なライブラリ サポート、より予測可能なスケーリングが得られます",
-        "Laravel、Symfony、または Doctrine を使用して長年にわたって構築された PHP コードベースには、ビジネス ルールが組み込まれています"
+        "Worldwide Express (ShipStation Global の一部) は、システム全体で約 50 億ドルの収益、75 社を超えるトラック未満 (LTL) 運送業者、130,000 人を超える顧客という大きなものを構築していました",
+        "しかし、その同じ規模には隠れたコストがありました",
+        "毎月、1ドル"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
-      "published": "2026-10-29 18:14"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+      "published": "2026-10-30 17:32"
     },
     {
-      "id": "6dad413fc329",
-      "original_title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+      "id": "42ccf05284e2",
+      "original_title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
       "summary": [
-        "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した",
-        "全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定",
-        "一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた"
+        "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている",
+        "Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか",
+        "利用状況の可視化から予算の配分まで、3つの機能の中身とは"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "published": "2026-10-30 08:24"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "published": "2026-10-31 09:00"
     },
     {
-      "id": "4c0302b0fc48",
-      "original_title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
-      "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
+      "id": "4d031e5053c0",
+      "original_title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
       "summary": [
-        "パナソニック ホールディングスでは、2026年4月にグループCAIO（Chief AI Officer）に就任した、執行役員 榊原彰氏が合同取材に応じ、グループ内のAI活用の展望について説明した"
+        "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
-      "published": "2026-10-30 08:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "published": "2026-10-31 07:00"
     },
     {
-      "id": "ad31b41df63f",
-      "original_title": "Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開",
-      "title": "Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開",
+      "id": "764ece9bdb6b",
+      "original_title": "【今すぐ読みたい！人気記事】突然の「BitLocker回復キー」要求に慌てないようにする心得～BitLockerの仕組みをちゃんと知る - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】突然の「BitLocker回復キー」要求に慌てないようにする心得～BitLockerの仕組みをちゃんと知る - PC Watch",
       "summary": [
-        "Baidu(百度)は10月27日、長文ドキュメント解析向けAIモデル「Unlimited OCR 2」をオープンウェイトで公開した",
-        "コードやモデルのウェイト(重み)はGitHubやHugging Face、ModelScopeで無償公開しており、ライセンスはMITライセンス"
+        "Windowsのファイルシステム暗号化機能である「BitLocker」は、PCのセキュリティを高めてくれる反面、知らないうちに有効になっていて、突然聞いたこともない「回復キー」が求められPCを起動できなくなる、といったトラブルに遭うケースが少なくない"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
-      "published": "2026-10-30 10:15"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2152803.html",
+      "published": "2026-10-31 06:13"
     },
     {
-      "id": "799e3a45f70b",
-      "original_title": "【本日みつけたお買い得品】Pentium Gold搭載でメモリ16GBミニPCが4万3,199円",
-      "title": "【本日みつけたお買い得品】Pentium Gold搭載でメモリ16GBミニPCが4万3,199円",
+      "id": "e9600a46f3d0",
+      "original_title": "【今すぐ読みたい！人気記事】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？ - PC Watch",
+      "title": "【今すぐ読みたい！人気記事】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？ - PC Watch",
       "summary": [
-        "Amazonにおいて、GMKtecのミニPC「NucBox G3 Ultra」が、直近価格から7,800円引きとなる4万3,199円で販売されている"
+        "海外のホテルは、世界の旅行者向けに対応するため220V～100Vまで使える特殊なコンセントが多い",
+        "でもアメリカの取引先の会議室にあるコンセントは3つ穴が開いた3極タイプだ",
+        "またコーヒーショップで一仕事しようと思っても3極タイプ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152472.html",
-      "published": "2026-10-30 10:01"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2152802.html",
+      "published": "2026-10-31 06:06"
     },
     {
-      "id": "5d34dd9c59fd",
-      "original_title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
-      "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+      "id": "99b26c23c899",
+      "original_title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+      "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
       "summary": [
-        "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました",
-        "開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです",
+        "一口にAIといってもその性能は千差万別です",
+        "中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
-      "published": "2026-10-30 10:30"
+      "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+      "published": "2026-10-31 08:00"
     },
     {
-      "id": "2ebe1938db7f",
-      "original_title": "AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響",
-      "title": "AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響",
+      "id": "880312d8a5e9",
+      "original_title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+      "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
       "summary": [
-        "Androidスマートフォンで特殊なSMSを受信するだけで通話機能が停止する脆弱(ぜいじゃく)性「SMS of Death」が報告されました",
-        "攻撃にはユーザーの操作が一切必要なく、通話中の電話が切断されるほか、繰り返し攻撃を受けるとスマートフォンが正常に使えなくなる恐れもあるとのことです",
+        "Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261030-sms-of-death/",
-      "published": "2026-10-30 10:22"
+      "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/",
+      "published": "2026-10-31 07:00"
     },
     {
-      "id": "e3085fb5c14d",
-      "original_title": "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法",
-      "title": "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法",
+      "id": "0981d5c085d4",
+      "original_title": "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方",
+      "title": "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方",
       "summary": [
-        "AIへの指示Versionとテスト結果を一緒に記録し、失敗が戻った変更を追う方法 AIへの指示を少しずつ改善し、変更のたびにテストも残すようになると、次の問題が出てきます",
-        "あるテストが昨日は合格していたのに、今日の指示では失敗した",
-        "しかし、どの変更で戻ったのか分からな..."
+        "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方 AIへの指示を変更するたびにテストケースを増やしていると、やがて「全部を毎回確認するのは重い」という状態になります",
+        "公開承認がなければ止まるか",
+        "資料が矛盾したら推測しないか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/boraemon2000/items/55ba2b61ef20e6f644d4",
-      "published": "2026-10-30 09:57"
+      "link": "https://qiita.com/boraemon2000/items/d5cd645d47d029567b3b",
+      "published": "2026-10-31 10:16"
     },
     {
-      "id": "4db31a646dd6",
-      "original_title": "0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった",
-      "title": "0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった",
+      "id": "1df66316599c",
+      "original_title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
+      "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
       "summary": [
-        "はじめに 0",
-        "これが今回の数字です",
-        "何の0かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデル(プライマリ1つ・フォールバック2つ、計3スロット)のうち、Anthropic以外の会社名が入っているスロットの数です"
+        "Claude Code の v2.1.311 〜 v2.1.316 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします",
+        "網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします",
+        "1. Opus 4.8 の..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Hideki_Tamae/items/4c666684c0b3ba0c22d0",
-      "published": "2026-10-30 09:48"
+      "link": "https://qiita.com/NaokiIshimura/items/d74fc44a0aa8ee403e21",
+      "published": "2026-10-31 10:10"
     },
     {
-      "id": "9cf28a6693a1",
-      "original_title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "title": "仕事での AI の使用について宗教上の免除を受けるために神を信じる必要はない",
+      "id": "a9dfa010eab0",
+      "original_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "title": "Nvidia、ウェストバージニア州にある Nscale の AI データセンターの連帯保証人を検討中",
       "summary": [
-        "ケンタッキー大学の管理者であるデイビッド・ダーマン氏は最近、職場での AI の使用に対する宗教上の免除を獲得しました"
+        "投資家がAIへの支出に不安を感じているときは、チップを販売するチップメーカーに融資の連帯保証を申し出てもらうとよい"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "published": "2026-10-30 01:20"
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "published": "2026-10-31 01:20"
     },
     {
-      "id": "914e8636774b",
-      "original_title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "title": "AWS は 1 兆ドル規模のビジネスになるだろうと Jassy 氏は言います。しかし、まず、多額の費用がかかります。",
+      "id": "b2991bf3c0ab",
+      "original_title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "title": "プライバシー重視の AI アシスタント、Ollie がサービス終了へ",
       "summary": [
-        "アマゾンはAIクラウドコンピューティングの王となり、初の収益1兆ドル企業になることを目指している",
-        "しかし、そのためには設備投資を続けなければならないと同社CEOは木曜日に語った"
+        "市場にあふれるAIアシスタントの数が増える中、ユーザーのプライバシーを尊重したアシスタント「Ollie」の創設者は、同サービスを1週間以内に閉鎖すると発表した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "published": "2026-10-29 23:42"
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "published": "2026-10-30 22:56"
     }
   ]
 }
