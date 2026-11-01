@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 10:26",
+  "updated_at": "2026-11-01 09:43",
   "total_count": 19,
   "articles": [
     {
@@ -72,7 +72,7 @@
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "title": "Gemini 4 Argon: 最も困難な問題を解決するために構築されました",
       "summary": [
-        "私たちは開発者、企業、科学者、消費者に最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
+        "私たちは、開発者、企業、科学者、消費者に、最新のフロンティア モデルである Gemini 4 Argon へのアクセスを提供しています"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -97,7 +97,7 @@
     {
       "id": "8919d98f76d7",
       "original_title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
-      "title": "コーディングエージェントが Amazon Bedrock AgentCore ランタイムを使用して Web アプリを構築するときに、Web アプリをライブでプレビューします。",
+      "title": "コーディングエージェントが Amazon Bedrock AgentCore ランタイムを使用してウェブアプリを構築するときに、ウェブアプリをライブでプレビューします",
       "summary": [
         "コーディング エージェントは、ダッシュボード、製品ページ、製品チームが試したいプロトタイプなど、機能する Web アプリを構築できるようになりました",
         "作業内容を確認する最も早い方法は、アプリを開いて使用し、変更を要求し、結果を確認することです",
@@ -125,6 +125,21 @@
       "published": "2026-10-30 17:32"
     },
     {
+      "id": "ed3ab806a69d",
+      "original_title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "summary": [
+        "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した",
+        "Anthropicも担当者が個人名義で実装を表明している",
+        "robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "published": "2026-11-01 08:31"
+    },
+    {
       "id": "42ccf05284e2",
       "original_title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
       "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
@@ -138,19 +153,6 @@
       "source_name": "ITmedia AI+",
       "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
       "published": "2026-10-31 09:00"
-    },
-    {
-      "id": "4d031e5053c0",
-      "original_title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
-      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
-      "summary": [
-        "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
-      "published": "2026-10-31 07:00"
     },
     {
       "id": "764ece9bdb6b",
@@ -181,89 +183,88 @@
       "published": "2026-10-31 06:06"
     },
     {
-      "id": "99b26c23c899",
-      "original_title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
-      "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+      "id": "5b3b9fb42b19",
+      "original_title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
+      "title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
       "summary": [
-        "一口にAIといってもその性能は千差万別です",
-        "中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました",
+        "企業や組織における男女平等を実現するには、従業員の採用や評価に責任を持つ管理職や経営陣の意識を変えることが必要不可欠です",
+        "アメリカやデンマークの研究チームが発表した論文では、男性管理職に娘が生まれると女性従業員の雇用が増え、女性の収入も増加する傾向があることが示されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
-      "published": "2026-10-31 08:00"
+      "link": "https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/",
+      "published": "2026-11-01 08:00"
     },
     {
-      "id": "880312d8a5e9",
-      "original_title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
-      "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+      "id": "ea439d67c17a",
+      "original_title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
+      "title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
       "summary": [
-        "Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました",
+        "1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「HITSTER アニソン」が登場したので、実際にプレイしてみました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/",
-      "published": "2026-10-31 07:00"
+      "link": "https://gigazine.net/news/20261031-hitster-anison/",
+      "published": "2026-10-31 20:00"
     },
     {
-      "id": "0981d5c085d4",
-      "original_title": "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方",
-      "title": "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方",
+      "id": "246fd02d86b3",
+      "original_title": "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順",
+      "title": "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順",
       "summary": [
-        "AIへの指示テストを週次で見直すとき、毎回確認するケースと変更時だけ確認するケースの分け方 AIへの指示を変更するたびにテストケースを増やしていると、やがて「全部を毎回確認するのは重い」という状態になります",
-        "公開承認がなければ止まるか",
-        "資料が矛盾したら推測しないか"
+        "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています",
+        "初出: https://dnd-inc.jp/blog/l..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/boraemon2000/items/d5cd645d47d029567b3b",
-      "published": "2026-10-31 10:16"
+      "link": "https://qiita.com/DnD-inc/items/db2eb87387603d2f788b",
+      "published": "2026-11-01 09:24"
     },
     {
-      "id": "1df66316599c",
-      "original_title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
-      "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.311 - v2.1.316）",
+      "id": "84db1f682541",
+      "original_title": "2026年11月におけるGeminiの主なアップデートや新機能の情報を箇条書きでまとめました。",
+      "title": "2026年11月におけるGeminiの主なアップデートや新機能の情報を箇条書きでまとめました。",
       "summary": [
-        "Claude Code の v2.1.311 〜 v2.1.316 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします",
-        "網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします",
-        "1. Opus 4.8 の..."
+        "2026.11 Gemini最新アップデート情報 カスタム「Gem」から「スキル（Skills）」への移行開始 個人向けアカウントで、従来のカスタム機能である「Gem」から新機能「スキル（Skills）」への順次移行がスタート",
+        "チャット履歴の検索機能の強化 ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/NaokiIshimura/items/d74fc44a0aa8ee403e21",
-      "published": "2026-10-31 10:10"
+      "link": "https://qiita.com/papa_story2010/items/2ad052470dc14c388779",
+      "published": "2026-11-01 09:23"
     },
     {
-      "id": "a9dfa010eab0",
-      "original_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "title": "Nvidia、ウェストバージニア州にある Nscale の AI データセンターの連帯保証人を検討中",
+      "id": "96b559b3b7dd",
+      "original_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title": "Apple CEO、同社は「AIのためにAIを出荷するつもりはない」と語る",
       "summary": [
-        "投資家がAIへの支出に不安を感じているときは、チップを販売するチップメーカーに融資の連帯保証を申し出てもらうとよい"
+        "Appleの新CEOは、AI分野における同社の現在の立場を擁護した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "published": "2026-10-31 01:20"
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31 21:41"
     },
     {
-      "id": "b2991bf3c0ab",
-      "original_title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "title": "プライバシー重視の AI アシスタント、Ollie がサービス終了へ",
+      "id": "89cdd9d455bd",
+      "original_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title": "残り 4 日: TechCrunch Founder Summit がより有用な接続を拡大するのにどのように役立つか",
       "summary": [
-        "市場にあふれるAIアシスタントの数が増える中、ユーザーのプライバシーを尊重したアシスタント「Ollie」の創設者は、同サービスを1週間以内に閉鎖すると発表した"
+        "11 月 4 日にボストンの SoWa パワー ステーションで開催される、有意義なネットワーキングの機会、実用的な洞察、アイデアとスタートアップの軌道を変える可能性のあるつながりが詰まった 1 日の準備をしましょう",
+        "すべての価格が上がる前に登録してください"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "published": "2026-10-30 22:56"
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published": "2026-10-31 21:36"
     }
   ]
 }
