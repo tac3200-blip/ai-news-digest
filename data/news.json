@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:43",
+  "updated_at": "2026-11-02 10:18",
   "total_count": 19,
   "articles": [
     {
       "id": "abcc87982e78",
       "original_title": "Making it easier for websites to express AI training preferences",
-      "title": "Web サイトで AI トレーニングの設定を簡単に表現できるようにする",
+      "title": "Making it easier for websites to express AI training preferences",
       "summary": [
         "OpenAI は、共有された robots.txt シグナルを尊重して、Web サイト運営者が AI トレーニングの好みを参加プロバイダーに伝えるのを支援します"
       ],
@@ -114,8 +114,8 @@
       "original_title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
       "title": "Worldwide Express が Amazon Bedrock を使用して貨物例外を自動化する方法",
       "summary": [
-        "Worldwide Express (ShipStation Global の一部) は、システム全体で約 50 億ドルの収益、75 社を超えるトラック未満 (LTL) 運送業者、130,000 人を超える顧客という大きなものを構築していました",
-        "しかし、その同じ規模には隠れたコストがありました",
+        "Worldwide Express (ShipStation Global の一部) は、システム全体で約 50 億ドルの収益、75 社以上のトラック未満 (LTL) 運送業者、130,000 人以上の顧客という大きなものを構築していました",
+        "しかし、その同じスケールには隠れたコストがありました",
         "毎月、1ドル"
       ],
       "group": "official",
@@ -125,146 +125,146 @@
       "published": "2026-10-30 17:32"
     },
     {
-      "id": "ed3ab806a69d",
-      "original_title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "id": "c20caeec48b9",
+      "original_title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
       "summary": [
-        "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した",
-        "Anthropicも担当者が個人名義で実装を表明している",
-        "robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる"
+        "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした",
+        "料金は据え置き",
+        "Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "published": "2026-11-01 08:31"
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "published": "2026-11-02 07:00"
     },
     {
-      "id": "42ccf05284e2",
-      "original_title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
-      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+      "id": "65f0b83ca45c",
+      "original_title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+      "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
       "summary": [
-        "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている",
-        "Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか",
-        "利用状況の可視化から予算の配分まで、3つの機能の中身とは"
+        "4月に開業したフランクフルト空港の第3ターミナル",
+        "IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている",
+        "どのような技術を導入し、「止まらない空港」を実現しようとしているのか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-      "published": "2026-10-31 09:00"
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+      "published": "2026-11-02 07:00"
     },
     {
-      "id": "764ece9bdb6b",
-      "original_title": "【今すぐ読みたい！人気記事】突然の「BitLocker回復キー」要求に慌てないようにする心得～BitLockerの仕組みをちゃんと知る - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】突然の「BitLocker回復キー」要求に慌てないようにする心得～BitLockerの仕組みをちゃんと知る - PC Watch",
+      "id": "fa3565daacf3",
+      "original_title": "【本日みつけたお買い得品】何と11万円超のオフ！レノボのRTX 5060搭載ゲーミングノートが大幅安に",
+      "title": "【本日みつけたお買い得品】何と11万円超のオフ！レノボのRTX 5060搭載ゲーミングノートが大幅安に",
       "summary": [
-        "Windowsのファイルシステム暗号化機能である「BitLocker」は、PCのセキュリティを高めてくれる反面、知らないうちに有効になっていて、突然聞いたこともない「回復キー」が求められPCを起動できなくなる、といったトラブルに遭うケースが少なくない"
+        "Amazonにおいて、15.6型ゲーミングノートPCのレノボ「LOQ Essential 15IRX11」が10月19日の価格から11万4,100円引きで、19万5,700円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2152803.html",
-      "published": "2026-10-31 06:13"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152949.html",
+      "published": "2026-11-02 09:56"
     },
     {
-      "id": "e9600a46f3d0",
-      "original_title": "【今すぐ読みたい！人気記事】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？ - PC Watch",
-      "title": "【今すぐ読みたい！人気記事】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？ - PC Watch",
+      "id": "80450ef61109",
+      "original_title": "【本日みつけたお買い得品】10GbE搭載！拡張カードも内蔵可能なミニPCが5万8千円オフ",
+      "title": "【本日みつけたお買い得品】10GbE搭載！拡張カードも内蔵可能なミニPCが5万8千円オフ",
       "summary": [
-        "海外のホテルは、世界の旅行者向けに対応するため220V～100Vまで使える特殊なコンセントが多い",
-        "でもアメリカの取引先の会議室にあるコンセントは3つ穴が開いた3極タイプだ",
-        "またコーヒーショップで一仕事しようと思っても3極タイプ"
+        "Amazonにおいて、MINISFORUMのミニPC「MS-03」が20%引きクーポンで、5万8,000円引きの23万1,999円にて購入可能となっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2152802.html",
-      "published": "2026-10-31 06:06"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152945.html",
+      "published": "2026-11-02 09:56"
     },
     {
-      "id": "5b3b9fb42b19",
-      "original_title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
-      "title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
+      "id": "3518c4094643",
+      "original_title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
+      "title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
       "summary": [
-        "企業や組織における男女平等を実現するには、従業員の採用や評価に責任を持つ管理職や経営陣の意識を変えることが必要不可欠です",
-        "アメリカやデンマークの研究チームが発表した論文では、男性管理職に娘が生まれると女性従業員の雇用が増え、女性の収入も増加する傾向があることが示されました",
+        "スマホでページを見ていると明らかに度を超えて不快な広告や肝心のページ内容を見せるのを妨害するような広告、さらには広告自体が詐欺的で誤クリックや誤誘導を狙っている悪質な広告が爆増しています",
+        "Googleなどへ通報すると削除できるのですが、いたちごっこになっており、特にスマホでは通報するのも手間がかかりますし、無駄に時間も通信量も奪われてしまいます",
+        "そこで是非とも使いたいのが「AdGuard 広告ブロッカー」、実際に無料で使えるブラウザの広告ブロックから有料版の機能まで順に試してみました"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261102-adguard-adblocking/",
+      "published": "2026-11-02 09:00"
+    },
+    {
+      "id": "e45493f50044",
+      "original_title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+      "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+      "summary": [
+        "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています",
+        "トランスクリプト送信によりトークンの約15～20％が消費されている計算になります",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/",
-      "published": "2026-11-01 08:00"
+      "link": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+      "published": "2026-11-02 07:00"
     },
     {
-      "id": "ea439d67c17a",
-      "original_title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
-      "title": "アニソンヒット曲を聞いて年代を当てる音楽カードゲーム「HITSTER アニソン」プレイレポート",
+      "id": "82a0228e5ba7",
+      "original_title": "4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった",
+      "title": "4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった",
       "summary": [
-        "1960年代から2020年代までのアニソンをどの曲がかかるかわからない状態で聴き、何年の曲だったかタイムライン順に並べていく対戦型音楽カードゲーム「HITSTER アニソン」が登場したので、実際にプレイしてみました",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261031-hitster-anison/",
-      "published": "2026-10-31 20:00"
-    },
-    {
-      "id": "246fd02d86b3",
-      "original_title": "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順",
-      "title": "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順",
-      "summary": [
-        "東京商工リサーチ2026年度上半期、人手不足倒産が過去最多240件｜担当者交代に備えた業務システム化の手順 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています",
-        "初出: https://dnd-inc.jp/blog/l..."
+        "はじめに 4",
+        "これが今回の数字です",
+        "何の4かというと、自分(Claude)がこのセッションで実際にListConnectorsを呼んで確認した結果、「enabledInChat: true(このチャットで使える設定になっている)」なのに「connected: false..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/DnD-inc/items/db2eb87387603d2f788b",
-      "published": "2026-11-01 09:24"
+      "link": "https://qiita.com/Hideki_Tamae/items/650feb3eb8391af59e86",
+      "published": "2026-11-02 09:47"
     },
     {
-      "id": "84db1f682541",
-      "original_title": "2026年11月におけるGeminiの主なアップデートや新機能の情報を箇条書きでまとめました。",
-      "title": "2026年11月におけるGeminiの主なアップデートや新機能の情報を箇条書きでまとめました。",
+      "id": "2b12fa3319b3",
+      "original_title": "STATE OF AI REPORT 2026 (Safety)",
+      "title": "State of AI レポート 2026 (安全性)",
       "summary": [
-        "2026.11 Gemini最新アップデート情報 カスタム「Gem」から「スキル（Skills）」への移行開始 個人向けアカウントで、従来のカスタム機能である「Gem」から新機能「スキル（Skills）」への順次移行がスタート",
-        "チャット履歴の検索機能の強化 ..."
+        "State of AI Report 2026 深堀:Safety セクション 対象:スライド195〜235(約41枚) 読み方:重要度の高い順に並べ、各項目に根拠スライド番号(S.)を付けています",
+        "注意:本セクションの事例は、各社の開示・報道・研究論文の記述をレ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/papa_story2010/items/2ad052470dc14c388779",
-      "published": "2026-11-01 09:23"
+      "link": "https://qiita.com/matumu20/items/d3e4017855d76ac25e90",
+      "published": "2026-11-02 09:28"
     },
     {
-      "id": "96b559b3b7dd",
-      "original_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "title": "Apple CEO、同社は「AIのためにAIを出荷するつもりはない」と語る",
+      "id": "eae3711a56d7",
+      "original_title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "title": "OpenAI、データセンターのブランド名を「AI コンピューティング キャンパス」に変更する可能性がある",
       "summary": [
-        "Appleの新CEOは、AI分野における同社の現在の立場を擁護した"
+        "データセンターは非常に不人気です",
+        "しかし、それらを別の名前で呼んだらどうなるでしょうか"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "published": "2026-10-31 21:41"
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "2026-11-01 21:55"
     },
     {
-      "id": "89cdd9d455bd",
-      "original_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "title": "残り 4 日: TechCrunch Founder Summit がより有用な接続を拡大するのにどのように役立つか",
+      "id": "845a067648bc",
+      "original_title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "title": "AI はテクノロジー企業の CEO の生活を楽にすることができます。他の人はどうですか？",
       "summary": [
-        "11 月 4 日にボストンの SoWa パワー ステーションで開催される、有意義なネットワーキングの機会、実用的な洞察、アイデアとスタートアップの軌道を変える可能性のあるつながりが詰まった 1 日の準備をしましょう",
-        "すべての価格が上がる前に登録してください"
+        "「株式」では、テクノロジー企業の CEO の発言がなぜ非常に音痴に見えるのかについて議論します"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "published": "2026-10-31 21:36"
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "published": "2026-11-01 20:57"
     }
   ]
 }
