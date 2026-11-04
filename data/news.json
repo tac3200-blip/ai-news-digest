@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-11-03 12:19",
+  "updated_at": "2026-11-04 10:55",
   "total_count": 19,
   "articles": [
     {
-      "id": "2ba6ee8dd57f",
-      "original_title": "Scaling Git at OpenAI",
-      "title": "Git と OpenAI のスケーリング",
+      "id": "f1612bc3e667",
+      "original_title": "Accelerating engineering for the physical world",
+      "title": "物理世界のエンジニアリングを加速する",
       "summary": [
-        "OpenAI は、Codex が可能にする開発規模に合わせて設計された Git 互換バックエンドである Pando をどのように構築したか"
+        "ChatGPT と Codex が、エンジニアが物理世界全体で CAD、PCB 設計、シミュレーション、その他のワークフローを加速するのにどのように役立っているかをご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "published": "2026-11-02 15:30"
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "published": "2026-11-03 12:00"
     },
     {
-      "id": "734c661981f5",
-      "original_title": "Introducing the Grid Protectors Program",
-      "title": "グリッドプロテクタープログラムの紹介",
+      "id": "9255c63313dd",
+      "original_title": "How Cisco defends at machine speed with OpenAI",
+      "title": "シスコが OpenAI を使用してマシンスピードで防御する方法",
       "summary": [
-        "OpenAI のグリッド プロテクター プログラムは、電力会社と協力して、将来のコンピューティング キャンパスがグリッドの信頼性をサポートし、消費者の電力コストを保護できるように支援します"
+        "シスコはネットワーク インテリジェンスと OpenAI モデルを組み合わせて、企業のセキュリティを強化します",
+        "より適応的な防御を構築する方法を学びましょう"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "published": "2026-11-02 15:00"
+      "link": "https://openai.com/index/cisco-cyber",
+      "published": "2026-11-03 08:00"
     },
     {
-      "id": "2434f4bad2de",
-      "original_title": "Rewarding defenders with bigger bug bounties",
-      "title": "より大きなバグ報奨金で防御者に報酬を与える",
+      "id": "15eb1cd32498",
+      "original_title": "Heimstaden is changing residential real estate management with AI",
+      "title": "ハイムシュタデンが AI で住宅不動産管理を変える",
       "summary": [
-        "OpenAI は、セキュリティ バグ報奨金の報酬を引き上げ、独立したセキュリティ研究者向けにレポートの品質、忠誠心、および優先キャンペーン ボーナスを導入しています"
+        "Heimstaden が OpenAI の ChatGPT Enterprise と Codex を使用して不動産管理を変革し、コストを削減し、ヨーロッパ全土の従業員に権限を与える方法をご覧ください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02 18:00"
+      "link": "https://openai.com/index/heimstaden",
+      "published": "2026-11-03 08:00"
     },
     {
       "id": "37e0ae746271",
@@ -81,189 +82,189 @@
       "published": "2026-10-21 04:00"
     },
     {
-      "id": "cb8daeb654d9",
-      "original_title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
-      "title": "Crawl4AI を使用して Amazon Bedrock ナレッジベース用の Web コンテンツを準備する",
+      "id": "88e2c2414548",
+      "original_title": "Bring structured and unstructured data together with Amazon Quick",
+      "title": "Amazon Quick を使用して構造化データと非構造化データを統合する",
       "summary": [
-        "検索拡張生成 (RAG) アプリケーションを構築する場合、回答の品質は取り込むデータによって決まります",
-        "Amazon Bedrock Knowledge Bases は、Amazon Bedrock のフルマネージド RAG 機能です",
-        "Amazon Bedrock が管理するナレッジベースを使用すると、"
+        "組織はさまざまな形でデータを収集します",
+        "構造化データはデータベースやスプレッドシートに存在しますが、非構造化データはファイル システム全体に保存されたドキュメント、レポート、ファイルに存在します",
+        "通常、両方を一緒に分析するには、μ 間の切り替えが必要です"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
-      "published": "2026-11-02 17:11"
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
+      "published": "2026-11-03 16:49"
     },
     {
-      "id": "c06a442c858e",
-      "original_title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
-      "title": "Amazon SageMaker AI で知識を蒸留して効率的なエージェントを構築する",
+      "id": "8fd33d8a75a6",
+      "original_title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "title": "ServiceNow による Bedrock AgentCore Gateway とのトークン交換の代理",
       "summary": [
-        "最先端のモデルに基づいてショッピング アシスタントを構築しましたが、それは機能します",
-        "買い物客が「少なくとも 4.5 つ星のあるショップで 20 ドル以下の黒のウエスト バッグ」を要求すると、エージェントはカタログを検索し、候補を調べ、制約をチェックし、"
+        "ユーザーに代わってエンタープライズ API と対話する AI エージェントは、リクエスト チェーン全体でユーザー ID を維持する必要があります",
+        "ID の伝播がないと、API 呼び出しは、開始したユーザーではなくアプリケーション自体としてダウンストリーム サービスに到着します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
-      "published": "2026-11-02 17:01"
+      "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
+      "published": "2026-11-03 16:47"
     },
     {
-      "id": "67bb15c16833",
-      "original_title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "title": "Amazon Nova Multimodal Embeddings と Amazon Bedrock AgentCore を使用したエージェントエンジニアリングインテリジェンス",
+      "id": "d9095cb04d78",
+      "original_title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
+      "title": "Gen Digital が Amazon Bedrock AgentCore Web Search を使用して Norton Revamp の AI キュレート ニュース エンジンを構築した方法",
       "summary": [
-        "認定された航空宇宙コンポーネントが廃止になったり、長いリードタイムに達したりすると、エンジニアは、代替品を文書化する前に、ベンダーのデータシート、インターフェース制御文書 (ICD)、認定記録の仕様を相互参照するのに何日も費やします"
+        "あなたのプロフェッショナルとしての評判は、まずオンラインに反映されます",
+        "採用担当者は折り返し電話する前に LinkedIn をチェックします",
+        "クライアントは、最初のミーティングを予約する前に、あなたのデジタル プレゼンスを確認します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
-      "published": "2026-11-02 17:01"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
+      "published": "2026-11-03 16:43"
     },
     {
-      "id": "26311190b942",
-      "original_title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "id": "861f7fbb1fab",
+      "original_title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
       "summary": [
-        "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した",
-        "第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落",
-        "また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした"
+        "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した",
+        "「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる",
+        "一般ユーザーへの提供は数カ月後の見込みだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
-      "published": "2026-11-03 08:20"
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "published": "2026-11-04 09:37"
     },
     {
-      "id": "71484634e7f8",
-      "original_title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
-      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+      "id": "58c65319cf88",
+      "original_title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
+      "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
       "summary": [
-        "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した",
-        "買収額は約1150億ドル",
-        "AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す"
+        "チームみらいの安野貴博党首は、海外オープンウェイトモデルが国内で稼働する際、意図的に自身の性能を低下させたり、データを漏えいさせたりする可能性があると指摘し、国産モデルの必要性を強調した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
-      "published": "2026-11-03 07:07"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
+      "published": "2026-11-04 09:22"
     },
     {
-      "id": "163d067affb8",
-      "original_title": "【やじうまミニレビュー】550円なのに240W！ワッツの巻取USB-Cケーブルは“やりすぎ”スペック",
-      "title": "【やじうまミニレビュー】550円なのに240W！ワッツの巻取USB-Cケーブルは“やりすぎ”スペック",
+      "id": "0d418a4d2bc7",
+      "original_title": "【本日みつけたお買い得品】レノボのRTX5070搭載ゲーミングノートが9万円引き！AmazonスマイルSale開催中",
+      "title": "【本日みつけたお買い得品】レノボのRTX5070搭載ゲーミングノートが9万円引き！AmazonスマイルSale開催中",
       "summary": [
-        ""
+        "Amazonでは、11月4日から12日にかけてスマイルSaleを開催中だ",
+        "セールにおいて、レノボの17.3型ディスプレイ搭載ゲーミングノートPC「Lenovo LOQ 17IRX10」(83JH00EVJP)が直近価格から9万円引きとなる26万9,800円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2153264.html",
-      "published": "2026-11-03 10:04"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153355.html",
+      "published": "2026-11-04 10:32"
     },
     {
-      "id": "a12d0353aed4",
-      "original_title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
-      "title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
+      "id": "4d70f661c006",
+      "original_title": "【本日みつけたお買い得品】iPad Pro(M5)の11型が約3万6千円引き。13型も約3万3千円オフに！",
+      "title": "【本日みつけたお買い得品】iPad Pro(M5)の11型が約3万6千円引き。13型も約3万3千円オフに！",
       "summary": [
-        "少し前なら会場に収まらないほどの規模だった1PFLOPSのスパコンが、ノートPCに収まる時代がやってきた",
-        "NVIDIAは11月2日、東京都内でPC向けSoC「RTX Spark」の国内発表会を開催",
-        "搭載PCを投入するパートナー各社とともに日本市場での本格展開を表明した"
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ",
+        "Apple「11インチiPad Pro(M5)」(Wi-Fiモデル)は、直近価格からの3万6,432円引きで、36万4,320円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2153206.html",
-      "published": "2026-11-02 18:08"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153336.html",
+      "published": "2026-11-04 10:18"
     },
     {
-      "id": "12cb7e534336",
-      "original_title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
-      "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
+      "id": "1407ca48a83b",
+      "original_title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
+      "title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
       "summary": [
-        "電子回路基板の製造サービスを提供するCircuitHubが、アメリカ国内で中国・深圳の工場よりも約2倍速く回路基板を納品できるという製造システム「The Grid」を2026年10月26日に発表しました",
-        "The Gridは工場全体を1つの巨大なロボットとして動かし、注文ごとに設計が異なる回路基板を自動で製造できます",
+        "2024年春に放送されたTVアニメ『ガールズバンドクライ』の劇場版新作『ガールズバンドクライ THE MOVIE』が2027年5月21日に公開されることになり、ティザービジュアルと特報映像が公開されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261103-circuithub-the-grid/",
-      "published": "2026-11-03 12:00"
+      "link": "https://gigazine.net/news/20261104-girls-band-cry-the-movie/",
+      "published": "2026-11-04 09:15"
     },
     {
-      "id": "0660cf20a6d2",
-      "original_title": "GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】",
-      "title": "GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】",
+      "id": "fb40fbf9e1f1",
+      "original_title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
+      "title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
       "summary": [
-        "GIGAZINEでは電子書籍をAmazonのKindleストアのみで販売してきましたが、この度新たに「Google Play ブックス」と「Apple Books」にもリリースしました",
-        "新しいストア開設を記念して、「Google Play ブックス」と「Apple Books」では電子書籍を90％オフにしているので、ぜひこの機会にゲットしてみてください",
-        "リリースしたばかりの段階のため、実際に購入した書籍に不具合や表示ミスがあった場合は、マンガ感想・意見フォームから問題の指摘にご協力いただけますと"
+        "長年スマートフォンを利用していると、溜まりに溜まった写真のデータや大容量アプリがストレージを圧迫してしまい、泣く泣くしばらく使っていないアプリや写真を削除せざるを得なくなってしまった、という人も少なくないはず",
+        "そんなスマートフォンの容量問題について、GIGAZINEで年に3回実施しているプレゼントアンケートで読者に聞いてみました",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261103-ebook-google-apple/",
-      "published": "2026-11-03 09:00"
+      "link": "https://gigazine.net/news/20261104-gigazine-smartphone-cloud-storage/",
+      "published": "2026-11-04 09:00"
     },
     {
-      "id": "0aea5f0fae44",
-      "original_title": "LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？",
-      "title": "LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？",
+      "id": "91b1a650898e",
+      "original_title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
       "summary": [
-        "この記事の目的 AI チャットボットのようなユースケースの場合、AIに システムプロンプト を渡し、ユーザーからのメッセージ をどう扱うかを指示します",
-        "ユースケースに依存しますが、ユーザーメッセージよりもシステムプロンプトがはるかに大きく支配的なケースが多いのではないか..."
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【未来を解説】AIでエンジニア格差を生み出す質..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/kataoka_se_sionic/items/ee9f293f18b1a1fdc2b4",
-      "published": "2026-11-03 12:04"
+      "link": "https://qiita.com/ennagara128/items/07a86b6446de07491ecc",
+      "published": "2026-11-04 10:30"
     },
     {
-      "id": "24a8f926e7d9",
-      "original_title": "現在の軍事技術でAIの価値を解説",
-      "title": "現在の軍事技術でAIの価値を解説",
+      "id": "da8b42e0dc47",
+      "original_title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
       "summary": [
-        "現代の軍事技術において、人工知能（AI）は単なる「補助ツール」ではなく、戦場のパラダイムを根底から覆す「決定的な勝敗の分かれ道（ゲームチェンジャー）」としての価値を持っています",
-        "情報の収集から意思決定、そして実際の交戦に至るまでのスピードと精度を極限まで高めるAIの核心的..."
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIにありがちな「イマイチなコードコメント」9..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/good59548/items/34849c22eee8a5836216",
-      "published": "2026-11-03 11:47"
+      "link": "https://qiita.com/ennagara128/items/ab995a8b9be2673bba2d",
+      "published": "2026-11-04 10:30"
     },
     {
-      "id": "3b3035503ee3",
-      "original_title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "title": "Apple はサードパーティの AI アプリで何かを行うことで収益を増やそうとするかもしれない",
+      "id": "95ed10f86d8d",
+      "original_title": "Anthropic is working on a system to prove AI models’ identity",
+      "title": "Anthropic は AI モデルの身元を証明するシステムに取り組んでいます",
       "summary": [
-        "Appleは月曜日の夜の決算会見で、サードパーティの「機会」を通じて収益を促進する方法を示唆した"
+        "FlashProveと呼ばれるこのシステムは、AIの応答が本当にそのモデルから来たものであるかどうかを誰でもチェックできるようにする"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "published": "2026-11-03 01:49"
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "published": "2026-11-03 22:41"
     },
     {
-      "id": "122f8a873ff8",
-      "original_title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "title": "Y Combinator の Garry Tan は AI エージェントを多用しており、トークンに年間最大 20 万ドルを費やしています",
+      "id": "ad970b67fdf5",
+      "original_title": "Data centers are turning to old jet engines as the wait for power grows",
+      "title": "電力への期待が高まるにつれ、データセンターは古いジェットエンジンに切り替えつつある",
       "summary": [
-        "Yコンビネーターのギャリー・タンは、自分が「サイバー精神病」に苦しんでおり、AIエージェントと協力することに興奮しすぎてほとんど眠れないことがある、と冗談めかして認めた",
-        "ウォルター・アイザックソンのポッドキャスト「ザ・ビルダーズ」の新しいエピソードで、タンは価格を付けた"
+        "送電網と新しいタービンへのアクセスが何年も待たされるため、データセンター建設業者は、かつては廃棄されていたジェットエンジンという、非効率で環境に優しくない珍しいソリューションに目を向けるようになっています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "published": "2026-11-03 00:35"
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "published": "2026-11-03 22:19"
     }
   ]
 }
