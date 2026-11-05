@@ -1,46 +1,45 @@
 {
-  "updated_at": "2026-11-04 10:55",
+  "updated_at": "2026-11-05 11:00",
   "total_count": 19,
   "articles": [
     {
-      "id": "f1612bc3e667",
-      "original_title": "Accelerating engineering for the physical world",
-      "title": "物理世界のエンジニアリングを加速する",
+      "id": "428c021e5db3",
+      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title": "OpenAI、Pierre Computer Company, Inc.を買収へ",
       "summary": [
-        "ChatGPT と Codex が、エンジニアが物理世界全体で CAD、PCB 設計、シミュレーション、その他のワークフローを加速するのにどのように役立っているかをご覧ください"
+        "OpenAI は Pierre Computer Company を買収し、コードの構築、理解、レビューのための Codex のツールを拡張します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published": "2026-11-03 12:00"
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04 14:30"
     },
     {
-      "id": "9255c63313dd",
-      "original_title": "How Cisco defends at machine speed with OpenAI",
-      "title": "シスコが OpenAI を使用してマシンスピードで防御する方法",
+      "id": "ac60fb1bc3f4",
+      "original_title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "title": "Daybreak Red が AWS GovCloud (米国東部) で利用可能になりました",
       "summary": [
-        "シスコはネットワーク インテリジェンスと OpenAI モデルを組み合わせて、企業のセキュリティを強化します",
-        "より適応的な防御を構築する方法を学びましょう"
+        "Daybreak Red は、承認されたサイバーセキュリティ作業のために Amazon Bedrock を通じて AWS GovCloud (米国東部) の承認された顧客に GPT-5.6 Cyber​​ を提供します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03 08:00"
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04 07:00"
     },
     {
-      "id": "15eb1cd32498",
-      "original_title": "Heimstaden is changing residential real estate management with AI",
-      "title": "ハイムシュタデンが AI で住宅不動産管理を変える",
+      "id": "fb8d7253604d",
+      "original_title": "A thousand fewer paths to root",
+      "title": "ルートへのパスが 1,000 個減少",
       "summary": [
-        "Heimstaden が OpenAI の ChatGPT Enterprise と Codex を使用して不動産管理を変革し、コストを削減し、ヨーロッパ全土の従業員に権限を与える方法をご覧ください"
+        "OpenAI は、Linux カーネル内の 948 個のローカル権限昇格の脆弱性を発見、検証し、パッチを生成する自律パイプラインを構築しました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/heimstaden",
-      "published": "2026-11-03 08:00"
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published": "2026-11-04 08:00"
     },
     {
       "id": "37e0ae746271",
@@ -82,189 +81,186 @@
       "published": "2026-10-21 04:00"
     },
     {
-      "id": "88e2c2414548",
-      "original_title": "Bring structured and unstructured data together with Amazon Quick",
-      "title": "Amazon Quick を使用して構造化データと非構造化データを統合する",
+      "id": "994717f8d2be",
+      "original_title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "title": "Amazon Bedrock AgentCore 評価で意思決定モデルを使用する",
       "summary": [
-        "組織はさまざまな形でデータを収集します",
-        "構造化データはデータベースやスプレッドシートに存在しますが、非構造化データはファイル システム全体に保存されたドキュメント、レポート、ファイルに存在します",
-        "通常、両方を一緒に分析するには、μ 間の切り替えが必要です"
+        "エージェントを評価するときに尋ねる質問の中には、範囲が狭く、繰り返し可能なものもあります",
+        "この対応は方針に沿ったものでしたか",
+        "このツール呼び出しは承認しても安全ですか"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
-      "published": "2026-11-03 16:49"
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+      "published": "2026-11-04 18:46"
     },
     {
-      "id": "8fd33d8a75a6",
-      "original_title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "title": "ServiceNow による Bedrock AgentCore Gateway とのトークン交換の代理",
+      "id": "61bd2fe9f8df",
+      "original_title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "title": "Amazon Quick でのスマートな承認: 重要な場合は人間による監視",
       "summary": [
-        "ユーザーに代わってエンタープライズ API と対話する AI エージェントは、リクエスト チェーン全体でユーザー ID を維持する必要があります",
-        "ID の伝播がないと、API 呼び出しは、開始したユーザーではなくアプリケーション自体としてダウンストリーム サービスに到着します"
+        "AI エージェントがより多くの仕事を担う中、セキュリティ リーダーは人間の監視をどのように維持すべきでしょうか",
+        "権限によってエージェントが実行できるアクションが決まりますが、許可されたアクションでも個人の判断が保証される場合があります",
+        "すべてのステップで承認を求めるのは次のように思えるかもしれません"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
-      "published": "2026-11-03 16:47"
+      "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+      "published": "2026-11-04 16:33"
     },
     {
-      "id": "d9095cb04d78",
-      "original_title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "title": "Gen Digital が Amazon Bedrock AgentCore Web Search を使用して Norton Revamp の AI キュレート ニュース エンジンを構築した方法",
+      "id": "601c09bec22f",
+      "original_title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "title": "実稼働 AI エージェントの 4 つのコンテキスト エンジニアリング: Deep Insight がそれらを実際のコードに適用する方法",
       "summary": [
-        "あなたのプロフェッショナルとしての評判は、まずオンラインに反映されます",
-        "採用担当者は折り返し電話する前に LinkedIn をチェックします",
-        "クライアントは、最初のミーティングを予約する前に、あなたのデジタル プレゼンスを確認します"
+        "実稼働 AI エージェントがデータ分析やレポート生成などのタスクを処理する場合、コンテキスト管理が大きなボトルネックになる可能性があります",
+        "200,000 トークンのウィンドウは寛大に思えますが、実際のタスクが数分でそのほとんどを使い切ってしまいます",
+        "データ分析とr"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
-      "published": "2026-11-03 16:43"
+      "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+      "published": "2026-11-04 16:30"
     },
     {
-      "id": "861f7fbb1fab",
-      "original_title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
-      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "id": "9e8d8a031560",
+      "original_title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+      "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
       "summary": [
-        "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した",
-        "「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる",
-        "一般ユーザーへの提供は数カ月後の見込みだ"
+        ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-      "published": "2026-11-04 09:37"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+      "published": "2026-11-05 09:58"
     },
     {
-      "id": "58c65319cf88",
-      "original_title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
-      "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
+      "id": "db95a4703974",
+      "original_title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+      "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
       "summary": [
-        "チームみらいの安野貴博党首は、海外オープンウェイトモデルが国内で稼働する際、意図的に自身の性能を低下させたり、データを漏えいさせたりする可能性があると指摘し、国産モデルの必要性を強調した"
+        "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した",
+        "設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
-      "published": "2026-11-04 09:22"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
+      "published": "2026-11-05 09:00"
     },
     {
-      "id": "0d418a4d2bc7",
-      "original_title": "【本日みつけたお買い得品】レノボのRTX5070搭載ゲーミングノートが9万円引き！AmazonスマイルSale開催中",
-      "title": "【本日みつけたお買い得品】レノボのRTX5070搭載ゲーミングノートが9万円引き！AmazonスマイルSale開催中",
-      "summary": [
-        "Amazonでは、11月4日から12日にかけてスマイルSaleを開催中だ",
-        "セールにおいて、レノボの17.3型ディスプレイ搭載ゲーミングノートPC「Lenovo LOQ 17IRX10」(83JH00EVJP)が直近価格から9万円引きとなる26万9,800円で販売されている"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153355.html",
-      "published": "2026-11-04 10:32"
-    },
-    {
-      "id": "4d70f661c006",
-      "original_title": "【本日みつけたお買い得品】iPad Pro(M5)の11型が約3万6千円引き。13型も約3万3千円オフに！",
-      "title": "【本日みつけたお買い得品】iPad Pro(M5)の11型が約3万6千円引き。13型も約3万3千円オフに！",
+      "id": "6801ac9c0772",
+      "original_title": "【本日みつけたお買い得品】バッファローの防塵防滴ポータブルSSD 1TBが1万820円引き",
+      "title": "【本日みつけたお買い得品】バッファローの防塵防滴ポータブルSSD 1TBが1万820円引き",
       "summary": [
         "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ",
-        "Apple「11インチiPad Pro(M5)」(Wi-Fiモデル)は、直近価格からの3万6,432円引きで、36万4,320円にて購入できる"
+        "ポータブルSSDのバッファロー「SSD-PHPA/N」シリーズは、直近価格からの値引きで、500GB版が8,160円引きの3万2,640円、1TB版が1万820円引きの3万9,980円、2TB版が3万1,800円引きの12万7,200円、4TB版が6万3,760円引きの25万5,040円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153336.html",
-      "published": "2026-11-04 10:18"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153802.html",
+      "published": "2026-11-05 10:43"
     },
     {
-      "id": "1407ca48a83b",
-      "original_title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
-      "title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
+      "id": "45a07f727847",
+      "original_title": "【本日みつけたお買い得品】ASUSのRTX 5070搭載ゲーミングノートが5万円オフ。約13万5千円引きのモデルも！",
+      "title": "【本日みつけたお買い得品】ASUSのRTX 5070搭載ゲーミングノートが5万円オフ。約13万5千円引きのモデルも！",
       "summary": [
-        "2024年春に放送されたTVアニメ『ガールズバンドクライ』の劇場版新作『ガールズバンドクライ THE MOVIE』が2027年5月21日に公開されることになり、ティザービジュアルと特報映像が公開されました",
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している",
+        "16型ゲーミングノートPCのASUS「TUF Gaming A16 FA608UP」は、10月31日の価格から5万円引きで、27万9,800円にて購入可能だ"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "PC Watch (AI)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153783.html",
+      "published": "2026-11-05 10:23"
+    },
+    {
+      "id": "84845fd76eba",
+      "original_title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
+      "title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
+      "summary": [
+        "2026年11月19日発売の「グランド・セフト・オートVI(GTA6)」が、予約注文だけで7億5000万ドル(約1186億円)以上を売り上げていることが明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261104-girls-band-cry-the-movie/",
-      "published": "2026-11-04 09:15"
+      "link": "https://gigazine.net/news/20261105-gta-6-over-750-million-preorders/",
+      "published": "2026-11-05 10:29"
     },
     {
-      "id": "fb40fbf9e1f1",
-      "original_title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
-      "title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
+      "id": "3a8eb5907bfe",
+      "original_title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
+      "title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
       "summary": [
-        "長年スマートフォンを利用していると、溜まりに溜まった写真のデータや大容量アプリがストレージを圧迫してしまい、泣く泣くしばらく使っていないアプリや写真を削除せざるを得なくなってしまった、という人も少なくないはず",
-        "そんなスマートフォンの容量問題について、GIGAZINEで年に3回実施しているプレゼントアンケートで読者に聞いてみました",
+        "最初は小さな球を転がすところからスタートし、だんだん落ちている物体を吸収して巨大にしていくアクションゲーム「塊魂」のノリを、世界最大の美術館・メトロポリタン美術館の収蔵品でできる「Katamri Met」を遊んでみました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261104-gigazine-smartphone-cloud-storage/",
-      "published": "2026-11-04 09:00"
+      "link": "https://gigazine.net/news/20261105-katamari-met/",
+      "published": "2026-11-05 08:00"
     },
     {
-      "id": "91b1a650898e",
-      "original_title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "id": "66dd8fcbeefb",
+      "original_title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
+      "title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
       "summary": [
-        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
-        "通勤中などにながら聴きしよう",
-        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【未来を解説】AIでエンジニア格差を生み出す質..."
+        "はじめに ここではOracle AI DatabaseのJSONデータについて(3)として JSON Collection Table を解説します",
+        "これは Oracle AI Database が 23c(23ai) でリリースされた機能で、純粋に JSON ドキュメン..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ennagara128/items/07a86b6446de07491ecc",
-      "published": "2026-11-04 10:30"
+      "link": "https://qiita.com/TDM26587/items/ce1dd2eb97512221dc48",
+      "published": "2026-11-05 10:36"
     },
     {
-      "id": "da8b42e0dc47",
-      "original_title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "id": "0cfc9f58ad66",
+      "original_title": "Oracle AI Database 26ai の JSONについて(2) – JSON Collection View",
+      "title": "Oracle AI Database 26ai の JSONについて(2) – JSON Collection View",
       "summary": [
-        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
-        "通勤中などにながら聴きしよう",
-        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIにありがちな「イマイチなコードコメント」9..."
+        "はじめに ここでは Oracle AI DatabaseのJSONデータについて(2) として JSON Collection View を解説します",
+        "これは、非二面性コレクション・ビューとも言われるもので、更新はできませんが、JSON文書を基礎となるリレーショナル・デー..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ennagara128/items/ab995a8b9be2673bba2d",
-      "published": "2026-11-04 10:30"
+      "link": "https://qiita.com/TDM26587/items/e595ee719e3c112c7941",
+      "published": "2026-11-05 10:33"
     },
     {
-      "id": "95ed10f86d8d",
-      "original_title": "Anthropic is working on a system to prove AI models’ identity",
-      "title": "Anthropic は AI モデルの身元を証明するシステムに取り組んでいます",
+      "id": "be97eb614666",
+      "original_title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "title": "Appleが社内AI利用の予算を削減していると報じられている",
       "summary": [
-        "FlashProveと呼ばれるこのシステムは、AIの応答が本当にそのモデルから来たものであるかどうかを誰でもチェックできるようにする"
+        "同社はエンジニアリングチームのAIへの支出額を大幅に削減すると言われている"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "published": "2026-11-03 22:41"
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "published": "2026-11-05 01:26"
     },
     {
-      "id": "ad970b67fdf5",
-      "original_title": "Data centers are turning to old jet engines as the wait for power grows",
-      "title": "電力への期待が高まるにつれ、データセンターは古いジェットエンジンに切り替えつつある",
+      "id": "79dd34cf957c",
+      "original_title": "After the midterms, a bigger clash over data centers could be coming",
+      "title": "中間選挙後には、データセンターを巡るさらに大きな衝突が起こる可能性がある",
       "summary": [
-        "送電網と新しいタービンへのアクセスが何年も待たされるため、データセンター建設業者は、かつては廃棄されていたジェットエンジンという、非効率で環境に優しくない珍しいソリューションに目を向けるようになっています"
+        "データセンター反対派は火曜日の中間選挙で党派を越えた"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "published": "2026-11-03 22:19"
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "published": "2026-11-05 01:02"
     }
   ]
 }
