@@ -1,45 +1,59 @@
 {
-  "updated_at": "2026-11-05 11:00",
+  "updated_at": "2026-11-06 11:00",
   "total_count": 19,
   "articles": [
     {
-      "id": "428c021e5db3",
-      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "title": "OpenAI、Pierre Computer Company, Inc.を買収へ",
+      "id": "be525e58224c",
+      "original_title": "Cult.fit builds operational muscle with Codex",
+      "title": "Cult.fit は Codex を使用して操作力を強化します",
       "summary": [
-        "OpenAI は Pierre Computer Company を買収し、コードの構築、理解、レビューのための Codex のツールを拡張します"
+        "Cult.fit は Codex を使用して、さまざまな部門のチームがツールを構築し、より迅速に作業を進め、仕事のやり方を変えるのを支援しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/openai-to-acquire-pierre",
-      "published": "2026-11-04 14:30"
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05 20:00"
     },
     {
-      "id": "ac60fb1bc3f4",
-      "original_title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "title": "Daybreak Red が AWS GovCloud (米国東部) で利用可能になりました",
+      "id": "f88c03428df4",
+      "original_title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "title": "GPT‑6 サイバー: 連携したサイバーセキュリティ エージェントの最前線を前進させる",
       "summary": [
-        "Daybreak Red は、承認されたサイバーセキュリティ作業のために Amazon Bedrock を通じて AWS GovCloud (米国東部) の承認された顧客に GPT-5.6 Cyber​​ を提供します"
+        "GPT‑6 Cyber​​ は、悪用可能な脆弱性を発見し修正を開発するための OpenAI のサイバーセキュリティ モデルであり、許可された範囲内に収まるように訓練されています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "published": "2026-11-04 07:00"
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "published": "2026-11-05 09:00"
     },
     {
-      "id": "fb8d7253604d",
-      "original_title": "A thousand fewer paths to root",
-      "title": "ルートへのパスが 1,000 個減少",
+      "id": "8cbe8add4f1f",
+      "original_title": "Merge builds product and business tools with OpenAI technology",
+      "title": "Merge は OpenAI テクノロジーを使用して製品とビジネス ツールを構築します",
       "summary": [
-        "OpenAI は、Linux カーネル内の 948 個のローカル権限昇格の脆弱性を発見、検証し、パッチを生成する自律パイプラインを構築しました"
+        "Merge は GPT-6 Astra、ChatGPT、Codex を使用して製品コードをレビューし、マーケティングをサポートします",
+        "また、同社のチームは AI を利用して役員ディナーを計画し、販売最新情報を準備しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "published": "2026-11-04 08:00"
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "published": "2026-11-05 08:00"
+    },
+    {
+      "id": "9d1584085473",
+      "original_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "title": "Gemini Omni 1.2 Flash: 長いクリップで高速かつコスト効率が高い",
+      "summary": [
+        "Gemini Omni 1.2 Flash は、ネイティブ 15 秒ビデオの生成と編集、より強力な一貫性、および 30% の低価格を実現します"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "published": "2026-11-05 17:00"
     },
     {
       "id": "37e0ae746271",
@@ -68,24 +82,41 @@
       "published": "2026-10-26 16:00"
     },
     {
-      "id": "8dbc690b9409",
-      "original_title": "Southeast Asia’s digital economy to hit $368 billion",
-      "title": "東南アジアのデジタル経済は3,680億ドルに達する",
+      "id": "04ede28236f9",
+      "original_title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "title": "Amazon Bedrock AgentCore で Web Answer の使用を開始する",
       "summary": [
-        "AI の普及により、東南アジアのデジタル経済は 2026 年に 3,680 億ドル、2035 年までに 1 兆ドルに達すると予測されています"
+        "本日、Amazon Bedrock AgentCore での Web Answer の一般提供を発表します",
+        "Web Answer を使用すると、エージェント ビルダーは 1 回のツール呼び出しで、自然言語の質問に対するソースが引用された合成された回答を得ることができます",
+        "彼らはもはや検索を構築しません、"
       ],
       "group": "official",
       "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "published": "2026-10-21 04:00"
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+      "published": "2026-11-05 21:04"
+    },
+    {
+      "id": "74cf39a4b7e7",
+      "original_title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "title": "Amazon Marketplace が Amazon SageMaker AI を使用してコンテンツの品質を評価する方法",
+      "summary": [
+        "A+ コンテンツは、Amazon 商品詳細ページのリッチメディア ウィジェットです",
+        "ブランドは視覚的な資産を通じて独自の製品とブランドの価値を伝え、顧客が十分な情報に基づいて購入を決定できるようにします",
+        "高品質の A+ コンテンツを使用する販売パートナーは、"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+      "published": "2026-11-05 18:06"
     },
     {
       "id": "994717f8d2be",
       "original_title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
       "title": "Amazon Bedrock AgentCore 評価で意思決定モデルを使用する",
       "summary": [
-        "エージェントを評価するときに尋ねる質問の中には、範囲が狭く、繰り返し可能なものもあります",
+        "エージェントを評価する際に尋ねる質問の中には、範囲が狭く、繰り返し可能なものもあります",
         "この対応は方針に沿ったものでしたか",
         "このツール呼び出しは承認しても安全ですか"
       ],
@@ -96,171 +127,147 @@
       "published": "2026-11-04 18:46"
     },
     {
-      "id": "61bd2fe9f8df",
-      "original_title": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "title": "Amazon Quick でのスマートな承認: 重要な場合は人間による監視",
-      "summary": [
-        "AI エージェントがより多くの仕事を担う中、セキュリティ リーダーは人間の監視をどのように維持すべきでしょうか",
-        "権限によってエージェントが実行できるアクションが決まりますが、許可されたアクションでも個人の判断が保証される場合があります",
-        "すべてのステップで承認を求めるのは次のように思えるかもしれません"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-      "published": "2026-11-04 16:33"
-    },
-    {
-      "id": "601c09bec22f",
-      "original_title": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "title": "実稼働 AI エージェントの 4 つのコンテキスト エンジニアリング: Deep Insight がそれらを実際のコードに適用する方法",
-      "summary": [
-        "実稼働 AI エージェントがデータ分析やレポート生成などのタスクを処理する場合、コンテキスト管理が大きなボトルネックになる可能性があります",
-        "200,000 トークンのウィンドウは寛大に思えますが、実際のタスクが数分でそのほとんどを使い切ってしまいます",
-        "データ分析とr"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
-      "published": "2026-11-04 16:30"
-    },
-    {
-      "id": "9e8d8a031560",
-      "original_title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-      "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+      "id": "fb83302197dc",
+      "original_title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
+      "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
       "summary": [
         ""
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
-      "published": "2026-11-05 09:58"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
+      "published": "2026-11-06 10:17"
     },
     {
-      "id": "db95a4703974",
-      "original_title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
-      "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+      "id": "19bd7a349a92",
+      "original_title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+      "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
       "summary": [
-        "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した",
-        "設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す"
+        "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した",
+        "過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える",
+        "試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
-      "published": "2026-11-05 09:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
+      "published": "2026-11-06 09:00"
     },
     {
-      "id": "6801ac9c0772",
-      "original_title": "【本日みつけたお買い得品】バッファローの防塵防滴ポータブルSSD 1TBが1万820円引き",
-      "title": "【本日みつけたお買い得品】バッファローの防塵防滴ポータブルSSD 1TBが1万820円引き",
+      "id": "f544543c91e9",
+      "original_title": "【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！",
+      "title": "【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！",
       "summary": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ",
-        "ポータブルSSDのバッファロー「SSD-PHPA/N」シリーズは、直近価格からの値引きで、500GB版が8,160円引きの3万2,640円、1TB版が1万820円引きの3万9,980円、2TB版が3万1,800円引きの12万7,200円、4TB版が6万3,760円引きの25万5,040円にて購入できる"
+        "Amazonでは11月4日から12日までスマイルSaleを開催中",
+        "セールにて、ロジクール製の最新ハイエンドマウス「MX MASTER4」(MX2400GRd)が、直近価格の1,990円引きとなる1万7,910円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153802.html",
-      "published": "2026-11-05 10:43"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154203.html",
+      "published": "2026-11-06 10:39"
     },
     {
-      "id": "45a07f727847",
-      "original_title": "【本日みつけたお買い得品】ASUSのRTX 5070搭載ゲーミングノートが5万円オフ。約13万5千円引きのモデルも！",
-      "title": "【本日みつけたお買い得品】ASUSのRTX 5070搭載ゲーミングノートが5万円オフ。約13万5千円引きのモデルも！",
+      "id": "9460cb904f6a",
+      "original_title": "Bluetooth LEが7.5MbpsでClassic超え、新物理層「HDT」採択",
+      "title": "Bluetooth LEが7.5MbpsでClassic超え、新物理層「HDT」採択",
       "summary": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している",
-        "16型ゲーミングノートPCのASUS「TUF Gaming A16 FA608UP」は、10月31日の価格から5万円引きで、27万9,800円にて購入可能だ"
+        "省電力が売りのBluetooth LEが、速度でも本家を上回ることが正式に決まった",
+        "Bluetooth SIGは11月4日(米国時間)、Bluetooth LE向けの新たな物理層(PHY)「Bluetooth High Data Throughput(HDT)」を採択したと発表した",
+        "HDTは7月にドラフト仕様が公開されていたもので、「Bluetooth Core 7.0」にオプション機能として含まれる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2153783.html",
-      "published": "2026-11-05 10:23"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2154183.html",
+      "published": "2026-11-06 10:22"
     },
     {
-      "id": "84845fd76eba",
-      "original_title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
-      "title": "GTA6は発売2週間前の予約注文だけで770万本・1200億円近くを売り上げる",
+      "id": "cf5df94a666f",
+      "original_title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
       "summary": [
-        "2026年11月19日発売の「グランド・セフト・オートVI(GTA6)」が、予約注文だけで7億5000万ドル(約1186億円)以上を売り上げていることが明らかになりました",
+        "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました",
+        "しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261105-gta-6-over-750-million-preorders/",
-      "published": "2026-11-05 10:29"
+      "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+      "published": "2026-11-06 06:00"
     },
     {
-      "id": "3a8eb5907bfe",
-      "original_title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
-      "title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
+      "id": "236639c0dca1",
+      "original_title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
+      "title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
       "summary": [
-        "最初は小さな球を転がすところからスタートし、だんだん落ちている物体を吸収して巨大にしていくアクションゲーム「塊魂」のノリを、世界最大の美術館・メトロポリタン美術館の収蔵品でできる「Katamri Met」を遊んでみました",
+        "古いWindows向けのゲームや業務用アプリケーションを現在のPCで使おうとしても、16ビットで開発されたソフトウェアは64ビット版Windowsの標準機能では実行できません",
+        "Windows 3.1などのOSを仮想マシンにインストールする方法もありますが、16ビットアプリケーションをWindows 11で直接動かせるようにする無料のオープンソースソフトウェアが「winevdm」です",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261105-katamari-met/",
-      "published": "2026-11-05 08:00"
+      "link": "https://gigazine.net/news/20261105-winevdm/",
+      "published": "2026-11-05 23:00"
     },
     {
-      "id": "66dd8fcbeefb",
-      "original_title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
-      "title": "Oracle AI Database 26ai の JSONについて(3) – JSON Collection Table",
+      "id": "6e4174b687c2",
+      "original_title": "機械学習モデルは作れたが、デプロイや監視のところで止まっているエンジニアへ。MLOpsを設計の段階から組み立てる実践ガイド",
+      "title": "機械学習モデルは作れたが、デプロイや監視のところで止まっているエンジニアへ。MLOpsを設計の段階から組み立てる実践ガイド",
       "summary": [
-        "はじめに ここではOracle AI DatabaseのJSONデータについて(3)として JSON Collection Table を解説します",
-        "これは Oracle AI Database が 23c(23ai) でリリースされた機能で、純粋に JSON ドキュメン..."
+        "ノートブックの上ではモデルがそれなりに動くのに、本番に載せようとすると話が進まない",
+        "開発と運用の担当が分かれていて、デプロイの手順も、動き出したあとの監視も、誰がどう持つのか決まっていない",
+        "『MLOps実装ガイド ―本番運用を見据えた開発戦略』は、その開発と運用の分断をどう..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/TDM26587/items/ce1dd2eb97512221dc48",
-      "published": "2026-11-05 10:36"
+      "link": "https://qiita.com/yasu1109/items/76c04a6de013447fa0b8",
+      "published": "2026-11-06 10:56"
     },
     {
-      "id": "0cfc9f58ad66",
-      "original_title": "Oracle AI Database 26ai の JSONについて(2) – JSON Collection View",
-      "title": "Oracle AI Database 26ai の JSONについて(2) – JSON Collection View",
+      "id": "58d25ab69f00",
+      "original_title": "プログラミング雑記 2026年11月6日",
+      "title": "プログラミング雑記 2026年11月6日",
       "summary": [
-        "はじめに ここでは Oracle AI DatabaseのJSONデータについて(2) として JSON Collection View を解説します",
-        "これは、非二面性コレクション・ビューとも言われるもので、更新はできませんが、JSON文書を基礎となるリレーショナル・デー..."
+        "今日もネットで見つけた技術ニュースや記事の中から、個人的に気になったものを厳選して紹介します",
+        "ご意見や補足があればコメントで教えていただけると嬉しいです",
+        "プログラミング ISUCON ISUCON2026に参加したチームの利用言語比率に加え、今回から集計された..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/TDM26587/items/e595ee719e3c112c7941",
-      "published": "2026-11-05 10:33"
+      "link": "https://qiita.com/ishisaka/items/bc45e3f3415f83ab5c11",
+      "published": "2026-11-06 10:51"
     },
     {
-      "id": "be97eb614666",
-      "original_title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "title": "Appleが社内AI利用の予算を削減していると報じられている",
+      "id": "f679bb47bb1b",
+      "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "title": "Airbnb、2027年上半期にAI旅行代理店を立ち上げると発表",
       "summary": [
-        "同社はエンジニアリングチームのAIへの支出額を大幅に削減すると言われている"
+        "Airbnb は、今後の AI エージェントが旅行者の旅行計画、オプションの比較、予約管理、滞在中のサポートを支援すると述べています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "published": "2026-11-05 01:26"
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "published": "2026-11-05 22:40"
     },
     {
-      "id": "79dd34cf957c",
-      "original_title": "After the midterms, a bigger clash over data centers could be coming",
-      "title": "中間選挙後には、データセンターを巡るさらに大きな衝突が起こる可能性がある",
+      "id": "205ef120613d",
+      "original_title": "Meta says US users can now video chat with their Muse AI avatar",
+      "title": "Metaによると、米国のユーザーはMuse AIアバターとビデオチャットできるようになった",
       "summary": [
-        "データセンター反対派は火曜日の中間選挙で党派を越えた"
+        "メタの AI エージェントは、ミューズに命を吹き込むように設計されたたまごっちのようなウェアラブルの発売に先立ち、カスタマイズ可能なアニメーション アバターとして電話を受けることができるようになりました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "published": "2026-11-05 01:02"
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "published": "2026-11-05 19:48"
     }
   ]
 }
