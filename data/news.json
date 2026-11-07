@@ -1,46 +1,45 @@
 {
-  "updated_at": "2026-11-06 11:00",
+  "updated_at": "2026-11-07 10:39",
   "total_count": 19,
   "articles": [
     {
-      "id": "be525e58224c",
-      "original_title": "Cult.fit builds operational muscle with Codex",
-      "title": "Cult.fit は Codex を使用して操作力を強化します",
+      "id": "5ff7ee6333ea",
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "title": "Hacktron と提携して OpenAI のシステムの脆弱性を発見",
       "summary": [
-        "Cult.fit は Codex を使用して、さまざまな部門のチームがツールを構築し、より迅速に作業を進め、仕事のやり方を変えるのを支援しています"
+        "OpenAI は Hacktron と提携して、脆弱性の発見、サードパーティのサービスとの接続のテスト、フロンティア AI による防御の強化を行っています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "published": "2026-11-05 20:00"
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06 08:00"
     },
     {
-      "id": "f88c03428df4",
-      "original_title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "title": "GPT‑6 サイバー: 連携したサイバーセキュリティ エージェントの最前線を前進させる",
+      "id": "5a96217aa880",
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
+      "title": "AI エージェントが日常のウェットラボ科学をどのように処理するかを測定する",
       "summary": [
-        "GPT‑6 Cyber​​ は、悪用可能な脆弱性を発見し修正を開発するための OpenAI のサイバーセキュリティ モデルであり、許可された範囲内に収まるように訓練されています"
+        "OpenAI は、AI エージェントが生の実験データをどの程度解釈し、日常のウェットラボ科学をどの程度うまく処理できるかを測定する 100 タスクのベンチマークである BioBasicsBench を導入します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "published": "2026-11-05 09:00"
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published": "2026-11-06 00:00"
     },
     {
-      "id": "8cbe8add4f1f",
-      "original_title": "Merge builds product and business tools with OpenAI technology",
-      "title": "Merge は OpenAI テクノロジーを使用して製品とビジネス ツールを構築します",
+      "id": "f3ee087c98c0",
+      "original_title": "Australian universities are creating AI-native graduates",
+      "title": "オーストラリアの大学は AI ネイティブの卒業生を輩出している",
       "summary": [
-        "Merge は GPT-6 Astra、ChatGPT、Codex を使用して製品コードをレビューし、マーケティングをサポートします",
-        "また、同社のチームは AI を利用して役員ディナーを計画し、販売最新情報を準備しています"
+        "オーストラリアの大学は ChatGPT へのアクセスを拡大し、AI を活用した労働力として学生を準備するために教育と学習に AI を導入しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "published": "2026-11-05 08:00"
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published": "2026-11-05 17:00"
     },
     {
       "id": "9d1584085473",
@@ -82,192 +81,186 @@
       "published": "2026-10-26 16:00"
     },
     {
-      "id": "04ede28236f9",
-      "original_title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-      "title": "Amazon Bedrock AgentCore で Web Answer の使用を開始する",
+      "id": "b4d823fa8e04",
+      "original_title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "title": "SageMaker Inference は、モデルエンドポイントの GPU 使用率を最大化するためにマルチインスタンス GPU をサポートするようになりました。",
       "summary": [
-        "本日、Amazon Bedrock AgentCore での Web Answer の一般提供を発表します",
-        "Web Answer を使用すると、エージェント ビルダーは 1 回のツール呼び出しで、自然言語の質問に対するソースが引用された合成された回答を得ることができます",
-        "彼らはもはや検索を構築しません、"
+        "モデルを GPU エンドポイントにデプロイする場合、リクエストできる GPU の最小単位は 1 つのアクセラレータ全体です",
+        "この制約により、コストが 2 倍になる可能性があります",
+        "まず、アクセラレータを備えている以上のモデルをインスタンス上でホストすることはできません"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-      "published": "2026-11-05 21:04"
+      "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "published": "2026-11-06 18:01"
     },
     {
-      "id": "74cf39a4b7e7",
-      "original_title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-      "title": "Amazon Marketplace が Amazon SageMaker AI を使用してコンテンツの品質を評価する方法",
+      "id": "f6c5ca666c0e",
+      "original_title": "Taxonomy of agentic primitives in Amazon Quick",
+      "title": "Amazon Quick のエージェントプリミティブの分類",
       "summary": [
-        "A+ コンテンツは、Amazon 商品詳細ページのリッチメディア ウィジェットです",
-        "ブランドは視覚的な資産を通じて独自の製品とブランドの価値を伝え、顧客が十分な情報に基づいて購入を決定できるようにします",
-        "高品質の A+ コンテンツを使用する販売パートナーは、"
+        "過去 1 年間、Amazon Quick を構築する中で、エージェントは質問に答えることから、会議のスケジュール設定、調査の実施、レポートの作成などのアクションを実行するようになりました",
+        "システムが進化するにつれて、1 つの問題が再浮上し続けました",
+        "それは、共通の定義が存在しなかったことです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
-      "published": "2026-11-05 18:06"
+      "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "published": "2026-11-06 17:34"
     },
     {
-      "id": "994717f8d2be",
-      "original_title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "title": "Amazon Bedrock AgentCore 評価で意思決定モデルを使用する",
+      "id": "8fc58b29e8f3",
+      "original_title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "title": "Amazon ECS Fargate 上の AI エージェント データレイク アクセス用のサーバーレス MCP サーバー",
       "summary": [
-        "エージェントを評価する際に尋ねる質問の中には、範囲が狭く、繰り返し可能なものもあります",
-        "この対応は方針に沿ったものでしたか",
-        "このツール呼び出しは承認しても安全ですか"
+        "人工知能 (AI) を活用したアプリケーションを構築している組織は、すべてのエージェントとアプリケーションにわたって統合ロジックを重複させることなく、大規模言語モデル (LLM) エージェントにエンタープライズ データ レイクへのアクセスを提供するという繰り返しの課題に直面しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-      "published": "2026-11-04 18:46"
+      "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "published": "2026-11-06 17:13"
     },
     {
-      "id": "fb83302197dc",
-      "original_title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
-      "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
+      "id": "4bf2ce39cb72",
+      "original_title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+      "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
       "summary": [
-        ""
+        "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
-      "published": "2026-11-06 10:17"
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+      "published": "2026-11-07 07:00"
     },
     {
-      "id": "19bd7a349a92",
-      "original_title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
-      "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+      "id": "aba7a393193d",
+      "original_title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+      "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
       "summary": [
-        "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した",
-        "過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える",
-        "試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという"
+        "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ",
+        "だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
-      "published": "2026-11-06 09:00"
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+      "published": "2026-11-07 07:00"
     },
     {
-      "id": "f544543c91e9",
-      "original_title": "【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！",
-      "title": "【本日みつけたお買い得品】ロジクールのフラグシップマウス「MX MASTER4」が約2千円引き！",
+      "id": "dd3ad5a492d4",
+      "original_title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
+      "title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
       "summary": [
-        "Amazonでは11月4日から12日までスマイルSaleを開催中",
-        "セールにて、ロジクール製の最新ハイエンドマウス「MX MASTER4」(MX2400GRd)が、直近価格の1,990円引きとなる1万7,910円で販売されている"
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している",
+        "14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154203.html",
-      "published": "2026-11-06 10:39"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154554.html",
+      "published": "2026-11-07 09:39"
     },
     {
-      "id": "9460cb904f6a",
-      "original_title": "Bluetooth LEが7.5MbpsでClassic超え、新物理層「HDT」採択",
-      "title": "Bluetooth LEが7.5MbpsでClassic超え、新物理層「HDT」採択",
+      "id": "64b9a428c94e",
+      "original_title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
+      "title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
       "summary": [
-        "省電力が売りのBluetooth LEが、速度でも本家を上回ることが正式に決まった",
-        "Bluetooth SIGは11月4日(米国時間)、Bluetooth LE向けの新たな物理層(PHY)「Bluetooth High Data Throughput(HDT)」を採択したと発表した",
-        "HDTは7月にドラフト仕様が公開されていたもので、「Bluetooth Core 7.0」にオプション機能として含まれる"
+        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ",
+        "GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2154183.html",
-      "published": "2026-11-06 10:22"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154549.html",
+      "published": "2026-11-07 09:21"
     },
     {
-      "id": "cf5df94a666f",
-      "original_title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
-      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+      "id": "ff324bab22e7",
+      "original_title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+      "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
       "summary": [
-        "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました",
-        "しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています",
+        "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります",
+        "この光るAppleロゴは消灯可能であることが明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
-      "published": "2026-11-06 06:00"
+      "link": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+      "published": "2026-11-07 09:00"
     },
     {
-      "id": "236639c0dca1",
-      "original_title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
-      "title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
+      "id": "107d1e4423aa",
+      "original_title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
+      "title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
       "summary": [
-        "古いWindows向けのゲームや業務用アプリケーションを現在のPCで使おうとしても、16ビットで開発されたソフトウェアは64ビット版Windowsの標準機能では実行できません",
-        "Windows 3.1などのOSを仮想マシンにインストールする方法もありますが、16ビットアプリケーションをWindows 11で直接動かせるようにする無料のオープンソースソフトウェアが「winevdm」です",
+        "人気の曲を調べた研究で、曲に使われる歌詞が時代と共に変化していることが分かりました",
+        "表現の幅が狭まった上で、非道徳的思想に関連する歌詞が増加するなどの傾向が見られています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261105-winevdm/",
-      "published": "2026-11-05 23:00"
+      "link": "https://gigazine.net/news/20261107-lyrics-less-emotion/",
+      "published": "2026-11-07 08:00"
     },
     {
-      "id": "6e4174b687c2",
-      "original_title": "機械学習モデルは作れたが、デプロイや監視のところで止まっているエンジニアへ。MLOpsを設計の段階から組み立てる実践ガイド",
-      "title": "機械学習モデルは作れたが、デプロイや監視のところで止まっているエンジニアへ。MLOpsを設計の段階から組み立てる実践ガイド",
+      "id": "ad50f4cf7fef",
+      "original_title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
+      "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
       "summary": [
-        "ノートブックの上ではモデルがそれなりに動くのに、本番に載せようとすると話が進まない",
-        "開発と運用の担当が分かれていて、デプロイの手順も、動き出したあとの監視も、誰がどう持つのか決まっていない",
-        "『MLOps実装ガイド ―本番運用を見据えた開発戦略』は、その開発と運用の分断をどう..."
+        "Claude Code の v2.1.317 〜 v2.1.319 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします",
+        "網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします",
+        "1. permission..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/yasu1109/items/76c04a6de013447fa0b8",
-      "published": "2026-11-06 10:56"
+      "link": "https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9",
+      "published": "2026-11-07 10:10"
     },
     {
-      "id": "58d25ab69f00",
-      "original_title": "プログラミング雑記 2026年11月6日",
-      "title": "プログラミング雑記 2026年11月6日",
+      "id": "3c79010cc5a0",
+      "original_title": "Claude Code v2.1.317 - v2.1.319 リリースノートまとめ",
+      "title": "Claude Code v2.1.317 - v2.1.319 リリースノートまとめ",
       "summary": [
-        "今日もネットで見つけた技術ニュースや記事の中から、個人的に気になったものを厳選して紹介します",
-        "ご意見や補足があればコメントで教えていただけると嬉しいです",
-        "プログラミング ISUCON ISUCON2026に参加したチームの利用言語比率に加え、今回から集計された..."
+        "Claude Code v2.1.317〜v2.1.319 では、MCP tasks のターミナル対応、permissions.denyInsteadOfPrompting による無人実行向けの権限制御、CLAUDE_CODE_DISABLE_FEATURE_FLAGS の..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ishisaka/items/bc45e3f3415f83ab5c11",
-      "published": "2026-11-06 10:51"
+      "link": "https://qiita.com/NaokiIshimura/items/f19ae481117018a64e67",
+      "published": "2026-11-07 10:09"
     },
     {
-      "id": "f679bb47bb1b",
-      "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "title": "Airbnb、2027年上半期にAI旅行代理店を立ち上げると発表",
+      "id": "b649ab57cf4e",
+      "original_title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "title": "OpenAIは1兆2500億ドルの評価額でさらに110億ドルを調達すると報じられている",
       "summary": [
-        "Airbnb は、今後の AI エージェントが旅行者の旅行計画、オプションの比較、予約管理、滞在中のサポートを支援すると述べています"
+        "OpenAI は資金調達ラウンドの一環として追加で 110 億ドルを調達したと伝えられており、この資金調達ラウンドはまだ完了していませんが、今後数週間以内に完了すると予想されています"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "published": "2026-11-05 22:40"
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "published": "2026-11-06 22:53"
     },
     {
-      "id": "205ef120613d",
-      "original_title": "Meta says US users can now video chat with their Muse AI avatar",
-      "title": "Metaによると、米国のユーザーはMuse AIアバターとビデオチャットできるようになった",
+      "id": "ed2323569e11",
+      "original_title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "title": "何百ものArtex AIハッキングツールがWebに公開されていることが判明",
       "summary": [
-        "メタの AI エージェントは、ミューズに命を吹き込むように設計されたたまごっちのようなウェアラブルの発売に先立ち、カスタマイズ可能なアニメーション アバターとして電話を受けることができるようになりました"
+        "セキュリティ研究者は、侵入テスト ツール Artex をホストする数百台のサーバーがインターネットに公開され、誰でもハッキング ツールにアクセスできることを発見しました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "published": "2026-11-05 19:48"
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "published": "2026-11-06 18:44"
     }
   ]
 }
