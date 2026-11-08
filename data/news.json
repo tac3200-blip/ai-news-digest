@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 10:39",
+  "updated_at": "2026-11-08 10:07",
   "total_count": 19,
   "articles": [
     {
@@ -124,6 +124,20 @@
       "published": "2026-11-06 17:13"
     },
     {
+      "id": "dc4d9df4dab9",
+      "original_title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+      "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+      "summary": [
+        "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています",
+        "GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "published": "2026-11-08 08:00"
+    },
+    {
       "id": "4bf2ce39cb72",
       "original_title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
       "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
@@ -137,130 +151,115 @@
       "published": "2026-11-07 07:00"
     },
     {
-      "id": "aba7a393193d",
-      "original_title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
-      "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+      "id": "b04b04b15a87",
+      "original_title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
+      "title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
       "summary": [
-        "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ",
-        "だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
-      "published": "2026-11-07 07:00"
-    },
-    {
-      "id": "dd3ad5a492d4",
-      "original_title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
-      "title": "【本日みつけたお買い得品】約6万6千円のオフ！32GBメモリ/1TB SSDの有機ELノートが大幅値引き",
-      "summary": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施している",
-        "14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ"
+        "Amazonにて、Xiaomiのモニターがセール価格で販売されており、27型4K(3,840×2,160ドット)モニター「A27Ui」が、直近価格から2,034円引きの3万4,800円で購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154554.html",
-      "published": "2026-11-07 09:39"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154552.html",
+      "published": "2026-11-07 13:22"
     },
     {
-      "id": "64b9a428c94e",
-      "original_title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
-      "title": "【本日みつけたお買い得品】GEEKOMのCore Ultra 7 356H搭載ミニPCが約2万5千円オフ",
+      "id": "2649359a97c1",
+      "original_title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
+      "title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
       "summary": [
-        "Amazonは11月4日から12日にかけて、スマイルSaleを実施中だ",
-        "GEEKOMのミニPC「IT13」は、直近価格からの2万5,200円引きで、17万4,790円にて購入できる"
+        "Amazonにて、レノボのChromebookがセール価格で販売されており「Lenovo 300e Yoga Chromebook(82W3000VJP)」が、直近価格から2万円引きの2万9,800円で購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154549.html",
-      "published": "2026-11-07 09:21"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154551.html",
+      "published": "2026-11-07 12:46"
     },
     {
-      "id": "ff324bab22e7",
-      "original_title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
-      "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+      "id": "d19f7734fa27",
+      "original_title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
+      "title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
       "summary": [
-        "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります",
-        "この光るAppleロゴは消灯可能であることが明らかになりました",
+        "自宅から遠く離れた場所に521日間という長期にわたって監禁されていた10代の少女が、オンラインマルチプレイ対応の宇宙人狼ゲーム「Among Us」で助けを求め、無事救出されるという事件が報告されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
-      "published": "2026-11-07 09:00"
+      "link": "https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/",
+      "published": "2026-11-08 10:00"
     },
     {
-      "id": "107d1e4423aa",
-      "original_title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
-      "title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
+      "id": "f758568a0220",
+      "original_title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
+      "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
       "summary": [
-        "人気の曲を調べた研究で、曲に使われる歌詞が時代と共に変化していることが分かりました",
-        "表現の幅が狭まった上で、非道徳的思想に関連する歌詞が増加するなどの傾向が見られています",
+        "周囲が暗かったり、感情が高ぶったりすると人の瞳孔は開きます",
+        "なぜこのような動きが見られるのかについて、ブラウン大学の研究者らが新しい研究と共に紹介しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261107-lyrics-less-emotion/",
-      "published": "2026-11-07 08:00"
+      "link": "https://gigazine.net/news/20261108-pupils-dilation-surprise/",
+      "published": "2026-11-08 08:00"
     },
     {
-      "id": "ad50f4cf7fef",
-      "original_title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
-      "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.317 - v2.1.319）",
+      "id": "c4efda4e66f0",
+      "original_title": "Meta Muse の登録方法まとめ",
+      "title": "Meta Muse の登録方法まとめ",
       "summary": [
-        "Claude Code の v2.1.317 〜 v2.1.319 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします",
-        "網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします",
-        "1. permission..."
+        "Meta Muse 登録ガイド：2分で完了、さらに10億トークンをゲット",
+        "9月、Metaは個人向けAIアシスタント「Muse」をリリースしました",
+        "Museのユーザーは一人ひとり、自分専用のクラウドコンピュータ（Linux仮想マシン：2コアCPU、8GBメモリ、100G..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/NaokiIshimura/items/4884c18ed0efc432edc9",
-      "published": "2026-11-07 10:10"
+      "link": "https://qiita.com/xiaoxiaoxi/items/9b141a3f56130f502589",
+      "published": "2026-11-08 10:05"
     },
     {
-      "id": "3c79010cc5a0",
-      "original_title": "Claude Code v2.1.317 - v2.1.319 リリースノートまとめ",
-      "title": "Claude Code v2.1.317 - v2.1.319 リリースノートまとめ",
+      "id": "8fc936523147",
+      "original_title": "Claude Code の Skills が増えすぎて AI が選べなくなる問題 — 命名規則と description の設計",
+      "title": "Claude Code の Skills が増えすぎて AI が選べなくなる問題 — 命名規則と description の設計",
       "summary": [
-        "Claude Code v2.1.317〜v2.1.319 では、MCP tasks のターミナル対応、permissions.denyInsteadOfPrompting による無人実行向けの権限制御、CLAUDE_CODE_DISABLE_FEATURE_FLAGS の..."
+        "はじめに：「書いて」と言ったのに、違うスキルが動いた 当社（合同会社ジョインクラス）では、Claude Code に会社の運用ほぼ全部を任せています",
+        "launchd ジョブが17個あり、Zenn・Qiita・note への記事公開も毎日自動で回しています",
+        "プロジェクトの..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/NaokiIshimura/items/f19ae481117018a64e67",
-      "published": "2026-11-07 10:09"
+      "link": "https://qiita.com/joinclass/items/3d05264c7d44f84b52f5",
+      "published": "2026-11-08 08:30"
     },
     {
-      "id": "b649ab57cf4e",
-      "original_title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "title": "OpenAIは1兆2500億ドルの評価額でさらに110億ドルを調達すると報じられている",
+      "id": "ecd88f1bc762",
+      "original_title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title": "中間選挙の後、イーロン・マスクとデータセンターにとって事態は険しいものになりそうだ",
       "summary": [
-        "OpenAI は資金調達ラウンドの一環として追加で 110 億ドルを調達したと伝えられており、この資金調達ラウンドはまだ完了していませんが、今後数週間以内に完了すると予想されています"
+        "「株式」では、テクノロジー業界にとって中間期が何を意味するのかを明らかにしました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "published": "2026-11-06 22:53"
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "published": "2026-11-07 22:07"
     },
     {
-      "id": "ed2323569e11",
-      "original_title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "title": "何百ものArtex AIハッキングツールがWebに公開されていることが判明",
+      "id": "aaf03b3d0e09",
+      "original_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title": "米情報機関のメモによると、メガスピードの幹部はNVIDIAのCEOをスパイするために採用された",
       "summary": [
-        "セキュリティ研究者は、侵入テスト ツール Artex をホストする数百台のサーバーがインターネットに公開され、誰でもハッキング ツールにアクセスできることを発見しました"
+        "今年初めに出回ったメモには、中国国家安全省が女性テクノロジー幹部を採用してNVIDIAのCEOをスパイさせたと主張されていると伝えられている"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "published": "2026-11-06 18:44"
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "published": "2026-11-07 21:17"
     }
   ]
 }
