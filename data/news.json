@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 10:07",
+  "updated_at": "2026-11-09 10:27",
   "total_count": 19,
   "articles": [
     {
@@ -124,116 +124,131 @@
       "published": "2026-11-06 17:13"
     },
     {
-      "id": "dc4d9df4dab9",
-      "original_title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
-      "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+      "id": "f023db147706",
+      "original_title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+      "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
       "summary": [
-        "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています",
-        "GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します"
+        "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている",
+        "詐欺メールの報告件数などに動きはあるのか",
+        "推移を監視する企業や組織に聞いてみた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
-      "published": "2026-11-08 08:00"
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+      "published": "2026-11-09 08:00"
     },
     {
-      "id": "4bf2ce39cb72",
-      "original_title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
-      "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+      "id": "47ff79f46e70",
+      "original_title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+      "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
       "summary": [
-        "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ"
+        "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック",
+        "院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか",
+        "患者役として模擬受診し、導入効果を聞いた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
-      "published": "2026-11-07 07:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "published": "2026-11-09 08:00"
     },
     {
-      "id": "b04b04b15a87",
-      "original_title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
-      "title": "【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール",
+      "id": "58f37ffdc039",
+      "original_title": "多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]",
+      "title": "多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]",
       "summary": [
-        "Amazonにて、Xiaomiのモニターがセール価格で販売されており、27型4K(3,840×2,160ドット)モニター「A27Ui」が、直近価格から2,034円引きの3万4,800円で購入できる"
+        "パソコン工房の「LEVEL∞ R-Class RGB Build ピラーレスモデル」は、6面のハーフミラーガラスを採用した、ユニークなビジュアルが特徴のミドルタワー型ゲーミングPCだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154552.html",
-      "published": "2026-11-07 13:22"
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2150897.html",
+      "published": "2026-11-09 10:00"
     },
     {
-      "id": "2649359a97c1",
-      "original_title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
-      "title": "【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円",
+      "id": "c3dc4307eb1f",
+      "original_title": "【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ",
+      "title": "【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ",
       "summary": [
-        "Amazonにて、レノボのChromebookがセール価格で販売されており「Lenovo 300e Yoga Chromebook(82W3000VJP)」が、直近価格から2万円引きの2万9,800円で購入できる"
+        "Amazonにおいて、16型ノートPCのHP「OmniBook 5 16-bp」が直近価格から3万円引きで、25万4,800円にて購入可能となっている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154551.html",
-      "published": "2026-11-07 12:46"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154656.html",
+      "published": "2026-11-09 09:48"
     },
     {
-      "id": "d19f7734fa27",
-      "original_title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
-      "title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
+      "id": "722fac3e391f",
+      "original_title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+      "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
       "summary": [
-        "自宅から遠く離れた場所に521日間という長期にわたって監禁されていた10代の少女が、オンラインマルチプレイ対応の宇宙人狼ゲーム「Among Us」で助けを求め、無事救出されるという事件が報告されました",
+        "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が驚くほど簡単にできるということで、実際に試してみました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/",
-      "published": "2026-11-08 10:00"
+      "link": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+      "published": "2026-11-09 09:00"
     },
     {
-      "id": "f758568a0220",
-      "original_title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
-      "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
+      "id": "e4c422dd9912",
+      "original_title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
       "summary": [
-        "周囲が暗かったり、感情が高ぶったりすると人の瞳孔は開きます",
-        "なぜこのような動きが見られるのかについて、ブラウン大学の研究者らが新しい研究と共に紹介しました",
+        "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました",
+        "P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261108-pupils-dilation-surprise/",
-      "published": "2026-11-08 08:00"
+      "link": "https://gigazine.net/news/20261109-pjit-21k/",
+      "published": "2026-11-09 07:00"
     },
     {
-      "id": "c4efda4e66f0",
-      "original_title": "Meta Muse の登録方法まとめ",
-      "title": "Meta Muse の登録方法まとめ",
+      "id": "3824364868c0",
+      "original_title": "Claude Code 2.1.309〜318まとめ：claude -pが黙って成功しなくなり、ultrathinkはxhighに",
+      "title": "Claude Code 2.1.309〜318まとめ：claude -pが黙って成功しなくなり、ultrathinkはxhighに",
       "summary": [
-        "Meta Muse 登録ガイド：2分で完了、さらに10億トークンをゲット",
-        "9月、Metaは個人向けAIアシスタント「Muse」をリリースしました",
-        "Museのユーザーは一人ひとり、自分専用のクラウドコンピュータ（Linux仮想マシン：2コアCPU、8GBメモリ、100G..."
+        "3 行まとめ 2026年10月22日〜11月4日の Claude Code（v2.1.309〜v2.1.318）は、claude -p の「失敗したのに exit 0」を潰す修正がいくつも入った",
+        "cron や CI で無人実行しているなら、この期間の更新がいちばん効く ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/xiaoxiaoxi/items/9b141a3f56130f502589",
-      "published": "2026-11-08 10:05"
+      "link": "https://qiita.com/sakutto-panda/items/b46486a625bdc78ea4bb",
+      "published": "2026-11-09 10:15"
     },
     {
-      "id": "8fc936523147",
-      "original_title": "Claude Code の Skills が増えすぎて AI が選べなくなる問題 — 命名規則と description の設計",
-      "title": "Claude Code の Skills が増えすぎて AI が選べなくなる問題 — 命名規則と description の設計",
+      "id": "11bd63e4f51b",
+      "original_title": "【ChatGPT×自動化】実務成果物を一撃生成するプロンプト設計パターンと実践テンプレ3選",
+      "title": "【ChatGPT×自動化】実務成果物を一撃生成するプロンプト設計パターンと実践テンプレ3選",
       "summary": [
-        "はじめに：「書いて」と言ったのに、違うスキルが動いた 当社（合同会社ジョインクラス）では、Claude Code に会社の運用ほぼ全部を任せています",
-        "launchd ジョブが17個あり、Zenn・Qiita・note への記事公開も毎日自動で回しています",
-        "プロジェクトの..."
+        "「ChatGPTに頼んだのに、出てきた成果物をそのまま使えなかった」——業務でAIを使い始めた人が最初にぶつかる壁です",
+        "原因の多くはモデルの性能ではなく、プロンプトが「指示」の粒度で書かれていることにあります",
+        "人間同士なら「いい感じにまとめて」で通じますが、LLMは前回の..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/joinclass/items/3d05264c7d44f84b52f5",
-      "published": "2026-11-08 08:30"
+      "link": "https://qiita.com/ai_hack_lab/items/bbc4d5f93e0dfc8164fb",
+      "published": "2026-11-09 10:01"
+    },
+    {
+      "id": "587c2e9e125a",
+      "original_title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "title": "Nvidia、CEOのジェンスン・ファンと中国スパイの可能性のある人物との関係を調査へ",
+      "summary": [
+        "黄氏は会社に宛てたメモの中で不倫を認めた"
+      ],
+      "group": "overseas",
+      "category": "海外・3大AI情報",
+      "source_name": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "published": "2026-11-08 21:00"
     },
     {
       "id": "ecd88f1bc762",
@@ -247,19 +262,6 @@
       "source_name": "TechCrunch AI",
       "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "published": "2026-11-07 22:07"
-    },
-    {
-      "id": "aaf03b3d0e09",
-      "original_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "title": "米情報機関のメモによると、メガスピードの幹部はNVIDIAのCEOをスパイするために採用された",
-      "summary": [
-        "今年初めに出回ったメモには、中国国家安全省が女性テクノロジー幹部を採用してNVIDIAのCEOをスパイさせたと主張されていると伝えられている"
-      ],
-      "group": "overseas",
-      "category": "海外・3大AI情報",
-      "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "published": "2026-11-07 21:17"
     }
   ]
 }
