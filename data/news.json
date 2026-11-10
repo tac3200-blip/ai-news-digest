@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-09 10:27",
+  "updated_at": "2026-11-10 12:58",
   "total_count": 19,
   "articles": [
     {
-      "id": "5ff7ee6333ea",
-      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "title": "Hacktron と提携して OpenAI のシステムの脆弱性を発見",
+      "id": "a3c9cfb88407",
+      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "title": "ChatGPT Enterprise が AWS Marketplace で利用可能になりました",
       "summary": [
-        "OpenAI は Hacktron と提携して、脆弱性の発見、サードパーティのサービスとの接続のテスト、フロンティア AI による防御の強化を行っています"
+        "ChatGPT Enterprise は AWS Marketplace を通じて利用できるようになり、組織が既存の AWS の購入および請求関係を通じて調達を簡素化できるようになりました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "published": "2026-11-06 08:00"
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09 19:00"
     },
     {
-      "id": "5a96217aa880",
-      "original_title": "Measuring how AI agents handle everyday wet-lab science",
-      "title": "AI エージェントが日常のウェットラボ科学をどのように処理するかを測定する",
+      "id": "c95e004e9c72",
+      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "title": "コントロール ルーム: 研究インフラ全体でモデルのワークロードを追跡および停止するための中央システム",
       "summary": [
-        "OpenAI は、AI エージェントが生の実験データをどの程度解釈し、日常のウェットラボ科学をどの程度うまく処理できるかを測定する 100 タスクのベンチマークである BioBasicsBench を導入します"
+        "OpenAI の Control Room が研究インフラ全体でモデルのワークロードを追跡し、安全性やセキュリティ上の懸念が生じた場合にモデルのワークロードを迅速に停止する方法を学びましょう"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "published": "2026-11-06 00:00"
+      "link": "https://openai.com/index/control-room",
+      "published": "2026-11-09 13:00"
     },
     {
-      "id": "f3ee087c98c0",
-      "original_title": "Australian universities are creating AI-native graduates",
-      "title": "オーストラリアの大学は AI ネイティブの卒業生を輩出している",
+      "id": "39ec5a9b7767",
+      "original_title": "CodeRabbit scales agentic software development and ships 20x more",
+      "title": "CodeRabbit がエージェント ソフトウェア開発を拡張し、20 倍以上の出荷を実現",
       "summary": [
-        "オーストラリアの大学は ChatGPT へのアクセスを拡大し、AI を活用した労働力として学生を準備するために教育と学習に AI を導入しています"
+        "CodeRabbit は OpenAI モデルを使用して AI 生成コードを管理および信頼し、Codex は同じエンジニアリング チームで 20 倍のソフトウェアを出荷します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "published": "2026-11-05 17:00"
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09 08:00"
     },
     {
       "id": "9d1584085473",
@@ -81,187 +81,188 @@
       "published": "2026-10-26 16:00"
     },
     {
-      "id": "b4d823fa8e04",
-      "original_title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "title": "SageMaker Inference は、モデルエンドポイントの GPU 使用率を最大化するためにマルチインスタンス GPU をサポートするようになりました。",
+      "id": "45b8c2db0e5a",
+      "original_title": "How skills and agents work in AWS Quick",
+      "title": "AWS Quick でのスキルとエージェントの仕組み",
       "summary": [
-        "モデルを GPU エンドポイントにデプロイする場合、リクエストできる GPU の最小単位は 1 つのアクセラレータ全体です",
-        "この制約により、コストが 2 倍になる可能性があります",
-        "まず、アクセラレータを備えている以上のモデルをインスタンス上でホストすることはできません"
+        "AI エージェントを使用している場合は、同じタスクについて複数回説明したことがあるでしょう",
+        "毎週のステータス更新の作成方法、リリース ノートの作成方法、プロジェクトの管理方法、またはチケットの作成方法について説明する場合があります",
+        "これらはすべて繰り返し可能なタスクであり、次を使用してエンコードできます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
-      "published": "2026-11-06 18:01"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "published": "2026-11-10 00:21"
     },
     {
-      "id": "f6c5ca666c0e",
-      "original_title": "Taxonomy of agentic primitives in Amazon Quick",
-      "title": "Amazon Quick のエージェントプリミティブの分類",
+      "id": "b8b46d92432f",
+      "original_title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "title": "Amazon Bedrock が管理するナレッジベースを使用したシングルショットおよびエージェントによる取得",
       "summary": [
-        "過去 1 年間、Amazon Quick を構築する中で、エージェントは質問に答えることから、会議のスケジュール設定、調査の実施、レポートの作成などのアクションを実行するようになりました",
-        "システムが進化するにつれて、1 つの問題が再浮上し続けました",
-        "それは、共通の定義が存在しなかったことです"
+        "銀行業務の従業員は朝、社内の AI アシスタントにビジネス口座開設に必要な書類を尋ねることから始まります",
+        "答えは 1 つのチェックリストにあります",
+        "数時間後、同じ従業員が、これらの要件がどのように異なるのかを尋ねました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
-      "published": "2026-11-06 17:34"
+      "link": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "published": "2026-11-09 20:13"
     },
     {
-      "id": "8fc58b29e8f3",
-      "original_title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "title": "Amazon ECS Fargate 上の AI エージェント データレイク アクセス用のサーバーレス MCP サーバー",
+      "id": "eb544a6c3146",
+      "original_title": "Introducing Claude Fable 5.2 on AWS",
+      "title": "AWS での Claude Fable 5.2 の導入",
       "summary": [
-        "人工知能 (AI) を活用したアプリケーションを構築している組織は、すべてのエージェントとアプリケーションにわたって統合ロジックを重複させることなく、大規模言語モデル (LLM) エージェントにエンタープライズ データ レイクへのアクセスを提供するという繰り返しの課題に直面しています"
+        "本日、Amazon Bedrock および AWS の Claude Platform で Claude Fable 5.2 と Claude Mythos 5.2 が利用可能になったことを発表します",
+        "Claude Fable 5.2 は、コーディングの水準を引き上げる技術作業向けの Anthropic の最も有能な一般入手可能なモデルです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
-      "published": "2026-11-06 17:13"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "published": "2026-11-09 20:04"
     },
     {
-      "id": "f023db147706",
-      "original_title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-      "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+      "id": "5169b8f6ae6f",
+      "original_title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
+      "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
       "summary": [
-        "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている",
-        "詐欺メールの報告件数などに動きはあるのか",
-        "推移を監視する企業や組織に聞いてみた"
+        "三井化学が、半導体材料大手JSRを約1.8兆円で買収する",
+        "市村社長は「単なるM＆Aではない」と説明する",
+        "巨額を投じた買収の狙いは"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "published": "2026-11-09 08:00"
+      "link": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
+      "published": "2026-11-10 12:00"
     },
     {
-      "id": "47ff79f46e70",
-      "original_title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
-      "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+      "id": "1738dd7388bd",
+      "original_title": "「探す」という呪縛から設計者が解放される日",
+      "title": "「探す」という呪縛から設計者が解放される日",
       "summary": [
-        "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック",
-        "院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか",
-        "患者役として模擬受診し、導入効果を聞いた"
+        "設計を始める前の“付帯業務”の負担が軽減されることを願います"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-      "published": "2026-11-09 08:00"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news008.html",
+      "published": "2026-11-10 12:00"
     },
     {
-      "id": "58f37ffdc039",
-      "original_title": "多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]",
-      "title": "多面ハーフミラーは魔法のよう。周りの明るさで見た目が変わるゲーミングPC ～パソコン工房「LEVEL∞ R-Class RGB Build ピラーレスモデル」[Sponsored]",
+      "id": "2da5aed8dd56",
+      "original_title": "26万円台のRyzen AI Max+ 388搭載ミニPC、MINISFORUMから",
+      "title": "26万円台のRyzen AI Max+ 388搭載ミニPC、MINISFORUMから",
       "summary": [
-        "パソコン工房の「LEVEL∞ R-Class RGB Build ピラーレスモデル」は、6面のハーフミラーガラスを採用した、ユニークなビジュアルが特徴のミドルタワー型ゲーミングPCだ"
+        "MINISFORUMは、Ryzen AI Max+ 388搭載のミニPC「T5 Max-388」を発表した",
+        "出荷は11月25日を予定しており、執筆時点での直販価格は26万3,999円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2150897.html",
-      "published": "2026-11-09 10:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2155102.html",
+      "published": "2026-11-10 12:50"
     },
     {
-      "id": "c3dc4307eb1f",
-      "original_title": "【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ",
-      "title": "【本日みつけたお買い得品】32GBメモリのRyzen AI 7 445搭載ノートが3万円オフ",
+      "id": "8d462777bf5f",
+      "original_title": "【本日みつけたお買い得品】約2万円引き！SteelSeriesのUSB対応ミキサーとXLRマイクセットがスマイルSaleで販売中",
+      "title": "【本日みつけたお買い得品】約2万円引き！SteelSeriesのUSB対応ミキサーとXLRマイクセットがスマイルSaleで販売中",
       "summary": [
-        "Amazonにおいて、16型ノートPCのHP「OmniBook 5 16-bp」が直近価格から3万円引きで、25万4,800円にて購入可能となっている"
+        "Amazonでは、11月4日から12日にかけてスマイルSaleを開催している",
+        "セールにおいて、SteelSeriesのXLRマイクとミキサーがセットになった「SteelSeries Alias Proキット」が、11月4日頃の価格から1万8,047円引きとなる4万4,242円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154656.html",
-      "published": "2026-11-09 09:48"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155079.html",
+      "published": "2026-11-10 12:00"
     },
     {
-      "id": "722fac3e391f",
-      "original_title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
-      "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+      "id": "3ce46f0aeefd",
+      "original_title": "NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明",
+      "title": "NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明",
       "summary": [
-        "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が驚くほど簡単にできるということで、実際に試してみました",
-        "続きを読む..."
+        "NVIDIAのジェンスン・フアンCEOが、NVIDIA製AIチップを中国に横流ししている疑いがあるシンガポール企業Megaspeedの幹部女性と不倫しました",
+        "これに関連し、Megaspeedを調査していたアメリカの商務省に、NVIDIAの弁護士から過去に接触があったことが判明しています",
+        "この介入により商務省は調査の中断を余儀なくされたと報じられています"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
-      "published": "2026-11-09 09:00"
+      "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/",
+      "published": "2026-11-10 12:50"
     },
     {
-      "id": "e4c422dd9912",
-      "original_title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
-      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+      "id": "54f5755848b9",
+      "original_title": "誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除",
+      "title": "誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除",
       "summary": [
-        "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました",
-        "P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています",
-        "続きを読む..."
+        "詐欺的な広告やサイトのコンテンツを覆い隠す不快な広告が爆増しており、Googleへ通報してもイタチごっこで対応が追いつかない状況になっています",
+        "そうした広告に悩まされるのはAndroidやiPhoneなどのスマホを使っている時だけではなく、WindowsやMacのPCでウェブサイトを見たりアプリを使ったりしているときも同じ",
+        "今回はGIGAZINE編集部がオススメする「AdGuard 広告ブロッカー」のWindows版とMac版の導入から設定までをまとめるとともに、いろいろなサイトやアプリでしっか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261109-pjit-21k/",
-      "published": "2026-11-09 07:00"
+      "link": "https://gigazine.net/news/20261110-adguard-windows-mac/",
+      "published": "2026-11-10 09:00"
     },
     {
-      "id": "3824364868c0",
-      "original_title": "Claude Code 2.1.309〜318まとめ：claude -pが黙って成功しなくなり、ultrathinkはxhighに",
-      "title": "Claude Code 2.1.309〜318まとめ：claude -pが黙って成功しなくなり、ultrathinkはxhighに",
+      "id": "6b4b80896ed1",
+      "original_title": "営業メモからAIに「商談前チェック」を作らせるとき、線を引くのは確認事項と推測の境目",
+      "title": "営業メモからAIに「商談前チェック」を作らせるとき、線を引くのは確認事項と推測の境目",
       "summary": [
-        "3 行まとめ 2026年10月22日〜11月4日の Claude Code（v2.1.309〜v2.1.318）は、claude -p の「失敗したのに exit 0」を潰す修正がいくつも入った",
-        "cron や CI で無人実行しているなら、この期間の更新がいちばん効く ..."
+        "執筆: 水原聡 / 2026-11-10 / 対象: 非技術職の経営・管理職 この記事で扱うこと 営業部門へのAI導入で手始めによく選ばれるのが、商談前の準備作業の軽量化だ",
+        "本記事では「過去の顧客メモからAIに確認事項を抽出させる」レシピを、製造業の営業部門の例とともに整..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/b46486a625bdc78ea4bb",
-      "published": "2026-11-09 10:15"
+      "link": "https://qiita.com/satoshimizuhara/items/9dded942dae161aa2765",
+      "published": "2026-11-10 12:52"
     },
     {
-      "id": "11bd63e4f51b",
-      "original_title": "【ChatGPT×自動化】実務成果物を一撃生成するプロンプト設計パターンと実践テンプレ3選",
-      "title": "【ChatGPT×自動化】実務成果物を一撃生成するプロンプト設計パターンと実践テンプレ3選",
+      "id": "f7150cb99cf3",
+      "original_title": "Meta「Muse」まとめ——9月の発表から日本上陸・Muse Voice・Spacesまでの2か月を時系列で整理",
+      "title": "Meta「Muse」まとめ——9月の発表から日本上陸・Muse Voice・Spacesまでの2か月を時系列で整理",
       "summary": [
-        "「ChatGPTに頼んだのに、出てきた成果物をそのまま使えなかった」——業務でAIを使い始めた人が最初にぶつかる壁です",
-        "原因の多くはモデルの性能ではなく、プロンプトが「指示」の粒度で書かれていることにあります",
-        "人間同士なら「いい感じにまとめて」で通じますが、LLMは前回の..."
+        "3 行まとめ Meta のパーソナル AI エージェント「Muse」は、2026年9月8日に米国で始まった",
+        "10月23日には北米以外で初めて日本でも提供が始まり、11月には音声通話の Muse Voice（米国のみ）と、会話で自分用のミニアプリを作れる Spaces が..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ai_hack_lab/items/bbc4d5f93e0dfc8164fb",
-      "published": "2026-11-09 10:01"
+      "link": "https://qiita.com/sakutto-panda/items/8462170d9c7f40efb9da",
+      "published": "2026-11-10 12:51"
     },
     {
-      "id": "587c2e9e125a",
-      "original_title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "title": "Nvidia、CEOのジェンスン・ファンと中国スパイの可能性のある人物との関係を調査へ",
+      "id": "c1cc7aa0a415",
+      "original_title": "Anthropic reportedly plans to move forward with IPO plans",
+      "title": "アンスロピックはIPO計画を進める予定と伝えられている",
       "summary": [
-        "黄氏は会社に宛てたメモの中で不倫を認めた"
+        "ウォール・ストリート・ジャーナル紙の報道によると、AI企業は今週、評価レンジを設定する予定だという"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "published": "2026-11-08 21:00"
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "2026-11-10 01:27"
     },
     {
-      "id": "ecd88f1bc762",
-      "original_title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "title": "中間選挙の後、イーロン・マスクとデータセンターにとって事態は険しいものになりそうだ",
+      "id": "d67622e90ae0",
+      "original_title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "title": "ジェンセン・ファンは、1年前に大々的なセックススキャンダルを扱ってきたPR会社と契約したと報じられている",
       "summary": [
-        "「株式」では、テクノロジー業界にとって中間期が何を意味するのかを明らかにしました"
+        "ワイアードの報道によると、このPR会社は、2025年10月のニューヨーク・タイムズ紙の報道でアリス・ファンとジェンセン・ファンのビジネス取引が記載された直後に加わったという"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "published": "2026-11-07 22:07"
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "published": "2026-11-09 23:28"
     }
   ]
 }
