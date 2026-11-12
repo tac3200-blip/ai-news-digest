@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 10:43",
+  "updated_at": "2026-11-12 11:42",
   "total_count": 19,
   "articles": [
     {
@@ -16,251 +16,252 @@
       "published": "2026-11-12 00:00"
     },
     {
-      "id": "c255be83f061",
-      "original_title": "Helping caregivers use AI in everyday life",
-      "title": "Helping caregivers use AI in everyday life",
+      "id": "4c739ae92e53",
+      "original_title": "ChatGPT Plus for veterans and servicemembers",
+      "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": [
-        "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+        "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published": "2026-11-10 12:00"
-    },
-    {
-      "id": "1add5123b679",
-      "original_title": "Introducing Businesses in ChatGPT",
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": [
-        "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published": "2026-11-10 10:00"
-    },
-    {
-      "id": "435c17e732bf",
-      "original_title": "Gemini Intelligence: New features, on more devices",
-      "title": "Gemini Intelligence: New features, on more devices",
-      "summary": [
-        "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "published": "2026-11-10 19:00"
-    },
-    {
-      "id": "96a653a3ded8",
-      "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": [
-        ""
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "published": "2026-11-10 14:00"
-    },
-    {
-      "id": "6f452fbff7da",
-      "original_title": "Google Cloud launches Gemini for healthcare.",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": [
-        ""
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "published": "2026-11-10 13:00"
-    },
-    {
-      "id": "40e6483d3c8d",
-      "original_title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "summary": [
-        "Kimi K3.1 Pro Highspeed from Moonshot AI is now available on Amazon Bedrock . Part of Moonshot AI’s new K3.1 series, it’s a post-trained version of Kimi K3 with the same 3T-class open-weight architecture and 1-million-token context window, trained wi"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
-      "published": "2026-11-11 01:07"
-    },
-    {
-      "id": "ab3bf86e55b4",
-      "original_title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
-      "summary": [
-        "AI agents increasingly handle work that depends on what changed today, such as security advisories, product releases, prices, and regulations. A model’s training data can’t answer those questions, so agents need web search. For production use, teams"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
-      "published": "2026-11-10 23:34"
-    },
-    {
-      "id": "bec70b747e41",
-      "original_title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
-      "summary": [
-        "When you deploy an agent to production, one of the hardest questions is whether it’s actually working",
-        "The bar isn’t whether it runs. It’s whether it does what the business needs, at scale. Many teams will tell you they can’t really see this. They sp"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
-      "published": "2026-11-10 22:35"
-    },
-    {
-      "id": "b505dc545bfa",
-      "original_title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
-      "summary": [
-        "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した",
-        "また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始",
-        "さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "published": "2026-11-11 09:33"
-    },
-    {
-      "id": "79ff4282f385",
-      "original_title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
-      "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
-      "summary": [
-        "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-      "published": "2026-11-11 09:27"
-    },
-    {
-      "id": "ba60a9a8236e",
-      "original_title": "【本日みつけたお買い得品】Acerの14型OLED搭載Androidタブレットが約8千円引き！AmazonスマイルSale",
-      "title": "【本日みつけたお買い得品】Acerの14型OLED搭載Androidタブレットが約8千円引き！AmazonスマイルSale",
-      "summary": [
-        "Amazonでは11月4日から12日までスマイルSaleを開催している",
-        "セールにおいて、Acerの14.0型Androidタブレット「Iconia X14」(X14-11MN-H16Q)が、直近価格から7,921円引きとなる6万9,879円で販売されている"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2155384.html",
-      "published": "2026-11-11 10:39"
-    },
-    {
-      "id": "3780dca76c14",
-      "original_title": "レノボ、RTX Spark搭載でペン入力対応の16型2in1",
-      "title": "レノボ、RTX Spark搭載でペン入力対応の16型2in1",
-      "summary": [
-        "レノボ・ジャパンは、RTX Spark N1Xを搭載するノートPC「Yoga 9n 2-in-1 Gen 11」および「Yoga Pro 9n Gen 11」を順次販売している",
-        "Grace CPUとBlackwell RTX GPUを統合したArmベースのプラットフォームとユニファイドメモリを備え、ローカル環境でのAI処理や映像制作などに対応する"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2155355.html",
-      "published": "2026-11-11 09:53"
-    },
-    {
-      "id": "7366f3d32d15",
-      "original_title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
-      "title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
-      "summary": [
-        "ゲームを長時間プレイしたときにスマートフォンがどれくらい熱くなるのかや、冷凍食品を調理するとどんな仕上がりになるのかなど、実際に製品を買う前にレビューを読んで確かめておきたいことはいろいろあります",
-        "GIGAZINEでは編集部が製品やサービスを実際に試してレビューする記事広告をこれまでに多数掲載していますが、そんな記事広告でどういう製品やサービスを取り上げてほしいのかを2026年夏に実施した読者アンケートで聞いてみました",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261111-gigazine-review-survey/",
-      "published": "2026-11-11 09:00"
-    },
-    {
-      "id": "defc29f8416f",
-      "original_title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
-      "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
-      "summary": [
-        "AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります",
-        "そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています",
-        "続きを読む..."
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
       "published": "2026-11-11 08:00"
     },
     {
-      "id": "c70994978161",
-      "original_title": "自作MCPサーバー その7",
-      "title": "自作MCPサーバー その7",
+      "id": "24d430045124",
+      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "summary": [
-        "概要 MCPサーバーが気になったので、調べてみた",
-        "AIに聞いた",
-        "サンプルやってみた"
+        "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11 00:00"
+    },
+    {
+      "id": "430de90a688b",
+      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": [
+        "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "published": "2026-11-11 18:00"
+    },
+    {
+      "id": "aaca6b8be3b9",
+      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": [
+        ""
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "published": "2026-11-11 16:00"
+    },
+    {
+      "id": "c74501d80975",
+      "original_title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": [
+        "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "published": "2026-11-11 09:00"
+    },
+    {
+      "id": "fb1254279182",
+      "original_title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "summary": [
+        "Java teams have established JVM tooling, continuous integration and continuous delivery (CI/CD) pipelines, and operational patterns, yet taking AI agents from prototype to production is hard: agent frameworks do not solve scalability, governance, sec"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "published": "2026-11-12 01:18"
+    },
+    {
+      "id": "2127063d7459",
+      "original_title": "OpenAI Codex on Amazon Bedrock",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "summary": [
+        "Developers increasingly use Codex with Amazon Bedrock to explore unfamiliar code, make changes, and handle repetitive engineering work. For platform teams, the challenge is to make those tools available without creating a second model-access, identit"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+      "published": "2026-11-11 23:35"
+    },
+    {
+      "id": "fedf5e856954",
+      "original_title": "Semantic diffing of formal policies with anti-unification",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "summary": [
+        "When reviewing code, you start with a diff. You wouldn’t compare two 3,000-line files by eye and hope to spot every change. Formal policies can be even harder to compare because a textual diff often highlights syntactic changes that don’t affect mean"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+      "published": "2026-11-11 23:33"
+    },
+    {
+      "id": "d3a1c3cd4d62",
+      "original_title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "summary": [
+        "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した",
+        "機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている",
+        "米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "published": "2026-11-12 10:49"
+    },
+    {
+      "id": "240037c1bdd0",
+      "original_title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "summary": [
+        "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した",
+        "すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない",
+        "開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "ITmedia AI+",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "published": "2026-11-12 09:56"
+    },
+    {
+      "id": "321eafc8c24b",
+      "original_title": "Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる",
+      "title": "Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる",
+      "summary": [
+        "Adobeは11月10日から、同社の年次イベント「Adobe MAX 2026」を、米国フロリダ州マイアミビーチ市の会場で開催している",
+        "その2日目の夕方には、Adobeの年次イベントで恒例となっている「Sneaks」(スニークス)が開催された",
+        "AdobeイベントでのSneaksは、Adobeの研究開発部門となる「Adobe Labs」に属する若手研究者が自分の進めている研究を発表する晴れの場"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "PC Watch (AI)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2155787.html",
+      "published": "2026-11-12 11:31"
+    },
+    {
+      "id": "c69aba670b06",
+      "original_title": "GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応",
+      "title": "GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応",
+      "summary": [
+        "TypeSafe AIの「Jev」で注目を集めた、文章を生成せず“判断だけ”を返すモデルの分野に、Googleも参入した",
+        "Googleは11月11日(米国時間)、判定処理に特化したAPI「Gemini Decisions API」を発表した",
+        "新モデル「Gemini Decision 1」を使用するもので、Google AI StudioのGemini API経由で同日から利用できる"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "PC Watch (AI)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
+      "published": "2026-11-12 10:54"
+    },
+    {
+      "id": "5a791b9af204",
+      "original_title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
+      "title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
+      "summary": [
+        "NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261112-nvidia-preparing-oust-ceo/",
+      "published": "2026-11-12 11:39"
+    },
+    {
+      "id": "9c70bbe1ab62",
+      "original_title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+      "summary": [
+        "Appleが2026年11月10日、Apple製品のユーザー同士が質問や回答を投稿できるAppleサポートコミュニティを11月20日に閉鎖すると発表しました",
+        "1998年から名称を変えながら運営されてきたフォーラムが、約28年の歴史に幕を下ろします",
+        "続きを読む..."
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "GIGAZINE",
+      "link": "https://gigazine.net/news/20261112-apple-support-community-closing/",
+      "published": "2026-11-12 11:04"
+    },
+    {
+      "id": "3bf12c235d8e",
+      "original_title": "Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい",
+      "title": "Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい",
+      "summary": [
+        "3 行まとめ Meta の AI エージェント「Muse」は、アプリとしては「人にメッセージを送る感覚で頼むと、裏で作業を進めて、必要なときだけ戻ってくる」相棒だ",
+        "日本でも10月23日から iOS・Android・muse.ai で使える 一番面白いのは、11月6日に出..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ohisama@github/items/c72c33d55f127bb7bc17",
-      "published": "2026-11-11 10:41"
+      "link": "https://qiita.com/sakutto-panda/items/844a346e6bac0b7afc46",
+      "published": "2026-11-12 11:33"
     },
     {
-      "id": "5241ed05f537",
-      "original_title": "2026年11月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "title": "2026年11月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "id": "81c7873d3dc9",
+      "original_title": "AI動向と最新ニュース",
+      "title": "AI動向と最新ニュース",
       "summary": [
-        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
-        "通勤中などにながら聴きしよう",
-        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【公式】Pyxel 3.0リリース"
+        "ソース資料（ニュースレター『AINews』）は、AI業界におけるビジネス構造と経済学的インパクトについて、巨大なパラダイムシフトが進行中であることを提示しています",
+        "具体的には、以下の 6つの重要視点 からAI経済の現在地と将来像を描き出しています",
+        "1. 超高速..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ennagara128/items/16da3f3418ad1d1f3daa",
-      "published": "2026-11-11 10:34"
+      "link": "https://qiita.com/maskot1977/items/25986594ed03958188dd",
+      "published": "2026-11-12 11:07"
     },
     {
-      "id": "82946c32005b",
-      "original_title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "id": "83e141e48b69",
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": [
-        "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+        "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "published": "2026-11-10 21:08"
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "published": "2026-11-11 23:50"
     },
     {
-      "id": "9fe84aa4d995",
-      "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "id": "74c6a5db722b",
+      "original_title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "summary": [
-        "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+        "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "published": "2026-11-10 20:52"
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "published": "2026-11-11 23:28"
     }
   ]
 }
