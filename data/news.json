@@ -1,52 +1,65 @@
 {
-  "updated_at": "2026-11-12 11:42",
+  "updated_at": "2026-11-13 11:25",
   "total_count": 19,
   "articles": [
     {
-      "id": "7dd7df1db20f",
-      "original_title": "Gilbert + Tobin rethinks the business of law with AI",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "id": "fc037eeb5af3",
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "title": "Amplitude が OpenAI を使用して製品の改良を 1 ～ 2 日で出荷する方法",
       "summary": [
-        "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+        "主に OpenAI モデルに基づいて構築された Amplitude のプロアクティブな製品エージェントである Wave は、何を構築するかを特定し、チームがコーディング エージェントを使用して変更を出荷するのを支援し、その影響を測定します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "published": "2026-11-12 00:00"
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "published": "2026-11-12 20:00"
     },
     {
-      "id": "4c739ae92e53",
-      "original_title": "ChatGPT Plus for veterans and servicemembers",
-      "title": "ChatGPT Plus for veterans and servicemembers",
+      "id": "c8f5d186ad46",
+      "original_title": "Gondola doubles revenue as its team builds more with Codex",
+      "title": "Gondola は、チームが Codex を使用してより多くの構築を行うことで収益を 2 倍にします",
       "summary": [
-        "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+        "Gondola は、Codex がリード エンジニアの生産量を 50% 向上させ、ChatGPT が日常業務を簡素化することで、クリエイターの信用を得て雇用されるのに役立ちます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "published": "2026-11-11 08:00"
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "published": "2026-11-12 12:00"
     },
     {
-      "id": "24d430045124",
-      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "id": "215c4cee2a38",
+      "original_title": "Holiday Extras is rethinking what it can build with Codex",
+      "title": "Holiday Extras は Codex で何を構築できるかを再考しています",
       "summary": [
-        "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+        "Codex を使用することで、Holiday Extras は顧客の専門知識をより優れたアプリに変え、予約コンバージョン率を高め、新たな成長の可能性を実現しています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published": "2026-11-11 00:00"
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "2026-11-12 09:30"
+    },
+    {
+      "id": "0a804a04ff05",
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "title": "Google 検索が Gemini 4 Hydrogen で大幅にアップグレード",
+      "summary": [
+        "私たちは、より役立つ、視覚的、直観的な応答を提供するために、Gemini 4 Hydrogen を世界中の Google 検索に導入します"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "published": "2026-11-12 18:00"
     },
     {
       "id": "430de90a688b",
       "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "title": "Gemini Decisions API: 迅速で調整されたマルチモーダルな意思決定",
       "summary": [
-        "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+        "最先端のモデル Gemini Decision を活用した Gemini Decisions API を利用して、迅速に調整されたマルチモーダルな意思決定を実現します"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,7 +70,7 @@
     {
       "id": "aaca6b8be3b9",
       "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "title": "テーブルトップを試してみましょう: グループが一緒に計画したり、遊んだり、さらに多くのことを行うための、カスタマイズ可能な共同スペースです。",
       "summary": [
         ""
       ],
@@ -68,200 +81,186 @@
       "published": "2026-11-11 16:00"
     },
     {
-      "id": "c74501d80975",
-      "original_title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "id": "dfacfcd6268b",
+      "original_title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "title": "SGLang-Neuron を使用して AWS Trainium にフロンティア AI モデルをデプロイする",
       "summary": [
-        "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "published": "2026-11-11 09:00"
-    },
-    {
-      "id": "fb1254279182",
-      "original_title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "summary": [
-        "Java teams have established JVM tooling, continuous integration and continuous delivery (CI/CD) pipelines, and operational patterns, yet taking AI agents from prototype to production is hard: agent frameworks do not solve scalability, governance, sec"
+        "本日、Amazon は、SGLang-Neuron が一般公開され、RadixArk が Annapurna Labs と協力してリリースした AWS Deep Learning Container を通じてアクセスできることを発表しました",
+        "SGLang-Neuron を使用すると、モデルを提供し、援軍を生成できます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
-      "published": "2026-11-12 01:18"
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+      "published": "2026-11-12 22:03"
     },
     {
-      "id": "2127063d7459",
-      "original_title": "OpenAI Codex on Amazon Bedrock",
-      "title": "OpenAI Codex on Amazon Bedrock",
+      "id": "3f348a8fa020",
+      "original_title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "title": "Natera が Amazon Bedrock AgentCore を使用してラボ運用用のエージェント AI システムを設計した方法",
       "summary": [
-        "Developers increasingly use Codex with Amazon Bedrock to explore unfamiliar code, make changes, and handle repetitive engineering work. For platform teams, the challenge is to make those tools available without creating a second model-access, identit"
+        "無細胞 DNA (cfDNA) 検査のリーダーである Natera では、機器のダウンタイムによりサンプル処理が中断されるため、ラボ機器を稼働し続けることが非常に重要です",
+        "Ariel Jirau が率いる Natera のラボエンジニアリングチームは AWS と協力して SWARM (システム) を構築しました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
-      "published": "2026-11-11 23:35"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+      "published": "2026-11-12 21:47"
     },
     {
-      "id": "fedf5e856954",
-      "original_title": "Semantic diffing of formal policies with anti-unification",
-      "title": "Semantic diffing of formal policies with anti-unification",
+      "id": "8e6ad6458666",
+      "original_title": "Four Amazon Bedrock inference choices that affect cost",
+      "title": "コストに影響を与える 4 つの Amazon Bedrock 推論の選択肢",
       "summary": [
-        "When reviewing code, you start with a diff. You wouldn’t compare two 3,000-line files by eye and hope to spot every change. Formal policies can be even harder to compare because a textual diff often highlights syntactic changes that don’t affect mean"
+        "プロンプトとアプリケーションロジックを調整した後も、Amazon Bedrock 推論の請求額は上昇し続ける可能性があります",
+        "リクエストレベルの選択により、サービスが処理するトークンの数とそれらに適用されるレートが変更される可能性があります",
+        "キャッシュ期間、サービス層、推論効果"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
-      "published": "2026-11-11 23:33"
+      "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+      "published": "2026-11-12 20:51"
     },
     {
-      "id": "d3a1c3cd4d62",
-      "original_title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
-      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "id": "ad8174f016b1",
+      "original_title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
+      "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
       "summary": [
-        "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した",
-        "機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている",
-        "米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる"
+        "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた",
+        "なぜ今なのか",
+        "背景や狙いを聞いた"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
-      "published": "2026-11-12 10:49"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+      "published": "2026-11-13 10:44"
     },
     {
-      "id": "240037c1bdd0",
-      "original_title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
-      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "id": "723d355ecaca",
+      "original_title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+      "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
       "summary": [
-        "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した",
-        "すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない",
-        "開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる"
+        "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
-      "published": "2026-11-12 09:56"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+      "published": "2026-11-13 10:22"
     },
     {
-      "id": "321eafc8c24b",
-      "original_title": "Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる",
-      "title": "Adobe MAX 2026 Sneaksで10の新技術、うち2つは今すぐ試せる",
+      "id": "5a19fec4eead",
+      "original_title": "【本日みつけたお買い得品】iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール",
+      "title": "【本日みつけたお買い得品】iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール",
       "summary": [
-        "Adobeは11月10日から、同社の年次イベント「Adobe MAX 2026」を、米国フロリダ州マイアミビーチ市の会場で開催している",
-        "その2日目の夕方には、Adobeの年次イベントで恒例となっている「Sneaks」(スニークス)が開催された",
-        "AdobeイベントでのSneaksは、Adobeの研究開発部門となる「Adobe Labs」に属する若手研究者が自分の進めている研究を発表する晴れの場"
+        "Amazonにおいて、Appleの11型タブレット「iPad Air(M4)」のWi-Fiモデルと「AppleCare+」のセット商品「Apple 11インチiPad Air(M4) + AppleCare+セット」が、直近価格から1万5,221円引きとなる12万9,380円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2155787.html",
-      "published": "2026-11-12 11:31"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156158.html",
+      "published": "2026-11-13 11:12"
     },
     {
-      "id": "c69aba670b06",
-      "original_title": "GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応",
-      "title": "GoogleもJev型の“判断だけAI”をAPIで提供。PDFや画像も対応",
+      "id": "69348fad84a7",
+      "original_title": "【本日みつけたお買い得品】レノボのノートが約1万8,000円引きの8万円台で販売中",
+      "title": "【本日みつけたお買い得品】レノボのノートが約1万8,000円引きの8万円台で販売中",
       "summary": [
-        "TypeSafe AIの「Jev」で注目を集めた、文章を生成せず“判断だけ”を返すモデルの分野に、Googleも参入した",
-        "Googleは11月11日(米国時間)、判定処理に特化したAPI「Gemini Decisions API」を発表した",
-        "新モデル「Gemini Decision 1」を使用するもので、Google AI StudioのGemini API経由で同日から利用できる"
+        "Amazonにおいて、レノボのCore 3搭載15.3型ノートPC「IdeaPad Slim 3」(83RR00LBJP)が、直近価格の1万7,337円引きとなる8万4,800円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
-      "published": "2026-11-12 10:54"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156155.html",
+      "published": "2026-11-13 11:07"
     },
     {
-      "id": "5a791b9af204",
-      "original_title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
-      "title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
+      "id": "15b617de878a",
+      "original_title": "X(旧Twitter)で投稿できる写真・動画の数が4個から5倍の20個に増加",
+      "title": "X(旧Twitter)で投稿できる写真・動画の数が4個から5倍の20個に増加",
       "summary": [
-        "NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました",
+        "過去10年間にわたってX(旧Twitter)で投稿できる写真や動画といったメディアファイルの数は最大4個でした",
+        "これがついにアップデートされ、最大20個のメディアファイルを同時に投稿できるようになっています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261112-nvidia-preparing-oust-ceo/",
-      "published": "2026-11-12 11:39"
+      "link": "https://gigazine.net/news/20261113-x-share-20-photos-videos-per-post/",
+      "published": "2026-11-13 11:09"
     },
     {
-      "id": "9c70bbe1ab62",
-      "original_title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
-      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+      "id": "e4718caca36a",
+      "original_title": "2026年のCPU-Z統計ではメモリ64GB搭載PCの割合が2025年の同時期より18％減少、旧世代のDDR4はシェア拡大",
+      "title": "2026年のCPU-Z統計ではメモリ64GB搭載PCの割合が2025年の同時期より18％減少、旧世代のDDR4はシェア拡大",
       "summary": [
-        "Appleが2026年11月10日、Apple製品のユーザー同士が質問や回答を投稿できるAppleサポートコミュニティを11月20日に閉鎖すると発表しました",
-        "1998年から名称を変えながら運営されてきたフォーラムが、約28年の歴史に幕を下ろします",
+        "PCの構成を調べられる無料ソフト「CPU-Z」の開発元であるCPUIDが、2026年11月時点のハードウェア統計を公開しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261112-apple-support-community-closing/",
-      "published": "2026-11-12 11:04"
+      "link": "https://gigazine.net/news/20261113-cpu-z-64gb-ram-ddr4/",
+      "published": "2026-11-13 09:15"
     },
     {
-      "id": "3bf12c235d8e",
-      "original_title": "Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい",
-      "title": "Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい",
+      "id": "3b3e0e8398e5",
+      "original_title": "調査の起点はWiki、見解の分岐はマルチモデルチャットで見る",
+      "title": "調査の起点はWiki、見解の分岐はマルチモデルチャットで見る",
       "summary": [
-        "3 行まとめ Meta の AI エージェント「Muse」は、アプリとしては「人にメッセージを送る感覚で頼むと、裏で作業を進めて、必要なときだけ戻ってくる」相棒だ",
-        "日本でも10月23日から iOS・Android・muse.ai で使える 一番面白いのは、11月6日に出..."
+        "AIの説明を一つのチャットにまとめると、読みやすい一方で、モデルごとの違いが見えにくくなる",
+        "同じ問いに対して、あるモデルは定義を先に置き、別のモデルは適用範囲や限界を先に出す、ということはよくある",
+        "その分岐を平均して一つの段落にすると、あとから「どこで判断が分かれたか」を追..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/844a346e6bac0b7afc46",
-      "published": "2026-11-12 11:33"
+      "link": "https://qiita.com/zhe_Joce/items/794265d561b64a119452",
+      "published": "2026-11-13 11:24"
     },
     {
-      "id": "81c7873d3dc9",
-      "original_title": "AI動向と最新ニュース",
-      "title": "AI動向と最新ニュース",
+      "id": "fae7e3e34378",
+      "original_title": "Claude Opus 5.5 と Fable 5.2、結局どっちを使う？違いと使い分けを整理した",
+      "title": "Claude Opus 5.5 と Fable 5.2、結局どっちを使う？違いと使い分けを整理した",
       "summary": [
-        "ソース資料（ニュースレター『AINews』）は、AI業界におけるビジネス構造と経済学的インパクトについて、巨大なパラダイムシフトが進行中であることを提示しています",
-        "具体的には、以下の 6つの重要視点 からAI経済の現在地と将来像を描き出しています",
-        "1. 超高速..."
+        "はじめに 2026年11月9日に Claude Fable 5.2 がリリースされました",
+        "9月22日に出た Claude Opus 5.5 と比べて「何が違うのか」「どちらを使うべきか」を、公式ドキュメント・公式発表と第三者のベンチマーク集計をもとに整理します",
+        "⚠️ ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/maskot1977/items/25986594ed03958188dd",
-      "published": "2026-11-12 11:07"
+      "link": "https://qiita.com/kazutoyamaura/items/c6c77ee9f989d0bd5e4f",
+      "published": "2026-11-13 11:22"
     },
     {
-      "id": "83e141e48b69",
-      "original_title": "The unfolding Jensen Huang scandal: a timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "id": "10bd1f4b1e9b",
+      "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "title": "民主党がNVIDIAの調査を開始、フアン氏とトランプ氏の「陰謀」について痛烈な書簡を書く",
       "summary": [
-        "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+        "Nvidiaの中国販売とトランプ大統領との取引に関する今回の議会調査は、スパイ事件疑惑のニュースが報道されて以来、これまでのところ2回目となる"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "2026-11-11 23:50"
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "published": "2026-11-12 22:42"
     },
     {
-      "id": "74c6a5db722b",
-      "original_title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "id": "52854e62ac53",
+      "original_title": "Muse can now place calls to US businesses — if you pay",
+      "title": "Muse は料金を支払えば米国の企業に電話をかけることができるようになりました",
       "summary": [
-        "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+        "Muse の AI は米国企業に発信できるようになりましたが、無料ではありません"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "published": "2026-11-11 23:28"
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "published": "2026-11-12 22:22"
     }
   ]
 }
