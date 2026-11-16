@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-11-15 10:31",
+  "updated_at": "2026-11-16 10:35",
   "total_count": 19,
   "articles": [
+    {
+      "id": "422f465ed3fc",
+      "original_title": "A step toward defining the Standard Model on a lattice",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": [
+        "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published": "2026-11-15 22:00"
+    },
+    {
+      "id": "8e0c3c49390d",
+      "original_title": "Our new blog for science",
+      "title": "Our new blog for science",
+      "summary": [
+        "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "OpenAI (公式)",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "published": "2026-11-15 22:00"
+    },
     {
       "id": "108e1f45e044",
       "original_title": "Introducing ChatGPT Wallet",
@@ -14,32 +40,6 @@
       "source_name": "OpenAI (公式)",
       "link": "https://openai.com/index/introducing-chatgpt-wallet",
       "published": "2026-11-13 15:00"
-    },
-    {
-      "id": "9534fe073f8b",
-      "original_title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": [
-        "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "published": "2026-11-13 08:00"
-    },
-    {
-      "id": "fc037eeb5af3",
-      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": [
-        "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "published": "2026-11-12 20:00"
     },
     {
       "id": "0a804a04ff05",
@@ -120,143 +120,143 @@
       "published": "2026-11-13 22:02"
     },
     {
-      "id": "60fd3ee76036",
-      "original_title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-      "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+      "id": "484a86a70b92",
+      "original_title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
       "summary": [
-        "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している"
+        "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した",
+        "実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する",
+        "米国のChatGPT Pro加入者向けに提供を開始した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-      "published": "2026-11-14 20:35"
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "published": "2026-11-16 09:49"
     },
     {
-      "id": "ceb89e42e5b1",
-      "original_title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
-      "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+      "id": "ba5746481d22",
+      "original_title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
       "summary": [
-        "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏",
-        "“皿洗い”から億万長者へと至った半生を振り返る"
+        "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
-      "published": "2026-11-14 07:30"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+      "published": "2026-11-16 09:44"
     },
     {
-      "id": "5f62b24d0434",
-      "original_title": "【本日みつけたお買い得品】1万円台で27型IPS＋120Hz！ASUSのアイケアモニターが値下げ中",
-      "title": "【本日みつけたお買い得品】1万円台で27型IPS＋120Hz！ASUSのアイケアモニターが値下げ中",
+      "id": "d81832fa7fc4",
+      "original_title": "【本日みつけたお買い得品】デルの省スペースデスクトップが2万5千円引き。DVD±RWドライブ付属",
+      "title": "【本日みつけたお買い得品】デルの省スペースデスクトップが2万5千円引き。DVD±RWドライブ付属",
       "summary": [
-        "Amazonにて、ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている",
-        "27型の「VY279HGR」は直近価格から2,820円引きとなる1万3,980円で購入可能だ"
+        "Amazonにおいて、デルのデスクトップPC「Dell スリム デスクトップ」が11月3日の価格から2万5,000円引きで、21万980円にて購入可能だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156469.html",
-      "published": "2026-11-14 09:14"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156576.html",
+      "published": "2026-11-16 10:18"
     },
     {
-      "id": "af87f887279d",
-      "original_title": "【本日みつけたお買い得品】REGZAの27型WQHDアイケアモニターが1万870円引き、Amazonでセール",
-      "title": "【本日みつけたお買い得品】REGZAの27型WQHDアイケアモニターが1万870円引き、Amazonでセール",
+      "id": "f8658592ddd6",
+      "original_title": "【本日みつけたお買い得品】7万円のオフ！RTX 5070 Ti/Ryzen 7 HX搭載ゲーミングノートが大幅値引き",
+      "title": "【本日みつけたお買い得品】7万円のオフ！RTX 5070 Ti/Ryzen 7 HX搭載ゲーミングノートが大幅値引き",
       "summary": [
-        "Amazonにて、REGZAのモニターがセール価格で販売されており、27型のWQHD(2,560×1,440ドット)対応モニター「RM-27N4SE」が、直近価格から1万870円引きの2万5,980円で購入できる"
+        "Amazonにおいて、16型ゲーミングノートPCのMSI「Raider A16 HX B8W」が直近価格から7万円引きで、43万9,800円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156468.html",
-      "published": "2026-11-14 09:06"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156574.html",
+      "published": "2026-11-16 10:18"
     },
     {
-      "id": "bd1a38353b86",
-      "original_title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
-      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+      "id": "5b1a6fd352fd",
+      "original_title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+      "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
       "summary": [
-        "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました",
+        "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています",
+        "そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261115-dayjob-tax/",
-      "published": "2026-11-15 10:00"
+      "link": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
+      "published": "2026-11-16 07:00"
     },
     {
-      "id": "71d8404e7c5d",
-      "original_title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
-      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+      "id": "b5decaca974f",
+      "original_title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+      "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
       "summary": [
-        "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています",
-        "AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています",
-        "オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を処理するようになったら、実際に重要な5%の対応能力は低下するのか"
+        "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました",
+        "通常はこのようにゲリラ的に設置されたものは市当局に撤去されますが、同じ活動家グループが設置した物を市が公式なものとして認めるという対応をした事例があります",
+        "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
-      "published": "2026-11-15 09:00"
+      "link": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
+      "published": "2026-11-16 02:07"
     },
     {
-      "id": "1a4faa71d310",
-      "original_title": "ゼロから作るDeep Learning全6冊を読破すると何ができるようになるのか",
-      "title": "ゼロから作るDeep Learning全6冊を読破すると何ができるようになるのか",
+      "id": "fbdb7164ce6d",
+      "original_title": "台湾華語 : ノーAIスロップ宣言",
+      "title": "台湾華語 : ノーAIスロップ宣言",
       "summary": [
-        "はじめに AIを使えることと、AIを作れることは違う",
-        "ChatGPTのAPIを呼び出したり、Pythonで機械学習ライブラリを動かしたりすることは、それほど難しくなくなった",
-        "しかし、ニューラルネットワークがなぜ学習できるのか、Transformerはどのように文章を処理..."
+        "ご提示いただいたソース「[AINews] The No AI Slop Manifesto」の内容に基づき、ビジネス・経済学の視点を取り入れた台湾系アイドル2人（怡婷：Yiting、佳蓁：Jiazhen）によるバイリンガルポッドキャストのオープニング対話スクリプトを作成しま..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/mahaya123/items/7b376637d60e4764e01d",
-      "published": "2026-11-15 09:58"
+      "link": "https://qiita.com/maszkot5/items/e4e2018eb5263fdbc82f",
+      "published": "2026-11-16 10:35"
     },
     {
-      "id": "2e81718cbd20",
-      "original_title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
-      "title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
+      "id": "06dab446a8b8",
+      "original_title": "AIを使うようになって、これから伸ばしたい力を考えてみた",
+      "title": "AIを使うようになって、これから伸ばしたい力を考えてみた",
       "summary": [
-        "はじめに AIアシスタントの「Grok Bot」を使い始めてみました",
-        "チャットで答えを返すだけでなく、自分専用のコンピューターを持っていて、こちらのアプリ（メールなど）に接続して実際に作業してくれるのが特徴です",
-        "この記事では、初回セットアップから、 メールアカウントの..."
+        "はじめに 僕は普段から、AIとよく会話しています",
+        "コードの説明を聞いたり、文章を整理したり、考えがまとまっていない段階で相談したり",
+        "会話を続けるうちに、「それなら一度試してみよう」と思えることも増えました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/junko105106/items/dbf759f029e31a5fa325",
-      "published": "2026-11-15 09:48"
+      "link": "https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799",
+      "published": "2026-11-16 10:29"
     },
     {
-      "id": "62369f415dc7",
-      "original_title": "Where was Nvidia’s security team?",
-      "title": "Where was Nvidia’s security team?",
+      "id": "3770fccbb7a8",
+      "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "summary": [
-        "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kin"
+        "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "published": "2026-11-15 00:08"
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "published": "2026-11-15 23:30"
     },
     {
-      "id": "bfbff22e59a0",
-      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "id": "e3b900bc3f65",
+      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "summary": [
-        "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        "\"Jensen is Nvidia, right",
+        "And so much of this economy is riding on Nvidia.\""
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "published": "2026-11-14 21:41"
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "published": "2026-11-15 21:56"
     }
   ]
 }
