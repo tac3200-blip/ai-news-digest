@@ -1,45 +1,58 @@
 {
-  "updated_at": "2026-11-16 10:35",
+  "updated_at": "2026-11-17 13:20",
   "total_count": 19,
   "articles": [
     {
-      "id": "422f465ed3fc",
-      "original_title": "A step toward defining the Standard Model on a lattice",
-      "title": "A step toward defining the Standard Model on a lattice",
+      "id": "51142d5f98cf",
+      "original_title": "Broadening access to AI for scientists",
+      "title": "Broadening access to AI for scientists",
       "summary": [
-        "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+        "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published": "2026-11-15 22:00"
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published": "2026-11-16 17:00"
     },
     {
-      "id": "8e0c3c49390d",
-      "original_title": "Our new blog for science",
-      "title": "Our new blog for science",
+      "id": "7dad325bba3b",
+      "original_title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "summary": [
-        "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+        "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "published": "2026-11-15 22:00"
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "published": "2026-11-16 17:00"
     },
     {
-      "id": "108e1f45e044",
-      "original_title": "Introducing ChatGPT Wallet",
-      "title": "Introducing ChatGPT Wallet",
+      "id": "1ed4e8cfab3d",
+      "original_title": "Science at the Frontier: How scientists use ChatGPT",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
       "summary": [
-        "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+        "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "published": "2026-11-13 15:00"
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "published": "2026-11-16 12:00"
+    },
+    {
+      "id": "b01907116908",
+      "original_title": "New Ask Maps features to help with holiday travel and prep",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": [
+        "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "published": "2026-11-16 14:00"
     },
     {
       "id": "0a804a04ff05",
@@ -68,195 +81,182 @@
       "published": "2026-11-11 18:00"
     },
     {
-      "id": "aaca6b8be3b9",
-      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "id": "5422a12f0a4d",
+      "original_title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
       "summary": [
-        ""
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "published": "2026-11-11 16:00"
-    },
-    {
-      "id": "f257b519a08c",
-      "original_title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "summary": [
-        "GS Caltex uses Amazon SageMaker Canvas and Amazon SageMaker Pipelines to connect process engineers’ models to production workflows. The South Korean energy and chemical company divides model development and operations between engineers with complemen"
+        "Users of a knowledge-grounded application expect it to remember them, not only to search well. They ask follow-up questions that make sense only in the context of the previous turn. They expect an answer about a policy or a procedure to reflect what"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
-      "published": "2026-11-13 23:22"
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "published": "2026-11-16 22:43"
     },
     {
-      "id": "3878f58f36b3",
-      "original_title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "id": "5e346fb64703",
+      "original_title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
       "summary": [
-        "Coding agents such as Claude Code and OpenAI Codex CLI work in tasks. A developer asks for a change, and the agent reads files, edits code, and runs tests until the work is done. One task can take a few model calls or dozens. What the developer pays"
+        "Financial institutions face a critical challenge: processing massive volumes of data with speed, accuracy, and compliance while operating under some of the world’s strictest regulatory frameworks. Duco is the agentic Operations platform for financial"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
-      "published": "2026-11-13 22:30"
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
+      "published": "2026-11-16 22:06"
     },
     {
-      "id": "67f8d9643a5c",
-      "original_title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "id": "2253463cdb6e",
+      "original_title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
       "summary": [
-        "Agents today review code, process claims, and run unattended for hours. Many also sit behind interactive experiences where a person waits for the first response. Amazon Bedrock AgentCore runtime gives these agents a fully managed, serverless environm"
+        "Enterprise teams are building multi-agent systems, and when early implementations fall short, the cause is rarely the model. Multi-agent coordination is a distributed systems problem, and many teams taking it on haven’t yet built distributed systems"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
-      "published": "2026-11-13 22:02"
+      "link": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
+      "published": "2026-11-16 21:53"
     },
     {
-      "id": "484a86a70b92",
-      "original_title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
-      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "id": "5a8b8477fed2",
+      "original_title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
       "summary": [
-        "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した",
-        "実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する",
-        "米国のChatGPT Pro加入者向けに提供を開始した"
+        "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-      "published": "2026-11-16 09:49"
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "published": "2026-11-17 12:00"
     },
     {
-      "id": "ba5746481d22",
-      "original_title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
-      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+      "id": "ddc35b8c91e5",
+      "original_title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
+      "title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
       "summary": [
-        "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した"
+        "AIエージェントの実証から本番運用へ――",
+        "IBMとMicrosoftは、6000種類超の構築済みエージェントやアセットをそろえた業界特化型の基盤「Imagine Enterprise」でこの移行を支援する",
+        "一から構築せず、既存システムも置き換えずに済むという仕組みとは"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
-      "published": "2026-11-16 09:44"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+      "published": "2026-11-17 11:30"
     },
     {
-      "id": "d81832fa7fc4",
-      "original_title": "【本日みつけたお買い得品】デルの省スペースデスクトップが2万5千円引き。DVD±RWドライブ付属",
-      "title": "【本日みつけたお買い得品】デルの省スペースデスクトップが2万5千円引き。DVD±RWドライブ付属",
+      "id": "dbe8b313a461",
+      "original_title": "【本日みつけたお買い得品】1食約203円！松屋の牛めしとカレーの2種32食セットが2,500円引き！Amazonセール中",
+      "title": "【本日みつけたお買い得品】1食約203円！松屋の牛めしとカレーの2種32食セットが2,500円引き！Amazonセール中",
       "summary": [
-        "Amazonにおいて、デルのデスクトップPC「Dell スリム デスクトップ」が11月3日の価格から2万5,000円引きで、21万980円にて購入可能だ"
+        "Amazonにおいて、松屋のどんぶり具材の定番「牛めし」と「オリジナルカレー」の2種類がそれぞれ16食ずつ、32食分がセットになった「松屋 ベストセレクト 大容量32食 牛めし16食・オリジナルカレー16食」が直近価格の2,500円引きとなる6,480円で販売されている",
+        "1食あたりの価格は約203円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156576.html",
-      "published": "2026-11-16 10:18"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156992.html",
+      "published": "2026-11-17 12:06"
     },
     {
-      "id": "f8658592ddd6",
-      "original_title": "【本日みつけたお買い得品】7万円のオフ！RTX 5070 Ti/Ryzen 7 HX搭載ゲーミングノートが大幅値引き",
-      "title": "【本日みつけたお買い得品】7万円のオフ！RTX 5070 Ti/Ryzen 7 HX搭載ゲーミングノートが大幅値引き",
+      "id": "d47b154cdaad",
+      "original_title": "【本日みつけたお買い得品】AnkerのUSB充電器が2,000円引き、Amazonセール中！",
+      "title": "【本日みつけたお買い得品】AnkerのUSB充電器が2,000円引き、Amazonセール中！",
       "summary": [
-        "Amazonにおいて、16型ゲーミングノートPCのMSI「Raider A16 HX B8W」が直近価格から7万円引きで、43万9,800円にて購入できる"
+        "Amazonにおいて、AnkerのUSB充電器「Anker 317 Charger(100W)」が、直近価格から2,000円引きとなる3,290円で販売されている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156574.html",
-      "published": "2026-11-16 10:18"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2156981.html",
+      "published": "2026-11-17 12:06"
     },
     {
-      "id": "5b1a6fd352fd",
-      "original_title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
-      "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+      "id": "20618cba13ff",
+      "original_title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
+      "title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
       "summary": [
-        "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています",
-        "そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています",
+        "2026年11月12日に発生したOutlookやExchange Onlineなどの世界規模のサービス障害について、Microsoftが11月16日に暫定的な調査報告書を公開しました",
+        "2026年7月のバグ修正によって混入した新たなバグと複数のインフラ上の問題が重なったことで、障害が連鎖的に拡大したことが明らかになっています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
-      "published": "2026-11-16 07:00"
+      "link": "https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/",
+      "published": "2026-11-17 13:05"
     },
     {
-      "id": "b5decaca974f",
-      "original_title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
-      "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+      "id": "77ac803a006e",
+      "original_title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
+      "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
       "summary": [
-        "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました",
-        "通常はこのようにゲリラ的に設置されたものは市当局に撤去されますが、同じ活動家グループが設置した物を市が公式なものとして認めるという対応をした事例があります",
+        "NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
-      "published": "2026-11-16 02:07"
+      "link": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
+      "published": "2026-11-17 12:37"
     },
     {
-      "id": "fbdb7164ce6d",
-      "original_title": "台湾華語 : ノーAIスロップ宣言",
-      "title": "台湾華語 : ノーAIスロップ宣言",
+      "id": "40438d84e71e",
+      "original_title": "Agent SkillsがLinux Foundation傘下に——手持ちの27スキルを仕様で検査したら6本が不合格",
+      "title": "Agent SkillsがLinux Foundation傘下に——手持ちの27スキルを仕様で検査したら6本が不合格",
       "summary": [
-        "ご提示いただいたソース「[AINews] The No AI Slop Manifesto」の内容に基づき、ビジネス・経済学の視点を取り入れた台湾系アイドル2人（怡婷：Yiting、佳蓁：Jiazhen）によるバイリンガルポッドキャストのオープニング対話スクリプトを作成しま..."
+        "3 行まとめ 2026年10月22日、Anthropic は Agent Skills の仕様を Linux Foundation 傘下の Agentic AI Foundation（AAIF）に寄贈した",
+        "MCP に続く2つ目の寄贈で、SKILL.md の形式は特定のベ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/maszkot5/items/e4e2018eb5263fdbc82f",
-      "published": "2026-11-16 10:35"
+      "link": "https://qiita.com/sakutto-panda/items/308bcb354f3527d03b09",
+      "published": "2026-11-17 13:13"
     },
     {
-      "id": "06dab446a8b8",
-      "original_title": "AIを使うようになって、これから伸ばしたい力を考えてみた",
-      "title": "AIを使うようになって、これから伸ばしたい力を考えてみた",
+      "id": "dd4efb9493ca",
+      "original_title": "WordPressの共通フレームは本当に効率的なのか？ 制作・保守の7項目から考えてみる",
+      "title": "WordPressの共通フレームは本当に効率的なのか？ 制作・保守の7項目から考えてみる",
       "summary": [
-        "はじめに 僕は普段から、AIとよく会話しています",
-        "コードの説明を聞いたり、文章を整理したり、考えがまとまっていない段階で相談したり",
-        "会話を続けるうちに、「それなら一度試してみよう」と思えることも増えました"
+        "株式会社Soleilです",
+        "これまで、WordPressの親テーマ・子テーマの活用方法や、AIと協働する開発方法について記事を書いてきました",
+        "今回は、少し視点を変えてみたいと思います"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799",
-      "published": "2026-11-16 10:29"
+      "link": "https://qiita.com/Soleil-design/items/a904a714b36bc3c8d2d2",
+      "published": "2026-11-17 13:11"
     },
     {
-      "id": "3770fccbb7a8",
-      "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "id": "2b4ea0f1f404",
+      "original_title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
       "summary": [
-        "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+        "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "published": "2026-11-15 23:30"
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "published": "2026-11-16 23:32"
     },
     {
-      "id": "e3b900bc3f65",
-      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "id": "97ce27a96d3f",
+      "original_title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
       "summary": [
-        "\"Jensen is Nvidia, right",
-        "And so much of this economy is riding on Nvidia.\""
+        "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "published": "2026-11-15 21:56"
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "published": "2026-11-16 22:03"
     }
   ]
 }
