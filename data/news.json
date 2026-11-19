@@ -1,52 +1,66 @@
 {
-  "updated_at": "2026-11-18 12:20",
+  "updated_at": "2026-11-19 11:56",
   "total_count": 19,
   "articles": [
     {
-      "id": "7b2a986de9e3",
-      "original_title": "Introducing GPT-6.2 Astra and Sol",
-      "title": "Introducing GPT-6.2 Astra and Sol",
+      "id": "00ef5b057072",
+      "original_title": "The Silent Consensus",
+      "title": "サイレント・コンセンサス",
       "summary": [
-        "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+        "OpenAI の戦略的未来責任者であるディーン ボール氏は、より高性能な AI が社会をどのように再構築できるか、そして人々が自分たちの組織の管理をどのように維持できるかを考察します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "published": "2026-11-17 17:45"
+      "link": "https://openai.com/index/the-silent-consensus",
+      "published": "2026-11-18 10:00"
     },
     {
-      "id": "cc387a188cdc",
-      "original_title": "Strengthening NATO and allied cyber defenses with AI",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "id": "94c9216647af",
+      "original_title": "Research acceleration: The jagged frontier",
+      "title": "研究の加速: ギザギザのフロンティア",
       "summary": [
-        "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+        "OpenAI は、コーディング エージェントが AI 研究をどのように加速しているか、パフォーマンスが不均一なままである場合、およびこれが再帰的な自己改善について何を示しているかを測定します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "published": "2026-11-17 00:00"
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18 08:00"
     },
     {
-      "id": "46d063711522",
-      "original_title": "Introducing ChatGPT for Sales",
-      "title": "Introducing ChatGPT for Sales",
+      "id": "647ea9733c48",
+      "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "title": "住友生命のリーダーはチームの ChatGPT Enterprise 導入をどのように支援したか",
       "summary": [
-        "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+        "住友生命では、ChatGPT Enterprise を使用して保険会社の調査、提案書の作成、投資分析のためのコードの草案を作成しています",
+        "経営幹部による早期の使用により、導入が促進されました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "published": "2026-11-17 08:00"
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "published": "2026-11-18 08:00"
+    },
+    {
+      "id": "071ea8924e8e",
+      "original_title": "The Gemini app is now available on lower-memory Android devices.",
+      "title": "Gemini アプリは、メモリの少ない Android デバイスでも利用できるようになりました。",
+      "summary": [
+        ""
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "published": "2026-11-18 17:00"
     },
     {
       "id": "d0871902252d",
       "original_title": "Put Gemini to work for you",
-      "title": "Put Gemini to work for you",
+      "title": "ジェミニをあなたのために働かせてください",
       "summary": [
-        "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+        "Gemini の Tasks は 6 か国で無料になり、米国で新機能が開始され、Google Workspace との統合が強化され、ユーザーに代わって作業を行うことができます"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -57,9 +71,9 @@
     {
       "id": "b01907116908",
       "original_title": "New Ask Maps features to help with holiday travel and prep",
-      "title": "New Ask Maps features to help with holiday travel and prep",
+      "title": "休暇の旅行や準備に役立つ新しい Ask Maps 機能",
       "summary": [
-        "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+        "新しい Ask Maps 機能を使用して、休日のロードトリップを計画し、ルートのヒントを取得し、地元の予定を見つけ、保存したリストを検索します"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -68,198 +82,188 @@
       "published": "2026-11-16 14:00"
     },
     {
-      "id": "0a804a04ff05",
-      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "id": "c99849853a59",
+      "original_title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "title": "SageMaker AI サーバーレス モデルのカスタマイズでの完全な微調整 (FFT)",
       "summary": [
-        "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "published": "2026-11-12 18:00"
-    },
-    {
-      "id": "60f0e5127faf",
-      "original_title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
-      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
-      "summary": [
-        "Serving large language models (LLMs) efficiently requires sufficient GPU memory and careful coordination of prompt processing and token generation. GLM-5.3’s FP8 weights, for example, exceed the 640 GB of GPU memory on a single ml.p5.48xlarge instanc"
+        "微調整とは、汎用的な知識だけに依存するのではなく、特定のドメイン、タスク、またはスタイルに適応できるように、企業独自のデータで事前トレーニングされた大規模言語モデル (LLM) のトレーニングを継続するプロセスです",
+        "ビジネスの場合、値は t です"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
-      "published": "2026-11-17 23:33"
+      "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "published": "2026-11-19 00:15"
     },
     {
-      "id": "3d488f584455",
-      "original_title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
-      "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+      "id": "57d8fbf56a25",
+      "original_title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "title": "Exa は、AWS AI チップ上の数十億のドキュメントのインデックスを作成するため、埋め込みスループットを 50% 向上させます",
       "summary": [
-        "As enterprises build production agents with dozens of tools and large structured inputs, token consumption and latency become the primary blockers to a good user experience. When these agents process large JSON data, every additional tool invocation"
+        "Exa では、プライベートおよび合成ソースとともに、Web 全体からの知識を集約して提供することにより、数少ない真の Web インデックスの 1 つを構築しています",
+        "セマンティック検索のインデックスを最適化し、エージェントと人間を真の高品質でグラウンディングします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
-      "published": "2026-11-17 22:44"
+      "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+      "published": "2026-11-18 23:58"
     },
     {
-      "id": "33d7862b3e18",
-      "original_title": "Cut generative AI costs: Code for rules, models for judgment",
-      "title": "Cut generative AI costs: Code for rules, models for judgment",
+      "id": "90862d09cd66",
+      "original_title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+      "title": "Amazon SageMaker HyperPod でのワークロード回復と拡張インフラストラクチャチェックの導入",
       "summary": [
-        "The biggest cost lever in a generative AI system is whether you call a model at all. We often see teams route every task through a large language model (LLM), including input validation, formatting, and routing. Each call is cheap in isolation, but a"
+        "すべてのノードが正常に見えても、大規模なトレーニング ジョブが失敗する可能性があります",
+        "微妙な障害がある GPU は、ストレス テストに合格しても、間違った値を返す可能性があります",
+        "ジョブが NCCL タイムアウトで停止しても、GPU は維持され、Slurm はジョブを実行中として表示します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
-      "published": "2026-11-17 21:14"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+      "published": "2026-11-18 23:03"
     },
     {
-      "id": "650f278aa55e",
-      "original_title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
-      "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+      "id": "1494eb3ee27a",
+      "original_title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
+      "title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
       "summary": [
-        "ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう",
-        "OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した",
-        "米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる"
+        "OpenAIは、AIが同社内のAI研究にどのように貢献しているかに関するレポートを公開した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
-      "published": "2026-11-18 10:40"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/",
+      "published": "2026-11-19 09:48"
     },
     {
-      "id": "030d6c308f3e",
-      "original_title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
-      "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
+      "id": "94afc7e9fd86",
+      "original_title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
+      "title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
       "summary": [
-        "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」を発表",
-        "Astraは一部の性能評価で、前世代を上回るスコアを3分の1以下のコストで実現したとうたう",
-        "第三者機関の総合指標ではClaude Fable 5.2次ぐ2位"
+        "PFUは、「EdgeTech+ 2026」において、ファンレスのエッジAIデバイスと、自然言語入力でAI解析機能を簡単に構築できるSIエージェントを組み合わせた「エッジAIデバイス×SIエージェント」を参考出展した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
-      "published": "2026-11-18 10:32"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html",
+      "published": "2026-11-19 08:30"
     },
     {
-      "id": "6cf22d012ef9",
-      "original_title": "PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行",
-      "title": "PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行",
+      "id": "514f44ad2b34",
+      "original_title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
+      "title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
       "summary": [
-        "Windowsに標準搭載されるPowerShellが、次期バージョンにて「PowerShell 5.1」から「PowerShell 7」に切り替わる",
-        "Microsoftが11月17日にアナウンスしたもので、PowerShell 5.1がデフォルトで有効となるのは、現行のWindows 11バージョン26H2およびWindows Server 2025が最後になる"
+        "Gemini 4ファミリーに、性能とコストのバランスを取った“ちょうどいい”モデルが加わった",
+        "米Googleは11月18日(米国時間)、中位という位置付けの新モデル「Gemini 4 Neon」を発表し、同日より提供を開始した",
+        "Gemini APIの有料ティアやGeminiアプリなどで利用できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2157354.html",
-      "published": "2026-11-18 11:46"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
+      "published": "2026-11-19 11:33"
     },
     {
-      "id": "63dddf26c862",
-      "original_title": "クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」",
-      "title": "クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」",
+      "id": "7d517750d670",
+      "original_title": "釘刺し試験もクリア！Anker初のQi2 25W対応“ファン付き”モバイルバッテリ",
+      "title": "釘刺し試験もクリア！Anker初のQi2 25W対応“ファン付き”モバイルバッテリ",
       "summary": [
-        "GPD WIN Miniシリーズが、ついにIntel搭載で大画面化する",
-        "GPD Technologyは11月16日(中国時間)、8型液晶を搭載したクラムシェル型のポータブルゲーミングPC「GPD WIN Mini Ultra」を正式に発表した",
-        "価格と発売時期は未定で、近日中にクラウドファンディングを始める予定だ"
+        "ワイヤレス充電は発熱で充電速度が落ちることがあるが、その発熱を本体内蔵の冷却ファンで抑えるモバイルバッテリが登場する",
+        "アンカー・ジャパンが11月19日より順次発売する「Anker MagGo Power Bank 2 Pro」がそれで、ワイヤレス充電規格のQi2 25Wに対応する",
+        "バッテリセルには、釘刺し試験などをクリアするものを搭載する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2157343.html",
-      "published": "2026-11-18 11:11"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2157351.html",
+      "published": "2026-11-19 11:00"
     },
     {
-      "id": "16d44b803a73",
-      "original_title": "NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表",
-      "title": "NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表",
+      "id": "0b16e837d957",
+      "original_title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
+      "title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
       "summary": [
-        "ジェンスン・フアン氏のCEO辞任後、初となる決算説明会で、コレット・クレス暫定CEOがAI用途やHPC用途向けのGPU・H200の中国向け販売を終了することを明らかにしました",
+        "Instagramに「学校バッジ」を導入し、同じ学校に通う子どもたちのつながりを可視化して定着率を高める戦略「プロジェクト・グリフィンドール」をMetaが実施していたことが明らかになりました",
+        "Instagramが子どもを取り込んで食い物にしていると訴える裁判の手続きでこの事実が分かったため、Metaへの追及はさらに強まるとみられます",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/",
-      "published": "2026-11-18 12:14"
+      "link": "https://gigazine.net/news/20261119-meta-insgtagram-project-gryffindor/",
+      "published": "2026-11-19 11:38"
     },
     {
-      "id": "18737218b49b",
-      "original_title": "サイコパシーやサディズムの傾向がある人は初回のデートで異性から高い評価を受ける可能性",
-      "title": "サイコパシーやサディズムの傾向がある人は初回のデートで異性から高い評価を受ける可能性",
+      "id": "5678ad63dfe9",
+      "original_title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
+      "title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
       "summary": [
-        "共感性の欠如や反社会的傾向などを示す精神病質(サイコパシー)や他人に苦痛を与えて楽しむサディズムといった特性は、一般的に忌避されやすいものです",
-        "ところが、異性愛者の男女に短時間話してもらった実験では、サイコパシーやサディズムの特性が高い人は異性から高い評価を受けやすいことが示されました",
+        "AnkerはQi2 25W対応＆冷却ファン搭載で業界最高水準の充電速度と安全性を両立したモバイルバッテリー「Anker MagGo Power Bank 2 Pro」を2026年11月19日に発売しました",
+        "そんなMagGo Power Bank 2 Proが編集部に届いたので、さっそく使ってみました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261118-psychopathy-sadism-more-appealing-dates/",
-      "published": "2026-11-18 12:00"
+      "link": "https://gigazine.net/news/20261119-anker-maggo-power-bank-2-pro/",
+      "published": "2026-11-19 11:25"
     },
     {
-      "id": "8a9cda8e18ba",
-      "original_title": "【Ignite 2026 速報】Microsoft Foundry アップデートまとめ（継続的改善、Copilot harness、Microsoft IQ、GPT-6.2 ほか）",
-      "title": "【Ignite 2026 速報】Microsoft Foundry アップデートまとめ（継続的改善、Copilot harness、Microsoft IQ、GPT-6.2 ほか）",
+      "id": "f97775f5a5ca",
+      "original_title": "使っているAIモデルは安全か?無料スキャナーで約1分、A〜Fのセキュリティ評価を出す(ViKernel Scanner)",
+      "title": "使っているAIモデルは安全か?無料スキャナーで約1分、A〜Fのセキュリティ評価を出す(ViKernel Scanner)",
       "summary": [
-        "Microsoft Ignite 2026 での Microsoft Foundry の大きなテーマの一つは「継続的改善(Continuous improvement)」でした",
-        "エージェントを作って終わりにせず、本番で動くトレースと専門家のフィードバックを評価、最適化、再学..."
+        "要約 VIDRAFTは、AIモデルのセキュリティ水準を約1分で確認できる無料ツール ViKernel Scanner を Hugging Face と GitHub で公開しました",
+        "モデルに8種類の模擬ツールを持たせ、攻撃指示100件と通常業務20件を送り、モデルが何を「..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/nohanaga/items/d32af11646d3cb755f19",
-      "published": "2026-11-18 11:51"
+      "link": "https://qiita.com/vidraft/items/e1f676d024a2b7d6e190",
+      "published": "2026-11-19 11:55"
     },
     {
-      "id": "adbfb2dbb76b",
-      "original_title": "【第4回】ゼロから目指す! CCDV-F合格への道：LLMのしくみ",
-      "title": "【第4回】ゼロから目指す! CCDV-F合格への道：LLMのしくみ",
+      "id": "243a303a0e60",
+      "original_title": "Museで自分専用AI秘書を作る方法｜人格ファイル4つとメモリ設計で性格がブレない秘書を育てる実践入門",
+      "title": "Museで自分専用AI秘書を作る方法｜人格ファイル4つとメモリ設計で性格がブレない秘書を育てる実践入門",
       "summary": [
-        "この記事について Anthropic社の公式認定資格「Claude Certified Developer – Foundations(CCDV-F)」に向けた、非公式の学習シリーズ(全24回)の第4回です",
-        "（Anthropic社とは関係ありません） 公式の試験ガイド..."
+        "3行まとめ Museの秘書化は、大きなプロンプト1枚ではなく、人格ファイル4つに分けることから始まる IDENTITY／SOUL／USER／AGENTS で役割を分けると、直す場所が分かって性格がブレにくくなる 例に出てくる秘書は架空の「澪（みお）」",
+        "名前と口調を変えれ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/Ray_T/items/78598353ec1df33f899f",
-      "published": "2026-11-18 11:36"
+      "link": "https://qiita.com/sakutto-panda/items/1ede8f959d729a71a316",
+      "published": "2026-11-19 11:51"
     },
     {
-      "id": "95693cc18aa4",
-      "original_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "id": "99d6ade76f91",
+      "original_title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "title": "マイクロソフトCEOのサティア・ナデラ氏、従業員6万人に退職を求めた理由を説明",
       "summary": [
-        "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+        "マイクロソフトの最高経営責任者（CEO）サティア・ナデラ氏は、10月に従業員6万人に買収提案を行った理由を説明し、追加の大規模な人員削減による人員削減ではなく、基本的に自発的に辞めるよう促した",
+        "簡単に言うと AI ですが、邪魔にはなりません"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "published": "2026-11-18 01:44"
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "published": "2026-11-19 00:42"
     },
     {
-      "id": "51130eb68302",
-      "original_title": "Nvidia promises that revenue will keep soaring — for now",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "id": "16e5c9664995",
+      "original_title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "title": "AIサイバー攻撃の懸念の中で、サティア・ナデラ氏は、多くの重要なインフラは「パッチ適用できない」と語る",
       "summary": [
-        "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+        "Microsoft CEOは、最近のOutlookの障害を軽視したが、接続された世界の多くを保護するためにAIが機会と新たな課題の両方を引き起こしていると指摘した"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "published": "2026-11-18 00:16"
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "published": "2026-11-18 23:45"
     }
   ]
 }
