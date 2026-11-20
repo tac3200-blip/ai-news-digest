@@ -1,46 +1,72 @@
 {
-  "updated_at": "2026-11-19 11:56",
+  "updated_at": "2026-11-20 11:51",
   "total_count": 19,
   "articles": [
     {
-      "id": "00ef5b057072",
-      "original_title": "The Silent Consensus",
-      "title": "サイレント・コンセンサス",
+      "id": "9b42bdd81c0a",
+      "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "title": "OpenAI の Performance Factory が ChatGPT を高速に保つ方法",
       "summary": [
-        "OpenAI の戦略的未来責任者であるディーン ボール氏は、より高性能な AI が社会をどのように再構築できるか、そして人々が自分たちの組織の管理をどのように維持できるかを考察します"
+        "OpenAI がパフォーマンス ファクトリーをどのように構築したかを学びましょう",
+        "これは、ChatGPT を高速に保つためにパフォーマンスの問題を検出して修正する Codex を活用したワークフロー システムです"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "published": "2026-11-18 10:00"
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "published": "2026-11-19 08:00"
     },
     {
-      "id": "94c9216647af",
-      "original_title": "Research acceleration: The jagged frontier",
-      "title": "研究の加速: ギザギザのフロンティア",
+      "id": "00e2e294251e",
+      "original_title": "Deploying Daybreak Red",
+      "title": "デイブレイク レッドの導入",
       "summary": [
-        "OpenAI は、コーディング エージェントが AI 研究をどのように加速しているか、パフォーマンスが不均一なままである場合、およびこれが再帰的な自己改善について何を示しているかを測定します"
+        "安全制御、セットアップ、監視など、Daybreak Red を使用した監視付きセキュリティ調査のためのリファレンス アーキテクチャを探索します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published": "2026-11-18 08:00"
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "published": "2026-11-19 00:00"
     },
     {
-      "id": "647ea9733c48",
-      "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "title": "住友生命のリーダーはチームの ChatGPT Enterprise 導入をどのように支援したか",
+      "id": "4ec27f90617a",
+      "original_title": "See PR scans in action",
+      "title": "PR スキャンの実際の動作を確認する",
       "summary": [
-        "住友生命では、ChatGPT Enterprise を使用して保険会社の調査、提案書の作成、投資分析のためのコードの草案を作成しています",
-        "経営幹部による早期の使用により、導入が促進されました"
+        "PR スキャンのウォークスルーを見て、プレゼンターがプル リクエスト ワークフローでスキャン結果をどのようにレビューするかを確認してください"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published": "2026-11-18 08:00"
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "published": "2026-11-19 00:00"
+    },
+    {
+      "id": "70501523330a",
+      "original_title": "Introducing Tool Retrieval in the Gemini API",
+      "title": "Gemini API でのツール取得の導入",
+      "summary": [
+        "現在 Gemini API でプレビュー中の Tool Retrieval を使用すると、トークンの使用量を減らしながら、エージェントが何百ものツールにアクセスできるようになります"
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "published": "2026-11-19 18:00"
+    },
+    {
+      "id": "fd63c765c951",
+      "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "title": "ウォルター・アイザックソンが AI 時代の好奇心と創造性について語る。",
+      "summary": [
+        ""
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "published": "2026-11-19 17:00"
     },
     {
       "id": "071ea8924e8e",
@@ -56,214 +82,188 @@
       "published": "2026-11-18 17:00"
     },
     {
-      "id": "d0871902252d",
-      "original_title": "Put Gemini to work for you",
-      "title": "ジェミニをあなたのために働かせてください",
+      "id": "96b5ac2a5c0c",
+      "original_title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2",
       "summary": [
-        "Gemini の Tasks は 6 か国で無料になり、米国で新機能が開始され、Google Workspace との統合が強化され、ユーザーに代わって作業を行うことができます"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "published": "2026-11-17 17:00"
-    },
-    {
-      "id": "b01907116908",
-      "original_title": "New Ask Maps features to help with holiday travel and prep",
-      "title": "休暇の旅行や準備に役立つ新しい Ask Maps 機能",
-      "summary": [
-        "新しい Ask Maps 機能を使用して、休日のロードトリップを計画し、ルートのヒントを取得し、地元の予定を見つけ、保存したリストを検索します"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "published": "2026-11-16 14:00"
-    },
-    {
-      "id": "c99849853a59",
-      "original_title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-      "title": "SageMaker AI サーバーレス モデルのカスタマイズでの完全な微調整 (FFT)",
-      "summary": [
-        "微調整とは、汎用的な知識だけに依存するのではなく、特定のドメイン、タスク、またはスタイルに適応できるように、企業独自のデータで事前トレーニングされた大規模言語モデル (LLM) のトレーニングを継続するプロセスです",
-        "ビジネスの場合、値は t です"
+        "モデルが実際に稼働すると、質問は変わります",
+        "チームは、トラフィックが実際に発生しているのでモデルをどの構成で実行すべきか、すでに支払っている GPU にさらに多くのモデルを適合させる方法、次のモデルが 1 m では大きすぎる場合にどうすればよいかを知りたいと考えています"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
-      "published": "2026-11-19 00:15"
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "published": "2026-11-20 00:34"
     },
     {
-      "id": "57d8fbf56a25",
-      "original_title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-      "title": "Exa は、AWS AI チップ上の数十億のドキュメントのインデックスを作成するため、埋め込みスループットを 50% 向上させます",
+      "id": "a6b32d4514aa",
+      "original_title": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "title": "Amazon Bedrock のモデルで Family Code CLI を使用する",
       "summary": [
-        "Exa では、プライベートおよび合成ソースとともに、Web 全体からの知識を集約して提供することにより、数少ない真の Web インデックスの 1 つを構築しています",
-        "セマンティック検索のインデックスを最適化し、エージェントと人間を真の高品質でグラウンディングします"
+        "キミ コード CLI は、オープンウェイト基礎モデルのキミ シリーズの作成者であるムーンショット AI のオープンソース コーディング エージェントです",
+        "以前は、Amazon Bedrock 上のモデルで Family Code を使用することは、Amazon との汎用接続「プロバイダー」を構成することを意味していました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
-      "published": "2026-11-18 23:58"
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+      "published": "2026-11-20 00:33"
     },
     {
-      "id": "90862d09cd66",
-      "original_title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
-      "title": "Amazon SageMaker HyperPod でのワークロード回復と拡張インフラストラクチャチェックの導入",
+      "id": "ba96fb22e7f2",
+      "original_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "title": "AI エージェントが Amazon Bedrock AgentCore 支払いを使用して AWS Marketplace x402 製品の支払いをできるようにする",
       "summary": [
-        "すべてのノードが正常に見えても、大規模なトレーニング ジョブが失敗する可能性があります",
-        "微妙な障害がある GPU は、ストレス テストに合格しても、間違った値を返す可能性があります",
-        "ジョブが NCCL タイムアウトで停止しても、GPU は維持され、Slurm はジョブを実行中として表示します"
+        "2026 年 8 月に Amazon Bedrock AgentCore 支払いが一般提供されるようになると、エージェントは支払い制限と完全な可観測性を備えた x402 や MPP などのオープン プロトコルを介して有料 API、MCP サーバー、Web コンテンツに対して自律的に支払いを行うことができるようになりました",
+        "今日は拡張します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
-      "published": "2026-11-18 23:03"
+      "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "published": "2026-11-19 23:02"
     },
     {
-      "id": "1494eb3ee27a",
-      "original_title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
-      "title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
+      "id": "bc63f897d888",
+      "original_title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+      "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
       "summary": [
-        "OpenAIは、AIが同社内のAI研究にどのように貢献しているかに関するレポートを公開した"
+        "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる",
+        "CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った",
+        "現場に入る精鋭チーム「FDE」を1年で3000人へ3倍増させ、売上の9割を占める上位200～300社への集中でフィジカルAIの覇権を狙う"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/",
-      "published": "2026-11-19 09:48"
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+      "published": "2026-11-20 11:15"
     },
     {
-      "id": "94afc7e9fd86",
-      "original_title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
-      "title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
+      "id": "9febc5a5b4fe",
+      "original_title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+      "title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
       "summary": [
-        "PFUは、「EdgeTech+ 2026」において、ファンレスのエッジAIデバイスと、自然言語入力でAI解析機能を簡単に構築できるSIエージェントを組み合わせた「エッジAIデバイス×SIエージェント」を参考出展した"
+        "米Autodeskは、自動車デザイナー向けソリューション「Autodesk NavPack」にNVIDIAの技術を統合する計画を発表した",
+        "対応するAIモデルアーキテクチャの拡張や、ワークフローの一部をGPUで高速化することを目指す"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html",
-      "published": "2026-11-19 08:30"
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html",
+      "published": "2026-11-20 11:00"
     },
     {
-      "id": "514f44ad2b34",
-      "original_title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
-      "title": "Carbonより25%安く、AA IndexはOpus 5.5超え。Gemini 4 Neon",
+      "id": "b4567b9354f4",
+      "original_title": "ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY",
+      "title": "ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY",
       "summary": [
-        "Gemini 4ファミリーに、性能とコストのバランスを取った“ちょうどいい”モデルが加わった",
-        "米Googleは11月18日(米国時間)、中位という位置付けの新モデル「Gemini 4 Neon」を発表し、同日より提供を開始した",
-        "Gemini APIの有料ティアやGeminiアプリなどで利用できる"
+        "天空は、ポータブルゲーミングPCやAndroidゲーム機などを対象とした「BLACK FRIDAY 2026」をハイビームの公式オンラインストアおよび店舗にて開催している",
+        "期間は11月20日から11月30日まで"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
-      "published": "2026-11-19 11:33"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158100.html",
+      "published": "2026-11-20 11:33"
     },
     {
-      "id": "7d517750d670",
-      "original_title": "釘刺し試験もクリア！Anker初のQi2 25W対応“ファン付き”モバイルバッテリ",
-      "title": "釘刺し試験もクリア！Anker初のQi2 25W対応“ファン付き”モバイルバッテリ",
+      "id": "93f4edc18560",
+      "original_title": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
+      "title": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
       "summary": [
-        "ワイヤレス充電は発熱で充電速度が落ちることがあるが、その発熱を本体内蔵の冷却ファンで抑えるモバイルバッテリが登場する",
-        "アンカー・ジャパンが11月19日より順次発売する「Anker MagGo Power Bank 2 Pro」がそれで、ワイヤレス充電規格のQi2 25Wに対応する",
-        "バッテリセルには、釘刺し試験などをクリアするものを搭載する"
+        "半導体標準化団体のJEDEC Solid State Technology Associationは18日(米国時間)、次世代DRAM標準「DDR6」のプレビューを発表した",
+        "なお、DDR6は現在開発中のため、今回示された機能は計画を反映したもので、開発および承認過程において変更される可能性があるとしている"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2157351.html",
-      "published": "2026-11-19 11:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158081.html",
+      "published": "2026-11-20 11:23"
     },
     {
-      "id": "0b16e837d957",
-      "original_title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
-      "title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
+      "id": "067eb92b6c65",
+      "original_title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
+      "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
       "summary": [
-        "Instagramに「学校バッジ」を導入し、同じ学校に通う子どもたちのつながりを可視化して定着率を高める戦略「プロジェクト・グリフィンドール」をMetaが実施していたことが明らかになりました",
-        "Instagramが子どもを取り込んで食い物にしていると訴える裁判の手続きでこの事実が分かったため、Metaへの追及はさらに強まるとみられます",
+        "2023年11月に起きたOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」の宣伝用ポスターが、まるでAI生成画像のようだと話題になっています",
+        "しかし、このAI生成画像風のポスターは人間のアーティストが手描きで作成したものであることが明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261119-meta-insgtagram-project-gryffindor/",
-      "published": "2026-11-19 11:38"
+      "link": "https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/",
+      "published": "2026-11-20 11:47"
     },
     {
-      "id": "5678ad63dfe9",
-      "original_title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
-      "title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
+      "id": "f4e3ccc3728d",
+      "original_title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
       "summary": [
-        "AnkerはQi2 25W対応＆冷却ファン搭載で業界最高水準の充電速度と安全性を両立したモバイルバッテリー「Anker MagGo Power Bank 2 Pro」を2026年11月19日に発売しました",
-        "そんなMagGo Power Bank 2 Proが編集部に届いたので、さっそく使ってみました",
+        "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました",
+        "PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261119-anker-maggo-power-bank-2-pro/",
-      "published": "2026-11-19 11:25"
+      "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+      "published": "2026-11-20 11:36"
     },
     {
-      "id": "f97775f5a5ca",
-      "original_title": "使っているAIモデルは安全か?無料スキャナーで約1分、A〜Fのセキュリティ評価を出す(ViKernel Scanner)",
-      "title": "使っているAIモデルは安全か?無料スキャナーで約1分、A〜Fのセキュリティ評価を出す(ViKernel Scanner)",
+      "id": "ef47af184712",
+      "original_title": "Motion Control AIでキャラクター画像に動画の動きを転送する",
+      "title": "Motion Control AIでキャラクター画像に動画の動きを転送する",
       "summary": [
-        "要約 VIDRAFTは、AIモデルのセキュリティ水準を約1分で確認できる無料ツール ViKernel Scanner を Hugging Face と GitHub で公開しました",
-        "モデルに8種類の模擬ツールを持たせ、攻撃指示100件と通常業務20件を送り、モデルが何を「..."
+        "概要 キャラクター画像と参考動画を組み合わせて、ダンスやジェスチャーなどの動きを別のキャラクターに適用するワークフローを整理します",
+        "Motion Control AI は、ブラウザ上でキャラクター画像とモーション動画を入力し、元動画の動き、タイミング、カメラリズムを新し..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/vidraft/items/e1f676d024a2b7d6e190",
-      "published": "2026-11-19 11:55"
+      "link": "https://qiita.com/haoli197654/items/806b07005599614e9676",
+      "published": "2026-11-20 11:36"
     },
     {
-      "id": "243a303a0e60",
-      "original_title": "Museで自分専用AI秘書を作る方法｜人格ファイル4つとメモリ設計で性格がブレない秘書を育てる実践入門",
-      "title": "Museで自分専用AI秘書を作る方法｜人格ファイル4つとメモリ設計で性格がブレない秘書を育てる実践入門",
+      "id": "8d1c4d088190",
+      "original_title": "自作MCPサーバー その25",
+      "title": "自作MCPサーバー その25",
       "summary": [
-        "3行まとめ Museの秘書化は、大きなプロンプト1枚ではなく、人格ファイル4つに分けることから始まる IDENTITY／SOUL／USER／AGENTS で役割を分けると、直す場所が分かって性格がブレにくくなる 例に出てくる秘書は架空の「澪（みお）」",
-        "名前と口調を変えれ..."
+        "概要 MCPサーバーが気になったので、調べてみた",
+        "音波通信をClaudeDesktopに手伝ってもらった",
+        "gnuradioは、知ってますか はい、知っています"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/1ede8f959d729a71a316",
-      "published": "2026-11-19 11:51"
+      "link": "https://qiita.com/ohisama@github/items/d3276059beb2e7c1208a",
+      "published": "2026-11-20 11:32"
     },
     {
-      "id": "99d6ade76f91",
-      "original_title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "title": "マイクロソフトCEOのサティア・ナデラ氏、従業員6万人に退職を求めた理由を説明",
+      "id": "e51781edd6b7",
+      "original_title": "Apple may be developing its own AI agent that runs your Mac",
+      "title": "Apple は Mac を実行する独自の AI エージェントを開発している可能性があります",
       "summary": [
-        "マイクロソフトの最高経営責任者（CEO）サティア・ナデラ氏は、10月に従業員6万人に買収提案を行った理由を説明し、追加の大規模な人員削減による人員削減ではなく、基本的に自発的に辞めるよう促した",
-        "簡単に言うと AI ですが、邪魔にはなりません"
+        "iPhone メーカーは、Meta Muse、Instinct、Claude、OpenAI Dots などと競合できるエージェントを構築しているようです"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "published": "2026-11-19 00:42"
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "published": "2026-11-20 00:56"
     },
     {
-      "id": "16e5c9664995",
-      "original_title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "title": "AIサイバー攻撃の懸念の中で、サティア・ナデラ氏は、多くの重要なインフラは「パッチ適用できない」と語る",
+      "id": "6b01c31f4194",
+      "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "title": "Anthropic の 7 人の創設者は記録破りの IPO で 20 億ドル近くを現金化",
       "summary": [
-        "Microsoft CEOは、最近のOutlookの障害を軽視したが、接続された世界の多くを保護するためにAIが機会と新たな課題の両方を引き起こしていると指摘した"
+        "アップグレードされた 1 株あたり 83 ドルの IPO 価格で、アンスロピックの 7 人の創設者はそれぞれ 2 億 8,000 万ドルを手に入れ、同社はほぼ 1,050 億ドルを手に入れました"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "published": "2026-11-18 23:45"
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "published": "2026-11-20 00:43"
     }
   ]
 }
