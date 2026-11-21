@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-20 11:51",
+  "updated_at": "2026-11-21 11:59",
   "total_count": 19,
   "articles": [
     {
-      "id": "9b42bdd81c0a",
-      "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "title": "OpenAI の Performance Factory が ChatGPT を高速に保つ方法",
+      "id": "8a7d3a7ad5a9",
+      "original_title": "Combatting adversarial distillation",
+      "title": "敵対的な蒸留との戦い",
       "summary": [
-        "OpenAI がパフォーマンス ファクトリーをどのように構築したかを学びましょう",
-        "これは、ChatGPT を高速に保つためにパフォーマンスの問題を検出して修正する Codex を活用したワークフロー システムです"
+        "OpenAI の敵対的蒸留に対する多層アプローチは、モデルのトレーニング、保護手段、検出、強制を組み合わせて、機能の抽出を防ぎます"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published": "2026-11-19 08:00"
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "published": "2026-11-20 10:00"
     },
     {
-      "id": "00e2e294251e",
-      "original_title": "Deploying Daybreak Red",
-      "title": "デイブレイク レッドの導入",
+      "id": "0934b86a9407",
+      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "title": "Hebbia 氏は GPT-6 Astra による金融調査の改善を実感",
       "summary": [
-        "安全制御、セットアップ、監視など、Daybreak Red を使用した監視付きセキュリティ調査のためのリファレンス アーキテクチャを探索します"
+        "ヘビアは金融研究のために GPT-6 アストラをテストしました",
+        "リリース前の評価では、出典の網羅性、引用の関連性、プレゼンテーションの品質が向上していることがわかりました"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published": "2026-11-19 00:00"
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "published": "2026-11-20 00:00"
     },
     {
-      "id": "4ec27f90617a",
-      "original_title": "See PR scans in action",
-      "title": "PR スキャンの実際の動作を確認する",
+      "id": "2fabd970f1cd",
+      "original_title": "Can AI help scientists identify promising drug candidates?",
+      "title": "AI は科学者が有望な薬剤候補を特定するのに役立つでしょうか?",
       "summary": [
-        "PR スキャンのウォークスルーを見て、プレゼンターがプル リクエスト ワークフローでスキャン結果をどのようにレビューするかを確認してください"
+        "MedChemBench は、AI モデルが分子構造をどの程度うまく解釈し、実験証拠から推論し、初期の創薬において化合物を選択するかを評価します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
-      "published": "2026-11-19 00:00"
+      "link": "https://openai.com/index/introducing-medchembench",
+      "published": "2026-11-20 00:00"
     },
     {
       "id": "70501523330a",
@@ -82,188 +82,187 @@
       "published": "2026-11-18 17:00"
     },
     {
-      "id": "96b5ac2a5c0c",
-      "original_title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
-      "title": "Amazon SageMaker Inference: 2026 年リリースのレビュー、パート 2",
+      "id": "5db24d1c3d79",
+      "original_title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "title": "AWS Quick の新機能: より高機能なフロー、最新の Web エクスペリエンス、連携するエージェント",
       "summary": [
-        "モデルが実際に稼働すると、質問は変わります",
-        "チームは、トラフィックが実際に発生しているのでモデルをどの構成で実行すべきか、すでに支払っている GPU にさらに多くのモデルを適合させる方法、次のモデルが 1 m では大きすぎる場合にどうすればよいかを知りたいと考えています"
+        "1 人のプロセスをチームのプロセスに変え、Quick Web アプリでより多くのことを達成し、協力するエージェントからより完全な回答を得ることができます",
+        "AWS Quick は、仕事専用に構築された AI ワークスペースです",
+        "本日、チームに役立つアップデートをリリースします"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
-      "published": "2026-11-20 00:34"
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "published": "2026-11-21 01:06"
     },
     {
-      "id": "a6b32d4514aa",
-      "original_title": "Use Kimi Code CLI with models on Amazon Bedrock",
-      "title": "Amazon Bedrock のモデルで Family Code CLI を使用する",
+      "id": "4703eda4d3bf",
+      "original_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "title": "分散 KV キャッシュ エージェント スキルでセルフホスト型 LLM のコストと遅延を削減",
       "summary": [
-        "キミ コード CLI は、オープンウェイト基礎モデルのキミ シリーズの作成者であるムーンショット AI のオープンソース コーディング エージェントです",
-        "以前は、Amazon Bedrock 上のモデルで Family Code を使用することは、Amazon との汎用接続「プロバイダー」を構成することを意味していました"
+        "お客様は、コスト、精度、遅延を制御するために、GPU で大規模言語モデル (LLM) をセルフホストすることが増えています",
+        "ただし、セルフホスティングでは、多くの場合、各サーバー上の独立した小さなキャッシュでは、"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
-      "published": "2026-11-20 00:33"
+      "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "published": "2026-11-21 00:14"
     },
     {
-      "id": "ba96fb22e7f2",
-      "original_title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
-      "title": "AI エージェントが Amazon Bedrock AgentCore 支払いを使用して AWS Marketplace x402 製品の支払いをできるようにする",
+      "id": "88f2cb60d4c6",
+      "original_title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "title": "Amazon SageMaker HyperPod Slurm での可観測性とユーザー管理のためのマネージドクラスター拡張機能の導入",
       "summary": [
-        "2026 年 8 月に Amazon Bedrock AgentCore 支払いが一般提供されるようになると、エージェントは支払い制限と完全な可観測性を備えた x402 や MPP などのオープン プロトコルを介して有料 API、MCP サーバー、Web コンテンツに対して自律的に支払いを行うことができるようになりました",
-        "今日は拡張します"
+        "基盤モデル開発用の共有 Slurm クラスターの同期を維持するには、ノード上で実行されている内容に合わせて、個別に維持される構成のいくつかの部分を維持する必要があります",
+        "クラスターの形状は複数の構成ファイル、そのソフトウェアに依存します"
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
-      "published": "2026-11-19 23:02"
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "published": "2026-11-20 23:07"
     },
     {
-      "id": "bc63f897d888",
-      "original_title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
-      "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+      "id": "42f1fd6a1dd7",
+      "original_title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+      "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
       "summary": [
-        "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる",
-        "CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った",
-        "現場に入る精鋭チーム「FDE」を1年で3000人へ3倍増させ、売上の9割を占める上位200～300社への集中でフィジカルAIの覇権を狙う"
+        "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した",
+        "AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い",
+        "AIで成果を出す企業が人員を増やすのはなぜか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
-      "published": "2026-11-20 11:15"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
+      "published": "2026-11-21 09:00"
     },
     {
-      "id": "9febc5a5b4fe",
-      "original_title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
-      "title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+      "id": "2f3092ef95e4",
+      "original_title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+      "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
       "summary": [
-        "米Autodeskは、自動車デザイナー向けソリューション「Autodesk NavPack」にNVIDIAの技術を統合する計画を発表した",
-        "対応するAIモデルアーキテクチャの拡張や、ワークフローの一部をGPUで高速化することを目指す"
+        "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html",
-      "published": "2026-11-20 11:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+      "published": "2026-11-20 19:13"
     },
     {
-      "id": "b4567b9354f4",
-      "original_title": "ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY",
-      "title": "ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY",
+      "id": "51b72b718734",
+      "original_title": "クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機",
+      "title": "クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機",
       "summary": [
-        "天空は、ポータブルゲーミングPCやAndroidゲーム機などを対象とした「BLACK FRIDAY 2026」をハイビームの公式オンラインストアおよび店舗にて開催している",
-        "期間は11月20日から11月30日まで"
+        "ゲーミング向けパーツブランド「AORUS」の製品で主要パーツをそろえた完成品のゲーミングPCが登場した",
+        "GIGABYTEが11月20日に発売した、Ryzen 5 9500FとGeForce RTX 5060 Tiを搭載するデスクトップPC「AORUS PRIME 3 AP3A5N6T-5103P」だ",
+        "実売予想価格は41万1,000円前後"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2158100.html",
-      "published": "2026-11-20 11:33"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158420.html",
+      "published": "2026-11-21 09:15"
     },
     {
-      "id": "93f4edc18560",
-      "original_title": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
-      "title": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
+      "id": "055b999d5624",
+      "original_title": "49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品",
+      "title": "49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品",
       "summary": [
-        "半導体標準化団体のJEDEC Solid State Technology Associationは18日(米国時間)、次世代DRAM標準「DDR6」のプレビューを発表した",
-        "なお、DDR6は現在開発中のため、今回示された機能は計画を反映したもので、開発および承認過程において変更される可能性があるとしている"
+        "ASUSは11月20日、アクションゲーム「Phantom Blade Zero」とのコラボモデルとしてゲーミングデバイス3製品の予約を開始した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2158081.html",
-      "published": "2026-11-20 11:23"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158419.html",
+      "published": "2026-11-21 09:02"
     },
     {
-      "id": "067eb92b6c65",
-      "original_title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
-      "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
+      "id": "5d33a091d443",
+      "original_title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
+      "title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
       "summary": [
-        "2023年11月に起きたOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」の宣伝用ポスターが、まるでAI生成画像のようだと話題になっています",
-        "しかし、このAI生成画像風のポスターは人間のアーティストが手描きで作成したものであることが明らかになりました",
+        "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、「地球上のどこでも通信できるようにする計画がある」と語りました",
+        "さらに、Starlink衛星からの電波が届きにくい建物内の圏外エリアを解消するために、小型の屋上設置型基地局の設計を完了したことも明かしています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/",
-      "published": "2026-11-20 11:47"
+      "link": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
+      "published": "2026-11-21 09:00"
     },
     {
-      "id": "f4e3ccc3728d",
-      "original_title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
-      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+      "id": "3be5ca3efb30",
+      "original_title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+      "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
       "summary": [
-        "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました",
-        "PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます",
+        "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
-      "published": "2026-11-20 11:36"
+      "link": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+      "published": "2026-11-21 08:00"
     },
     {
-      "id": "ef47af184712",
-      "original_title": "Motion Control AIでキャラクター画像に動画の動きを転送する",
-      "title": "Motion Control AIでキャラクター画像に動画の動きを転送する",
+      "id": "f3fca52726a5",
+      "original_title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
+      "title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
       "summary": [
-        "概要 キャラクター画像と参考動画を組み合わせて、ダンスやジェスチャーなどの動きを別のキャラクターに適用するワークフローを整理します",
-        "Motion Control AI は、ブラウザ上でキャラクター画像とモーション動画を入力し、元動画の動き、タイミング、カメラリズムを新し..."
+        "AI エージェントが実装をほぼ肩代わりするようになり、実装を何度作り直しても、費用はわずかで済むようになりました",
+        "開発の進め方には、ウォーターフォール、アジャイル、AWS が提唱した AI-DLC などがありますが、実装の費用が下がった今、注目を集めているのが評価駆動開発(..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/haoli197654/items/806b07005599614e9676",
-      "published": "2026-11-20 11:36"
+      "link": "https://qiita.com/hisashi-ito/items/ea31d324ac02f3fa5e4e",
+      "published": "2026-11-21 11:54"
     },
     {
-      "id": "8d1c4d088190",
-      "original_title": "自作MCPサーバー その25",
-      "title": "自作MCPサーバー その25",
+      "id": "279b957f8de9",
+      "original_title": "MuseのAI秘書が忘れないメモリ設計の作り方｜3層に分けて古い決定と新しい決定の混線を防ぐ実践メモ",
+      "title": "MuseのAI秘書が忘れないメモリ設計の作り方｜3層に分けて古い決定と新しい決定の混線を防ぐ実践メモ",
       "summary": [
-        "概要 MCPサーバーが気になったので、調べてみた",
-        "音波通信をClaudeDesktopに手伝ってもらった",
-        "gnuradioは、知ってますか はい、知っています"
+        "3行まとめ AI秘書のトラブルは「忘れる」ことより、古い決定と新しい決定が混ざることで起きる メモリを「今の結論／日々の記録／手順」の3層に分けると、第1層が短く保てて混線が減る 訂正は「第1層を新しい結論だけに置き換え、経緯は日次ログに残す」をルールにする はじめ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/ohisama@github/items/d3276059beb2e7c1208a",
-      "published": "2026-11-20 11:32"
+      "link": "https://qiita.com/sakutto-panda/items/ecb0e59c0156fb499ef6",
+      "published": "2026-11-21 11:52"
     },
     {
-      "id": "e51781edd6b7",
-      "original_title": "Apple may be developing its own AI agent that runs your Mac",
-      "title": "Apple は Mac を実行する独自の AI エージェントを開発している可能性があります",
+      "id": "eb9c2c758106",
+      "original_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "title": "ダニエル・エク氏は、AI 研究者の核融合発電スタートアップを支援しています。彼らが構築しているものは次のとおりです。",
       "summary": [
-        "iPhone メーカーは、Meta Muse、Instinct、Claude、OpenAI Dots などと競合できるエージェントを構築しているようです"
+        "Spotifyの創設者ダニエル・エク氏は、AI研究者が設立した核融合発電スタートアップ、ヨーロッパ・フュージョンを支援している",
+        "スタートアップが構築しているものは次のとおりです"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "published": "2026-11-20 00:56"
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "published": "2026-11-20 19:53"
     },
     {
-      "id": "6b01c31f4194",
-      "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title": "Anthropic の 7 人の創設者は記録破りの IPO で 20 億ドル近くを現金化",
+      "id": "eebbc0d2f1f4",
+      "original_title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "title": "AIは167年前のリーマン予想の解決策を主張したが、人間も解決した",
       "summary": [
-        "アップグレードされた 1 株あたり 83 ドルの IPO 価格で、アンスロピックの 7 人の創設者はそれぞれ 2 億 8,000 万ドルを手に入れ、同社はほぼ 1,050 億ドルを手に入れました"
+        "数学者たちは、AI 主導の最新の結果に衝撃を受けています",
+        "そして、競合する人間による解決策もあります"
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "published": "2026-11-20 00:43"
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "published": "2026-11-20 19:32"
     }
   ]
 }
