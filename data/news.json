@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21 11:59",
+  "updated_at": "2026-11-22 10:55",
   "total_count": 19,
   "articles": [
     {
       "id": "8a7d3a7ad5a9",
       "original_title": "Combatting adversarial distillation",
-      "title": "敵対的な蒸留との戦い",
+      "title": "Combatting adversarial distillation",
       "summary": [
-        "OpenAI の敵対的蒸留に対する多層アプローチは、モデルのトレーニング、保護手段、検出、強制を組み合わせて、機能の抽出を防ぎます"
+        "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -18,10 +18,9 @@
     {
       "id": "0934b86a9407",
       "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "title": "Hebbia 氏は GPT-6 Astra による金融調査の改善を実感",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "summary": [
-        "ヘビアは金融研究のために GPT-6 アストラをテストしました",
-        "リリース前の評価では、出典の網羅性、引用の関連性、プレゼンテーションの品質が向上していることがわかりました"
+        "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -32,9 +31,9 @@
     {
       "id": "2fabd970f1cd",
       "original_title": "Can AI help scientists identify promising drug candidates?",
-      "title": "AI は科学者が有望な薬剤候補を特定するのに役立つでしょうか?",
+      "title": "Can AI help scientists identify promising drug candidates?",
       "summary": [
-        "MedChemBench は、AI モデルが分子構造をどの程度うまく解釈し、実験証拠から推論し、初期の創薬において化合物を選択するかを評価します"
+        "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -45,9 +44,9 @@
     {
       "id": "70501523330a",
       "original_title": "Introducing Tool Retrieval in the Gemini API",
-      "title": "Gemini API でのツール取得の導入",
+      "title": "Introducing Tool Retrieval in the Gemini API",
       "summary": [
-        "現在 Gemini API でプレビュー中の Tool Retrieval を使用すると、トークンの使用量を減らしながら、エージェントが何百ものツールにアクセスできるようになります"
+        "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -58,7 +57,7 @@
     {
       "id": "fd63c765c951",
       "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "title": "ウォルター・アイザックソンが AI 時代の好奇心と創造性について語る。",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "summary": [
         ""
       ],
@@ -71,7 +70,7 @@
     {
       "id": "071ea8924e8e",
       "original_title": "The Gemini app is now available on lower-memory Android devices.",
-      "title": "Gemini アプリは、メモリの少ない Android デバイスでも利用できるようになりました。",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
       "summary": [
         ""
       ],
@@ -84,11 +83,9 @@
     {
       "id": "5db24d1c3d79",
       "original_title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
-      "title": "AWS Quick の新機能: より高機能なフロー、最新の Web エクスペリエンス、連携するエージェント",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
       "summary": [
-        "1 人のプロセスをチームのプロセスに変え、Quick Web アプリでより多くのことを達成し、協力するエージェントからより完全な回答を得ることができます",
-        "AWS Quick は、仕事専用に構築された AI ワークスペースです",
-        "本日、チームに役立つアップデートをリリースします"
+        "Turn one person’s process into your team’s process, get more done in the Quick web app, and get more complete answers from agents working together. AWS Quick is the AI workspace built only for work. Today, we are releasing updates that help your team"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -99,10 +96,9 @@
     {
       "id": "4703eda4d3bf",
       "original_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
-      "title": "分散 KV キャッシュ エージェント スキルでセルフホスト型 LLM のコストと遅延を削減",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
       "summary": [
-        "お客様は、コスト、精度、遅延を制御するために、GPU で大規模言語モデル (LLM) をセルフホストすることが増えています",
-        "ただし、セルフホスティングでは、多くの場合、各サーバー上の独立した小さなキャッシュでは、"
+        "Customers increasingly self-host large language models (LLMs) on GPUs for control over cost, accuracy, and latency. However, self-hosting often means paying for redundant GPU work because small, isolated caches on each server can’t hold or share the"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -113,10 +109,9 @@
     {
       "id": "88f2cb60d4c6",
       "original_title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
-      "title": "Amazon SageMaker HyperPod Slurm での可観測性とユーザー管理のためのマネージドクラスター拡張機能の導入",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
       "summary": [
-        "基盤モデル開発用の共有 Slurm クラスターの同期を維持するには、ノード上で実行されている内容に合わせて、個別に維持される構成のいくつかの部分を維持する必要があります",
-        "クラスターの形状は複数の構成ファイル、そのソフトウェアに依存します"
+        "Keeping a shared Slurm cluster for foundation model development in sync entails keeping several separately maintained pieces of configuration matched to what’s running on the nodes. The cluster’s shape lives on multiple configuration files, its softw"
       ],
       "group": "official",
       "category": "AI各社公式",
@@ -125,32 +120,47 @@
       "published": "2026-11-20 23:07"
     },
     {
-      "id": "42f1fd6a1dd7",
-      "original_title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
-      "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
+      "id": "d06beb5576cd",
+      "original_title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
       "summary": [
-        "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した",
-        "AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い",
-        "AIで成果を出す企業が人員を増やすのはなぜか"
+        "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した",
+        "証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
-      "published": "2026-11-21 09:00"
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "published": "2026-11-22 08:21"
     },
     {
-      "id": "2f3092ef95e4",
-      "original_title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
-      "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+      "id": "e7027462094c",
+      "original_title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
+      "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
       "summary": [
-        "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した"
+        "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した",
+        "背景には、企業独自の判断基準に関わる課題があるようだ"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
-      "published": "2026-11-20 19:13"
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+      "published": "2026-11-22 06:00"
+    },
+    {
+      "id": "249904c35588",
+      "original_title": "インテル50周年記念のゲーミングPC、ツクモが50万円で発売",
+      "title": "インテル50周年記念のゲーミングPC、ツクモが50万円で発売",
+      "summary": [
+        "4月28日に設立50周年を迎えたインテル株式会社を記念し、ケースに特別デザインを施した数量限定のゲーミングPCがツクモネットショップで販売されている",
+        "ヤマダデンキは11月20日、TSUKUMOブランドのゲーミングPCシリーズ「G-GEAR」から、インテル株式会社設立50周年を記念したデザインのデスクトップPC「GE7J-M261BH/INTEL50」を発売した",
+        "直販価格は50万円"
+      ],
+      "group": "japan",
+      "category": "国内主要AI情報",
+      "source_name": "PC Watch (AI)",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158418.html",
+      "published": "2026-11-21 13:26"
     },
     {
       "id": "51b72b718734",
@@ -168,101 +178,90 @@
       "published": "2026-11-21 09:15"
     },
     {
-      "id": "055b999d5624",
-      "original_title": "49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品",
-      "title": "49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品",
+      "id": "cf430b1753cb",
+      "original_title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
+      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
       "summary": [
-        "ASUSは11月20日、アクションゲーム「Phantom Blade Zero」とのコラボモデルとしてゲーミングデバイス3製品の予約を開始した"
-      ],
-      "group": "japan",
-      "category": "国内主要AI情報",
-      "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2158419.html",
-      "published": "2026-11-21 09:02"
-    },
-    {
-      "id": "5d33a091d443",
-      "original_title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
-      "title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
-      "summary": [
-        "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、「地球上のどこでも通信できるようにする計画がある」と語りました",
-        "さらに、Starlink衛星からの電波が届きにくい建物内の圏外エリアを解消するために、小型の屋上設置型基地局の設計を完了したことも明かしています",
+        "プライベートメッセンジャーアプリのSignalが、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました",
+        "これはAIエージェントによる情報収集が、Signalの構築してきたプライバシー保護機能を崩してしまうためと説明されています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
-      "published": "2026-11-21 09:00"
+      "link": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
+      "published": "2026-11-22 10:30"
     },
     {
-      "id": "3be5ca3efb30",
-      "original_title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
-      "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+      "id": "ddbbd0dbafe9",
+      "original_title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
+      "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
       "summary": [
-        "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました",
+        "さまざまな背景を持つ人々がともに生活している現代社会では、多様性や公平性についての取り組みが重要となっていますが、一部の人は多様性を推進する取り組みに反対しています",
+        "新たな研究では、多様性を受け入れて社会的不平等に疑問を持つには、「幸福感」を覚えることが重要かもしれないとの結果が示されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
-      "published": "2026-11-21 08:00"
+      "link": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/",
+      "published": "2026-11-22 09:00"
     },
     {
-      "id": "f3fca52726a5",
-      "original_title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
-      "title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
+      "id": "61cde2dfd463",
+      "original_title": "2026年11月22日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "title": "2026年11月22日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
       "summary": [
-        "AI エージェントが実装をほぼ肩代わりするようになり、実装を何度作り直しても、費用はわずかで済むようになりました",
-        "開発の進め方には、ウォーターフォール、アジャイル、AWS が提唱した AI-DLC などがありますが、実装の費用が下がった今、注目を集めているのが評価駆動開発(..."
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【朗報】Microsoft 365 Copil..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/hisashi-ito/items/ea31d324ac02f3fa5e4e",
-      "published": "2026-11-21 11:54"
+      "link": "https://qiita.com/ennagara128/items/70ce7e25f1122e7d56ce",
+      "published": "2026-11-22 10:19"
     },
     {
-      "id": "279b957f8de9",
-      "original_title": "MuseのAI秘書が忘れないメモリ設計の作り方｜3層に分けて古い決定と新しい決定の混線を防ぐ実践メモ",
-      "title": "MuseのAI秘書が忘れないメモリ設計の作り方｜3層に分けて古い決定と新しい決定の混線を防ぐ実践メモ",
+      "id": "4643eca49d31",
+      "original_title": "AIに昨日の記録を探させたら57行ヒットした――1,865行の公開管理表から必要な1件だけを読む",
+      "title": "AIに昨日の記録を探させたら57行ヒットした――1,865行の公開管理表から必要な1件だけを読む",
       "summary": [
-        "3行まとめ AI秘書のトラブルは「忘れる」ことより、古い決定と新しい決定が混ざることで起きる メモリを「今の結論／日々の記録／手順」の3層に分けると、第1層が短く保てて混線が減る 訂正は「第1層を新しい結論だけに置き換え、経緯は日次ログに残す」をルールにする はじめ..."
+        "AIに昨日の記録を探させたら57行ヒットした――1,865行の公開管理表から必要な1件だけを読む 昨日、私はAIと一緒に、未解決のWARNINGをどのように記録したか確認していました",
+        "公開管理表の中から、次の言葉を探しました",
+        "未解決 未実施 WARNING Huma..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/sakutto-panda/items/ecb0e59c0156fb499ef6",
-      "published": "2026-11-21 11:52"
+      "link": "https://qiita.com/boraemon2000/items/df2ee7a166f80d064b52",
+      "published": "2026-11-22 09:46"
     },
     {
-      "id": "eb9c2c758106",
-      "original_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "title": "ダニエル・エク氏は、AI 研究者の核融合発電スタートアップを支援しています。彼らが構築しているものは次のとおりです。",
+      "id": "8db64daf13a9",
+      "original_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "summary": [
-        "Spotifyの創設者ダニエル・エク氏は、AI研究者が設立した核融合発電スタートアップ、ヨーロッパ・フュージョンを支援している",
-        "スタートアップが構築しているものは次のとおりです"
+        "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "published": "2026-11-20 19:53"
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "published": "2026-11-21 21:37"
     },
     {
-      "id": "eebbc0d2f1f4",
-      "original_title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "title": "AIは167年前のリーマン予想の解決策を主張したが、人間も解決した",
+      "id": "07ecc733017e",
+      "original_title": "A tale of two Nvidias",
+      "title": "A tale of two Nvidias",
       "summary": [
-        "数学者たちは、AI 主導の最新の結果に衝撃を受けています",
-        "そして、競合する人間による解決策もあります"
+        "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "published": "2026-11-20 19:32"
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "published": "2026-11-21 21:07"
     }
   ]
 }
