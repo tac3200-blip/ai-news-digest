@@ -1,45 +1,58 @@
 {
-  "updated_at": "2026-11-23 11:17",
+  "updated_at": "2026-11-24 14:45",
   "total_count": 19,
   "articles": [
     {
-      "id": "43081b80c55a",
-      "original_title": "Perplexity and Intelligence",
-      "title": "Perplexity and Intelligence",
+      "id": "cc782cbd53c8",
+      "original_title": "OpenAI and Cisco introduce Shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
       "summary": [
-        "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+        "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "published": "2026-11-22 00:00"
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23 21:20"
     },
     {
-      "id": "8a7d3a7ad5a9",
-      "original_title": "Combatting adversarial distillation",
-      "title": "Combatting adversarial distillation",
+      "id": "155bc1d8a453",
+      "original_title": "Connected intelligence for in-house legal",
+      "title": "Connected intelligence for in-house legal",
       "summary": [
-        "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+        "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "published": "2026-11-20 10:00"
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23 08:00"
     },
     {
-      "id": "0934b86a9407",
-      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "id": "2351e69d6723",
+      "original_title": "Richpanel helps companies automate 50% of support in 30 days",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
       "summary": [
-        "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+        "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
       ],
       "group": "official",
       "category": "AI各社公式",
       "source_name": "OpenAI (公式)",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "published": "2026-11-20 00:00"
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23 08:00"
+    },
+    {
+      "id": "f73bfab3e7f0",
+      "original_title": "A more tailored Google Search that’s uniquely yours",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "summary": [
+        "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+      ],
+      "group": "official",
+      "category": "AI各社公式",
+      "source_name": "Google AI (公式)",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "published": "2026-11-23 17:00"
     },
     {
       "id": "70501523330a",
@@ -68,17 +81,17 @@
       "published": "2026-11-19 17:00"
     },
     {
-      "id": "071ea8924e8e",
-      "original_title": "The Gemini app is now available on lower-memory Android devices.",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "id": "9803951af75b",
+      "original_title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
       "summary": [
-        ""
+        "Today we are announcing the general availability of the trusted access program API on Amazon Bedrock . The API gives you one place to discover, request, and enroll in model provider trusted access programs. We are also announcing the public preview o"
       ],
       "group": "official",
       "category": "AI各社公式",
-      "source_name": "Google AI (公式)",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "published": "2026-11-18 17:00"
+      "source_name": "AWS AI (公式)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "published": "2026-11-24 05:01"
     },
     {
       "id": "d37d27df3ac0",
@@ -107,161 +120,146 @@
       "published": "2026-11-21 01:06"
     },
     {
-      "id": "4703eda4d3bf",
-      "original_title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
-      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "id": "34a8e564b873",
+      "original_title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
+      "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
       "summary": [
-        "Customers increasingly self-host large language models (LLMs) on GPUs for control over cost, accuracy, and latency. However, self-hosting often means paying for redundant GPU work because small, isolated caches on each server can’t hold or share the"
-      ],
-      "group": "official",
-      "category": "AI各社公式",
-      "source_name": "AWS AI (公式)",
-      "link": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
-      "published": "2026-11-21 00:14"
-    },
-    {
-      "id": "3893578661fc",
-      "original_title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
-      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
-      "summary": [
-        "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した",
-        "GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている"
+        "AI時代の業務システムは、どのような姿になるのか",
+        "人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か",
+        "サイボウズ「kintone」の進化を見ながら考察する"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
-      "published": "2026-11-23 07:49"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
+      "published": "2026-11-24 13:20"
     },
     {
-      "id": "9721f5a66704",
-      "original_title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
-      "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+      "id": "575542bac6bf",
+      "original_title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
+      "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
       "summary": [
-        "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された",
-        "AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された"
+        "DeNAは、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」の提供を決定したと発表した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
-      "published": "2026-11-23 06:00"
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
+      "published": "2026-11-24 12:26"
     },
     {
-      "id": "249904c35588",
-      "original_title": "インテル50周年記念のゲーミングPC、ツクモが50万円で発売",
-      "title": "インテル50周年記念のゲーミングPC、ツクモが50万円で発売",
+      "id": "c13d5e29369f",
+      "original_title": "StrataとMayaがInkling 2 Miniに対応。26.4BのMoEモデル",
+      "title": "StrataとMayaがInkling 2 Miniに対応。26.4BのMoEモデル",
       "summary": [
-        "4月28日に設立50周年を迎えたインテル株式会社を記念し、ケースに特別デザインを施した数量限定のゲーミングPCがツクモネットショップで販売されている",
-        "ヤマダデンキは11月20日、TSUKUMOブランドのゲーミングPCシリーズ「G-GEAR」から、インテル株式会社設立50周年を記念したデザインのデスクトップPC「GE7J-M261BH/INTEL50」を発売した",
-        "直販価格は50万円"
+        "メインメモリ、VRAM、ストレージを組み合わせることで、ゲーミングPCなどでも大型AIモデルを実用的に動作させられるツール「Strata」および「Maya」が、パラメータ数26.4B(264億)のMoE(Mixture-of-Experts)モデル「Inkling 2 Mini」を11月22日のアップデートで新たにサポートした"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2158418.html",
-      "published": "2026-11-21 13:26"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158660.html",
+      "published": "2026-11-24 12:43"
     },
     {
-      "id": "51b72b718734",
-      "original_title": "クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機",
-      "title": "クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機",
+      "id": "5fc8435f8440",
+      "original_title": "【本日みつけたお買い得品】スタバブランドの缶コーヒーセットがAmazonセールで1,783円引き！",
+      "title": "【本日みつけたお買い得品】スタバブランドの缶コーヒーセットがAmazonセールで1,783円引き！",
       "summary": [
-        "ゲーミング向けパーツブランド「AORUS」の製品で主要パーツをそろえた完成品のゲーミングPCが登場した",
-        "GIGABYTEが11月20日に発売した、Ryzen 5 9500FとGeForce RTX 5060 Tiを搭載するデスクトップPC「AORUS PRIME 3 AP3A5N6T-5103P」だ",
-        "実売予想価格は41万1,000円前後"
+        "Amazonにおいて、コーヒーチェーン店「スターバックス」のキャラメルラテをサントリーが商品化した「サントリー スターバックス MY COFFEE TIME キャラメルラテ コーヒー 185g×30本」が、直近価格の1,783円引きとなる3,645円で販売されている",
+        "1本あたりの価格は約122円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2158420.html",
-      "published": "2026-11-21 09:15"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2158659.html",
+      "published": "2026-11-24 12:19"
     },
     {
-      "id": "40e59ce6a207",
-      "original_title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
-      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+      "id": "6028218f96b3",
+      "original_title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
+      "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
       "summary": [
-        "ニューヨーク市議会では、配送業務の委託を阻止する「配送保護法」が審議中です",
-        "これはAmazonの配送サービスパートナー(DSP)プログラムを解体するためのものであるとして、Amazonは同法案に反対の立場を示しています",
-        "新たに、Amazonは配送保護法に反対するために、配送物に「ニューヨーク市議会は注文ごとに最大5ドル(約790円)の追加料金を課す可能性があります」というラベルを貼り始めた事が明らかになりました"
+        "Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています",
+        "こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です",
+        "そんなLadybirdのアルファ版がついに登場しました"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
-      "published": "2026-11-23 10:00"
+      "link": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
+      "published": "2026-11-24 14:00"
     },
     {
-      "id": "1ecd7b248d51",
-      "original_title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
-      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "id": "323128534611",
+      "original_title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
+      "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
       "summary": [
-        "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました",
-        "同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています",
-        "続きを読む..."
+        "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました",
+        "しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするためのスキルが必要です",
+        "そんなAI時代に役立つスキルを効率的に学べるのが、動画形式の講座を受講できるオンライン学習プラットフォームの「Udemy(ユーデミー)」です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
-      "published": "2026-11-23 09:00"
+      "link": "https://gigazine.net/news/20261124-udemy/",
+      "published": "2026-11-24 09:00"
     },
     {
-      "id": "e8bcbc22da60",
-      "original_title": "AIには、分かったふりをしなくていい ― 何度聞き直しても嫌な顔をされない相手との付き合い方",
-      "title": "AIには、分かったふりをしなくていい ― 何度聞き直しても嫌な顔をされない相手との付き合い方",
+      "id": "f60964c3525e",
+      "original_title": "【保存版】OpenAIの利用が1年で60倍に。AIエージェントを「24時間落ちない常駐型」にするTemporal入門",
+      "title": "【保存版】OpenAIの利用が1年で60倍に。AIエージェントを「24時間落ちない常駐型」にするTemporal入門",
       "summary": [
-        "はじめに 前回は、AIに頼むことは人に仕事を任せることと同じだ、という頼み方の話を書きました",
-        "今回は、答えが返ってきた後の話です",
-        "AIに何かを頼んで、返ってきた答えがよく分からなかったとき、もう一度聞き直すのをためらったことはないでしょうか"
+        "あなたのAIエージェント、プロセスが落ちたら「何をやっていたか」覚えていますか",
+        "デモのエージェントは、午後1日あれば作れます",
+        "でも、何時間も何日も動き続けるエージェントは話が別です"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/delta_net/items/16eacf2061648c2fee3f",
-      "published": "2026-11-23 11:11"
+      "link": "https://qiita.com/emi_ndk/items/09e7a8a0c34c0c7b5b1a",
+      "published": "2026-11-24 14:41"
     },
     {
-      "id": "cfd822fa24ce",
-      "original_title": "Issue にラベルを付けて AI に仕事を渡す仕組み agent-dispatch を作った",
-      "title": "Issue にラベルを付けて AI に仕事を渡す仕組み agent-dispatch を作った",
+      "id": "9dbb1f7a01e1",
+      "original_title": "New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する",
+      "title": "New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する",
       "summary": [
-        "GitHub と Gitea の Issue にラベルを付けると、AI が仕様を書き、実装し、PR を作ってレビューまで進める仕組みを作りました",
-        "名前は agent-dispatch です",
-        "LT で話した内容に、発表では省いた理由とコードの該当箇所を足して記事にしました"
+        "「数日後の会議までに、アプリの応答時間やエラー、動画の変換状況をまとめてほしい」",
+        "ほかの作業で手いっぱいのときに、こんな依頼が来たらどうでしょうか",
+        "Coding Agentを使えば簡単にできそうですが、送信済みのカスタム属性やNRQLの細かな仕様まで踏まえて作ってもらうに..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/shotayagami/items/1fce6273b665bd7258e8",
-      "published": "2026-11-23 11:11"
+      "link": "https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b",
+      "published": "2026-11-24 14:07"
     },
     {
-      "id": "4fdb59fecab4",
-      "original_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "id": "6f1da7db947a",
+      "original_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": [
-        "Three significant backers share what gave them conviction to bet billions on Anthropic."
+        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "published": "2026-11-23 01:25"
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "published": "2026-11-23 22:05"
     },
     {
-      "id": "78f8c86b851c",
-      "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "id": "1d51cb53eac8",
+      "original_title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "summary": [
-        "To establish a speed limit on AI development, you need to agree on how to measure speed."
+        "Think you know where the market is headed",
+        "A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "published": "2026-11-22 21:14"
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "published": "2026-11-23 22:02"
     }
   ]
 }
