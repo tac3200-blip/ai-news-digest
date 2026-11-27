@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 12:58",
+  "updated_at": "2026-11-27 12:56",
   "total_count": 19,
   "articles": [
     {
@@ -120,146 +120,145 @@
       "published": "2026-11-21 01:06"
     },
     {
-      "id": "6abca3859842",
-      "original_title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
-      "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+      "id": "d266bac97a75",
+      "original_title": "AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
+      "title": "AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
       "summary": [
-        "検索から予約、決済まで自律的にこなす「AIエージェント」の普及で、旅行会社の存在意義が問われている",
-        "日本旅行業協会（JATA）主催のシンポジウムに旅行・食・IT・大手旅行会社のプロ4人が登壇",
-        "「おいしい」を味わう感覚や、顧客の言葉の裏にある本音までは読み取れないAIの限界を指摘し、AIによる業務効率化で生み出した時間を「信頼関係」や現場の感動体験に振り向ける共創の生存戦略を議論した"
+        "ある調査によると、今後重要性が高まるリスクとして「AI・生成AI」を挙げた回答は半数を超えた",
+        "一方、AIのリスクに関する内部監査を「すでに実施」を選んだ回答者は5.7％にとどまる",
+        "同調査からは、内部監査が追い切れていない、AI以外の領域も浮かび上がった"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
-      "published": "2026-11-26 12:00"
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+      "published": "2026-11-27 10:50"
     },
     {
-      "id": "09c5a52140de",
-      "original_title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+      "id": "c7e7d40eab01",
+      "original_title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
+      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
       "summary": [
-        "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える"
+        "生成AIを導入しても、現場の業務に生かせないと成果にはつながらない",
+        "電通は約3000人を対象に、「Gemini Enterprise」を使いこなし、現場での生成AI活用を推進できる人材の育成を始めた",
+        "人材をどう育てるのか"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "ITmedia AI+",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "published": "2026-11-26 12:00"
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "published": "2026-11-27 09:45"
     },
     {
-      "id": "732757f86469",
-      "original_title": "1Password、社員GitHub乗っ取りで顧客情報の一部漏洩",
-      "title": "1Password、社員GitHub乗っ取りで顧客情報の一部漏洩",
+      "id": "280590f462c8",
+      "original_title": "【本日みつけたお買い得品】1本75円で赤色コカ・コーラがオトク！ブラックフライデー先行セール",
+      "title": "【本日みつけたお買い得品】1本75円で赤色コカ・コーラがオトク！ブラックフライデー先行セール",
       "summary": [
-        "1Passwordは11月25日(米国時間)、11月19日から調査していたセキュリティインシデントの経過を公表した",
-        "攻撃者は社員の業務用GitHubアカウントを乗っ取り、バックエンドサービスに悪意のあるコードを仕込み、一部顧客の管理用データを取得した",
-        "プライベートリポジトリからソースコードがコピーされたほか、CI/CDシステムへの侵入もあった"
+        "Amazonでは、11月30日から12月7日までブラックフライデーセールが開催予定だが、現在はその先行セールが行われている",
+        "このセールにおいて、コカ・コーラの「コカ・コーラ 500mlPET×24本」が、直近価格の567円引きとなる1,797円で販売されている",
+        "1本あたりの価格は約75円"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2159390.html",
-      "published": "2026-11-26 11:14"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159901.html",
+      "published": "2026-11-27 12:49"
     },
     {
-      "id": "5acf19bfc4f9",
-      "original_title": "LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用",
-      "title": "LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用",
+      "id": "bdba8d537e67",
+      "original_title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
+      "title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
       "summary": [
-        "LLMを動かすだけならOSの余計な機能は不要――それは理にかなっていて、実際に速かった",
-        "Alexey Fateev氏(GitHubハンドル名: alesha-pro)は11月26日(日本時間)、LLM専用OS「asm-llm-os.elf」をX(旧Twitter)で発表した",
-        "PCを起動するとそのまま「Qwen3-0.6B」とチャットできる"
+        "音声AIに「うん」と返したのに無視された、という経験がある人は多いかもしれない",
+        "株式会社ディー・エヌ・エー(DeNA)は11月26日、音声対話向けに追加学習した日本語音声認識(ASR)モデル3種のオープンウェイト(モデルの重み)を、Hugging Faceで無償公開した"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2159364.html",
-      "published": "2026-11-26 11:00"
+      "link": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
+      "published": "2026-11-27 12:46"
     },
     {
-      "id": "e5112d16afe1",
-      "original_title": "曲げたり引っ張ったりすればするほど強度を増す素材が開発される",
-      "title": "曲げたり引っ張ったりすればするほど強度を増す素材が開発される",
+      "id": "c0f224576c4e",
+      "original_title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
       "summary": [
-        "力がかかる部分だけが硬くなり、劣化せず強度を増していく素材がワシントン大学の研究者により開発されました",
+        "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261126-get-stronger-polymer/",
-      "published": "2026-11-26 12:30"
+      "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+      "published": "2026-11-27 12:40"
     },
     {
-      "id": "25d29aef9180",
-      "original_title": "SNKのアーケードゲーム「メタルスラッグ」の実写化企画が進行中",
-      "title": "SNKのアーケードゲーム「メタルスラッグ」の実写化企画が進行中",
+      "id": "3d7955081092",
+      "original_title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
       "summary": [
-        "SNKが1996年に第1作を発売した横スクロール型のアクションシューティングアーケードゲーム「メタルスラッグ」の実写化企画が進行中であると報じられました",
+        "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261126-metal-slug-movie/",
-      "published": "2026-11-26 12:25"
+      "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
+      "published": "2026-11-27 12:35"
     },
     {
-      "id": "fffeeecd19ab",
-      "original_title": "【Windows版】claude-memプラグインのインストールから起動テストまで完全ガイド",
-      "title": "【Windows版】claude-memプラグインのインストールから起動テストまで完全ガイド",
+      "id": "c15170404965",
+      "original_title": "ミニPC（Ollama＋Dify）だけでWebアプリのAI自動テスト環境を作った話 〜ブラウザ操作・画面崩れ診断・修正プロンプト生成まで〜",
+      "title": "ミニPC（Ollama＋Dify）だけでWebアプリのAI自動テスト環境を作った話 〜ブラウザ操作・画面崩れ診断・修正プロンプト生成まで〜",
       "summary": [
-        "この記事は、筆者が Zennに投稿した記事 の転載です",
-        "はじめに Claude Codeのセッション履歴を永続化・検索できるプラグイン「claude-mem」をWindows環境にインストールし、正常に動作するかテストした手順をまとめました",
-        "元記事の手順ではW..."
+        "はじめに Webアプリを開発していると、機能追加やリファクタリングのたびに発生する「動作確認」や「画面崩れチェック」が地味に大変です",
+        "クラウドAI（OpenAIやClaudeなど）のAPIを使ってテストを自動化する方法もありますが、以下の悩みがありました",
+        "API料..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/goyle/items/82e0267ddf8128128f1d",
-      "published": "2026-11-26 12:50"
+      "link": "https://qiita.com/youx2moon/items/220dcb60023e3ae48b98",
+      "published": "2026-11-27 12:52"
     },
     {
-      "id": "5c05c17b290b",
-      "original_title": "紙にコードを書いていた私が、コードを書かなくなった話",
-      "title": "紙にコードを書いていた私が、コードを書かなくなった話",
+      "id": "4f0525cff750",
+      "original_title": "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula, Native Dialogue Sync & 20-Reference Control",
+      "title": "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula, Native Dialogue Sync & 20-Reference Control",
       "summary": [
-        "はじめに もうすぐ、2026年が終わりますね",
-        "私がITを学び始めてから、もうすぐ15年になります",
-        "仕事として開発に関わるようになってからは、9年ほどです"
+        "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula for Developers This guide covers the core technique for crafting high-precision ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/nguyen_thi_thu_trang/items/99e1550e708ee03ae843",
-      "published": "2026-11-26 12:43"
+      "link": "https://qiita.com/mryangsd/items/ffe331b34f0eb8fd44c1",
+      "published": "2026-11-27 12:52"
     },
     {
-      "id": "158dd67542e3",
-      "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "id": "5b9573a84515",
+      "original_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "summary": [
-        "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "published": "2026-11-25 22:44"
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-26 20:03"
     },
     {
-      "id": "6bff9dc497e1",
-      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "id": "70e544be5f02",
+      "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": [
-        "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+        "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
       ],
       "group": "overseas",
       "category": "海外・3大AI情報",
       "source_name": "TechCrunch AI",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "published": "2026-11-25 20:03"
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published": "2026-11-26 16:00"
     }
   ]
 }
