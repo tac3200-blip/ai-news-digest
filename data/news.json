@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:56",
+  "updated_at": "2026-11-28 12:43",
   "total_count": 19,
   "articles": [
     {
@@ -150,89 +150,93 @@
       "published": "2026-11-27 09:45"
     },
     {
-      "id": "280590f462c8",
-      "original_title": "【本日みつけたお買い得品】1本75円で赤色コカ・コーラがオトク！ブラックフライデー先行セール",
-      "title": "【本日みつけたお買い得品】1本75円で赤色コカ・コーラがオトク！ブラックフライデー先行セール",
+      "id": "14e95cc5f7e4",
+      "original_title": "【本日みつけたお買い得品】ASUSノートが6万9,800円！Amazonブラックフライデーの3万円引きで",
+      "title": "【本日みつけたお買い得品】ASUSノートが6万9,800円！Amazonブラックフライデーの3万円引きで",
       "summary": [
-        "Amazonでは、11月30日から12月7日までブラックフライデーセールが開催予定だが、現在はその先行セールが行われている",
-        "このセールにおいて、コカ・コーラの「コカ・コーラ 500mlPET×24本」が、直近価格の567円引きとなる1,797円で販売されている",
-        "1本あたりの価格は約75円"
+        "Amazonは11月27日から29日にかけて、ブラックフライデー先行セールを実施中だ",
+        "14型ノートPCのASUS「Vivobook 14 X1404VA」は、直近価格からの3万円引きで、6万9,800円にて購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159901.html",
-      "published": "2026-11-27 12:49"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160197.html",
+      "published": "2026-11-28 12:21"
     },
     {
-      "id": "bdba8d537e67",
-      "original_title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
-      "title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
+      "id": "487b023041a0",
+      "original_title": "【本日みつけたお買い得品】ASUSの31.5型4Kモニターが6千円引き！ブラックフライデー先行セール",
+      "title": "【本日みつけたお買い得品】ASUSの31.5型4Kモニターが6千円引き！ブラックフライデー先行セール",
       "summary": [
-        "音声AIに「うん」と返したのに無視された、という経験がある人は多いかもしれない",
-        "株式会社ディー・エヌ・エー(DeNA)は11月26日、音声対話向けに追加学習した日本語音声認識(ASR)モデル3種のオープンウェイト(モデルの重み)を、Hugging Faceで無償公開した"
+        "Amazonにてブラックフライデー先行セールが開催中",
+        "ASUSが展開するブルーライト軽減機能を搭載したEye Careモニターがセール価格で販売されている",
+        "31.5型の「VP327Q」は直近価格から6,000円引きの3万1,980円で購入できる"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "PC Watch (AI)",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
-      "published": "2026-11-27 12:46"
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160193.html",
+      "published": "2026-11-28 12:05"
     },
     {
-      "id": "c0f224576c4e",
-      "original_title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
-      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "id": "beebee4e4128",
+      "original_title": "リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果",
+      "title": "リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果",
       "summary": [
-        "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました",
+        "リモートワークをすると朝晩の通勤やオフィスビル内の移動がなくなるため、オフィスに出勤する時より仕事がはかどるという人もいるはず",
+        "その一方で、リモートワークによって日々の運動時間が大きく減ってしまう可能性があるとの研究結果が発表されました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
-      "published": "2026-11-27 12:40"
+      "link": "https://gigazine.net/news/20261128-remote-work-costs-21-minutes-exercise/",
+      "published": "2026-11-28 12:00"
     },
     {
-      "id": "3d7955081092",
-      "original_title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
-      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "id": "5ce097672550",
+      "original_title": "AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める",
+      "title": "AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める",
       "summary": [
-        "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています",
+        "11月11日は中国では独身の日として知られており、現在は世界最大級のネット通販セールイベントとして広まっています",
+        "そんな独身の日に、中国ではAppleのiPhoneがよく売れたことが調査企業Counterpoint Researchの調査で明らかになりました",
         "続きを読む..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "GIGAZINE",
-      "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
-      "published": "2026-11-27 12:35"
+      "link": "https://gigazine.net/news/20261128-china-double-11-iphone-domination/",
+      "published": "2026-11-28 10:35"
     },
     {
-      "id": "c15170404965",
-      "original_title": "ミニPC（Ollama＋Dify）だけでWebアプリのAI自動テスト環境を作った話 〜ブラウザ操作・画面崩れ診断・修正プロンプト生成まで〜",
-      "title": "ミニPC（Ollama＋Dify）だけでWebアプリのAI自動テスト環境を作った話 〜ブラウザ操作・画面崩れ診断・修正プロンプト生成まで〜",
+      "id": "1762718bf43b",
+      "original_title": "引継ぎメモをAIに整理させるとき、先に決めておくのは「読む人の日付」",
+      "title": "引継ぎメモをAIに整理させるとき、先に決めておくのは「読む人の日付」",
       "summary": [
-        "はじめに Webアプリを開発していると、機能追加やリファクタリングのたびに発生する「動作確認」や「画面崩れチェック」が地味に大変です",
-        "クラウドAI（OpenAIやClaudeなど）のAPIを使ってテストを自動化する方法もありますが、以下の悩みがありました",
-        "API料..."
+        "11月の終わりから12月は、人事異動と引き継ぎが重なる時期です",
+        "今回は、引継ぎメモをAIに整理させる前提として、最初に決めておくべき「読む人の日付」の話です",
+        "開発者向けではなく、事務・管理の業務目線のメモです"
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/youx2moon/items/220dcb60023e3ae48b98",
-      "published": "2026-11-27 12:52"
+      "link": "https://qiita.com/satoshimizuhara/items/61e974ff4cb771243990",
+      "published": "2026-11-28 12:40"
     },
     {
-      "id": "4f0525cff750",
-      "original_title": "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula, Native Dialogue Sync & 20-Reference Control",
-      "title": "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula, Native Dialogue Sync & 20-Reference Control",
+      "id": "a767b5dbb2ec",
+      "original_title": "生成AIの回答を実務で使う前に確認したい5つのこと",
+      "title": "生成AIの回答を実務で使う前に確認したい5つのこと",
       "summary": [
-        "MAGI-2 Prompt Engineering Guide: Five-Part Shot Formula for Developers This guide covers the core technique for crafting high-precision ..."
+        "生成AIの回答を実務で使う前に確認したい5つのこと はじめに 生成AIの回答は、そのまま使える形で返ってくることがあります",
+        "文章は整い、箇条書きもそろい、一見すると完成品に見えます",
+        "ところが、実際に会議で説明したり、資料として提出したり、コードや文章を業務へ組み込んだ..."
       ],
       "group": "japan",
       "category": "国内主要AI情報",
       "source_name": "Qiita AIトレンド",
-      "link": "https://qiita.com/mryangsd/items/ffe331b34f0eb8fd44c1",
-      "published": "2026-11-27 12:52"
+      "link": "https://qiita.com/daisosha/items/5acc40d455fb0f6efb09",
+      "published": "2026-11-28 12:39"
     },
     {
       "id": "5b9573a84515",
